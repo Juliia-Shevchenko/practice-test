@@ -197,6 +197,7 @@
             "Bundles of thick and thin filaments",
             "Bundles of smooth muscle cells"
         ],
-        "answer": 0
+        "answer": 1,
+		"explaination": "Should be "Bundles of muscle fibers""
     }
 ]
