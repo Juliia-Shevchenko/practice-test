@@ -129,8 +129,8 @@
 			"It is positively deflected.",
 			"It changes from beat to beat."
 		],
-		"answer": 1,
-		"explanation": "In MAT there are at least three different P-wave shapes in the same lead, indicating multiple atrial foci."
+		"answer": 3,
+		"explanation": "In MAT there are at least three different P-wave shapes in the same lead, indicating multiple atrial foci and a P wave changes from beat to beat with heart rate from 101 to 150 bpm."
 	},
 	{
 		"prompt": "What is the rate of multifocal atrial tachycardia (MAT)?",
