@@ -88,15 +88,16 @@
 		"explanation": "WAP is also associated with organic heart disease and drug toxicity such as digitalis."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/WAP.jpg",
 		"choices": [
 			"Premature atrial complexes",
 			"Wandering atrial pacemaker",
 			"Multifocal atrial tachycardia",
 			"Atrial flutter"
 		],
-		"answer": 0,
-		"explanation": "In the original test this strip shows early atrial beats with otherwise normal complexes, consistent with premature atrial complexes (PACs)."
+		"answer": 1,
+		"explanation": ""
 	},
 	{
 		"prompt": "Multifocal atrial tachycardia (MAT) is sometimes confused with which of the following dysrhythmias?",
@@ -154,7 +155,8 @@
 		"explanation": "MAT is strongly associated with COPD and acute exacerbations such as emphysema attacks."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/MAT.jpg",
 		"choices": [
 			"Wandering atrial pacemaker (WAP)",
 			"Atrial flutter",
@@ -162,7 +164,7 @@
 			"Multifocal atrial tachycardia (MAT)"
 		],
 		"answer": 3,
-		"explanation": "In the source exam, this strip shows a rapid rate with multiple P-wave morphologies, consistent with MAT."
+		"explanation": ""
 	},
 	{
 		"prompt": "Which atrial dysrhythmia has capital F waves and a classic sawtooth or picket fence appearance?",
@@ -187,7 +189,8 @@
 		"explanation": "Atrial flutter typically has an atrial rate of 250–350 bpm."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/A Fib.jpg",
 		"choices": [
 			"Atrial fibrillation",
 			"Atrial flutter",
@@ -195,7 +198,7 @@
 			"Wandering atrial pacemaker"
 		],
 		"answer": 0,
-		"explanation": "This strip demonstrates an irregularly irregular rhythm with no distinct P waves, consistent with atrial fibrillation."
+		"explanation": ""
 	},
 	{
 		"prompt": "What treatment is usually attempted for patients with atrial fibrillation?",
@@ -275,15 +278,16 @@
 		"explanation": "The key difference is rate: accelerated junctional is faster than junctional escape but slower than junctional tachycardia."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/SVT.jpg",
 		"choices": [
 			"Atrial fibrillation",
 			"Atrial flutter",
 			"Junctional tachycardia",
 			"SVT"
 		],
-		"answer": 2,
-		"explanation": "The rhythm strip in the original test shows a rapid junctional rhythm consistent with junctional tachycardia."
+		"answer": 3,
+		"explanation": ""
 	},
 	{
 		"prompt": "Wolff-Parkinson-White syndrome is an example of which type of dysrhythmia?",
@@ -298,14 +302,15 @@
 	},
 	{
 		"prompt": "You have performed an ECG on a hospital patient. A portion of the ECG tracing is shown. What signs and symptoms would you expect this patient to have?",
+		"image": "images/ECG/rhythms/No Symptoms.jpg",
 		"choices": [
 			"Hypotension and confusion",
 			"Pressure and pain in the chest",
 			"Difficulty breathing",
 			"No obvious symptoms"
 		],
-		"answer": 0,
-		"explanation": "The rhythm strip on the test shows a serious dysrhythmia likely to reduce cardiac output, leading to hypotension and confusion."
+		"answer": 3,
+		"explanation": ""
 	},
 	{
 		"prompt": "What causes a heart block dysrhythmia?",
@@ -330,15 +335,16 @@
 		"explanation": "First-degree AV block has a consistently prolonged PR interval (>0.20 sec) for every conducted beat."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/Secon Degree AV Block Type I.jpg",
 		"choices": [
 			"First-degree heart block",
 			"Second-degree AV block, Mobitz type I",
 			"Second-degree AV block, Mobitz type II",
 			"Third-degree AV block"
 		],
-		"answer": 0,
-		"explanation": "The ECG in the test shows prolonged but constant PR intervals, consistent with first-degree heart block."
+		"answer": 1,
+		"explanation": ""
 	},
 	{
 		"prompt": "Which of the following rhythms has a constant PR interval for all conducted beats?",
@@ -385,7 +391,8 @@
 		"explanation": "AV dissociation refers to a lack of relationship between atrial and ventricular activity, as in complete heart block."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/Third Degree AV Block.jpg",
 		"choices": [
 			"First-degree heart block",
 			"Second-degree AV block, Mobitz type I",
@@ -393,7 +400,7 @@
 			"Third-degree AV block"
 		],
 		"answer": 3,
-		"explanation": "The ECG strip in the exam shows independent atrial and ventricular activity consistent with third-degree AV block."
+		"explanation": ""
 	},
 	{
 		"prompt": "In third-degree AV block, if the impulse causing ventricular depolarization is coming from the AV junction, what will the heart rate be?",
@@ -528,7 +535,8 @@
 		"explanation": "Agonal rhythm occurs when all higher pacemaker sites have failed and the heart is near death."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/Agonal Rhythm.jpg",
 		"choices": [
 			"Accelerated idioventricular rhythm",
 			"Sinus bradycardia",
@@ -536,7 +544,7 @@
 			"Asystole"
 		],
 		"answer": 2,
-		"explanation": "The strip shows very slow, wide, irregular complexes consistent with an agonal rhythm."
+		"explanation": ""
 	},
 	{
 		"prompt": "Which ventricular dysrhythmia has a heart rate between 20 and 40 bpm?",
@@ -572,7 +580,8 @@
 		"explanation": "Accelerated idioventricular rhythm typically has a rate between 40 and 100 bpm."
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/Accelerated Idioventricular Rhythm.jpg",
 		"choices": [
 			"Idioventricular rhythm",
 			"Agonal rhythm",
@@ -580,10 +589,11 @@
 			"Ventricular fibrillation"
 		],
 		"answer": 2,
-		"explanation": "The ECG on the test shows a wide-complex rhythm with a rate around 40–100 bpm, consistent with accelerated idioventricular rhythm."
+		"explanation": ""
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/Ventricular Tachycardia.jpg",
 		"choices": [
 			"SVT",
 			"Ventricular tachycardia",
@@ -591,10 +601,11 @@
 			"Accelerated idioventricular rhythm"
 		],
 		"answer": 1,
-		"explanation": "This strip demonstrates wide, rapid, regular complexes typical of ventricular tachycardia."
+		"explanation": ""
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/V Fib.jpg",
 		"choices": [
 			"Ventricular tachycardia",
 			"Ventricular fibrillation",
@@ -602,10 +613,11 @@
 			"SVT"
 		],
 		"answer": 1,
-		"explanation": "The strip in the exam shows chaotic, disorganized waves without identifiable QRS complexes, consistent with ventricular fibrillation."
+		"explanation": ""
 	},
 	{
-		"prompt": "Identify the rhythm (image not shown).",
+		"prompt": "Identify the rhythm.",
+		"image": "images/ECG/rhythms/Asystole.jpg",
 		"choices": [
 			"Asystole",
 			"Agonal",
@@ -613,7 +625,7 @@
 			"Sinus bradycardia"
 		],
 		"answer": 0,
-		"explanation": "Asystole appears as a flat line or nearly flat line with no discernible electrical activity."
+		"explanation": ""
 	},
 	{
 		"prompt": "To rule out fine ventricular fibrillation, asystole must be confirmed in at least how many leads?",

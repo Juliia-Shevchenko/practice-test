@@ -16,6 +16,12 @@ QUESTIONS_ROOT = BASE_DIR / "questions"  # expects questions/<subject>/*.json
 # Optional upload (overrides built-ins if provided)
 # uploaded = st.file_uploader("Upload a questions JSON (optional)", type=["json"])
 
+# ---------- Paths ----------
+BASE_DIR = Path(__file__).parent
+QUESTIONS_ROOT = BASE_DIR / "questions"  # expects questions/<subject>/*.json
+IMAGES_ROOT = BASE_DIR  # or BASE_DIR / "images" if you prefer a dedicated folder
+
+
 # ---------- Helpers ----------
 def read_json(path: Path):
     """Read JSON list of questions from disk."""
@@ -236,6 +242,15 @@ else:
     if not st.session_state.done and i < n:
         q = qs[i]
         st.subheader(q.get("prompt", ""))
+    # Show rhythm/image if provided
+        img_rel = q.get("image")
+        if img_rel:
+            img_path = IMAGES_ROOT / img_rel
+            if img_path.exists():
+                st.image(str(img_path), caption="Rhythm strip", use_container_width=True)
+            else:
+                st.warning(f"Image not found: {img_rel}")
+
 
         answer_widget_value = None
         is_mcq = bool(q.get("choices"))
