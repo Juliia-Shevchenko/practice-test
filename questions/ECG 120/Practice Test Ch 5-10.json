@@ -1,1098 +1,662 @@
 [
 	{
-		"prompt": "A flow or discharge of watery stool through the body is",
+		"prompt": "What medical conditions place pressure on the atria, causing atrial dysrhythmias to occur?",
 		"choices": [
-			"hemorrhage",
-			"diarrhea",
-			"hyperemesis",
-			"menorrhea"
+			"Renal conditions, hypertension, thrombus",
+			"Myocardial infarction, valvular problems, neurological influences",
+			"Cerebrovascular accident, pulmonary embolism, neurological influences",
+			"Valvular problems, palpitations, angina"
 		],
 		"answer": 1,
-		"explanation": "Watery stool is diarrhea. Hemorrhage is bleeding, hyperemesis is excessive vomiting, and menorrhea is menstrual flow."
+		"explanation": "Atrial dysrhythmias commonly result from conditions that increase pressure or irritability in the atria such as myocardial infarction, valvular disease, and neurologic influences."
 	},
 	{
-		"prompt": "A narrowing of the larynx is called",
+		"prompt": "What kind of impulse causes atrial dysrhythmias?",
 		"choices": [
-			"laryngomalacia",
-			"laryngostenosis",
-			"laryngectomy",
-			"laryngospasm"
+			"Extrinsic",
+			"Augmented",
+			"Ectopic",
+			"Inferior"
 		],
-		"answer": 1,
-		"explanation": "The suffix -stenosis means narrowing or constriction, so laryngostenosis is narrowing of the larynx."
+		"answer": 2,
+		"explanation": "Atrial dysrhythmias are caused by ectopic impulses, which originate from abnormal pacemaker sites outside the SA node."
 	},
 	{
-		"prompt": "Inflammation of the brain is known as",
+		"prompt": "In a premature atrial complex (PAC), the P wave may be biphasic. This means that:",
 		"choices": [
-			"encephalitis",
-			"hepatitis",
-			"phleboritis",
-			"rhinitis"
-		],
-		"answer": 0,
-		"explanation": "Encephal/o means brain and -itis means inflammation. Hepatitis is liver inflammation, phlebitis is vein inflammation, and rhinitis is nasal inflammation."
-	},
-	{
-		"prompt": "Producing or forming a blood clot is",
-		"choices": [
-			"osteogenesis",
-			"thrombogenesis",
-			"hematogenesis",
-			"phlebogenesis"
-		],
-		"answer": 1,
-		"explanation": "Thrombo- means clot and -genesis means formation, so thrombogenesis is clot formation."
-	},
-	{
-		"prompt": "The destruction of blood is called",
-		"choices": [
-			"hemolysis",
-			"hematogenesis",
-			"hematostenosis",
-			"hemotome"
+			"the waveform has both positive and negative deflections on the ECG tracing.",
+			"the P wave is hidden within the T wave.",
+			"every third complex is a premature beat.",
+			"a changing P wave configuration with at least three variations in one lead."
 		],
 		"answer": 0,
-		"explanation": "Hemo- means blood and -lysis means breakdown or destruction. Hematogenesis is blood formation."
+		"explanation": "Biphasic means the waveform has both positive and negative components on the tracing."
 	},
 	{
-		"prompt": "A new growth is called a",
+		"prompt": "A pattern in which every third complex is a premature beat is referred to as:",
 		"choices": [
-			"neoplasm",
-			"geoplasm",
-			"aplasm",
-			"dysplasia"
+			"bigeminy.",
+			"quadgeminy.",
+			"trigeminy.",
+			"triphasic."
 		],
-		"answer": 0,
-		"explanation": "Neo- means new, and -plasm means growth or formation. Neoplasm is a new (often abnormal) growth."
+		"answer": 2,
+		"explanation": "Trigeminy is the pattern in which every third complex is a premature beat; bigeminy is every other beat."
 	},
 	{
-		"prompt": "Rapid eating or swallowing would be known as",
+		"prompt": "Which atrial dysrhythmia has a cardiac complex that occurs too soon and may have abnormal P waves, but other than being early, has no other abnormal features?",
 		"choices": [
-			"bradyphagia",
-			"dysphagia",
-			"ultraphagia",
-			"tachyphagia"
+			"Atrial flutter",
+			"Atrial fibrillation",
+			"Wandering atrial pacemaker (WAP)",
+			"Premature atrial complexes (PAC)"
 		],
 		"answer": 3,
-		"explanation": "Tachy- means fast and -phagia relates to eating/swallowing. Brady- means slow and dys- means difficult or painful."
+		"explanation": "PACs are early beats that may have abnormal P waves but the rest of the complex is usually normal."
 	},
 	{
-		"prompt": "An incision into the stomach is",
+		"prompt": "A cardiac cell or group of cells that produces an ectopic beat is known as a:",
 		"choices": [
-			"laparotomy",
-			"gastrotomy",
-			"stomatomy",
-			"duodenotomy"
-		],
-		"answer": 1,
-		"explanation": "Gastr/o means stomach and -tomy means incision, so gastrotomy is incision into the stomach."
-	},
-	{
-		"prompt": "The vomiting of blood is",
-		"choices": [
-			"hematemesis",
-			"hyperemesis",
-			"bloodyemesis",
-			"erythroemesis"
+			"focus.",
+			"fusion.",
+			"flutter.",
+			"fascicle."
 		],
 		"answer": 0,
-		"explanation": "Hemat- means blood and -emesis means vomiting. Hyperemesis is excessive vomiting (not necessarily blood)."
+		"explanation": "An ectopic focus is an irritable area of cardiac tissue that initiates abnormal impulses."
 	},
 	{
-		"prompt": "A disease or condition of hardening of the arteries is called",
+		"prompt": "How many different P wave configurations in the same lead indicate a wandering atrial pacemaker (WAP)?",
 		"choices": [
-			"arteriostenosis",
-			"arteriosclerosis",
-			"arteriomalacia",
-			"atherosclerosis"
+			"Two",
+			"Three",
+			"Four",
+			"None of the choices are correct"
 		],
 		"answer": 1,
-		"explanation": "Arteriosclerosis is generalized hardening of the arteries. Atherosclerosis is plaque buildup specifically; arteriostenosis is narrowing."
+		"explanation": "WAP is present when there are at least three different P-wave morphologies in the same lead."
 	},
 	{
-		"prompt": "Combining form for urinary bladder",
+		"prompt": "Wandering atrial pacemaker (WAP) is a normal finding in children, older adults, and well-conditioned athletes. It may also be found in patients with:",
 		"choices": [
-			"cyst/o",
-			"vascul/o",
-			"angi/o"
-		],
-		"answer": 0,
-		"explanation": "Cyst/o is the combining form for urinary bladder. Vascul/o and angi/o refer to vessels."
-	},
-	{
-		"prompt": "The process in which nitrogenous wastes are separated from the blood by a machine is called",
-		"choices": [
-			"peritoneal filtering",
-			"dialysis",
-			"intravenous feeding",
-			"ligation"
-		],
-		"answer": 1,
-		"explanation": "Dialysis filters waste products from the blood using a machine. Peritoneal filtering is a different dialysis method using the peritoneum."
-	},
-	{
-		"prompt": "The operative procedure in which the fallopian tubes are tied is called",
-		"choices": [
-			"vasectomy",
-			"tubal ligation",
-			"orchipexy",
-			"oophorectomy"
-		],
-		"answer": 1,
-		"explanation": "Tubal ligation is surgical tying of the fallopian tubes to prevent pregnancy. Vasectomy is for the vas deferens in males."
-	},
-	{
-		"prompt": "The spleen is located in the",
-		"choices": [
-			"RUQ",
-			"RLQ",
-			"LUQ",
-			"LLQ"
-		],
-		"answer": 2,
-		"explanation": "The spleen lies in the left upper quadrant (LUQ) of the abdomen."
-	},
-	{
-		"prompt": "Inflammation of the liver is called",
-		"choices": [
-			"cirrhosis",
-			"jaundice",
-			"hepatitis",
-			"hepatoma"
-		],
-		"answer": 2,
-		"explanation": "Hepat/o means liver and -itis means inflammation. Cirrhosis is chronic scarring, jaundice is yellowing, and hepatoma is a liver tumor."
-	},
-	{
-		"prompt": "Series of cross-sectional x-ray images showing abdominal organs",
-		"choices": [
-			"abdominal CT",
-			"peritoneal CT",
-			"cerebral CT",
-			"thoracic CT"
-		],
-		"answer": 0,
-		"explanation": "A CT (computed tomography) focused on the abdomen gives cross-sectional images of the abdominal organs."
-	},
-	{
-		"prompt": "What are leukocytes?",
-		"choices": [
-			"white blood cells",
-			"red blood cells",
-			"platelets"
-		],
-		"answer": 0,
-		"explanation": "Leuk/o means white, and leukocytes are white blood cells. Erythrocytes are red blood cells; platelets are thrombocytes."
-	},
-	{
-		"prompt": "Pertaining to the large intestine",
-		"choices": [
-			"duodenal",
-			"jejunal",
-			"ileal",
-			"colonic"
+			"congestive heart failure and hypertension.",
+			"cardiovascular disease and metabolic disorder.",
+			"neurological disorders and renal insufficiency.",
+			"organic heart disease and drug toxicity."
 		],
 		"answer": 3,
-		"explanation": "Colon- refers to the large intestine, so colonic means pertaining to the large intestine."
+		"explanation": "WAP is also associated with organic heart disease and drug toxicity such as digitalis."
 	},
 	{
-		"prompt": "Abnormal condition of gallstones is",
+		"prompt": "Identify the rhythm (image not shown).",
 		"choices": [
-			"colostomy",
-			"cholelithiasis",
-			"cholecystectomy",
-			"cholangiography"
-		],
-		"answer": 1,
-		"explanation": "Chole- means bile, -lithiasis means stones; cholelithiasis is gallstones. Cholecystectomy is gallbladder removal."
-	},
-	{
-		"prompt": "Visual examination of the colon",
-		"choices": [
-			"colonoscopy",
-			"rectoscopy",
-			"GI endoscopy",
-			"duodenoscopy"
+			"Premature atrial complexes",
+			"Wandering atrial pacemaker",
+			"Multifocal atrial tachycardia",
+			"Atrial flutter"
 		],
 		"answer": 0,
-		"explanation": "Colonoscopy is endoscopic visual examination of the colon."
+		"explanation": "In the original test this strip shows early atrial beats with otherwise normal complexes, consistent with premature atrial complexes (PACs)."
 	},
 	{
-		"prompt": "New opening between the stomach and large intestine",
+		"prompt": "Multifocal atrial tachycardia (MAT) is sometimes confused with which of the following dysrhythmias?",
 		"choices": [
-			"gastroduodenostomy",
-			"gastroileostomy",
-			"gastrocolonostomy",
-			"gastrojejunostomy"
+			"Atrial fibrillation",
+			"Atrial flutter",
+			"Wandering atrial pacemaker (WAP)",
+			"Premature atrial complexes"
 		],
 		"answer": 2,
-		"explanation": "Gastro- means stomach and -colono- refers to the large intestine. Gastrocolonostomy is a new opening between stomach and colon."
+		"explanation": "MAT and WAP both show multiple P-wave morphologies; MAT differs mainly by its faster rate (>100 bpm)."
 	},
 	{
-		"prompt": "The medical word for windpipe is",
+		"prompt": "What is the rate of wandering atrial pacemaker rhythm (WAP)?",
 		"choices": [
-			"esophagus",
-			"larynx",
-			"pharynx",
-			"trachea"
+			"60 to 100 beats per minute",
+			"100 to 150 beats per minute",
+			"40 to 60 beats per minute",
+			"Greater than 150 beats per minute"
+		],
+		"answer": 0,
+		"explanation": "WAP has a ventricular rate of 60–100 bpm; faster rates with similar morphology are classified as MAT."
+	},
+	{
+		"prompt": "Which statement correctly describes the P wave in multifocal atrial tachycardia?",
+		"choices": [
+			"It always has the same configuration and shape.",
+			"It has different configurations in the same lead.",
+			"It is positively deflected.",
+			"It changes from beat to beat."
+		],
+		"answer": 1,
+		"explanation": "In MAT there are at least three different P-wave shapes in the same lead, indicating multiple atrial foci."
+	},
+	{
+		"prompt": "What is the rate of multifocal atrial tachycardia (MAT)?",
+		"choices": [
+			"60 to 100 beats per minute",
+			"101 to 150 beats per minute",
+			"150 to 300 beats per minute",
+			"Greater than 300 beats per minute"
+		],
+		"answer": 1,
+		"explanation": "MAT is defined by an irregular rhythm with multiple P-wave morphologies and a rate usually between 101 and 150 bpm."
+	},
+	{
+		"prompt": "Multifocal atrial tachycardia (MAT) is usually triggered by congestive heart failure (CHF), acute mitral valve regurgitation, or an acute attack of:",
+		"choices": [
+			"indigestion.",
+			"coughing.",
+			"emphysema.",
+			"gout."
+		],
+		"answer": 2,
+		"explanation": "MAT is strongly associated with COPD and acute exacerbations such as emphysema attacks."
+	},
+	{
+		"prompt": "Identify the rhythm (image not shown).",
+		"choices": [
+			"Wandering atrial pacemaker (WAP)",
+			"Atrial flutter",
+			"Atrial fibrillation",
+			"Multifocal atrial tachycardia (MAT)"
 		],
 		"answer": 3,
-		"explanation": "The trachea is commonly called the windpipe. The esophagus is the foodpipe."
+		"explanation": "In the source exam, this strip shows a rapid rate with multiple P-wave morphologies, consistent with MAT."
 	},
 	{
-		"prompt": "The medical word for foodpipe is",
+		"prompt": "Which atrial dysrhythmia has capital F waves and a classic sawtooth or picket fence appearance?",
 		"choices": [
-			"esophagus",
-			"phaynx",
-			"oropharynx",
-			"larynx"
+			"Multifocal atrial tachycardia",
+			"Wandering atrial pacemaker",
+			"Atrial flutter",
+			"Atrial fibrillation"
+		],
+		"answer": 2,
+		"explanation": "Atrial flutter produces characteristic sawtooth F waves in the baseline."
+	},
+	{
+		"prompt": "What is the atrial rate in atrial flutter?",
+		"choices": [
+			"100 to 150 beats per minute",
+			"250 to 350 beats per minute",
+			"150 to 250 beats per minute",
+			"60 to 100 beats per minute"
+		],
+		"answer": 1,
+		"explanation": "Atrial flutter typically has an atrial rate of 250–350 bpm."
+	},
+	{
+		"prompt": "Identify the rhythm (image not shown).",
+		"choices": [
+			"Atrial fibrillation",
+			"Atrial flutter",
+			"Multifocal atrial tachycardia",
+			"Wandering atrial pacemaker"
 		],
 		"answer": 0,
-		"explanation": "The esophagus carries food from the throat to the stomach, so it is the foodpipe."
+		"explanation": "This strip demonstrates an irregularly irregular rhythm with no distinct P waves, consistent with atrial fibrillation."
 	},
 	{
-		"prompt": "The prefix trans- means",
+		"prompt": "What treatment is usually attempted for patients with atrial fibrillation?",
 		"choices": [
-			"too much",
-			"too little",
-			"without",
-			"across"
+			"Exercise stress test",
+			"Angiogram",
+			"Medication and/or electrical cardioversion",
+			"Echocardiogram"
+		],
+		"answer": 2,
+		"explanation": "AFib is commonly treated with rate or rhythm control medications and may require electrical cardioversion."
+	},
+	{
+		"prompt": "A traveling blood clot in the lungs is known as:",
+		"choices": [
+			"apnea.",
+			"cerebrovascular accident.",
+			"ischemia.",
+			"pulmonary embolism."
 		],
 		"answer": 3,
-		"explanation": "Trans- means across or through (for example, transdermal)."
+		"explanation": "A pulmonary embolism is a clot that has traveled to the pulmonary arteries in the lungs."
 	},
 	{
-		"prompt": "Pain during urination is called",
+		"prompt": "What is the normal, inherent rate of the AV node?",
 		"choices": [
-			"oligouria",
-			"dysuria",
-			"hematuria",
-			"ketonuria"
+			"20 to 40 bpm",
+			"40 to 60 bpm",
+			"80 to 100 bpm",
+			"100 to 150 bpm"
 		],
 		"answer": 1,
-		"explanation": "Dysuria means difficult or painful urination. Hematuria is blood in urine, oliguria is low output."
+		"explanation": "The AV junction has an inherent rate of 40–60 beats per minute."
 	},
 	{
-		"prompt": "The combining form append/o stands for",
+		"prompt": "In junctional rhythms, where does the electrical current initiate?",
 		"choices": [
-			"appendicular",
-			"appendices",
-			"apex",
-			"appendix"
+			"AV junction",
+			"Purkinje fibers",
+			"Atria",
+			"Ventricles"
+		],
+		"answer": 0,
+		"explanation": "Junctional rhythms originate in the AV junctional tissue rather than in the SA node."
+	},
+	{
+		"prompt": "What causes the inverted P wave morphology found with junctional rhythms?",
+		"choices": [
+			"Electrical impulses are coming from the SA node, causing repolarization.",
+			"Electrical impulses are coming from areas of multiple ectopic foci.",
+			"Electrical impulses are coming from the AV node, causing atrial depolarization to flow retrogradely.",
+			"Rapid impulses originate in the atrial tissue."
+		],
+		"answer": 2,
+		"explanation": "When impulses start in the AV junction, atrial depolarization spreads backward (retrograde), producing inverted P waves in inferior leads."
+	},
+	{
+		"prompt": "What are the distinguishing characteristics of junctional escape rhythm?",
+		"choices": [
+			"The rhythm is regular; the P wave may occur before, during, or after the QRS; and the P wave is inverted.",
+			"The rhythm is irregular, the P wave is inverted, and the P wave may immediately precede or follow the QRS complex.",
+			"The P wave may occur simultaneously with the T wave or may occur before, during, or after the QRS complex.",
+			"The P waves cannot be identified, there is chaotic electrical activity, and f waves may be seen."
+		],
+		"answer": 0,
+		"explanation": "Junctional escape rhythms are regular with inverted P waves that may appear before, during, or after the QRS."
+	},
+	{
+		"prompt": "What is the difference between accelerated junctional rhythm and junctional tachycardia?",
+		"choices": [
+			"P wave",
+			"QRS duration",
+			"PR interval",
+			"Heart rate"
 		],
 		"answer": 3,
-		"explanation": "Append/o refers to the appendix. Combining forms are based on the main structure, not the adjective or plural."
+		"explanation": "The key difference is rate: accelerated junctional is faster than junctional escape but slower than junctional tachycardia."
 	},
 	{
-		"prompt": "The combining form rect/o means",
+		"prompt": "Identify the rhythm (image not shown).",
 		"choices": [
-			"retrograde",
-			"rectum",
-			"renal",
-			"relax"
-		],
-		"answer": 1,
-		"explanation": "Rect/o is the combining form for rectum."
-	},
-	{
-		"prompt": "The combining form arteri/o means",
-		"choices": [
-			"arteriole",
-			"artery",
-			"artistic",
-			"alter"
-		],
-		"answer": 1,
-		"explanation": "Arteri/o refers to an artery. An arteriole is a small artery but is not what the combining form directly means."
-	},
-	{
-		"prompt": "The combining form ot/o stands for",
-		"choices": [
-			"ear",
-			"hear",
-			"fear",
-			"dear"
-		],
-		"answer": 0,
-		"explanation": "Ot/o means ear (as in otitis media, ear infection)."
-	},
-	{
-		"prompt": "The vertebrae in the chest region are called",
-		"choices": [
-			"cervical",
-			"lumbar",
-			"thoracic",
-			"sacral"
+			"Atrial fibrillation",
+			"Atrial flutter",
+			"Junctional tachycardia",
+			"SVT"
 		],
 		"answer": 2,
-		"explanation": "Thoracic vertebrae are in the chest region, attached to the ribs."
+		"explanation": "The rhythm strip in the original test shows a rapid junctional rhythm consistent with junctional tachycardia."
 	},
 	{
-		"prompt": "The outer layer of the skin is called the",
+		"prompt": "Wolff-Parkinson-White syndrome is an example of which type of dysrhythmia?",
 		"choices": [
-			"dermis",
-			"epithelium",
-			"subcutaneous",
-			"epidermis"
+			"Reentry dysrhythmia",
+			"Ventricular dysrhythmia",
+			"Reciprocating dysrhythmia",
+			"Sinus dysrhythmia"
+		],
+		"answer": 2,
+		"explanation": "WPW is a type of atrioventricular reciprocating tachycardia, a reciprocating dysrhythmia caused by an accessory pathway."
+	},
+	{
+		"prompt": "You have performed an ECG on a hospital patient. A portion of the ECG tracing is shown. What signs and symptoms would you expect this patient to have?",
+		"choices": [
+			"Hypotension and confusion",
+			"Pressure and pain in the chest",
+			"Difficulty breathing",
+			"No obvious symptoms"
+		],
+		"answer": 0,
+		"explanation": "The rhythm strip on the test shows a serious dysrhythmia likely to reduce cardiac output, leading to hypotension and confusion."
+	},
+	{
+		"prompt": "What causes a heart block dysrhythmia?",
+		"choices": [
+			"The ectopic focus originates above the ventricles.",
+			"The electrical current has difficulty traveling down the normal conduction pathway.",
+			"The rhythm originates at the AV junctional tissue, producing retrograde depolarization.",
+			"An ectopic beat originates in the right or left atrium, resulting in abnormal conduction."
+		],
+		"answer": 1,
+		"explanation": "Heart blocks occur when impulses are delayed or blocked in the normal conduction pathway, usually at or below the AV node."
+	},
+	{
+		"prompt": "Which heart block rhythm has a constant PR interval that measures greater than 0.20 seconds?",
+		"choices": [
+			"First-degree AV block",
+			"Second-degree AV block, Mobitz type I",
+			"Second-degree AV block, Mobitz type II",
+			"Third-degree AV block"
+		],
+		"answer": 0,
+		"explanation": "First-degree AV block has a consistently prolonged PR interval (>0.20 sec) for every conducted beat."
+	},
+	{
+		"prompt": "Identify the rhythm (image not shown).",
+		"choices": [
+			"First-degree heart block",
+			"Second-degree AV block, Mobitz type I",
+			"Second-degree AV block, Mobitz type II",
+			"Third-degree AV block"
+		],
+		"answer": 0,
+		"explanation": "The ECG in the test shows prolonged but constant PR intervals, consistent with first-degree heart block."
+	},
+	{
+		"prompt": "Which of the following rhythms has a constant PR interval for all conducted beats?",
+		"choices": [
+			"Second-degree AV block, Mobitz type I",
+			"Second-degree AV block, Mobitz type II",
+			"Third-degree AV block",
+			"All of the answers are correct"
+		],
+		"answer": 1,
+		"explanation": "Mobitz type II has a constant PR interval for conducted beats; Mobitz I shows progressively lengthening PR intervals and third-degree block has no fixed PR relationship."
+	},
+	{
+		"prompt": "How do you distinguish between second-degree AV blocks, Mobitz type I or Mobitz type II?",
+		"choices": [
+			"In Mobitz type II, the PR intervals are constant.",
+			"The ventricular rate is greater than 60 bpm with Mobitz type II.",
+			"In Mobitz type II, the P waves appear to march right through the QRS complexes.",
+			"In Mobitz type II, there appears to be a pattern to the irregularity."
+		],
+		"answer": 0,
+		"explanation": "In Mobitz II, the PR interval of conducted beats is constant, whereas in Mobitz I it progressively lengthens."
+	},
+	{
+		"prompt": "Which heart block dysrhythmia is known as complete heart block (CHB)?",
+		"choices": [
+			"First-degree heart block",
+			"Second-degree AV block, Mobitz type I",
+			"Second-degree AV block, Mobitz type II",
+			"Third-degree AV block"
 		],
 		"answer": 3,
-		"explanation": "The epidermis is the outermost layer of the skin. Dermis is the deeper layer."
+		"explanation": "Third-degree AV block is also called complete heart block because there is no conduction from atria to ventricles."
 	},
 	{
-		"prompt": "Abnormal condition of no urine production is called",
+		"prompt": "What is the term for the condition in which the atria and ventricles are electrically separated from one another?",
 		"choices": [
-			"anuria",
-			"dysuria",
-			"ketonuria",
-			"none of the above"
-		],
-		"answer": 0,
-		"explanation": "An- means without, and -uria relates to urine; anuria is no urine production."
-	},
-	{
-		"prompt": "Resection of the ureter is called a/an",
-		"choices": [
-			"urethraectomy",
-			"ureterectomy",
-			"cystectomy",
-			"nephrectomy"
+			"Atrial kick",
+			"AV dissociation",
+			"Automaticity",
+			"Asystole"
 		],
 		"answer": 1,
-		"explanation": "Ureterectomy is removal of the ureter. Urethrectomy is removal of the urethra, nephrectomy of the kidney."
+		"explanation": "AV dissociation refers to a lack of relationship between atrial and ventricular activity, as in complete heart block."
 	},
 	{
-		"prompt": "A vertical plane that divides the body or body parts from front to back is the",
+		"prompt": "Identify the rhythm (image not shown).",
 		"choices": [
-			"coronal",
-			"sagittal",
-			"axial"
-		],
-		"answer": 1,
-		"explanation": "The sagittal plane divides the body into right and left, and is oriented front-to-back."
-	},
-	{
-		"prompt": "The abbreviation MI stands for",
-		"choices": [
-			"Myocardial isolyte",
-			"Myocardial imbalance",
-			"Myocardial infarction",
-			"Myocardial infection"
-		],
-		"answer": 2,
-		"explanation": "MI means myocardial infarction, commonly called a heart attack."
-	},
-	{
-		"prompt": "The abbreviation Dx stands for",
-		"choices": [
-			"disease",
-			"differential",
-			"diagnosis",
-			"dosage"
-		],
-		"answer": 2,
-		"explanation": "Dx is shorthand for diagnosis in medical documentation."
-	},
-	{
-		"prompt": "The abbreviation Fx stands for",
-		"choices": [
-			"fixate",
-			"fracture",
-			"fixture",
-			"fistula"
-		],
-		"answer": 1,
-		"explanation": "Fx is commonly used as an abbreviation for fracture."
-	},
-	{
-		"prompt": "A vertical plane that divides the body or organ into right and left sides is the",
-		"choices": [
-			"coronal",
-			"sagittal",
-			"axial"
-		],
-		"answer": 1,
-		"explanation": "The sagittal plane divides into right and left portions. Coronal divides front and back."
-	},
-	{
-		"prompt": "A horizontal plane that divides the body or organs into upper and lower portions is the",
-		"choices": [
-			"coronal",
-			"sagittal",
-			"axial"
-		],
-		"answer": 2,
-		"explanation": "The axial (transverse) plane cuts horizontally into superior and inferior portions."
-	},
-	{
-		"prompt": "The abbreviation Hx stands for",
-		"choices": [
-			"hypertension",
-			"history",
-			"hypotension",
-			"hallux"
-		],
-		"answer": 1,
-		"explanation": "Hx is shorthand for history (as in medical history)."
-	},
-	{
-		"prompt": "The abbreviation CVA stands for",
-		"choices": [
-			"Cerebrovascular Accident",
-			"Complete Vulva Artery",
-			"Cerebrovascular Artery",
-			"Cerebrovascular Angina"
-		],
-		"answer": 0,
-		"explanation": "CVA is Cerebrovascular Accident, commonly called a stroke."
-	},
-	{
-		"prompt": "The abbreviation CSF stands for",
-		"choices": [
-			"Cerebrospinal Fungi",
-			"Cerebrospinal Flow",
-			"Cerebrospinal Flu",
-			"Cerebrospinal Fluid"
+			"First-degree heart block",
+			"Second-degree AV block, Mobitz type I",
+			"Second-degree AV block, Mobitz type II",
+			"Third-degree AV block"
 		],
 		"answer": 3,
-		"explanation": "CSF is cerebrospinal fluid, the fluid around the brain and spinal cord."
+		"explanation": "The ECG strip in the exam shows independent atrial and ventricular activity consistent with third-degree AV block."
 	},
 	{
-		"prompt": "Craniotomy means",
+		"prompt": "In third-degree AV block, if the impulse causing ventricular depolarization is coming from the AV junction, what will the heart rate be?",
 		"choices": [
-			"cutting into the heart",
-			"cutting into the thorax",
-			"cutting into the skull"
-		],
-		"answer": 2,
-		"explanation": "Crani/o means skull and -tomy means incision; craniotomy is opening the skull."
-	},
-	{
-		"prompt": "The abdominal region that lies above the stomach is",
-		"choices": [
-			"hypogastric",
-			"epigastric",
-			"subgastric",
-			"umbilical"
+			"20 to 40 bpm",
+			"40 to 60 bpm",
+			"60 to 100 bpm",
+			"100 to 150 bpm"
 		],
 		"answer": 1,
-		"explanation": "Epi- means above and gastr/o means stomach; epigastric is above the stomach."
+		"explanation": "When the escape focus is junctional, the ventricular rate is typically 40–60 bpm."
 	},
 	{
-		"prompt": "The eyes are located laterally to the ears.",
+		"prompt": "Which two types of heart block result in a variable PR interval?",
 		"choices": [
-			"true",
-			"false"
+			"First-degree and second-degree Mobitz type I",
+			"Second-degree Mobitz type I and second-degree Mobitz type II",
+			"Second-degree Mobitz type I and third degree",
+			"Second-degree Mobitz type II and third degree"
+		],
+		"answer": 2,
+		"explanation": "Mobitz I has a progressively lengthening PR interval; third-degree block has no consistent PR relationship, so both show variable PR intervals."
+	},
+	{
+		"prompt": "Where are the ventricular pacemaker cells found?",
+		"choices": [
+			"At the bundle of His",
+			"At the AV node",
+			"At the Purkinje fibers",
+			"At the SA node"
+		],
+		"answer": 2,
+		"explanation": "Ventricular pacemaker cells are located in the Purkinje fiber network."
+	},
+	{
+		"prompt": "What is the inherent rate of the Purkinje network?",
+		"choices": [
+			"20 to 40 bpm",
+			"40 to 60 bpm",
+			"60 to 100 bpm",
+			"100 to 150 bpm"
+		],
+		"answer": 0,
+		"explanation": "The intrinsic rate of ventricular pacemaker cells in the Purkinje network is 20–40 beats per minute."
+	},
+	{
+		"prompt": "In all ventricular dysrhythmias, which of the following qualities describes P-P intervals?",
+		"choices": [
+			"Biphasic",
+			"Missing",
+			"Regular",
+			"Irregular"
 		],
 		"answer": 1,
-		"explanation": "The eyes are actually medial (closer to the midline) compared to the ears, not lateral."
+		"explanation": "In ventricular rhythms, atrial activity is often absent or not conducted, so consistent P-P intervals are usually missing."
 	},
 	{
-		"prompt": "The stomach is located in which of the following quadrants?",
+		"prompt": "QRS complexes that measure 0.12 seconds or greater and a heart rate between 20 and 40 bpm indicate that the impulses causing ventricular depolarization are coming from which location?",
 		"choices": [
-			"RLQ",
-			"LLQ",
-			"RUQ",
-			"LUQ"
+			"AV node",
+			"SA node",
+			"Interatrial pathways",
+			"Purkinje fibers"
 		],
 		"answer": 3,
-		"explanation": "Most of the stomach lies in the left upper quadrant (LUQ)."
+		"explanation": "Wide QRS complexes with a slow rate indicate a ventricular escape rhythm arising from the Purkinje fibers."
 	},
 	{
-		"prompt": "A combining form is",
+		"prompt": "What is the term for ventricular rhythms that originate in the Purkinje network?",
 		"choices": [
-			"the word ending",
-			"the root plus combining vowel",
-			"the prefix",
-			"the prefix plus combining vowel",
-			"the root and suffix"
+			"Junctional escape rhythms",
+			"Ventricular escape rhythms",
+			"Asystole rhythms",
+			"Agonal rhythms"
 		],
 		"answer": 1,
-		"explanation": "A combining form consists of the word root plus a combining vowel (often 'o')."
+		"explanation": "When the Purkinje system initiates the beat, the resulting slow, wide-complex rhythm is called a ventricular escape rhythm."
 	},
 	{
-		"prompt": "The prefix ante- stands for",
+		"prompt": "Why do ventricular rhythms occur?",
 		"choices": [
-			"before",
-			"after",
-			"toward",
-			"near"
+			"Because higher pacemaker sites within the heart have failed",
+			"Because the rate impulses from the SA node are too fast for ventricular response",
+			"Because a first-degree AV block prevents atrial impulses from reaching the ventricles",
+			"Because the ventricular impulses are stronger than the atrial impulses"
 		],
 		"answer": 0,
-		"explanation": "Ante- means before (in time or position), as in antepartum (before birth)."
+		"explanation": "Ventricular escape rhythms develop when higher pacemaker sites (SA node, AV node) fail, allowing the ventricles to take over."
 	},
 	{
-		"prompt": "The prefix bi- stands for",
+		"prompt": "Which of the following statements about PVCs is true?",
 		"choices": [
-			"life",
-			"loss",
-			"two",
-			"one"
-		],
-		"answer": 2,
-		"explanation": "Bi- means two, as in bilateral (both sides)."
-	},
-	{
-		"prompt": "The prefix dys- stands for",
-		"choices": [
-			"abnormal",
-			"bad",
-			"painful",
-			"all of the above"
-		],
-		"answer": 3,
-		"explanation": "Dys- can indicate abnormal, bad, or painful (e.g., dysuria, dysplasia), so all apply."
-	},
-	{
-		"prompt": "The prefix hyper- stands for",
-		"choices": [
-			"excessive",
-			"less",
-			"down",
-			"below"
-		],
-		"answer": 0,
-		"explanation": "Hyper- means excessive or above normal, as in hypertension."
-	},
-	{
-		"prompt": "The prefix intra- stands for",
-		"choices": [
-			"within",
-			"outside",
-			"extra",
-			"less"
-		],
-		"answer": 0,
-		"explanation": "Intra- means within (e.g., intravenous = within a vein)."
-	},
-	{
-		"prompt": "The prefix poly- stands for",
-		"choices": [
-			"one",
-			"two",
-			"three",
-			"many"
-		],
-		"answer": 3,
-		"explanation": "Poly- means many (e.g., polyuria, polycystic)."
-	},
-	{
-		"prompt": "The prefix tri- stands for",
-		"choices": [
-			"one",
-			"two",
-			"three",
-			"four"
-		],
-		"answer": 2,
-		"explanation": "Tri- means three (e.g., tricuspid valve has three cusps)."
-	},
-	{
-		"prompt": "The prefix tachy- stands for",
-		"choices": [
-			"slow",
-			"fast",
-			"furious",
-			"calm"
+			"PVCs will not lead to ventricular tachycardia.",
+			"PVCs may be unifocal or multifocal in origin.",
+			"PVCs can only originate from one site in the ventricles.",
+			"PVCs never have an effect on the conduction of normal impulses."
 		],
 		"answer": 1,
-		"explanation": "Tachy- means fast, especially in heart rate (tachycardia)."
+		"explanation": "PVCs may arise from one focus (unifocal) or multiple foci (multifocal) in the ventricles."
 	},
 	{
-		"prompt": "The combining form crypt/o means",
+		"prompt": "Which of the following is an ectopic impulse that occurs early in the cycle and originates from the ventricles?",
 		"choices": [
-			"below",
-			"above",
-			"hidden",
-			"down"
+			"PAC",
+			"SVT",
+			"PVC",
+			"PJC"
 		],
 		"answer": 2,
-		"explanation": "Crypt/o means hidden, as in cryptorchidism (hidden testis)."
+		"explanation": "A premature ventricular complex (PVC) is an early ectopic beat originating from the ventricles."
 	},
 	{
-		"prompt": "The prefix con- stands for",
+		"prompt": "PVCs can occur because of hypoxic states. What must be done to determine whether hypoxia is causing a patient's PVCs?",
 		"choices": [
-			"outside",
-			"with",
-			"together",
-			"options b) and c)"
-		],
-		"answer": 3,
-		"explanation": "Con- means with or together, so both 'with' and 'together' are correct."
-	},
-	{
-		"prompt": "The suffix -stomy stands for",
-		"choices": [
-			"outlet",
-			"inlet",
-			"opening",
-			"closing"
-		],
-		"answer": 2,
-		"explanation": "A -stomy is the creation of a new opening (e.g., colostomy)."
-	},
-	{
-		"prompt": "The suffix -plasty stands for",
-		"choices": [
-			"surgical repair",
-			"surgical puncture",
-			"surgical removal",
-			"surgical fixation"
+			"Draw blood samples to evaluate oxygen saturation.",
+			"Carefully monitor the heart rate and rhythm.",
+			"Provide the patient with oxygen.",
+			"Draw blood samples to evaluate electrolyte levels."
 		],
 		"answer": 0,
-		"explanation": "-plasty means surgical repair or reconstruction (e.g., rhinoplasty)."
+		"explanation": "To confirm hypoxia, arterial blood gases or other tests assessing oxygen saturation must be obtained."
 	},
 	{
-		"prompt": "The suffix -gram stands for",
+		"prompt": "What is the cause of agonal rhythms?",
 		"choices": [
-			"weight",
-			"measure",
-			"record",
-			"instrument"
-		],
-		"answer": 2,
-		"explanation": "A -gram is a record or picture (e.g., electrocardiogram). The instrument ends in -graph."
-	},
-	{
-		"prompt": "The suffix -al stands for",
-		"choices": [
-			"pertaining to",
-			"condition",
-			"abnormal state",
-			"all of the above"
-		],
-		"answer": 0,
-		"explanation": "-al is an adjective ending meaning 'pertaining to' (e.g., renal = pertaining to the kidney)."
-	},
-	{
-		"prompt": "The suffix -logy stands for",
-		"choices": [
-			"specialist",
-			"multi specialist",
-			"study of",
-			"super specialist"
-		],
-		"answer": 2,
-		"explanation": "-logy means the study of (e.g., cardiology). The specialist is -logist."
-	},
-	{
-		"prompt": "The suffix -itis stands for",
-		"choices": [
-			"infection",
-			"invasion",
-			"inflammation",
-			"irony"
-		],
-		"answer": 2,
-		"explanation": "-itis means inflammation, which may be due to infection but isn’t always."
-	},
-	{
-		"prompt": "The suffix -pathy stands for",
-		"choices": [
-			"knowledge",
-			"disease condition",
-			"cancer condition",
-			"brain condition"
+			"Failure of the SA node",
+			"Failure of all pacemakers of the heart",
+			"Blocked conduction at the AV node",
+			"Loose electrode wires"
 		],
 		"answer": 1,
-		"explanation": "-pathy refers to disease or disorder (e.g., neuropathy)."
+		"explanation": "Agonal rhythm occurs when all higher pacemaker sites have failed and the heart is near death."
 	},
 	{
-		"prompt": "The suffix -megaly stands for",
+		"prompt": "Identify the rhythm (image not shown).",
 		"choices": [
-			"enlargement",
-			"enrollment",
-			"shrinkage",
-			"solution"
+			"Accelerated idioventricular rhythm",
+			"Sinus bradycardia",
+			"Agonal rhythm",
+			"Asystole"
+		],
+		"answer": 2,
+		"explanation": "The strip shows very slow, wide, irregular complexes consistent with an agonal rhythm."
+	},
+	{
+		"prompt": "Which ventricular dysrhythmia has a heart rate between 20 and 40 bpm?",
+		"choices": [
+			"Agonal rhythm",
+			"Accelerated idioventricular rhythm",
+			"Idioventricular rhythm",
+			"Asystole"
+		],
+		"answer": 2,
+		"explanation": "Idioventricular rhythm has a ventricular rate of about 20–40 bpm; agonal is usually even slower."
+	},
+	{
+		"prompt": "What is the primary difference between idioventricular rhythm and accelerated idioventricular rhythm?",
+		"choices": [
+			"Heart rate",
+			"QRS complex",
+			"P wave",
+			"R-R interval"
 		],
 		"answer": 0,
-		"explanation": "-megaly means enlargement (e.g., cardiomegaly)."
+		"explanation": "Both rhythms originate from ventricular pacemaker cells, but accelerated idioventricular rhythm has a faster rate."
 	},
 	{
-		"prompt": "The suffix -osis stands for",
+		"prompt": "What is the typical heart rate with accelerated idioventricular rhythm?",
 		"choices": [
-			"drooping",
-			"abnormal condition",
-			"abnormal cell",
-			"obesity"
+			"Less than 20 bpm",
+			"20 to 40 bpm",
+			"40 to 100 bpm",
+			"100 to 150 bpm"
+		],
+		"answer": 2,
+		"explanation": "Accelerated idioventricular rhythm typically has a rate between 40 and 100 bpm."
+	},
+	{
+		"prompt": "Identify the rhythm (image not shown).",
+		"choices": [
+			"Idioventricular rhythm",
+			"Agonal rhythm",
+			"Accelerated idioventricular rhythm",
+			"Ventricular fibrillation"
+		],
+		"answer": 2,
+		"explanation": "The ECG on the test shows a wide-complex rhythm with a rate around 40–100 bpm, consistent with accelerated idioventricular rhythm."
+	},
+	{
+		"prompt": "Identify the rhythm (image not shown).",
+		"choices": [
+			"SVT",
+			"Ventricular tachycardia",
+			"Ventricular fibrillation",
+			"Accelerated idioventricular rhythm"
 		],
 		"answer": 1,
-		"explanation": "-osis usually means an abnormal condition (e.g., dermatosis)."
+		"explanation": "This strip demonstrates wide, rapid, regular complexes typical of ventricular tachycardia."
 	},
 	{
-		"prompt": "Abnormal condition of white blood cells is called",
+		"prompt": "Identify the rhythm (image not shown).",
 		"choices": [
-			"erythrocytosis",
-			"thrombocytosis",
-			"leukocytosis",
-			"hematemesis"
-		],
-		"answer": 2,
-		"explanation": "Leukocytosis is an increased (abnormal) number of white blood cells. Erythrocytosis is RBCs; thrombocytosis is platelets."
-	},
-	{
-		"prompt": "Collection or mass of blood is",
-		"choices": [
-			"hematuria",
-			"hematoma",
-			"hematochezia"
+			"Ventricular tachycardia",
+			"Ventricular fibrillation",
+			"Asystole",
+			"SVT"
 		],
 		"answer": 1,
-		"explanation": "A hematoma is a localized collection of blood in tissue. Hematuria is blood in urine; hematochezia is passage of blood in stool."
+		"explanation": "The strip in the exam shows chaotic, disorganized waves without identifiable QRS complexes, consistent with ventricular fibrillation."
 	},
 	{
-		"prompt": "Surgical puncture to remove fluid from the chest is",
+		"prompt": "Identify the rhythm (image not shown).",
 		"choices": [
-			"thoracotomy",
-			"thoracostomy",
-			"thoracentesis",
-			"thoractomy"
+			"Asystole",
+			"Agonal",
+			"Ventricular fibrillation",
+			"Sinus bradycardia"
 		],
-		"answer": 2,
-		"explanation": "-centesis means surgical puncture to remove fluid, so thoracentesis is puncture of the chest cavity to remove fluid."
+		"answer": 0,
+		"explanation": "Asystole appears as a flat line or nearly flat line with no discernible electrical activity."
 	},
 	{
-		"prompt": "Incision of a vein to withdraw blood is",
+		"prompt": "To rule out fine ventricular fibrillation, asystole must be confirmed in at least how many leads?",
 		"choices": [
-			"phlebitis",
-			"phlebology",
-			"phlebic",
-			"phlebotomy"
+			"Two",
+			"Three",
+			"Four",
+			"Five"
 		],
-		"answer": 3,
-		"explanation": "Phleb/o means vein and -tomy is incision, so phlebotomy is cutting into a vein to draw blood."
+		"answer": 0,
+		"explanation": "Fine ventricular fibrillation can resemble asystole, so at least two leads are checked to confirm true asystole."
 	},
 	{
-		"prompt": "Treatment using chemicals/drugs to destroy malignant cells is",
+		"prompt": "Why can't the atrial rate be determined in ventricular rhythms?",
 		"choices": [
-			"radiotherapy",
-			"chemotherapy",
-			"dose therapy",
-			"Muga scan"
+			"The P waves are buried in the QRS complexes.",
+			"The wide and bizarre QRS complex masks the P waves.",
+			"Atrial depolarization is absent.",
+			"The atrial rate is too irregular to be determined."
 		],
 		"answer": 1,
-		"explanation": "Chemotherapy uses chemical agents or drugs to treat cancer. Radiotherapy uses radiation."
+		"explanation": "In ventricular rhythms, the wide QRS complexes often obscure any underlying atrial activity, making the atrial rate unmeasurable."
 	},
 	{
-		"prompt": "Excision of a gland is",
+		"prompt": "Which of the following is a characteristic of sinus arrest?",
 		"choices": [
-			"adenotomy",
-			"adenostomy",
-			"adenectomy",
-			"adenomegaly"
-		],
-		"answer": 2,
-		"explanation": "Aden/o means gland and -ectomy is removal; adenectomy is gland removal."
-	},
-	{
-		"prompt": "The tube that connects the mouth to the stomach is called",
-		"choices": [
-			"pharynx",
-			"larynx",
-			"trachea",
-			"esophagus"
-		],
-		"answer": 3,
-		"explanation": "The esophagus is the muscular tube from pharynx to stomach. The pharynx is the throat."
-	},
-	{
-		"prompt": "The part of the small intestine which connects the duodenum to the ileum is",
-		"choices": [
-			"colon",
-			"mega colon",
-			"mesocolon",
-			"jejunum"
-		],
-		"answer": 3,
-		"explanation": "The order of small intestine is duodenum, jejunum, ileum. So jejunum is between duodenum and ileum."
-	},
-	{
-		"prompt": "Imaging of blood vessels is called",
-		"choices": [
-			"angioplasty",
-			"arthrography",
-			"angiogrammy",
-			"angiography"
-		],
-		"answer": 3,
-		"explanation": "Angiography is imaging of blood vessels. Angioplasty is a procedure to open vessels."
-	},
-	{
-		"prompt": "Recording of the uterus and the fallopian tubes is called",
-		"choices": [
-			"hysterography",
-			"salpingography",
-			"hysterosalpingography",
-			"sonology"
-		],
-		"answer": 2,
-		"explanation": "Hystero- means uterus, salpingo- means tube, and -graphy is recording, so hysterosalpingography records both."
-	},
-	{
-		"prompt": "Recording of the kidney and urinary tract is called",
-		"choices": [
-			"urography",
-			"tomography",
-			"myelography",
-			"mammography"
+			"The cardiac complexes before and after the sinus pause are usually regular.",
+			"The PR interval is affected by the pause during a sinus arrest episode.",
+			"The atrial and ventricular rates are different.",
+			"The QRS morphology varies during periods of sinus arrest."
 		],
 		"answer": 0,
-		"explanation": "Urography is imaging/recording of the urinary tract (kidneys, ureters, bladder)."
+		"explanation": "In sinus arrest, the basic rhythm is regular, and the pause typically equals a multiple of the underlying R-R interval."
 	},
 	{
-		"prompt": "Prediction about the outcome of treatment is called",
+		"prompt": "What is the atrial rate in atrial flutter?",
 		"choices": [
-			"prognosis",
-			"psychosis",
-			"diagnosis",
-			"biopsy",
-			"pathology"
-		],
-		"answer": 0,
-		"explanation": "Pro- means before, -gnosis means knowledge; prognosis is a forecast of the course and outcome of a disease."
-	},
-	{
-		"prompt": "Normal discharge of blood during menstruation is",
-		"choices": [
-			"menorrhagia",
-			"dysmenorrheal",
-			"menorrhea",
-			"menopause"
-		],
-		"answer": 2,
-		"explanation": "Menorrhea is normal menstrual flow. Menorrhagia is excessive bleeding."
-	},
-	{
-		"prompt": "High levels of wastes (urea) in the blood is",
-		"choices": [
-			"urology",
-			"uremia",
-			"uric acid diathesis",
-			"nitrogen"
+			"100 to 150 beats per minute",
+			"250 to 350 beats per minute",
+			"150 to 250 beats per minute",
+			"60 to 100 beats per minute"
 		],
 		"answer": 1,
-		"explanation": "Uremia is a high level of urea and other nitrogenous wastes in the blood, usually due to renal failure."
-	},
-	{
-		"prompt": "The terms L1 – L5 stand for",
-		"choices": [
-			"lumbar vertebrae",
-			"thoracic vertebrae",
-			"cervical vertebrae",
-			"sacral vertebrae"
-		],
-		"answer": 0,
-		"explanation": "L1–L5 are the lumbar vertebrae. T1–T12 are thoracic; C1–C7 are cervical."
-	},
-	{
-		"prompt": "The vertical plane that divides the body into left and right EQUAL halves is called the",
-		"choices": [
-			"frontal",
-			"sagittal",
-			"midsagittal",
-			"transverse"
-		],
-		"answer": 2,
-		"explanation": "The midsagittal (median) plane divides the body into equal left and right halves."
-	},
-	{
-		"prompt": "The cavity that contains the urinary bladder, reproductive organs, and ureters is the",
-		"choices": [
-			"abdominal",
-			"pelvic",
-			"thoracic",
-			"lumbar"
-		],
-		"answer": 1,
-		"explanation": "These structures lie in the pelvic cavity, which is the lower part of the abdominopelvic cavity."
-	},
-	{
-		"prompt": "The membranes surrounding the brain are called",
-		"choices": [
-			"cerebrum",
-			"spinal membranes",
-			"myelin sheath",
-			"meninges"
-		],
-		"answer": 3,
-		"explanation": "The meninges are the three protective membranes around the brain and spinal cord."
-	},
-	{
-		"prompt": "When organs or cells shrink in size, it is called",
-		"choices": [
-			"dystrophy",
-			"catastrophy",
-			"atrophy",
-			"myotrophy"
-		],
-		"answer": 2,
-		"explanation": "Atrophy is a decrease in size of cells or organs. Dystrophy is abnormal development or degeneration."
-	},
-	{
-		"prompt": "The correct meaning for the suffix -globin is",
-		"choices": [
-			"protein",
-			"cell",
-			"pain",
-			"tumor",
-			"record"
-		],
-		"answer": 0,
-		"explanation": "-globin refers to a protein (as in hemoglobin, the oxygen-carrying protein in red blood cells)."
-	},
-	{
-		"prompt": "The term -pnea stands for",
-		"choices": [
-			"pulse",
-			"heart rate",
-			"breathing",
-			"shock"
-		],
-		"answer": 2,
-		"explanation": "-pnea relates to breathing (e.g., apnea, dyspnea)."
-	},
-	{
-		"prompt": "The backbones in the region of the neck are",
-		"choices": [
-			"lumbar bones",
-			"cervical bones",
-			"coccygeal bones",
-			"thoracic bones",
-			"sacral bones"
-		],
-		"answer": 1,
-		"explanation": "Cervical vertebrae (C1–C7) are in the neck region."
-	},
-	{
-		"prompt": "The term which means below the scapula is",
-		"choices": [
-			"hyposhoulder",
-			"hyperscapula",
-			"subscapular",
-			"subshoulder"
-		],
-		"answer": 2,
-		"explanation": "Sub- means under or below, and scapular refers to the scapula; subscapular means below the scapula."
-	},
-	{
-		"prompt": "Post- and retro- both mean",
-		"choices": [
-			"fast",
-			"slow",
-			"together",
-			"behind"
-		],
-		"answer": 3,
-		"explanation": "Both post- and retro- can refer to something behind or after in position or time."
-	},
-	{
-		"prompt": "Ec- and extra- both mean",
-		"choices": [
-			"within",
-			"multiple",
-			"outside",
-			"through"
-		],
-		"answer": 2,
-		"explanation": "Ec- (or ex-) and extra- both mean outside (e.g., extracellular = outside the cell)."
-	},
-	{
-		"prompt": "The term dysphagia stands for",
-		"choices": [
-			"difficulty in eating",
-			"difficulty in drinking",
-			"difficulty in urinating",
-			"difficulty in dancing"
-		],
-		"answer": 0,
-		"explanation": "Dys- means difficult and -phagia means eating/swallowing; dysphagia is difficulty swallowing."
-	},
-	{
-		"prompt": "The other word for posterior is",
-		"choices": [
-			"side",
-			"front",
-			"ventral",
-			"dorsal"
-		],
-		"answer": 3,
-		"explanation": "Dorsal refers to the back side of the body, similar to posterior. Ventral is anterior/front."
-	},
-	{
-		"prompt": "Coughing up blood is called",
-		"choices": [
-			"hematuria",
-			"hematochezia",
-			"hemoptysis",
-			"hematemesis"
-		],
-		"answer": 2,
-		"explanation": "Hemoptysis is coughing up blood from the respiratory tract. Hematemesis is vomiting blood."
-	},
-	{
-		"prompt": "Abnormal heart rhythm is termed",
-		"choices": [
-			"tachycardia",
-			"bradycardia",
-			"arrhythmia",
-			"none of the above"
-		],
-		"answer": 2,
-		"explanation": "Arrhythmia (or dysrhythmia) is an abnormal heart rhythm. Tachycardia and bradycardia refer to rate only."
-	},
-	{
-		"prompt": "Endocrine glands that are near (above) each kidney are",
-		"choices": [
-			"adrenal",
-			"prostate",
-			"subcostal",
-			"parathyroid",
-			"transurethral"
-		],
-		"answer": 0,
-		"explanation": "The adrenal (suprarenal) glands sit on top of each kidney."
-	},
-	{
-		"prompt": "Below the nail is",
-		"choices": [
-			"subungual",
-			"periungual",
-			"subcutaneous",
-			"subretinal"
-		],
-		"answer": 0,
-		"explanation": "Sub- means below and ungual refers to the nail; subungual is under the nail."
-	},
-	{
-		"prompt": "The prefix supra- means",
-		"choices": [
-			"above",
-			"under",
-			"inside of",
-			"sideways"
-		],
-		"answer": 0,
-		"explanation": "Supra- means above or over (e.g., suprapubic)."
-	},
-	{
-		"prompt": "Abnormal condition of platelets is called",
-		"choices": [
-			"erythrocytosis",
-			"leukocytosis",
-			"thrombocytosis",
-			"leukemia"
-		],
-		"answer": 2,
-		"explanation": "Thrombocytosis is an abnormal increase in platelets. Erythrocytosis and leukocytosis involve red and white cells."
-	},
-	{
-		"prompt": "The branch of medicine that deals with surgery on the urinary tract and treating male reproductive disorders is",
-		"choices": [
-			"Family practice",
-			"Internal medicine",
-			"Urology",
-			"Nephrology"
-		],
-		"answer": 2,
-		"explanation": "Urology focuses on the urinary tract and the male reproductive system. Nephrology is medical (non-surgical) kidney care."
+		"explanation": "Atrial flutter is characterized by an atrial rate of 250–350 bpm with flutter (F) waves."
 	}
 ]
