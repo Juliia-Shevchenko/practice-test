@@ -12,14 +12,12 @@ st.title("📝 Practice Test")
 # ---------- Paths ----------
 BASE_DIR = Path(__file__).parent
 QUESTIONS_ROOT = BASE_DIR / "questions"  # expects questions/<subject>/*.json
-
+IMAGES_ROOT = BASE_DIR  # or BASE_DIR / "images" if you prefer a dedicated folder
 # Optional upload (overrides built-ins if provided)
 # uploaded = st.file_uploader("Upload a questions JSON (optional)", type=["json"])
 
-# ---------- Paths ----------
-BASE_DIR = Path(__file__).parent
-QUESTIONS_ROOT = BASE_DIR / "questions"  # expects questions/<subject>/*.json
-IMAGES_ROOT = BASE_DIR  # or BASE_DIR / "images" if you prefer a dedicated folder
+
+
 
 
 # ---------- Helpers ----------
@@ -243,13 +241,12 @@ else:
         q = qs[i]
         st.subheader(q.get("prompt", ""))
     # Show rhythm/image if provided
-        img_rel = q.get("image")
-        if img_rel:
-            img_path = IMAGES_ROOT / img_rel
-            if img_path.exists():
-                st.image(str(img_path), caption="Rhythm strip", use_container_width=True)
-            else:
-                st.warning(f"Image not found: {img_rel}")
+       if q.get("image"):
+    img_path = IMAGES_ROOT / q["image"]
+    if img_path.exists():
+        st.image(str(img_path))
+    else:
+        st.error(f"Image not found: {q['image']}")
 
 
         answer_widget_value = None
