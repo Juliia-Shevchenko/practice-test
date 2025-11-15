@@ -297,8 +297,8 @@
 			"Reciprocating dysrhythmia",
 			"Sinus dysrhythmia"
 		],
-		"answer": 2,
-		"explanation": "WPW is a type of atrioventricular reciprocating tachycardia, a reciprocating dysrhythmia caused by an accessory pathway."
+		"answer": 0,
+		"explanation": "WPW is a type of atrioventricular reciprocating tachycardia, which is a type of reentry dysrhythmia."
 	},
 	{
 		"prompt": "You have performed an ECG on a hospital patient. A portion of the ECG tracing is shown. What signs and symptoms would you expect this patient to have?",
@@ -646,7 +646,7 @@
 			"Atrial depolarization is absent.",
 			"The atrial rate is too irregular to be determined."
 		],
-		"answer": 1,
+		"answer": 2,
 		"explanation": "In ventricular rhythms, the wide QRS complexes often obscure any underlying atrial activity, making the atrial rate unmeasurable."
 	},
 	{
@@ -658,7 +658,7 @@
 			"The QRS morphology varies during periods of sinus arrest."
 		],
 		"answer": 0,
-		"explanation": "In sinus arrest, the basic rhythm is regular, and the pause typically equals a multiple of the underlying R-R interval."
+		"explanation": "In sinus arrest, the basic rhythm is regular before and after the sinus pause."
 	},
 	{
 		"prompt": "What is the atrial rate in atrial flutter?",
