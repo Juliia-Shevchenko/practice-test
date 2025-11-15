@@ -647,7 +647,7 @@
 			"The atrial rate is too irregular to be determined."
 		],
 		"answer": 2,
-		"explanation": "In ventricular rhythms, the wide QRS complexes often obscure any underlying atrial activity, making the atrial rate unmeasurable."
+		"explanation": ""
 	},
 	{
 		"prompt": "Which of the following is a characteristic of sinus arrest?",
