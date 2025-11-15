@@ -240,15 +240,16 @@ else:
     if not st.session_state.done and i < n:
         q = qs[i]
         st.subheader(q.get("prompt", ""))
-    # Show rhythm/image if provided
-       if q.get("image"):
-    img_path = IMAGES_ROOT / q["image"]
-    if img_path.exists():
-        st.image(str(img_path))
-    else:
-        st.error(f"Image not found: {q['image']}")
 
+        # ----- Show image if present -----
+        if q.get("image"):
+            img_path = IMAGES_ROOT / q["image"]
+            if img_path.exists():
+                st.image(str(img_path))
+            else:
+                st.error(f"Image not found: {q['image']}")
 
+   
         answer_widget_value = None
         is_mcq = bool(q.get("choices"))
         is_two_correct = False
