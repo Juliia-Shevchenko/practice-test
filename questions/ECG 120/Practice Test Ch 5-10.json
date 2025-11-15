@@ -1,0 +1,1098 @@
+[
+	{
+		"prompt": "A flow or discharge of watery stool through the body is",
+		"choices": [
+			"hemorrhage",
+			"diarrhea",
+			"hyperemesis",
+			"menorrhea"
+		],
+		"answer": 1,
+		"explanation": "Watery stool is diarrhea. Hemorrhage is bleeding, hyperemesis is excessive vomiting, and menorrhea is menstrual flow."
+	},
+	{
+		"prompt": "A narrowing of the larynx is called",
+		"choices": [
+			"laryngomalacia",
+			"laryngostenosis",
+			"laryngectomy",
+			"laryngospasm"
+		],
+		"answer": 1,
+		"explanation": "The suffix -stenosis means narrowing or constriction, so laryngostenosis is narrowing of the larynx."
+	},
+	{
+		"prompt": "Inflammation of the brain is known as",
+		"choices": [
+			"encephalitis",
+			"hepatitis",
+			"phleboritis",
+			"rhinitis"
+		],
+		"answer": 0,
+		"explanation": "Encephal/o means brain and -itis means inflammation. Hepatitis is liver inflammation, phlebitis is vein inflammation, and rhinitis is nasal inflammation."
+	},
+	{
+		"prompt": "Producing or forming a blood clot is",
+		"choices": [
+			"osteogenesis",
+			"thrombogenesis",
+			"hematogenesis",
+			"phlebogenesis"
+		],
+		"answer": 1,
+		"explanation": "Thrombo- means clot and -genesis means formation, so thrombogenesis is clot formation."
+	},
+	{
+		"prompt": "The destruction of blood is called",
+		"choices": [
+			"hemolysis",
+			"hematogenesis",
+			"hematostenosis",
+			"hemotome"
+		],
+		"answer": 0,
+		"explanation": "Hemo- means blood and -lysis means breakdown or destruction. Hematogenesis is blood formation."
+	},
+	{
+		"prompt": "A new growth is called a",
+		"choices": [
+			"neoplasm",
+			"geoplasm",
+			"aplasm",
+			"dysplasia"
+		],
+		"answer": 0,
+		"explanation": "Neo- means new, and -plasm means growth or formation. Neoplasm is a new (often abnormal) growth."
+	},
+	{
+		"prompt": "Rapid eating or swallowing would be known as",
+		"choices": [
+			"bradyphagia",
+			"dysphagia",
+			"ultraphagia",
+			"tachyphagia"
+		],
+		"answer": 3,
+		"explanation": "Tachy- means fast and -phagia relates to eating/swallowing. Brady- means slow and dys- means difficult or painful."
+	},
+	{
+		"prompt": "An incision into the stomach is",
+		"choices": [
+			"laparotomy",
+			"gastrotomy",
+			"stomatomy",
+			"duodenotomy"
+		],
+		"answer": 1,
+		"explanation": "Gastr/o means stomach and -tomy means incision, so gastrotomy is incision into the stomach."
+	},
+	{
+		"prompt": "The vomiting of blood is",
+		"choices": [
+			"hematemesis",
+			"hyperemesis",
+			"bloodyemesis",
+			"erythroemesis"
+		],
+		"answer": 0,
+		"explanation": "Hemat- means blood and -emesis means vomiting. Hyperemesis is excessive vomiting (not necessarily blood)."
+	},
+	{
+		"prompt": "A disease or condition of hardening of the arteries is called",
+		"choices": [
+			"arteriostenosis",
+			"arteriosclerosis",
+			"arteriomalacia",
+			"atherosclerosis"
+		],
+		"answer": 1,
+		"explanation": "Arteriosclerosis is generalized hardening of the arteries. Atherosclerosis is plaque buildup specifically; arteriostenosis is narrowing."
+	},
+	{
+		"prompt": "Combining form for urinary bladder",
+		"choices": [
+			"cyst/o",
+			"vascul/o",
+			"angi/o"
+		],
+		"answer": 0,
+		"explanation": "Cyst/o is the combining form for urinary bladder. Vascul/o and angi/o refer to vessels."
+	},
+	{
+		"prompt": "The process in which nitrogenous wastes are separated from the blood by a machine is called",
+		"choices": [
+			"peritoneal filtering",
+			"dialysis",
+			"intravenous feeding",
+			"ligation"
+		],
+		"answer": 1,
+		"explanation": "Dialysis filters waste products from the blood using a machine. Peritoneal filtering is a different dialysis method using the peritoneum."
+	},
+	{
+		"prompt": "The operative procedure in which the fallopian tubes are tied is called",
+		"choices": [
+			"vasectomy",
+			"tubal ligation",
+			"orchipexy",
+			"oophorectomy"
+		],
+		"answer": 1,
+		"explanation": "Tubal ligation is surgical tying of the fallopian tubes to prevent pregnancy. Vasectomy is for the vas deferens in males."
+	},
+	{
+		"prompt": "The spleen is located in the",
+		"choices": [
+			"RUQ",
+			"RLQ",
+			"LUQ",
+			"LLQ"
+		],
+		"answer": 2,
+		"explanation": "The spleen lies in the left upper quadrant (LUQ) of the abdomen."
+	},
+	{
+		"prompt": "Inflammation of the liver is called",
+		"choices": [
+			"cirrhosis",
+			"jaundice",
+			"hepatitis",
+			"hepatoma"
+		],
+		"answer": 2,
+		"explanation": "Hepat/o means liver and -itis means inflammation. Cirrhosis is chronic scarring, jaundice is yellowing, and hepatoma is a liver tumor."
+	},
+	{
+		"prompt": "Series of cross-sectional x-ray images showing abdominal organs",
+		"choices": [
+			"abdominal CT",
+			"peritoneal CT",
+			"cerebral CT",
+			"thoracic CT"
+		],
+		"answer": 0,
+		"explanation": "A CT (computed tomography) focused on the abdomen gives cross-sectional images of the abdominal organs."
+	},
+	{
+		"prompt": "What are leukocytes?",
+		"choices": [
+			"white blood cells",
+			"red blood cells",
+			"platelets"
+		],
+		"answer": 0,
+		"explanation": "Leuk/o means white, and leukocytes are white blood cells. Erythrocytes are red blood cells; platelets are thrombocytes."
+	},
+	{
+		"prompt": "Pertaining to the large intestine",
+		"choices": [
+			"duodenal",
+			"jejunal",
+			"ileal",
+			"colonic"
+		],
+		"answer": 3,
+		"explanation": "Colon- refers to the large intestine, so colonic means pertaining to the large intestine."
+	},
+	{
+		"prompt": "Abnormal condition of gallstones is",
+		"choices": [
+			"colostomy",
+			"cholelithiasis",
+			"cholecystectomy",
+			"cholangiography"
+		],
+		"answer": 1,
+		"explanation": "Chole- means bile, -lithiasis means stones; cholelithiasis is gallstones. Cholecystectomy is gallbladder removal."
+	},
+	{
+		"prompt": "Visual examination of the colon",
+		"choices": [
+			"colonoscopy",
+			"rectoscopy",
+			"GI endoscopy",
+			"duodenoscopy"
+		],
+		"answer": 0,
+		"explanation": "Colonoscopy is endoscopic visual examination of the colon."
+	},
+	{
+		"prompt": "New opening between the stomach and large intestine",
+		"choices": [
+			"gastroduodenostomy",
+			"gastroileostomy",
+			"gastrocolonostomy",
+			"gastrojejunostomy"
+		],
+		"answer": 2,
+		"explanation": "Gastro- means stomach and -colono- refers to the large intestine. Gastrocolonostomy is a new opening between stomach and colon."
+	},
+	{
+		"prompt": "The medical word for windpipe is",
+		"choices": [
+			"esophagus",
+			"larynx",
+			"pharynx",
+			"trachea"
+		],
+		"answer": 3,
+		"explanation": "The trachea is commonly called the windpipe. The esophagus is the foodpipe."
+	},
+	{
+		"prompt": "The medical word for foodpipe is",
+		"choices": [
+			"esophagus",
+			"phaynx",
+			"oropharynx",
+			"larynx"
+		],
+		"answer": 0,
+		"explanation": "The esophagus carries food from the throat to the stomach, so it is the foodpipe."
+	},
+	{
+		"prompt": "The prefix trans- means",
+		"choices": [
+			"too much",
+			"too little",
+			"without",
+			"across"
+		],
+		"answer": 3,
+		"explanation": "Trans- means across or through (for example, transdermal)."
+	},
+	{
+		"prompt": "Pain during urination is called",
+		"choices": [
+			"oligouria",
+			"dysuria",
+			"hematuria",
+			"ketonuria"
+		],
+		"answer": 1,
+		"explanation": "Dysuria means difficult or painful urination. Hematuria is blood in urine, oliguria is low output."
+	},
+	{
+		"prompt": "The combining form append/o stands for",
+		"choices": [
+			"appendicular",
+			"appendices",
+			"apex",
+			"appendix"
+		],
+		"answer": 3,
+		"explanation": "Append/o refers to the appendix. Combining forms are based on the main structure, not the adjective or plural."
+	},
+	{
+		"prompt": "The combining form rect/o means",
+		"choices": [
+			"retrograde",
+			"rectum",
+			"renal",
+			"relax"
+		],
+		"answer": 1,
+		"explanation": "Rect/o is the combining form for rectum."
+	},
+	{
+		"prompt": "The combining form arteri/o means",
+		"choices": [
+			"arteriole",
+			"artery",
+			"artistic",
+			"alter"
+		],
+		"answer": 1,
+		"explanation": "Arteri/o refers to an artery. An arteriole is a small artery but is not what the combining form directly means."
+	},
+	{
+		"prompt": "The combining form ot/o stands for",
+		"choices": [
+			"ear",
+			"hear",
+			"fear",
+			"dear"
+		],
+		"answer": 0,
+		"explanation": "Ot/o means ear (as in otitis media, ear infection)."
+	},
+	{
+		"prompt": "The vertebrae in the chest region are called",
+		"choices": [
+			"cervical",
+			"lumbar",
+			"thoracic",
+			"sacral"
+		],
+		"answer": 2,
+		"explanation": "Thoracic vertebrae are in the chest region, attached to the ribs."
+	},
+	{
+		"prompt": "The outer layer of the skin is called the",
+		"choices": [
+			"dermis",
+			"epithelium",
+			"subcutaneous",
+			"epidermis"
+		],
+		"answer": 3,
+		"explanation": "The epidermis is the outermost layer of the skin. Dermis is the deeper layer."
+	},
+	{
+		"prompt": "Abnormal condition of no urine production is called",
+		"choices": [
+			"anuria",
+			"dysuria",
+			"ketonuria",
+			"none of the above"
+		],
+		"answer": 0,
+		"explanation": "An- means without, and -uria relates to urine; anuria is no urine production."
+	},
+	{
+		"prompt": "Resection of the ureter is called a/an",
+		"choices": [
+			"urethraectomy",
+			"ureterectomy",
+			"cystectomy",
+			"nephrectomy"
+		],
+		"answer": 1,
+		"explanation": "Ureterectomy is removal of the ureter. Urethrectomy is removal of the urethra, nephrectomy of the kidney."
+	},
+	{
+		"prompt": "A vertical plane that divides the body or body parts from front to back is the",
+		"choices": [
+			"coronal",
+			"sagittal",
+			"axial"
+		],
+		"answer": 1,
+		"explanation": "The sagittal plane divides the body into right and left, and is oriented front-to-back."
+	},
+	{
+		"prompt": "The abbreviation MI stands for",
+		"choices": [
+			"Myocardial isolyte",
+			"Myocardial imbalance",
+			"Myocardial infarction",
+			"Myocardial infection"
+		],
+		"answer": 2,
+		"explanation": "MI means myocardial infarction, commonly called a heart attack."
+	},
+	{
+		"prompt": "The abbreviation Dx stands for",
+		"choices": [
+			"disease",
+			"differential",
+			"diagnosis",
+			"dosage"
+		],
+		"answer": 2,
+		"explanation": "Dx is shorthand for diagnosis in medical documentation."
+	},
+	{
+		"prompt": "The abbreviation Fx stands for",
+		"choices": [
+			"fixate",
+			"fracture",
+			"fixture",
+			"fistula"
+		],
+		"answer": 1,
+		"explanation": "Fx is commonly used as an abbreviation for fracture."
+	},
+	{
+		"prompt": "A vertical plane that divides the body or organ into right and left sides is the",
+		"choices": [
+			"coronal",
+			"sagittal",
+			"axial"
+		],
+		"answer": 1,
+		"explanation": "The sagittal plane divides into right and left portions. Coronal divides front and back."
+	},
+	{
+		"prompt": "A horizontal plane that divides the body or organs into upper and lower portions is the",
+		"choices": [
+			"coronal",
+			"sagittal",
+			"axial"
+		],
+		"answer": 2,
+		"explanation": "The axial (transverse) plane cuts horizontally into superior and inferior portions."
+	},
+	{
+		"prompt": "The abbreviation Hx stands for",
+		"choices": [
+			"hypertension",
+			"history",
+			"hypotension",
+			"hallux"
+		],
+		"answer": 1,
+		"explanation": "Hx is shorthand for history (as in medical history)."
+	},
+	{
+		"prompt": "The abbreviation CVA stands for",
+		"choices": [
+			"Cerebrovascular Accident",
+			"Complete Vulva Artery",
+			"Cerebrovascular Artery",
+			"Cerebrovascular Angina"
+		],
+		"answer": 0,
+		"explanation": "CVA is Cerebrovascular Accident, commonly called a stroke."
+	},
+	{
+		"prompt": "The abbreviation CSF stands for",
+		"choices": [
+			"Cerebrospinal Fungi",
+			"Cerebrospinal Flow",
+			"Cerebrospinal Flu",
+			"Cerebrospinal Fluid"
+		],
+		"answer": 3,
+		"explanation": "CSF is cerebrospinal fluid, the fluid around the brain and spinal cord."
+	},
+	{
+		"prompt": "Craniotomy means",
+		"choices": [
+			"cutting into the heart",
+			"cutting into the thorax",
+			"cutting into the skull"
+		],
+		"answer": 2,
+		"explanation": "Crani/o means skull and -tomy means incision; craniotomy is opening the skull."
+	},
+	{
+		"prompt": "The abdominal region that lies above the stomach is",
+		"choices": [
+			"hypogastric",
+			"epigastric",
+			"subgastric",
+			"umbilical"
+		],
+		"answer": 1,
+		"explanation": "Epi- means above and gastr/o means stomach; epigastric is above the stomach."
+	},
+	{
+		"prompt": "The eyes are located laterally to the ears.",
+		"choices": [
+			"true",
+			"false"
+		],
+		"answer": 1,
+		"explanation": "The eyes are actually medial (closer to the midline) compared to the ears, not lateral."
+	},
+	{
+		"prompt": "The stomach is located in which of the following quadrants?",
+		"choices": [
+			"RLQ",
+			"LLQ",
+			"RUQ",
+			"LUQ"
+		],
+		"answer": 3,
+		"explanation": "Most of the stomach lies in the left upper quadrant (LUQ)."
+	},
+	{
+		"prompt": "A combining form is",
+		"choices": [
+			"the word ending",
+			"the root plus combining vowel",
+			"the prefix",
+			"the prefix plus combining vowel",
+			"the root and suffix"
+		],
+		"answer": 1,
+		"explanation": "A combining form consists of the word root plus a combining vowel (often 'o')."
+	},
+	{
+		"prompt": "The prefix ante- stands for",
+		"choices": [
+			"before",
+			"after",
+			"toward",
+			"near"
+		],
+		"answer": 0,
+		"explanation": "Ante- means before (in time or position), as in antepartum (before birth)."
+	},
+	{
+		"prompt": "The prefix bi- stands for",
+		"choices": [
+			"life",
+			"loss",
+			"two",
+			"one"
+		],
+		"answer": 2,
+		"explanation": "Bi- means two, as in bilateral (both sides)."
+	},
+	{
+		"prompt": "The prefix dys- stands for",
+		"choices": [
+			"abnormal",
+			"bad",
+			"painful",
+			"all of the above"
+		],
+		"answer": 3,
+		"explanation": "Dys- can indicate abnormal, bad, or painful (e.g., dysuria, dysplasia), so all apply."
+	},
+	{
+		"prompt": "The prefix hyper- stands for",
+		"choices": [
+			"excessive",
+			"less",
+			"down",
+			"below"
+		],
+		"answer": 0,
+		"explanation": "Hyper- means excessive or above normal, as in hypertension."
+	},
+	{
+		"prompt": "The prefix intra- stands for",
+		"choices": [
+			"within",
+			"outside",
+			"extra",
+			"less"
+		],
+		"answer": 0,
+		"explanation": "Intra- means within (e.g., intravenous = within a vein)."
+	},
+	{
+		"prompt": "The prefix poly- stands for",
+		"choices": [
+			"one",
+			"two",
+			"three",
+			"many"
+		],
+		"answer": 3,
+		"explanation": "Poly- means many (e.g., polyuria, polycystic)."
+	},
+	{
+		"prompt": "The prefix tri- stands for",
+		"choices": [
+			"one",
+			"two",
+			"three",
+			"four"
+		],
+		"answer": 2,
+		"explanation": "Tri- means three (e.g., tricuspid valve has three cusps)."
+	},
+	{
+		"prompt": "The prefix tachy- stands for",
+		"choices": [
+			"slow",
+			"fast",
+			"furious",
+			"calm"
+		],
+		"answer": 1,
+		"explanation": "Tachy- means fast, especially in heart rate (tachycardia)."
+	},
+	{
+		"prompt": "The combining form crypt/o means",
+		"choices": [
+			"below",
+			"above",
+			"hidden",
+			"down"
+		],
+		"answer": 2,
+		"explanation": "Crypt/o means hidden, as in cryptorchidism (hidden testis)."
+	},
+	{
+		"prompt": "The prefix con- stands for",
+		"choices": [
+			"outside",
+			"with",
+			"together",
+			"options b) and c)"
+		],
+		"answer": 3,
+		"explanation": "Con- means with or together, so both 'with' and 'together' are correct."
+	},
+	{
+		"prompt": "The suffix -stomy stands for",
+		"choices": [
+			"outlet",
+			"inlet",
+			"opening",
+			"closing"
+		],
+		"answer": 2,
+		"explanation": "A -stomy is the creation of a new opening (e.g., colostomy)."
+	},
+	{
+		"prompt": "The suffix -plasty stands for",
+		"choices": [
+			"surgical repair",
+			"surgical puncture",
+			"surgical removal",
+			"surgical fixation"
+		],
+		"answer": 0,
+		"explanation": "-plasty means surgical repair or reconstruction (e.g., rhinoplasty)."
+	},
+	{
+		"prompt": "The suffix -gram stands for",
+		"choices": [
+			"weight",
+			"measure",
+			"record",
+			"instrument"
+		],
+		"answer": 2,
+		"explanation": "A -gram is a record or picture (e.g., electrocardiogram). The instrument ends in -graph."
+	},
+	{
+		"prompt": "The suffix -al stands for",
+		"choices": [
+			"pertaining to",
+			"condition",
+			"abnormal state",
+			"all of the above"
+		],
+		"answer": 0,
+		"explanation": "-al is an adjective ending meaning 'pertaining to' (e.g., renal = pertaining to the kidney)."
+	},
+	{
+		"prompt": "The suffix -logy stands for",
+		"choices": [
+			"specialist",
+			"multi specialist",
+			"study of",
+			"super specialist"
+		],
+		"answer": 2,
+		"explanation": "-logy means the study of (e.g., cardiology). The specialist is -logist."
+	},
+	{
+		"prompt": "The suffix -itis stands for",
+		"choices": [
+			"infection",
+			"invasion",
+			"inflammation",
+			"irony"
+		],
+		"answer": 2,
+		"explanation": "-itis means inflammation, which may be due to infection but isn’t always."
+	},
+	{
+		"prompt": "The suffix -pathy stands for",
+		"choices": [
+			"knowledge",
+			"disease condition",
+			"cancer condition",
+			"brain condition"
+		],
+		"answer": 1,
+		"explanation": "-pathy refers to disease or disorder (e.g., neuropathy)."
+	},
+	{
+		"prompt": "The suffix -megaly stands for",
+		"choices": [
+			"enlargement",
+			"enrollment",
+			"shrinkage",
+			"solution"
+		],
+		"answer": 0,
+		"explanation": "-megaly means enlargement (e.g., cardiomegaly)."
+	},
+	{
+		"prompt": "The suffix -osis stands for",
+		"choices": [
+			"drooping",
+			"abnormal condition",
+			"abnormal cell",
+			"obesity"
+		],
+		"answer": 1,
+		"explanation": "-osis usually means an abnormal condition (e.g., dermatosis)."
+	},
+	{
+		"prompt": "Abnormal condition of white blood cells is called",
+		"choices": [
+			"erythrocytosis",
+			"thrombocytosis",
+			"leukocytosis",
+			"hematemesis"
+		],
+		"answer": 2,
+		"explanation": "Leukocytosis is an increased (abnormal) number of white blood cells. Erythrocytosis is RBCs; thrombocytosis is platelets."
+	},
+	{
+		"prompt": "Collection or mass of blood is",
+		"choices": [
+			"hematuria",
+			"hematoma",
+			"hematochezia"
+		],
+		"answer": 1,
+		"explanation": "A hematoma is a localized collection of blood in tissue. Hematuria is blood in urine; hematochezia is passage of blood in stool."
+	},
+	{
+		"prompt": "Surgical puncture to remove fluid from the chest is",
+		"choices": [
+			"thoracotomy",
+			"thoracostomy",
+			"thoracentesis",
+			"thoractomy"
+		],
+		"answer": 2,
+		"explanation": "-centesis means surgical puncture to remove fluid, so thoracentesis is puncture of the chest cavity to remove fluid."
+	},
+	{
+		"prompt": "Incision of a vein to withdraw blood is",
+		"choices": [
+			"phlebitis",
+			"phlebology",
+			"phlebic",
+			"phlebotomy"
+		],
+		"answer": 3,
+		"explanation": "Phleb/o means vein and -tomy is incision, so phlebotomy is cutting into a vein to draw blood."
+	},
+	{
+		"prompt": "Treatment using chemicals/drugs to destroy malignant cells is",
+		"choices": [
+			"radiotherapy",
+			"chemotherapy",
+			"dose therapy",
+			"Muga scan"
+		],
+		"answer": 1,
+		"explanation": "Chemotherapy uses chemical agents or drugs to treat cancer. Radiotherapy uses radiation."
+	},
+	{
+		"prompt": "Excision of a gland is",
+		"choices": [
+			"adenotomy",
+			"adenostomy",
+			"adenectomy",
+			"adenomegaly"
+		],
+		"answer": 2,
+		"explanation": "Aden/o means gland and -ectomy is removal; adenectomy is gland removal."
+	},
+	{
+		"prompt": "The tube that connects the mouth to the stomach is called",
+		"choices": [
+			"pharynx",
+			"larynx",
+			"trachea",
+			"esophagus"
+		],
+		"answer": 3,
+		"explanation": "The esophagus is the muscular tube from pharynx to stomach. The pharynx is the throat."
+	},
+	{
+		"prompt": "The part of the small intestine which connects the duodenum to the ileum is",
+		"choices": [
+			"colon",
+			"mega colon",
+			"mesocolon",
+			"jejunum"
+		],
+		"answer": 3,
+		"explanation": "The order of small intestine is duodenum, jejunum, ileum. So jejunum is between duodenum and ileum."
+	},
+	{
+		"prompt": "Imaging of blood vessels is called",
+		"choices": [
+			"angioplasty",
+			"arthrography",
+			"angiogrammy",
+			"angiography"
+		],
+		"answer": 3,
+		"explanation": "Angiography is imaging of blood vessels. Angioplasty is a procedure to open vessels."
+	},
+	{
+		"prompt": "Recording of the uterus and the fallopian tubes is called",
+		"choices": [
+			"hysterography",
+			"salpingography",
+			"hysterosalpingography",
+			"sonology"
+		],
+		"answer": 2,
+		"explanation": "Hystero- means uterus, salpingo- means tube, and -graphy is recording, so hysterosalpingography records both."
+	},
+	{
+		"prompt": "Recording of the kidney and urinary tract is called",
+		"choices": [
+			"urography",
+			"tomography",
+			"myelography",
+			"mammography"
+		],
+		"answer": 0,
+		"explanation": "Urography is imaging/recording of the urinary tract (kidneys, ureters, bladder)."
+	},
+	{
+		"prompt": "Prediction about the outcome of treatment is called",
+		"choices": [
+			"prognosis",
+			"psychosis",
+			"diagnosis",
+			"biopsy",
+			"pathology"
+		],
+		"answer": 0,
+		"explanation": "Pro- means before, -gnosis means knowledge; prognosis is a forecast of the course and outcome of a disease."
+	},
+	{
+		"prompt": "Normal discharge of blood during menstruation is",
+		"choices": [
+			"menorrhagia",
+			"dysmenorrheal",
+			"menorrhea",
+			"menopause"
+		],
+		"answer": 2,
+		"explanation": "Menorrhea is normal menstrual flow. Menorrhagia is excessive bleeding."
+	},
+	{
+		"prompt": "High levels of wastes (urea) in the blood is",
+		"choices": [
+			"urology",
+			"uremia",
+			"uric acid diathesis",
+			"nitrogen"
+		],
+		"answer": 1,
+		"explanation": "Uremia is a high level of urea and other nitrogenous wastes in the blood, usually due to renal failure."
+	},
+	{
+		"prompt": "The terms L1 – L5 stand for",
+		"choices": [
+			"lumbar vertebrae",
+			"thoracic vertebrae",
+			"cervical vertebrae",
+			"sacral vertebrae"
+		],
+		"answer": 0,
+		"explanation": "L1–L5 are the lumbar vertebrae. T1–T12 are thoracic; C1–C7 are cervical."
+	},
+	{
+		"prompt": "The vertical plane that divides the body into left and right EQUAL halves is called the",
+		"choices": [
+			"frontal",
+			"sagittal",
+			"midsagittal",
+			"transverse"
+		],
+		"answer": 2,
+		"explanation": "The midsagittal (median) plane divides the body into equal left and right halves."
+	},
+	{
+		"prompt": "The cavity that contains the urinary bladder, reproductive organs, and ureters is the",
+		"choices": [
+			"abdominal",
+			"pelvic",
+			"thoracic",
+			"lumbar"
+		],
+		"answer": 1,
+		"explanation": "These structures lie in the pelvic cavity, which is the lower part of the abdominopelvic cavity."
+	},
+	{
+		"prompt": "The membranes surrounding the brain are called",
+		"choices": [
+			"cerebrum",
+			"spinal membranes",
+			"myelin sheath",
+			"meninges"
+		],
+		"answer": 3,
+		"explanation": "The meninges are the three protective membranes around the brain and spinal cord."
+	},
+	{
+		"prompt": "When organs or cells shrink in size, it is called",
+		"choices": [
+			"dystrophy",
+			"catastrophy",
+			"atrophy",
+			"myotrophy"
+		],
+		"answer": 2,
+		"explanation": "Atrophy is a decrease in size of cells or organs. Dystrophy is abnormal development or degeneration."
+	},
+	{
+		"prompt": "The correct meaning for the suffix -globin is",
+		"choices": [
+			"protein",
+			"cell",
+			"pain",
+			"tumor",
+			"record"
+		],
+		"answer": 0,
+		"explanation": "-globin refers to a protein (as in hemoglobin, the oxygen-carrying protein in red blood cells)."
+	},
+	{
+		"prompt": "The term -pnea stands for",
+		"choices": [
+			"pulse",
+			"heart rate",
+			"breathing",
+			"shock"
+		],
+		"answer": 2,
+		"explanation": "-pnea relates to breathing (e.g., apnea, dyspnea)."
+	},
+	{
+		"prompt": "The backbones in the region of the neck are",
+		"choices": [
+			"lumbar bones",
+			"cervical bones",
+			"coccygeal bones",
+			"thoracic bones",
+			"sacral bones"
+		],
+		"answer": 1,
+		"explanation": "Cervical vertebrae (C1–C7) are in the neck region."
+	},
+	{
+		"prompt": "The term which means below the scapula is",
+		"choices": [
+			"hyposhoulder",
+			"hyperscapula",
+			"subscapular",
+			"subshoulder"
+		],
+		"answer": 2,
+		"explanation": "Sub- means under or below, and scapular refers to the scapula; subscapular means below the scapula."
+	},
+	{
+		"prompt": "Post- and retro- both mean",
+		"choices": [
+			"fast",
+			"slow",
+			"together",
+			"behind"
+		],
+		"answer": 3,
+		"explanation": "Both post- and retro- can refer to something behind or after in position or time."
+	},
+	{
+		"prompt": "Ec- and extra- both mean",
+		"choices": [
+			"within",
+			"multiple",
+			"outside",
+			"through"
+		],
+		"answer": 2,
+		"explanation": "Ec- (or ex-) and extra- both mean outside (e.g., extracellular = outside the cell)."
+	},
+	{
+		"prompt": "The term dysphagia stands for",
+		"choices": [
+			"difficulty in eating",
+			"difficulty in drinking",
+			"difficulty in urinating",
+			"difficulty in dancing"
+		],
+		"answer": 0,
+		"explanation": "Dys- means difficult and -phagia means eating/swallowing; dysphagia is difficulty swallowing."
+	},
+	{
+		"prompt": "The other word for posterior is",
+		"choices": [
+			"side",
+			"front",
+			"ventral",
+			"dorsal"
+		],
+		"answer": 3,
+		"explanation": "Dorsal refers to the back side of the body, similar to posterior. Ventral is anterior/front."
+	},
+	{
+		"prompt": "Coughing up blood is called",
+		"choices": [
+			"hematuria",
+			"hematochezia",
+			"hemoptysis",
+			"hematemesis"
+		],
+		"answer": 2,
+		"explanation": "Hemoptysis is coughing up blood from the respiratory tract. Hematemesis is vomiting blood."
+	},
+	{
+		"prompt": "Abnormal heart rhythm is termed",
+		"choices": [
+			"tachycardia",
+			"bradycardia",
+			"arrhythmia",
+			"none of the above"
+		],
+		"answer": 2,
+		"explanation": "Arrhythmia (or dysrhythmia) is an abnormal heart rhythm. Tachycardia and bradycardia refer to rate only."
+	},
+	{
+		"prompt": "Endocrine glands that are near (above) each kidney are",
+		"choices": [
+			"adrenal",
+			"prostate",
+			"subcostal",
+			"parathyroid",
+			"transurethral"
+		],
+		"answer": 0,
+		"explanation": "The adrenal (suprarenal) glands sit on top of each kidney."
+	},
+	{
+		"prompt": "Below the nail is",
+		"choices": [
+			"subungual",
+			"periungual",
+			"subcutaneous",
+			"subretinal"
+		],
+		"answer": 0,
+		"explanation": "Sub- means below and ungual refers to the nail; subungual is under the nail."
+	},
+	{
+		"prompt": "The prefix supra- means",
+		"choices": [
+			"above",
+			"under",
+			"inside of",
+			"sideways"
+		],
+		"answer": 0,
+		"explanation": "Supra- means above or over (e.g., suprapubic)."
+	},
+	{
+		"prompt": "Abnormal condition of platelets is called",
+		"choices": [
+			"erythrocytosis",
+			"leukocytosis",
+			"thrombocytosis",
+			"leukemia"
+		],
+		"answer": 2,
+		"explanation": "Thrombocytosis is an abnormal increase in platelets. Erythrocytosis and leukocytosis involve red and white cells."
+	},
+	{
+		"prompt": "The branch of medicine that deals with surgery on the urinary tract and treating male reproductive disorders is",
+		"choices": [
+			"Family practice",
+			"Internal medicine",
+			"Urology",
+			"Nephrology"
+		],
+		"answer": 2,
+		"explanation": "Urology focuses on the urinary tract and the male reproductive system. Nephrology is medical (non-surgical) kidney care."
+	}
+]
