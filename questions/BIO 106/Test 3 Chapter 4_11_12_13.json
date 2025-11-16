@@ -1,0 +1,702 @@
+[
+	{
+		"prompt": "What does the term metabolism refer to?",
+		"choices": [
+			"The reactions in the body that synthesize proteins and nucleic acids.",
+			"The reactions in the body that break down proteins and nucleic acids.",
+			"All of the chemical reactions in the body.",
+			"The breakdown of glucose molecules to release energy."
+		],
+		"answer": 2,
+		"explanation": "Metabolism is the sum of all chemical reactions that occur in the body, including both anabolism and catabolism."
+	},
+	{
+		"prompt": "Why is protein synthesis so important to the body?",
+		"choices": [
+			"Enzymes are proteins and enzymes are essential to metabolism.",
+			"Proteins store energy for metabolic reactions.",
+			"Proteins encode genetic sequences.",
+			"The diet does not provide the building blocks of protein."
+		],
+		"answer": 0,
+		"explanation": "Most enzymes are proteins, and enzymes are required to catalyze metabolic reactions, so protein synthesis is vital."
+	},
+	{
+		"prompt": "What is anabolism?",
+		"choices": [
+			"Biochemical reactions that synthesize compounds.",
+			"All chemical reactions occurring in the body.",
+			"Biochemical reactions that break down compounds.",
+			"Biochemical reactions that release energy from nutrients."
+		],
+		"answer": 0,
+		"explanation": "Anabolism is the building of larger molecules from smaller ones, which involves synthesis reactions."
+	},
+	{
+		"prompt": "Which of the following is an example of catabolism?",
+		"choices": [
+			"Decrease in the rate of glycogenesis.",
+			"Increase in muscle tissue with exercise.",
+			"Formation of secretory proteins in the pancreas.",
+			"Breakdown of glucose in the cytoplasm and mitochondria."
+		],
+		"answer": 3,
+		"explanation": "Catabolism breaks down larger molecules into smaller ones, such as the breakdown of glucose during cellular respiration."
+	},
+	{
+		"prompt": "What is catabolism?",
+		"choices": [
+			"Chemical reactions that require energy.",
+			"Chemical reactions that release energy.",
+			"Synthesis of large molecules from smaller ones.",
+			"The formation of genetic material."
+		],
+		"answer": 1,
+		"explanation": "Catabolic reactions break down molecules and typically release energy that can be used by the cell."
+	},
+	{
+		"prompt": "Molecules that function to increase the rate of chemical reactions are called:",
+		"choices": [
+			"hormones",
+			"substrates",
+			"enzymes",
+			"mutagens"
+		],
+		"answer": 2,
+		"explanation": "Enzymes are biological catalysts that speed up chemical reactions without being consumed."
+	},
+	{
+		"prompt": "Which of the following describes an enzyme?",
+		"choices": [
+			"A compound that is changed into a product during a chemical reaction.",
+			"A catalyst for a chemical reaction.",
+			"The end product(s) of a chemical reaction.",
+			"A compound that stores energy within its chemical bonds."
+		],
+		"answer": 1,
+		"explanation": "An enzyme is a catalyst that facilitates a chemical reaction but is not used up in the process."
+	},
+	{
+		"prompt": "What is an important mechanism that controls metabolic pathways?",
+		"choices": [
+			"Positive feedback",
+			"Amplification",
+			"Negative feedback",
+			"Genetic control"
+		],
+		"answer": 2,
+		"explanation": "Negative feedback helps maintain homeostasis by reducing activity when enough product has been made."
+	},
+	{
+		"prompt": "A cofactor is __________. Examples are __________.",
+		"choices": [
+			"an organic molecule that all enzymes require; cholesterol and calcium",
+			"an inorganic molecule that some enzymes require; vitamin B12 and B6",
+			"a necessary part of some enzymes; copper, iron, and zinc",
+			"a molecule that destabilizes enzymes; carbonic acid"
+		],
+		"answer": 2,
+		"explanation": "Some enzymes require cofactors such as metal ions like copper, iron, and zinc in order to function properly."
+	},
+	{
+		"prompt": "Humans require vitamins in their diets. What is a major function of these vitamins in the body?",
+		"choices": [
+			"To provide energy.",
+			"To be used as building blocks for lipids.",
+			"To bond to minerals and help in their transport.",
+			"To act as coenzymes."
+		],
+		"answer": 3,
+		"explanation": "Many vitamins function as coenzymes, helping enzymes catalyze metabolic reactions."
+	},
+	{
+		"prompt": "What molecule carries energy in a form that a cell can use?",
+		"choices": [
+			"Glucose",
+			"Glycogen",
+			"Vitamin C",
+			"ATP"
+		],
+		"answer": 3,
+		"explanation": "ATP stores and transfers energy in a form that is directly usable by cellular processes."
+	},
+	{
+		"prompt": "Why is ATP important for cellular processes?",
+		"choices": [
+			"It is a source of building blocks for structural proteins.",
+			"It provides energy for cellular work.",
+			"It binds and carries oxygen to parts of the cell where O₂ is needed.",
+			"As a major coenzyme, many enzymes require its presence in order to be functional."
+		],
+		"answer": 1,
+		"explanation": "ATP hydrolysis releases energy that powers many forms of cellular work, such as transport and mechanical movement."
+	},
+	{
+		"prompt": "What is the function of ATP molecules in living cells?",
+		"choices": [
+			"They contain genetic material.",
+			"Their energy is used in various cell processes.",
+			"They act as coenzymes so that fats can be synthesized.",
+			"They are an integral part of the cell membrane, important in transporting organic molecules."
+		],
+		"answer": 1,
+		"explanation": "The chemical energy stored in ATP is used to drive many reactions and processes in the cell."
+	},
+	{
+		"prompt": "What substance becomes more abundant during cellular respiration?",
+		"choices": [
+			"Oxygen",
+			"Glucose",
+			"ATP",
+			"Glycogen"
+		],
+		"answer": 2,
+		"explanation": "Cellular respiration converts energy in nutrients into ATP, so ATP levels increase."
+	},
+	{
+		"prompt": "Which of the following is a product of the citric acid cycle?",
+		"choices": [
+			"Carbon dioxide",
+			"Water",
+			"Glycogen",
+			"Pyruvic acid"
+		],
+		"answer": 0,
+		"explanation": "The citric acid cycle releases carbon dioxide as a waste product while extracting high-energy electrons."
+	},
+	{
+		"prompt": "What is the overall function of cellular respiration?",
+		"choices": [
+			"To produce glucose molecules that can be used for cellular fuel.",
+			"To release energy from nutrient molecules to be used as cellular energy.",
+			"To use carbon dioxide to produce oxygen molecules.",
+			"To produce enzymes and other proteins needed for metabolic processes."
+		],
+		"answer": 1,
+		"explanation": "Cellular respiration extracts energy from nutrients and stores it in ATP for cellular use."
+	},
+	{
+		"prompt": "What is true about the anaerobic reactions of cellular respiration?",
+		"choices": [
+			"Glucose is broken down into carbon dioxide and water.",
+			"Oxygen is required for the reactions to proceed.",
+			"Energy is transferred to ATP molecules.",
+			"The enzymes for the reactions are embedded in the inner mitochondrial membranes."
+		],
+		"answer": 2,
+		"explanation": "Anaerobic reactions, such as glycolysis, transfer some energy from glucose to ATP without requiring oxygen."
+	},
+	{
+		"prompt": "What comprises the central nervous system (CNS)?",
+		"choices": [
+			"Spinal and cranial nerves",
+			"Brain and spinal cord",
+			"Brain and cranial nerves",
+			"Nerves in the upper and lower limbs"
+		],
+		"answer": 1,
+		"explanation": "The CNS consists of the brain and spinal cord; peripheral nerves make up the PNS."
+	},
+	{
+		"prompt": "What is contained within the epidural space in the vertebral column?",
+		"choices": [
+			"Loose connective tissue, blood vessels, and adipose tissue",
+			"Dense connective tissue and cartilage",
+			"Serous fluid",
+			"Collagen, elastin, and bone tissue"
+		],
+		"answer": 0,
+		"explanation": "The epidural space contains fat, loose connective tissue, and blood vessels cushioning the spinal cord."
+	},
+	{
+		"prompt": "The __________ is the thin meninx attached to the surface of the brain, containing many nerves and blood vessels.",
+		"choices": [
+			"dura mater",
+			"arachnoid mater",
+			"pia mater",
+			"subdural mater"
+		],
+		"answer": 2,
+		"explanation": "The pia mater closely follows the contours of the brain and is rich in blood vessels."
+	},
+	{
+		"prompt": "What is the correct order for the components of a reflex arc?",
+		"choices": [
+			"Receptor, sensory neuron, motor neuron, interneuron, effector",
+			"Effector, receptor, sensory neuron, motor neuron, interneuron",
+			"Effector, sensory neuron, receptor, interneuron, motor neuron",
+			"Receptor, sensory neuron, interneuron, motor neuron, effector"
+		],
+		"answer": 3,
+		"explanation": "A typical reflex arc follows this path: receptor → sensory neuron → interneuron → motor neuron → effector."
+	},
+	{
+		"prompt": "What is the cauda equina?",
+		"choices": [
+			"Outermost protective layer covering the brain and spinal cord",
+			"The inferior tip of the spinal cord",
+			"Bundle of nervous tissue that extends beyond tip of spinal cord",
+			"Cord of connective tissue that anchors spinal cord to the coccyx"
+		],
+		"answer": 2,
+		"explanation": "The cauda equina is a bundle of spinal nerve roots extending below the end of the spinal cord."
+	},
+	{
+		"prompt": "In the spinal cord, __________ matter is surrounded by __________ matter.",
+		"choices": [
+			"white; gray",
+			"gray; white"
+		],
+		"answer": 1,
+		"explanation": "In cross-section, the spinal cord has an inner H-shaped region of gray matter surrounded by white matter."
+	},
+	{
+		"prompt": "What would be the effect of damage to Broca's area?",
+		"choices": [
+			"Memory loss",
+			"Impaired motor control of the left side of the body",
+			"Vision loss",
+			"Loss of motor control needed for speech"
+		],
+		"answer": 3,
+		"explanation": "Broca’s area coordinates the motor actions for speech; damage causes difficulty producing spoken words."
+	},
+	{
+		"prompt": "What is a function of the association areas of the frontal lobes?",
+		"choices": [
+			"Stimulate movement of arms and legs",
+			"Higher intellectual processes, including planning and problem solving",
+			"Analysis and interpretation of auditory input",
+			"Analysis and interpretation of visual input"
+		],
+		"answer": 1,
+		"explanation": "Frontal association areas are involved in higher cognitive functions such as planning and decision making."
+	},
+	{
+		"prompt": "What is a cerebrovascular accident?",
+		"choices": [
+			"Accumulation of blood between meningeal layers",
+			"Abnormal brain wave activity",
+			"Death of nervous system tissue due to blocked blood flow",
+			"Death of brain tissue due to increased intracranial pressure"
+		],
+		"answer": 2,
+		"explanation": "A cerebrovascular accident (stroke) results from interrupted blood flow, causing tissue death in the brain."
+	},
+	{
+		"prompt": "For most people, the dominant cerebral hemisphere is their __________ hemisphere.",
+		"choices": [
+			"left",
+			"right"
+		],
+		"answer": 0,
+		"explanation": "In most individuals, the left hemisphere is dominant, especially for language and analytic tasks."
+	},
+	{
+		"prompt": "Functionally, the adrenal medulla has the same effects on the body as the __________ nervous system.",
+		"choices": [
+			"sympathetic",
+			"somatic",
+			"parasympathetic",
+			"sensory"
+		],
+		"answer": 0,
+		"explanation": "The adrenal medulla releases epinephrine and norepinephrine, mimicking sympathetic nervous system activity."
+	},
+	{
+		"prompt": "Where are receptors for the general senses located?",
+		"choices": [
+			"In a few clusters within the head",
+			"Only in the integumentary system",
+			"Widely distributed throughout the body",
+			"Throughout the visceral organs"
+		],
+		"answer": 2,
+		"explanation": "General sense receptors are widely distributed in skin, muscles, joints, and various organs."
+	},
+	{
+		"prompt": "Where are receptors for the special senses located?",
+		"choices": [
+			"Primarily in the head",
+			"Throughout the integumentary system",
+			"In the fingertips",
+			"In internal organs"
+		],
+		"answer": 0,
+		"explanation": "Special senses such as vision, hearing, and taste have receptors localized mainly in the head."
+	},
+	{
+		"prompt": "The interpretation of sensory input by the brain is referred to as __________.",
+		"choices": [
+			"reception",
+			"sensation",
+			"perception",
+			"recognition"
+		],
+		"answer": 2,
+		"explanation": "Perception is the brain’s interpretation of sensory impulses, giving them meaning."
+	},
+	{
+		"prompt": "What type of receptor detects and responds to pressure?",
+		"choices": [
+			"Baroreceptors",
+			"Thermoreceptors",
+			"Photoreceptors",
+			"Chemoreceptors"
+		],
+		"answer": 0,
+		"explanation": "Baroreceptors detect changes in pressure, such as blood pressure in vessels."
+	},
+	{
+		"prompt": "Olfactory receptors are examples of what class of sensory receptor?",
+		"choices": [
+			"Thermoreceptors",
+			"Mechanoreceptors",
+			"Chemoreceptors",
+			"Proprioceptors"
+		],
+		"answer": 2,
+		"explanation": "Olfactory receptors respond to chemical molecules in the air, making them chemoreceptors."
+	},
+	{
+		"prompt": "Which receptor/stimulus pair is correct?",
+		"choices": [
+			"Baroreceptors: stimulated when injury occurs to nearby tissue.",
+			"Nociceptors: stimulated by increase in blood pressure.",
+			"Thermoreceptors: stimulated by light energy.",
+			"Proprioceptors: stimulated by changes in tension in muscles and tendons."
+		],
+		"answer": 3,
+		"explanation": "Proprioceptors detect body position and movement by sensing tension and stretch in muscles and tendons."
+	},
+	{
+		"prompt": "Muscle spindles and Golgi tendon organs are receptors for __________.",
+		"choices": [
+			"proprioception",
+			"pain",
+			"equilibrium",
+			"touch and pressure"
+		],
+		"answer": 0,
+		"explanation": "These structures sense muscle length and tension and are key proprioceptive receptors."
+	},
+	{
+		"prompt": "Structurally, taste receptors are __________.",
+		"choices": [
+			"free nerve endings",
+			"hair cells",
+			"modified connective tissue cells",
+			"modified epithelial cells"
+		],
+		"answer": 3,
+		"explanation": "Taste receptors are specialized epithelial cells that synapse with sensory neurons."
+	},
+	{
+		"prompt": "Which of the following is not a primary taste sensation?",
+		"choices": [
+			"Sweet",
+			"Salty",
+			"Pungent",
+			"Sour"
+		],
+		"answer": 2,
+		"explanation": "The primary tastes are sweet, salty, sour, bitter, and umami; pungent is not one of them."
+	},
+	{
+		"prompt": "Where are the receptors for hearing located?",
+		"choices": [
+			"In the ampullae",
+			"In the spiral organ",
+			"In the utricles",
+			"In the saccules"
+		],
+		"answer": 1,
+		"explanation": "The spiral organ (organ of Corti) in the cochlea contains the sensory cells for hearing."
+	},
+	{
+		"prompt": "What is the treatment for a cataract?",
+		"choices": [
+			"Removal of the cornea",
+			"Anchoring the retina in place",
+			"Removal of the lens",
+			"Using medication to reduce production of aqueous humor"
+		],
+		"answer": 2,
+		"explanation": "A cataract is clouding of the lens, and treatment usually involves surgical lens removal and replacement."
+	},
+	{
+		"prompt": "The olfactory receptors are examples of what class of receptor?",
+		"choices": [
+			"Thermoreceptors",
+			"Mechanoreceptors",
+			"Chemoreceptors",
+			"Proprioceptors"
+		],
+		"answer": 2,
+		"explanation": "Like other chemical-sensing receptors, olfactory receptors are chemoreceptors."
+	},
+	{
+		"prompt": "What structure is part of the innermost layer of the wall of the eye?",
+		"choices": [
+			"Ciliary body",
+			"Retina",
+			"Choroid coat",
+			"Sclera"
+		],
+		"answer": 1,
+		"explanation": "The retina is part of the inner (nervous) tunic of the eye and contains photoreceptors."
+	},
+	{
+		"prompt": "What region of the retina provides the sharpest vision?",
+		"choices": [
+			"Fovea centralis",
+			"Optic disc",
+			"Conjunctiva",
+			"Ciliary body"
+		],
+		"answer": 0,
+		"explanation": "The fovea centralis has the highest concentration of cones and provides the greatest visual acuity."
+	},
+	{
+		"prompt": "The inner ear is located within which cranial bone?",
+		"choices": [
+			"Parietal bone",
+			"Sphenoid bone",
+			"Temporal bone",
+			"Occipital bone"
+		],
+		"answer": 2,
+		"explanation": "The structures of the inner ear are embedded in the petrous part of the temporal bone."
+	},
+	{
+		"prompt": "A hormone is a __________ and the target cell is __________.",
+		"choices": [
+			"protein that stimulates other cells; the source of hormone secretions",
+			"regulatory molecule that controls secretions of other cells; a cell that synthesizes hormones",
+			"molecule that has a metabolic effect on another cell; a cell that has receptors for specific hormones",
+			"molecule; a cell that does not have receptors"
+		],
+		"answer": 2,
+		"explanation": "Hormones act on target cells that possess specific receptors and alter their metabolic activity."
+	},
+	{
+		"prompt": "How do exocrine glands differ from endocrine glands?",
+		"choices": [
+			"Exocrine glands secrete substances into the bloodstream.",
+			"Exocrine glands secrete local hormones.",
+			"Exocrine glands secrete through ducts or tubes to a free surface.",
+			"Exocrine glands only secrete salts."
+		],
+		"answer": 2,
+		"explanation": "Exocrine glands release their products through ducts to body surfaces or cavities, unlike ductless endocrine glands."
+	},
+	{
+		"prompt": "A sweat gland is an example of a(n) __________ gland.",
+		"choices": [
+			"exocrine",
+			"paracrine",
+			"endocrine",
+			"autocrine"
+		],
+		"answer": 0,
+		"explanation": "Sweat glands secrete sweat through ducts onto the skin surface, making them exocrine glands."
+	},
+	{
+		"prompt": "What does \"endocrine\" mean?",
+		"choices": [
+			"Hormone synthesis",
+			"Internal secretion",
+			"Acts upon target cells",
+			"Fast-acting compound"
+		],
+		"answer": 1,
+		"explanation": "Endocrine literally means ‘to secrete within,’ referring to hormones released into the bloodstream."
+	},
+	{
+		"prompt": "How can a hormone have effects on some cells but not on other cells?",
+		"choices": [
+			"Because target cell receptors are unique for each hormone.",
+			"Because target cell receptors are found near the endocrine gland.",
+			"Because target cell receptors are only present during certain times.",
+			"Because target cell receptors bind certain neurotransmitters and hormones."
+		],
+		"answer": 0,
+		"explanation": "Only cells with the appropriate receptors for a hormone will respond to it; others will not."
+	},
+	{
+		"prompt": "What is a function of hormones?",
+		"choices": [
+			"To catalyze reactions by physically bringing two reactants closer together",
+			"To stimulate growth, reproduction, and development",
+			"To protect the body by fighting off diseases",
+			"To generate action potentials to send signals through the body"
+		],
+		"answer": 1,
+		"explanation": "Hormones regulate many processes, including growth, development, metabolism, and reproduction."
+	},
+	{
+		"prompt": "What do all hormones have in common?",
+		"choices": [
+			"They are steroids.",
+			"They are proteins.",
+			"They are inorganic compounds.",
+			"They are organic compounds."
+		],
+		"answer": 3,
+		"explanation": "Hormones are organic molecules, but they vary in type (steroids, peptides, amines, etc.)."
+	},
+	{
+		"prompt": "Which of the following is true for steroid hormones?",
+		"choices": [
+			"They are soluble in lipids.",
+			"They circulate free in the blood, not bound to any carriers.",
+			"Their receptors are found on the cell membranes of target cells.",
+			"They include epinephrine and norepinephrine."
+		],
+		"answer": 0,
+		"explanation": "Steroid hormones are lipid-soluble and can diffuse through cell membranes to bind intracellular receptors."
+	},
+	{
+		"prompt": "Where are hormones secreted by the posterior pituitary synthesized?",
+		"choices": [
+			"Posterior pituitary",
+			"Hypothalamus",
+			"Thalamus",
+			"Anterior pituitary"
+		],
+		"answer": 1,
+		"explanation": "ADH and oxytocin are made in the hypothalamus and transported to the posterior pituitary for release."
+	},
+	{
+		"prompt": "What controls most hormone concentrations?",
+		"choices": [
+			"Positive feedback",
+			"Negative feedback",
+			"Muscle contraction",
+			"Exposure to sun"
+		],
+		"answer": 1,
+		"explanation": "Most hormones are regulated by negative feedback loops to keep their levels within a normal range."
+	},
+	{
+		"prompt": "What are tropic hormones?",
+		"choices": [
+			"Hormones that function in the tropics",
+			"Hormones that function in only one sex",
+			"Hormones that stimulate other endocrine glands to secrete hormones",
+			"Hormones that block the actions of other hormones"
+		],
+		"answer": 2,
+		"explanation": "Tropic hormones act on other endocrine glands, stimulating them to release their own hormones."
+	},
+	{
+		"prompt": "What do nerve fibers in the posterior lobe of the pituitary gland secrete?",
+		"choices": [
+			"Thyroid-stimulating hormone",
+			"Adrenocorticotropic hormone",
+			"Growth hormone",
+			"Antidiuretic hormone"
+		],
+		"answer": 3,
+		"explanation": "Axons in the posterior pituitary release ADH (and also oxytocin) into the bloodstream."
+	},
+	{
+		"prompt": "Why is oxytocin administered to women during childbirth?",
+		"choices": [
+			"To inhibit milk production",
+			"To stimulate uterine contractions",
+			"To inhibit uterine contractions",
+			"To stimulate ACTH production"
+		],
+		"answer": 1,
+		"explanation": "Oxytocin increases the strength and frequency of uterine contractions during labor."
+	},
+	{
+		"prompt": "What hormone stimulates calcium deposition into bone?",
+		"choices": [
+			"Calcitonin",
+			"Parathyroid hormone",
+			"Thyroxine",
+			"Insulin"
+		],
+		"answer": 0,
+		"explanation": "Calcitonin lowers blood calcium levels by promoting calcium deposition in bone."
+	},
+	{
+		"prompt": "Which of the following is a hormone secreted by the adrenal medulla?",
+		"choices": [
+			"Mineralocorticoid",
+			"Glucocorticoid",
+			"Aldosterone",
+			"Epinephrine"
+		],
+		"answer": 3,
+		"explanation": "The adrenal medulla secretes catecholamines such as epinephrine and norepinephrine."
+	},
+	{
+		"prompt": "Aldosterone promotes the homeostasis of ions by causing the kidneys to __________.",
+		"choices": [
+			"conserve sodium and excrete potassium",
+			"excrete sodium and conserve potassium",
+			"excrete sodium and potassium",
+			"conserve sodium and potassium"
+		],
+		"answer": 0,
+		"explanation": "Aldosterone increases sodium reabsorption and potassium excretion, helping regulate fluid and electrolytes."
+	},
+	{
+		"prompt": "What is the action of insulin?",
+		"choices": [
+			"Decreases concentration of blood glucose",
+			"Decreases permeability of cell membranes to glucose",
+			"Increases breakdown of glycogen to release glucose",
+			"Increases concentration of blood glucose"
+		],
+		"answer": 0,
+		"explanation": "Insulin lowers blood glucose by promoting glucose uptake into cells and stimulating glycogen synthesis."
+	},
+	{
+		"prompt": "What is the action of glucagon?",
+		"choices": [
+			"Increased production of fat",
+			"Increased permeability of the cell membrane to glucose",
+			"Increased blood glucose concentration",
+			"Increase in glycogen production"
+		],
+		"answer": 2,
+		"explanation": "Glucagon raises blood glucose by stimulating glycogen breakdown and glucose release by the liver."
+	},
+	{
+		"prompt": "Which of the following has both endocrine and exocrine functions?",
+		"choices": [
+			"Pancreas",
+			"Anterior pituitary",
+			"Liver",
+			"Thyroid gland"
+		],
+		"answer": 0,
+		"explanation": "The pancreas secretes digestive enzymes (exocrine) and hormones like insulin and glucagon (endocrine)."
+	},
+	{
+		"prompt": "What is a cause of Type 2 diabetes mellitus?",
+		"choices": [
+			"A deficiency of insulin",
+			"An insensitivity of cells to insulin",
+			"An excess production of glucagon",
+			"An infection"
+		],
+		"answer": 1,
+		"explanation": "In Type 2 diabetes, target cells become less responsive to insulin, leading to insulin resistance."
+	},
+	{
+		"prompt": "Where is the thyroid gland located?",
+		"choices": [
+			"Anterior to the heart",
+			"Anterior to the trachea",
+			"In the brain",
+			"Superior to the kidneys"
+		],
+		"answer": 1,
+		"explanation": "The thyroid sits in the neck, just anterior to the trachea and inferior to the larynx."
+	}
+]
