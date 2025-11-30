@@ -134,10 +134,10 @@
 	{
 		"prompt": "When should a student scan?",
 		"choices": [
-			"Before sonographer",
-			"After sonographer",
-			"Whenever possible",
-			"Only thin patients"
+			"Students who have less experience prefer to scan before the sonographer scans", 
+			"Students who have more experience prefer to scan after the sonographer scans", 
+			"It is best to scan whenever you have the opportunity", 
+			"It is best to scan thin body habitus patients only"
 		],
 		"answer": 2,
 		"explanation": "Scan at every opportunity."
@@ -145,10 +145,10 @@
 	{
 		"prompt": "Which is NOT true of a professional?",
 		"choices": [
-			"Must meet criteria",
-			"Must follow national dress code",
-			"Must meet standards",
-			"Must follow ethics"
+			"A professional must achieve certain educational criteria",
+			"A professional must adhere to a specific dress code as prescribed by a national organization", 
+			"A professional must meet minimum standards to practice within the profession", 
+			"A professional must adhere to an established code of ethics and competency standards"
 		],
 		"answer": 1,
 		"explanation": "Professionals follow employer dress codes, not national."
@@ -176,11 +176,11 @@
 		"explanation": "Mammography is primary screening."
 	},
 	{
-		"prompt": "Not a QA responsibility?",
+		"prompt": "Which of the following is not a responsibility of a quality assurance program?",
 		"choices": [
-			"Record equipment assessments",
-			"Maintain equipment",
-			"Maintain certification",
+			"Keep records of all equipment assessments", 
+			"Maintain ultrasound equipment",
+			"Maintain certification of all sonographers",
 			"Provide repairs"
 		],
 		"answer": 2,
@@ -200,10 +200,10 @@
 	{
 		"prompt": "FAST exam performed in:",
 		"choices": [
-			"ER",
+			"Emergency room",
 			"Sonography room",
-			"Outpatient",
-			"OR"
+			"Outpatient department",
+			"Operating room"
 		],
 		"answer": 0,
 		"explanation": "FAST is trauma/ER exam."
@@ -220,7 +220,7 @@
 		"explanation": "Orthogonal = perpendicular."
 	},
 	{
-		"prompt": "Which requires special prep?",
+		"prompt": "Which of the following examinations would require special patient preparation?",
 		"choices": [
 			"Thyroid",
 			"Breast",
@@ -231,18 +231,18 @@
 		"explanation": "Gallbladder requires fasting."
 	},
 	{
-		"prompt": "First trimester measurement:",
+		"prompt": "Which of the following would be a common first-trimester obstetric measurement of the fetus?",
 		"choices": [
-			"BPD",
+			"Biparietal diameter",
 			"Femur length",
 			"Head circumference",
-			"CRL"
+			"Crown rump length"
 		],
 		"answer": 3,
 		"explanation": "CRL used early."
 	},
 	{
-		"prompt": "Endocavity transducer used for:",
+		"prompt": "Which of the following is performed with an endocavity transducer?",
 		"choices": [
 			"Thyroid",
 			"Breast",
@@ -253,7 +253,7 @@
 		"explanation": "Sonohysterogram uses endovaginal."
 	},
 	{
-		"prompt": "Not used to assess cervix:",
+		"prompt": "Which of the following techniques is not commonly used during a third-trimester sonogram to identifythe cervix?",
 		"choices": [
 			"Transabdominal",
 			"Transvaginal",
@@ -264,12 +264,12 @@
 		"explanation": "Rectal is not typical."
 	},
 	{
-		"prompt": "Accredits sonography programs:",
+		"prompt": "Which of the following is an organization that grants accreditation for sonography programs?",
 		"choices": [
-			"ARDMS",
-			"JRC-DMS",
-			"ARRT",
-			"CAAHEP"
+			"American Registry of Diagnostic Medical Sonography",
+			"Joint Review Committee on Education in Diagnostic Medical Sonography",
+			"American Registry of Radiologic Technologist",
+			"Commission on Accreditation of Allied Health Programs"
 		],
 		"answer": 3,
 		"explanation": "CAAHEP accredits."
