@@ -1,0 +1,1144 @@
+[
+	{
+		"prompt": "Which of the following would be least helpful to cope with stress and anxiety?",
+		"choices": [
+			"Practice stress-reducing activities.",
+			"Recognize the symptoms.",
+			"Use pessimistic language.",
+			"Anticipate stress and be prepared."
+		],
+		"answer": 2,
+		"explanation": "Using pessimistic language worsens anxiety."
+	},
+	{
+		"prompt": "Anxiety is fueled by all of the following mechanisms except:",
+		"choices": [
+			"Behavioral component",
+			"Mental component",
+			"Cognitive component",
+			"Physical component"
+		],
+		"answer": 0,
+		"explanation": "Behavior is a result, not a cause of anxiety."
+	},
+	{
+		"prompt": "Which of the following would be considered destructive behavior resulting from anxiety?",
+		"choices": [
+			"Getting work done ahead of time",
+			"Removing oneself from the situation to avoid negative outcomes",
+			"Confiding in a close friend for advice",
+			"Seeking professional help"
+		],
+		"answer": 1,
+		"explanation": "Avoidance reinforces anxiety."
+	},
+	{
+		"prompt": "Which of the following is not true of stress?",
+		"choices": [
+			"Stress is abnormal.",
+			"Stress may make you work harder and achieve more.",
+			"Stress can be a motivator.",
+			"Stress increases anxiety."
+		],
+		"answer": 0,
+		"explanation": "Stress is normal."
+	},
+	{
+		"prompt": "Which... emotional support?",
+		"choices": [
+			"Avoiding stress...",
+			"Studying in seclusion",
+			"Involving family/friends",
+			"Trying to obtain job weekends"
+		],
+		"answer": 1,
+		"explanation": "Isolation reduces support."
+	},
+	{
+		"prompt": "Which of the following would not be considered a good way to manage your time?",
+		"choices": [
+			"Create academic calendar",
+			"Keep up with social media",
+			"Plan day/week",
+			"Set deadlines"
+		],
+		"answer": 1,
+		"explanation": "Social media disrupts time management."
+	},
+	{
+		"prompt": "Which coursework strengthens clinical skills?",
+		"choices": [
+			"Public speaking",
+			"All of these",
+			"Computer courses",
+			"Medical terminology"
+		],
+		"answer": 1,
+		"explanation": "All contribute to clinical skill."
+	},
+	{
+		"prompt": "Least likely to help preparing for tests?",
+		"choices": [
+			"Create study cards",
+			"Watch TV",
+			"Form a study group",
+			"Read textbook"
+		],
+		"answer": 1,
+		"explanation": "TV distracts from studying."
+	},
+	{
+		"prompt": "Prohibited by ARDMS?",
+		"choices": [
+			"Study groups",
+			"Brain cramping",
+			"Brain dumping",
+			"Memorization"
+		],
+		"answer": 2,
+		"explanation": "Brain dumping violates exam ethics."
+	},
+	{
+		"prompt": "Diagnostic ultrasound is:",
+		"choices": [
+			"2–15 MHz",
+			"2–20,000 Hz",
+			"Greater than 20,000 Hz",
+			"More than 2 Hz"
+		],
+		"answer": 0,
+		"explanation": "Ultrasound imaging uses 2–15 MHz."
+	},
+	{
+		"prompt": "Ultrasound is considered:",
+		"choices": [
+			"Less than 40,000 Hz",
+			"Greater than 2 Hz",
+			"Greater than 20,000 MHz",
+			"Greater than 20,000 Hz"
+		],
+		"answer": 3,
+		"explanation": "Ultrasound >20 kHz."
+	},
+	{
+		"prompt": "Which true of scanning experience?",
+		"choices": [
+			"Easy for most students",
+			"Cumulative",
+			"Mostly in classroom",
+			"Only small body habitus"
+		],
+		"answer": 1,
+		"explanation": "Scanning skill builds gradually."
+	},
+	{
+		"prompt": "When should a student scan?",
+		"choices": [
+			"Before sonographer",
+			"After sonographer",
+			"Whenever possible",
+			"Only thin patients"
+		],
+		"answer": 2,
+		"explanation": "Scan at every opportunity."
+	},
+	{
+		"prompt": "Which is NOT true of a professional?",
+		"choices": [
+			"Must meet criteria",
+			"Must follow national dress code",
+			"Must meet standards",
+			"Must follow ethics"
+		],
+		"answer": 1,
+		"explanation": "Professionals follow employer dress codes, not national."
+	},
+	{
+		"prompt": "HIPAA stands for:",
+		"choices": [
+			"Health Insurance Portability and Acceptability",
+			"Health Insurance Protection Agency",
+			"Health Insurance Protection and Accountability",
+			"Health Insurance Portability and Accountability"
+		],
+		"answer": 3,
+		"explanation": "Correct federal act name."
+	},
+	{
+		"prompt": "Gold standard in breast imaging?",
+		"choices": [
+			"Radiography",
+			"Sonography",
+			"Mammography",
+			"CT"
+		],
+		"answer": 2,
+		"explanation": "Mammography is primary screening."
+	},
+	{
+		"prompt": "Not a QA responsibility?",
+		"choices": [
+			"Record equipment assessments",
+			"Maintain equipment",
+			"Maintain certification",
+			"Provide repairs"
+		],
+		"answer": 2,
+		"explanation": "Certification is not a QA duty."
+	},
+	{
+		"prompt": "ALARA stands for:",
+		"choices": [
+			"As Low as Radiation Alerts",
+			"As Low as Reasonably Achievable",
+			"As Long as Radiation Achievable",
+			"As Long as Reasonably Attainable"
+		],
+		"answer": 1,
+		"explanation": "Radiation safety principle."
+	},
+	{
+		"prompt": "FAST exam performed in:",
+		"choices": [
+			"ER",
+			"Sonography room",
+			"Outpatient",
+			"OR"
+		],
+		"answer": 0,
+		"explanation": "FAST is trauma/ER exam."
+	},
+	{
+		"prompt": "Orthogonal planes:",
+		"choices": [
+			"Contralateral",
+			"Ipsilateral",
+			"Parallel",
+			"Perpendicular"
+		],
+		"answer": 3,
+		"explanation": "Orthogonal = perpendicular."
+	},
+	{
+		"prompt": "Which requires special prep?",
+		"choices": [
+			"Thyroid",
+			"Breast",
+			"Gallbladder",
+			"Scrotal"
+		],
+		"answer": 2,
+		"explanation": "Gallbladder requires fasting."
+	},
+	{
+		"prompt": "First trimester measurement:",
+		"choices": [
+			"BPD",
+			"Femur length",
+			"Head circumference",
+			"CRL"
+		],
+		"answer": 3,
+		"explanation": "CRL used early."
+	},
+	{
+		"prompt": "Endocavity transducer used for:",
+		"choices": [
+			"Thyroid",
+			"Breast",
+			"Scrotal",
+			"Sonohysterogram"
+		],
+		"answer": 3,
+		"explanation": "Sonohysterogram uses endovaginal."
+	},
+	{
+		"prompt": "Not used to assess cervix:",
+		"choices": [
+			"Transabdominal",
+			"Transvaginal",
+			"Transrectal",
+			"Transperineal"
+		],
+		"answer": 2,
+		"explanation": "Rectal is not typical."
+	},
+	{
+		"prompt": "Accredits sonography programs:",
+		"choices": [
+			"ARDMS",
+			"JRC-DMS",
+			"ARRT",
+			"CAAHEP"
+		],
+		"answer": 3,
+		"explanation": "CAAHEP accredits."
+	},
+	{
+		"prompt": "Does not provide certification:",
+		"choices": [
+			"CCI",
+			"ARRT",
+			"SDMS",
+			"ARDMS"
+		],
+		"answer": 2,
+		"explanation": "SDMS is a society."
+	},
+	{
+		"prompt": "Published by SDMS:",
+		"choices": [
+			"JASE",
+			"JDMS",
+			"JVU",
+			"JUM"
+		],
+		"answer": 1,
+		"explanation": "SDMS publishes JDMS."
+	},
+	{
+		"prompt": "Not a national specialty exam:",
+		"choices": [
+			"Nuchal translucency",
+			"RDMS OB/GYN",
+			"CCI vascular"
+		],
+		"answer": 0,
+		"explanation": "NT is an authorization, not a specialty exam."
+	},
+	{
+		"prompt": "Leadership that dampens creativity:",
+		"choices": [
+			"Servant",
+			"Stewardship",
+			"Autocratic",
+			"Transactional"
+		],
+		"answer": 2,
+		"explanation": "Autocratic stifles innovation."
+	},
+	{
+		"prompt": "Leader offering inspiration:",
+		"choices": [
+			"Transformational",
+			"Autocratic",
+			"Servant",
+			"Transactional"
+		],
+		"answer": 0,
+		"explanation": "Transformational inspires."
+	},
+	{
+		"prompt": "Leader uses rewards/punishments:",
+		"choices": [
+			"Servant",
+			"Transformational",
+			"Transactional",
+			"Autocratic"
+		],
+		"answer": 2,
+		"explanation": "Transactional does this."
+	},
+	{
+		"prompt": "Leader puts needs of others first:",
+		"choices": [
+			"Autocratic",
+			"Transformational",
+			"Servant",
+			"Transactional"
+		],
+		"answer": 2,
+		"explanation": "Servant leadership."
+	},
+	{
+		"prompt": "Leadership style emphasizing stewardship:",
+		"choices": [
+			"Transactional",
+			"Transformational",
+			"Servant",
+			"Autocratic"
+		],
+		"answer": 2,
+		"explanation": "Servant leadership includes stewardship."
+	},
+	{
+		"prompt": "ARDMS allows exams how many days before graduation?",
+		"choices": [
+			"60",
+			"90",
+			"45",
+			"30"
+		],
+		"answer": 0,
+		"explanation": "60 days before graduation."
+	},
+	{
+		"prompt": "True of certification exams:",
+		"choices": [
+			"Sooner is better",
+			"Nearly all fail",
+			"Not required",
+			"Nearly all pass"
+		],
+		"answer": 0,
+		"explanation": "Taking exams soon improves results."
+	},
+	{
+		"prompt": "Pain manifests after how many years?",
+		"choices": [
+			"1",
+			"23",
+			"5",
+			"13"
+		],
+		"answer": 2,
+		"explanation": "RSI manifest ~5 years."
+	},
+	{
+		"prompt": "Not WRMSD result:",
+		"choices": [
+			"Inflammation",
+			"Tendon degeneration",
+			"Swelling",
+			"Spine enlargement"
+		],
+		"answer": 3,
+		"explanation": "Spine enlargement is not typical."
+	},
+	{
+		"prompt": "Not another name for RSI:",
+		"choices": [
+			"Overuse",
+			"Repetitive motion",
+			"Ergonomic interventions",
+			"CTD"
+		],
+		"answer": 2,
+		"explanation": "Ergonomic interventions are prevention."
+	},
+	{
+		"prompt": "True of RSI:",
+		"choices": [
+			"Always sharp pain",
+			"Repeating decreases injury",
+			"Damage is cumulative",
+			"Doesn't affect sonographers"
+		],
+		"answer": 2,
+		"explanation": "RSI damage builds over time."
+	},
+	{
+		"prompt": "Second most common injury area:",
+		"choices": [
+			"Neck",
+			"Wrist",
+			"Shoulder",
+			"Hand"
+		],
+		"answer": 2,
+		"explanation": "Shoulder is second."
+	},
+	{
+		"prompt": "Center of gravity located:",
+		"choices": [
+			"Pelvis",
+			"Abdomen",
+			"Ankle",
+			"Chest"
+		],
+		"answer": 0,
+		"explanation": "CG near pelvis."
+	},
+	{
+		"prompt": "Not WRMSD risk factor:",
+		"choices": [
+			"Job design",
+			"Force",
+			"Proper mechanics",
+			"Equipment design"
+		],
+		"answer": 2,
+		"explanation": "Proper mechanics prevent injury."
+	},
+	{
+		"prompt": "Correct standing posture:",
+		"choices": [
+			"Feet wide apart",
+			"Knees locked",
+			"Buttocks clenched",
+			"Feet parallel"
+		],
+		"answer": 3,
+		"explanation": "Feet parallel promotes alignment."
+	},
+	{
+		"prompt": "True of lifting:",
+		"choices": [
+			"Use back",
+			"Hold object close",
+			"Pushing worse",
+			"Bend at waist"
+		],
+		"answer": 1,
+		"explanation": "Keep object close."
+	},
+	{
+		"prompt": "Sonographer should position patient:",
+		"choices": [
+			"As low as stretcher goes",
+			"Far away",
+			"As close as possible",
+			"Below chair"
+		],
+		"answer": 2,
+		"explanation": "Patient should be close."
+	},
+	{
+		"prompt": "Counteract poor room design:",
+		"choices": [
+			"Sunglasses",
+			"Ambidextrous scanning",
+			"Mask",
+			"Bright lights"
+		],
+		"answer": 1,
+		"explanation": "Ambidextrous scanning reduces strain."
+	},
+	{
+		"prompt": "Not good equipment design:",
+		"choices": [
+			"Modifiable stretchers",
+			"Adjustable panels",
+			"Touch keys",
+			"Stationary chairs"
+		],
+		"answer": 3,
+		"explanation": "Chairs should be adjustable."
+	},
+	{
+		"prompt": "Lateral epicondylitis:",
+		"choices": [
+			"Tennis elbow",
+			"Nerve entrapment",
+			"Thoracic outlet",
+			"Carpal tunnel"
+		],
+		"answer": 0,
+		"explanation": "Lateral epicondylitis = tennis elbow."
+	},
+	{
+		"prompt": "Example of nerve entrapment:",
+		"choices": [
+			"Trigger finger",
+			"Ganglion cyst",
+			"Cubital tunnel",
+			"Tinel sign"
+		],
+		"answer": 2,
+		"explanation": "Cubital tunnel is entrapment."
+	},
+	{
+		"prompt": "Bursitis affects:",
+		"choices": [
+			"Ankle",
+			"Neck",
+			"Shoulder",
+			"Buttocks"
+		],
+		"answer": 2,
+		"explanation": "Common at shoulder."
+	},
+	{
+		"prompt": "Nonscanning elbow angle:",
+		"choices": [
+			"90°",
+			"30°",
+			"45°",
+			"180°"
+		],
+		"answer": 0,
+		"explanation": "90 degrees recommended."
+	},
+	{
+		"prompt": "Strongest wrist position:",
+		"choices": [
+			"Rearward",
+			"Extension",
+			"Flexion",
+			"Handshake position"
+		],
+		"answer": 3,
+		"explanation": "Neutral/handshake best."
+	},
+	{
+		"prompt": "Best cord management:",
+		"choices": [
+			"Around neck",
+			"Around leg",
+			"Cable support brace",
+			"Hold with leg"
+		],
+		"answer": 2,
+		"explanation": "Cable brace reduces strain."
+	},
+	{
+		"prompt": "Next step after defining problem:",
+		"choices": [
+			"Analyze actions",
+			"Know standards",
+			"Choose best action",
+			"Develop action options"
+		],
+		"answer": 1,
+		"explanation": "Know standards before actions."
+	},
+	{
+		"prompt": "Do no harm refers to:",
+		"choices": [
+			"Beneficence",
+			"Nonmaleficence",
+			"Moral good",
+			"Paternalism"
+		],
+		"answer": 1,
+		"explanation": "Nonmaleficence = do no harm."
+	},
+	{
+		"prompt": "Do good refers to:",
+		"choices": [
+			"Paternalism",
+			"Nonmaleficence",
+			"Moral good",
+			"Beneficence"
+		],
+		"answer": 3,
+		"explanation": "Beneficence = do good."
+	},
+	{
+		"prompt": "Intentional tort:",
+		"choices": [
+			"Wrong exam",
+			"Not providing care",
+			"Battery",
+			"Negligence"
+		],
+		"answer": 2,
+		"explanation": "Battery is intentional."
+	},
+	{
+		"prompt": "Not intentional tort:",
+		"choices": [
+			"Immobilization",
+			"False claims",
+			"Not putting rails up",
+			"Causing emotional distress"
+		],
+		"answer": 2,
+		"explanation": "Failing rails is negligence."
+	},
+	{
+		"prompt": "Sonographer–patient relationship establishes:",
+		"choices": [
+			"Double trouble",
+			"Duty",
+			"Derelict",
+			"Direct cause"
+		],
+		"answer": 1,
+		"explanation": "It creates legal duty."
+	},
+	{
+		"prompt": "Act directly caused injury:",
+		"choices": [
+			"Duty",
+			"Direct cause",
+			"Breach",
+			"Damages"
+		],
+		"answer": 1,
+		"explanation": "Direct cause element."
+	},
+	{
+		"prompt": "Res ipsa loquitur is doctrine of:",
+		"choices": [
+			"Liability",
+			"Honor",
+			"Duty",
+			"Negligence"
+		],
+		"answer": 3,
+		"explanation": "It implies negligence."
+	},
+	{
+		"prompt": "Prevent malpractice:",
+		"choices": [
+			"Use chaperone",
+			"Offer minimal advice",
+			"Give diagnosis",
+			"Discuss findings publicly"
+		],
+		"answer": 0,
+		"explanation": "Chaperones protect patient and provider."
+	},
+	{
+		"prompt": "Respondeat superior is doctrine of:",
+		"choices": [
+			"Negligence",
+			"Liability",
+			"Duty",
+			"Honor"
+		],
+		"answer": 1,
+		"explanation": "Employer liability."
+	},
+	{
+		"prompt": "Healthcare proxy:",
+		"choices": [
+			"DPOA",
+			"Advance directive",
+			"Living will",
+			"Code blue"
+		],
+		"answer": 0,
+		"explanation": "Durable POA = proxy."
+	},
+	{
+		"prompt": "If patient injured, complete:",
+		"choices": [
+			"Consent",
+			"Incident report",
+			"Living will",
+			"Sonographer report"
+		],
+		"answer": 1,
+		"explanation": "Incident report required."
+	},
+	{
+		"prompt": "Combines POA + living will:",
+		"choices": [
+			"Code blue",
+			"Advanced citation",
+			"Advance directive",
+			"DNR"
+		],
+		"answer": 2,
+		"explanation": "Advance directive includes both."
+	},
+	{
+		"prompt": "Contralateral means:",
+		"choices": [
+			"Opposite side",
+			"Origin",
+			"Away from head",
+			"Same side"
+		],
+		"answer": 0,
+		"explanation": "Opposite side."
+	},
+	{
+		"prompt": "Toward point of attachment:",
+		"choices": [
+			"Lateral",
+			"Medial",
+			"Distal",
+			"Proximal"
+		],
+		"answer": 3,
+		"explanation": "Proximal = near origin."
+	},
+	{
+		"prompt": "Reclined w/ feet raised:",
+		"choices": [
+			"Semiprone",
+			"Semi-Fowler",
+			"Fowler",
+			"Trendelenburg"
+		],
+		"answer": 3,
+		"explanation": "Feet elevated."
+	},
+	{
+		"prompt": "Pedoff probe used for:",
+		"choices": [
+			"PW Doppler",
+			"Power Doppler",
+			"CW Doppler",
+			"Color Doppler"
+		],
+		"answer": 2,
+		"explanation": "Pedoff = CW."
+	},
+	{
+		"prompt": "Range gate used in:",
+		"choices": [
+			"CW",
+			"PW",
+			"Color",
+			"Power"
+		],
+		"answer": 1,
+		"explanation": "PW uses range gate."
+	},
+	{
+		"prompt": "Display superficial structures:",
+		"choices": [
+			"Increase depth",
+			"Increase TGC",
+			"Decrease TGC",
+			"Decrease depth"
+		],
+		"answer": 3,
+		"explanation": "Shallow depth."
+	},
+	{
+		"prompt": "Used for fetal heart activity:",
+		"choices": [
+			"M-mode",
+			"Trace",
+			"Color",
+			"Ellipse"
+		],
+		"answer": 0,
+		"explanation": "M-mode shows motion."
+	},
+	{
+		"prompt": "Rectangular image transducer:",
+		"choices": [
+			"Curvilinear",
+			"Linear",
+			"Vector",
+			"Sector"
+		],
+		"answer": 1,
+		"explanation": "Linear = rectangle."
+	},
+	{
+		"prompt": "Requires soaking:",
+		"choices": [
+			"Transabdominal",
+			"Thyroid linear",
+			"Endovaginal",
+			"Transthoracic"
+		],
+		"answer": 2,
+		"explanation": "Endovaginal is high-level disinfected."
+	},
+	{
+		"prompt": "Third step Maslow:",
+		"choices": [
+			"Love",
+			"Self-actualization",
+			"Self-esteem",
+			"Physiologic"
+		],
+		"answer": 0,
+		"explanation": "Love/belonging is third."
+	},
+	{
+		"prompt": "Silent/unresponsive grief stage:",
+		"choices": [
+			"Depression",
+			"Anger",
+			"Bargaining",
+			"Denial"
+		],
+		"answer": 0,
+		"explanation": "Depression stage."
+	},
+	{
+		"prompt": "Not communication element:",
+		"choices": [
+			"Feedback",
+			"Sender",
+			"Message",
+			"Contrast"
+		],
+		"answer": 3,
+		"explanation": "Contrast not part."
+	},
+	{
+		"prompt": "Kinesics:",
+		"choices": [
+			"Physical contact",
+			"Personal space",
+			"Physical distance",
+			"Body language"
+		],
+		"answer": 3,
+		"explanation": "Body language."
+	},
+	{
+		"prompt": "Proxemics:",
+		"choices": [
+			"Personal space",
+			"Contact",
+			"Distance",
+			"Body language"
+		],
+		"answer": 0,
+		"explanation": "Proxemics = space."
+	},
+	{
+		"prompt": "First step cultural competence:",
+		"choices": [
+			"Awareness",
+			"Desire",
+			"Skill",
+			"Knowledge"
+		],
+		"answer": 0,
+		"explanation": "Awareness first."
+	},
+	{
+		"prompt": "Blood flow meets resistance:",
+		"choices": [
+			"Pulse",
+			"Respiration",
+			"Blood pressure",
+			"Homeostasis"
+		],
+		"answer": 2,
+		"explanation": "BP = flow & resistance."
+	},
+	{
+		"prompt": "Pulse at antecubital fossa:",
+		"choices": [
+			"Brachial",
+			"Apical",
+			"Dorsalis pedis"
+		],
+		"answer": 0,
+		"explanation": "Brachial pulse."
+	},
+	{
+		"prompt": "Most accurate BP position:",
+		"choices": [
+			"Standing",
+			"Sitting",
+			"Exercising",
+			"Asleep"
+		],
+		"answer": 1,
+		"explanation": "Sitting preferred."
+	},
+	{
+		"prompt": "BP arm placed:",
+		"choices": [
+			"Above heart",
+			"Below heart",
+			"Above head",
+			"At heart level"
+		],
+		"answer": 3,
+		"explanation": "Arm must be at heart level."
+	},
+	{
+		"prompt": "Not low BP symptom:",
+		"choices": [
+			"Tenderness",
+			"Confusion",
+			"Dizziness",
+			"Blurred vision"
+		],
+		"answer": 0,
+		"explanation": "Tenderness unrelated."
+	},
+	{
+		"prompt": "Transporting patient first step:",
+		"choices": [
+			"Get chart",
+			"Tell nurse",
+			"Talk to doctor",
+			"Ask patient to get up"
+		],
+		"answer": 1,
+		"explanation": "Notify nurse first."
+	},
+	{
+		"prompt": "IV solution kept:",
+		"choices": [
+			"Below buttocks",
+			"Above infusion site",
+			"Above knees",
+			"Below feet"
+		],
+		"answer": 1,
+		"explanation": "Bag must be above site."
+	},
+	{
+		"prompt": "Urinary catheter placed:",
+		"choices": [
+			"Below bladder",
+			"Lap",
+			"Above heart",
+			"Shoulder"
+		],
+		"answer": 0,
+		"explanation": "Keep below bladder."
+	},
+	{
+		"prompt": "Before switching oxygen:",
+		"choices": [
+			"Check LPM",
+			"Turn wall to 15",
+			"Disconnect line",
+			"Turn tank off"
+		],
+		"answer": 0,
+		"explanation": "Verify required flow."
+	},
+	{
+		"prompt": "Valve between LV and aorta:",
+		"choices": [
+			"Aortic",
+			"Bicuspid",
+			"Tricuspid",
+			"Antecubital"
+		],
+		"answer": 0,
+		"explanation": "Aortic valve."
+	},
+	{
+		"prompt": "Pulse obtained with:",
+		"choices": [
+			"Ear",
+			"Thumb",
+			"Middle+index",
+			"Index only"
+		],
+		"answer": 2,
+		"explanation": "Thumb has its own pulse."
+	},
+	{
+		"prompt": "First step emergency:",
+		"choices": [
+			"Notify team",
+			"CPR",
+			"Yell emergency",
+			"Call code red"
+		],
+		"answer": 0,
+		"explanation": "Activate emergency team."
+	},
+	{
+		"prompt": "Not in ACDU scale:",
+		"choices": [
+			"Confused?",
+			"Alert?",
+			"Breathing?",
+			"Unresponsive?"
+		],
+		"answer": 2,
+		"explanation": "Breathing is not part of ACDU."
+	},
+	{
+		"prompt": "Second shock stage:",
+		"choices": [
+			"Irreversible",
+			"Compensatory",
+			"Progressive",
+			"Hematological"
+		],
+		"answer": 2,
+		"explanation": "Progressive is second."
+	},
+	{
+		"prompt": "Shock from trauma/bleeding:",
+		"choices": [
+			"Hypovolemic",
+			"Anaphylactic",
+			"Septic",
+			"Cardiogenic"
+		],
+		"answer": 0,
+		"explanation": "Blood loss."
+	},
+	{
+		"prompt": "Shock from heart failure:",
+		"choices": [
+			"Hypovolemic",
+			"Septic",
+			"Anaphylactic",
+			"Cardiogenic"
+		],
+		"answer": 3,
+		"explanation": "Heart inability."
+	},
+	{
+		"prompt": "Not distributive shock:",
+		"choices": [
+			"Septic",
+			"Neurogenic",
+			"Cardiopulmonic",
+			"Anaphylactic"
+		],
+		"answer": 2,
+		"explanation": "Cardiopulmonic not a type."
+	},
+	{
+		"prompt": "Shock from contrast allergy:",
+		"choices": [
+			"Neuro",
+			"Septic",
+			"Cardiopulm",
+			"Anaphylactic"
+		],
+		"answer": 3,
+		"explanation": "Allergic reaction."
+	},
+	{
+		"prompt": "Severe anaphylaxis sign:",
+		"choices": [
+			"Coughing",
+			"Itching",
+			"Dysphasia",
+			"Nasal congestion"
+		],
+		"answer": 2,
+		"explanation": "Dysphasia means difficulty swallowing, which can range from the sensation of food or liquid getting stuck to an inability to initiate swallowing."
+	},
+	{
+		"prompt": "Pregnant + dizzy:",
+		"choices": [
+			"Hold hand",
+			"Speed exam",
+			"Roll to side",
+			"Deep breaths"
+		],
+		"answer": 2,
+		"explanation": "Roll to left side."
+	},
+	{
+		"prompt": "Not syncope symptom:",
+		"choices": [
+			"Hyperpnea",
+			"Pallor",
+			"Dysphasia",
+			"Dizziness"
+		],
+		"answer": 2,
+		"explanation": "Dysphasia not typical."
+	},
+	{
+		"prompt": "Position for shock:",
+		"choices": [
+			"LLD",
+			"Trendelenburg",
+			"Semi-Fowler",
+			"Prone"
+		],
+		"answer": 1,
+		"explanation": "Trendelenburg improves flow."
+	},
+	{
+		"prompt": "Hypovolemic shock discoloration:",
+		"choices": [
+			"Cyanosis",
+			"Diaphoresis",
+			"Syndactyly",
+			"Syncope"
+		],
+		"answer": 0,
+		"explanation": "Low O2 causes cyanosis."
+	}
+]
