@@ -51,7 +51,7 @@
       "Involving your family and friends in your studies ",
       "Trying to obtain a job where you must work every weekend "
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "Studying in seclusion isolates you from others and does not build supportive relationships."
   },
   {
@@ -436,7 +436,7 @@
       "Shoulder ",
       "Hand "
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "The shoulder is commonly the second most affected area after the neck for sonographers."
   },
   {
@@ -876,7 +876,7 @@
       "Physical distance ",
       "Body language "
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Proxemics is the study of personal space in communication."
   },
   {
@@ -1128,7 +1128,7 @@
       "Semi-Fowler's ",
       "Prone "
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "Trendelenburg (or modified versions) may be used to help improve venous return in shock."
   },
   {
