@@ -44,14 +44,14 @@
 		"explanation": "Stress is normal."
 	},
 	{
-		"prompt": "Which... emotional support?",
+		"prompt": "Which of the following would not serve as a relationship builder and a means of emotional stability and support while in sonography school?",
 		"choices": [
 			"Avoiding stress...",
 			"Studying in seclusion",
 			"Involving family/friends",
 			"Trying to obtain job weekends"
 		],
-		"answer": 1,
+		"answer": 3,
 		"explanation": "Isolation reduces support."
 	},
 	{
