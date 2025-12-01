@@ -587,7 +587,7 @@
 			"80 bpm",
 			"20 bpm"
 		],
-		"answer": 1
+		"answer": 0
 	},
 	{
 		"prompt": "Which heart rate method is the most accurate with regular rhythms?",
@@ -657,7 +657,7 @@
 			"Alternating current interference",
 			"Baseline shift"
 		],
-		"answer": 0
+		"answer": 1
 	},
 	{
 		"prompt": "Which of the following causes AC interference artifact?",
@@ -677,7 +677,7 @@
 			"Wandering baseline",
 			"Involuntary movement"
 		],
-		"answer": 1
+		"answer": 2
 	},
 	{
 		"prompt": "What type of artifact is shown in the figure below?",
@@ -687,7 +687,7 @@
 			"Wandering baseline",
 			"Involuntary movement"
 		],
-		"answer": 0
+		"answer": 1
 	},
 	{
 		"prompt": "For infants and small children, where may you have to place lead V3 to prevent crowding of the chest electrodes?",
@@ -707,7 +707,7 @@
 			"Placement of the electrodes is different.",
 			"The recording speed is different."
 		],
-		"answer": 2
+		"answer": 1
 	},
 	{
 		"prompt": "How should you position a pregnant woman for an ECG?",
@@ -917,7 +917,7 @@
 			"Atrial depolarization is absent.",
 			"The atrial rate is too irregular to be determined."
 		],
-		"answer": 0
+		"answer": 2
 	},
 	{
 		"prompt": "What is the function of a pacemaker?",
