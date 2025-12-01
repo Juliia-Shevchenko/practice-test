@@ -507,7 +507,7 @@
 			"Silver electrodes",
 			"Copper electrodes"
 		],
-		"answer": 0
+		"answer": 2
 	},
 	{
 		"prompt": "Each little box on the ECG paper horizontally represents:",
@@ -562,10 +562,10 @@
 	{
 		"prompt": "When estimating the heart rate with the 6-second method, you locate 6 seconds on a rhythm strip, count the number of complexes, and multiply by:",
 		"choices": [
-			"10.",
-			"60.",
-			"5.",
-			"15."
+			"10",
+			"60",
+			"5",
+			"15"
 		],
 		"answer": 0
 	},
