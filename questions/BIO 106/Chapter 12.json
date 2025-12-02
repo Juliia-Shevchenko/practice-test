@@ -1,0 +1,167 @@
+[
+	{
+		"prompt": "Where are receptors for the general senses located?",
+		"choices": [
+			"In a few clusters within the head",
+			"Only in the integumentary system",
+			"Widely distributed throughout the body",
+			"Throughout the visceral organs"
+		],
+		"answer": 2,
+		"explanation": "General sense receptors are widely distributed in skin, muscles, joints, and various organs."
+	},
+	{
+		"prompt": "Where are receptors for the special senses located?",
+		"choices": [
+			"Primarily in the head",
+			"Throughout the integumentary system",
+			"In the fingertips",
+			"In internal organs"
+		],
+		"answer": 0,
+		"explanation": "Special senses such as vision, hearing, and taste have receptors localized mainly in the head."
+	},
+	{
+		"prompt": "The interpretation of sensory input by the brain is referred to as __________.",
+		"choices": [
+			"reception",
+			"sensation",
+			"perception",
+			"recognition"
+		],
+		"answer": 2,
+		"explanation": "Perception is the brain’s interpretation of sensory impulses, giving them meaning."
+	},
+	{
+		"prompt": "What type of receptor detects and responds to pressure?",
+		"choices": [
+			"Baroreceptors",
+			"Thermoreceptors",
+			"Photoreceptors",
+			"Chemoreceptors"
+		],
+		"answer": 0,
+		"explanation": "Baroreceptors detect changes in pressure, such as blood pressure in vessels."
+	},
+	{
+		"prompt": "Olfactory receptors are examples of what class of sensory receptor?",
+		"choices": [
+			"Thermoreceptors",
+			"Mechanoreceptors",
+			"Chemoreceptors",
+			"Proprioceptors"
+		],
+		"answer": 2,
+		"explanation": "Olfactory receptors respond to chemical molecules in the air, making them chemoreceptors."
+	},
+	{
+		"prompt": "Which receptor/stimulus pair is correct?",
+		"choices": [
+			"Baroreceptors: stimulated when injury occurs to nearby tissue.",
+			"Nociceptors: stimulated by increase in blood pressure.",
+			"Thermoreceptors: stimulated by light energy.",
+			"Proprioceptors: stimulated by changes in tension in muscles and tendons."
+		],
+		"answer": 3,
+		"explanation": "Proprioceptors detect body position and movement by sensing tension and stretch in muscles and tendons."
+	},
+	{
+		"prompt": "Muscle spindles and Golgi tendon organs are receptors for __________.",
+		"choices": [
+			"proprioception",
+			"pain",
+			"equilibrium",
+			"touch and pressure"
+		],
+		"answer": 0,
+		"explanation": "These structures sense muscle length and tension and are key proprioceptive receptors."
+	},
+	{
+		"prompt": "Structurally, taste receptors are __________.",
+		"choices": [
+			"free nerve endings",
+			"hair cells",
+			"modified connective tissue cells",
+			"modified epithelial cells"
+		],
+		"answer": 3,
+		"explanation": "Taste receptors are specialized epithelial cells that synapse with sensory neurons."
+	},
+	{
+		"prompt": "Which of the following is not a primary taste sensation?",
+		"choices": [
+			"Sweet",
+			"Salty",
+			"Pungent",
+			"Sour"
+		],
+		"answer": 2,
+		"explanation": "The primary tastes are sweet, salty, sour, bitter, and umami; pungent is not one of them."
+	},
+	{
+		"prompt": "Where are the receptors for hearing located?",
+		"choices": [
+			"In the ampullae",
+			"In the spiral organ",
+			"In the utricles",
+			"In the saccules"
+		],
+		"answer": 1,
+		"explanation": "The spiral organ (organ of Corti) in the cochlea contains the sensory cells for hearing."
+	},
+	{
+		"prompt": "What is the treatment for a cataract?",
+		"choices": [
+			"Removal of the cornea",
+			"Anchoring the retina in place",
+			"Removal of the lens",
+			"Using medication to reduce production of aqueous humor"
+		],
+		"answer": 2,
+		"explanation": "A cataract is clouding of the lens, and treatment usually involves surgical lens removal and replacement."
+	},
+	{
+		"prompt": "The olfactory receptors are examples of what class of receptor?",
+		"choices": [
+			"Thermoreceptors",
+			"Mechanoreceptors",
+			"Chemoreceptors",
+			"Proprioceptors"
+		],
+		"answer": 2,
+		"explanation": "Like other chemical-sensing receptors, olfactory receptors are chemoreceptors."
+	},
+	{
+		"prompt": "What structure is part of the innermost layer of the wall of the eye?",
+		"choices": [
+			"Ciliary body",
+			"Retina",
+			"Choroid coat",
+			"Sclera"
+		],
+		"answer": 1,
+		"explanation": "The retina is part of the inner (nervous) tunic of the eye and contains photoreceptors."
+	},
+	{
+		"prompt": "What region of the retina provides the sharpest vision?",
+		"choices": [
+			"Fovea centralis",
+			"Optic disc",
+			"Conjunctiva",
+			"Ciliary body"
+		],
+		"answer": 0,
+		"explanation": "The fovea centralis has the highest concentration of cones and provides the greatest visual acuity."
+	},
+	{
+		"prompt": "The inner ear is located within which cranial bone?",
+		"choices": [
+			"Parietal bone",
+			"Sphenoid bone",
+			"Temporal bone",
+			"Occipital bone"
+		],
+		"answer": 2,
+		"explanation": "The structures of the inner ear are embedded in the petrous part of the temporal bone."
+	}
+]

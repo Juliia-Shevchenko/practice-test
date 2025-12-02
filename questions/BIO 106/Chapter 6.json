@@ -1,0 +1,343 @@
+[
+	{
+		"prompt": "The skin, as an organ, is also referred to as the__________.",
+		"choices": [
+			"epidermis",
+			"cutaneous membrane",
+			"stratum corneum",
+			"epithelium"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "The skin along with structures such as nails, hair, and sweat glands are part of the__________.",
+		"choices": [
+			"integumentary system",
+			"dermis",
+			"subcutaneous tissue",
+			"exoskeleton"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Injections that are administered into the tissues of the skin are called__________ injections.",
+		"choices": [
+			"subcutaneous",
+			"intradermal",
+			"intramuscular",
+			"hypodermic"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Nerve fibers scattered throughout the dermis are associated with what structures?",
+		"choices": [
+			"Hair, melanocytes, and keratinocytes",
+			"Bone, tendons, and muscles",
+			"Adipose and reticular tissue",
+			"Muscles, glands, and sensory receptors"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are dermal papillae?",
+		"choices": [
+			"Bundles of dense connective tissue fibers.",
+			"Cluster of cells that produce hair.",
+			"Site where nails are anchored to fingers or toes.",
+			"Projections of dermal tissue between epidermal ridges."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "The__________ is typically thicker than the__________.",
+		"choices": [
+			"stratum basale; stratum corneum",
+			"papillary layer; reticular layer",
+			"dermis; epidermis",
+			"skin of the forearm; skin of the palm of the hand"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "Normally, melanin is confined to what area of the skin?",
+		"choices": [
+			"Epidermis",
+			"Basement membrane",
+			"Dermal papillae",
+			"Stratum corneum"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Why does exposure to ultraviolet light darken the skin?",
+		"choices": [
+			"It stimulates the synthesis of melanin.",
+			"It stimulates the production of keratinocytes.",
+			"It stimulates the synthesis of keratin.",
+			"It stimulates the proliferation of papillae."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What determines the color of skin?",
+		"choices": [
+			"The number of melanocytes in the epidermis.",
+			"The thickness of the epidermis.",
+			"The amount of melanin that melanocytes produce.",
+			"The density of hair."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The subcutaneous layer is comprised of what tissue type(s)?",
+		"choices": [
+			"Epithelial tissue",
+			"Areolar and adipose tissue",
+			"Epithelial tissue and areolar tissue",
+			"Adipose tissue and skeletal muscle tissue"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Skin cells play an important role in producing what vitamin?",
+		"choices": [
+			"Vitamin A",
+			"Vitamin B",
+			"Vitamin D",
+			"Vitamin K"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "Epidermis is composed of__________, whereas dermis is composed of__________.",
+		"choices": [
+			"areolar tissue; columnar epithelial tissue",
+			"dense irregular connective tissue; simple squamous epithelial tissue",
+			"pseudostratified epithelial tissue; areolar tissue",
+			"stratified squamous epithelial tissue; dense irregular connective tissue"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the cause of cyanosis?",
+		"choices": [
+			"A buildup of cyanide in the skin",
+			"Low blood oxygen levels",
+			"Excess of carotene in the diet",
+			"Excessive exposure to ultraviolet (UV) radiation"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Name the tough fibrous protein that is responsible for the waterproof nature of skin.",
+		"choices": [
+			"Keratin",
+			"Melanin",
+			"Vitamin D",
+			"Collagen"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What cell type produces the nail plates?",
+		"choices": [
+			"Cartilage cells (chondrocytes)",
+			"Fibroblasts",
+			"Melanocytes",
+			"Specialized epithelial cells"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "The nail__________ overlies the nail__________.",
+		"choices": [
+			"plate; bed",
+			"plate; body",
+			"matrix; bed",
+			"bed; plate"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What gives a nail its hardness?",
+		"choices": [
+			"Melanin",
+			"Collagen",
+			"Calcium",
+			"Keratin"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What forms the shafts of hair?",
+		"choices": [
+			"Live dermal cells",
+			"Dead epidermal cells",
+			"Live epidermal cells",
+			"Dead dermal cells"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Arrector pili muscles are attached to what feature of the skin?",
+		"choices": [
+			"Nail beds",
+			"Sebaceous glands",
+			"Stratum corneum",
+			"Hair follicles"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is secreted by sebaceous glands?",
+		"choices": [
+			"Fat globules mixed with cellular debris",
+			"Hormones",
+			"Watery solution containing organic material",
+			"Mucus"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What type of glands secrete breast milk and ear wax?",
+		"choices": [
+			"Modified sebaceous glands",
+			"Modified apocrine sweat glands",
+			"Modified merocrine (eccrine) sweat glands",
+			"Modified endocrine glands"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the primary means of body heat loss?",
+		"choices": [
+			"Conduction",
+			"Convection",
+			"Evaporation",
+			"Radiation"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is a normal response to excessive loss of body heat in a cold environment?",
+		"choices": [
+			"Dermal blood vessels constrict.",
+			"Sweat glands become active.",
+			"Smooth muscles relax.",
+			"Dermal blood vessels dilate."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Sweating results in loss of body heat by what means?",
+		"choices": [
+			"Convection",
+			"Conduction",
+			"Evaporation",
+			"Radiation"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The body loses heat to the air molecules continuously circulating over it by the process of__________.",
+		"choices": [
+			"Radiation",
+			"Evaporation",
+			"Conduction",
+			"Convection"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Inflammation results in__________ in the area of injury or infection, resulting in redness and swelling of the tissue.",
+		"choices": [
+			"vasodilation",
+			"muscle contraction",
+			"blood clotting",
+			"loss of skin"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "When does inflammation occur?",
+		"choices": [
+			"In response to extreme cold",
+			"In response to injury or infection",
+			"In response to fever",
+			"In response to aging"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "In treating a burn patient, how is the \"rule of nines\" used?",
+		"choices": [
+			"To estimate the depth of the burn.",
+			"To estimate the surface area of the burn.",
+			"To estimate time needed for healing.",
+			"To estimate the level of pain experienced by the patient."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "As a person ages, what happens to their skin?",
+		"choices": [
+			"The skin becomes thicker.",
+			"The skin becomes more opaque.",
+			"The skin becomes more elastic.",
+			"The skin becomes thinner."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What feature of the skin is involved in acne?",
+		"choices": [
+			"Sweat glands",
+			"Hair follicles",
+			"Sebaceous glands",
+			"Apocrine glands"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The condition called__________ results from a complete lack of melanin.",
+		"choices": [
+			"albinism",
+			"jaundice",
+			"cyanosis",
+			"melanoma"
+		],
+		"answer": 0,
+		"explanation": ""
+	}
+]

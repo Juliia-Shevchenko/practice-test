@@ -1,0 +1,233 @@
+[
+	{
+		"prompt": "A hormone is a __________ and the target cell is __________.",
+		"choices": [
+			"protein that stimulates other cells; the source of hormone secretions",
+			"regulatory molecule that controls secretions of other cells; a cell that synthesizes hormones",
+			"molecule that has a metabolic effect on another cell; a cell that has receptors for specific hormones",
+			"molecule; a cell that does not have receptors"
+		],
+		"answer": 2,
+		"explanation": "Hormones act on target cells that possess specific receptors and alter their metabolic activity."
+	},
+	{
+		"prompt": "How do exocrine glands differ from endocrine glands?",
+		"choices": [
+			"Exocrine glands secrete substances into the bloodstream.",
+			"Exocrine glands secrete local hormones.",
+			"Exocrine glands secrete through ducts or tubes to a free surface.",
+			"Exocrine glands only secrete salts."
+		],
+		"answer": 2,
+		"explanation": "Exocrine glands release their products through ducts to body surfaces or cavities, unlike ductless endocrine glands."
+	},
+	{
+		"prompt": "A sweat gland is an example of a(n) __________ gland.",
+		"choices": [
+			"exocrine",
+			"paracrine",
+			"endocrine",
+			"autocrine"
+		],
+		"answer": 0,
+		"explanation": "Sweat glands secrete sweat through ducts onto the skin surface, making them exocrine glands."
+	},
+	{
+		"prompt": "What does \"endocrine\" mean?",
+		"choices": [
+			"Hormone synthesis",
+			"Internal secretion",
+			"Acts upon target cells",
+			"Fast-acting compound"
+		],
+		"answer": 1,
+		"explanation": "Endocrine literally means ‘to secrete within,’ referring to hormones released into the bloodstream."
+	},
+	{
+		"prompt": "How can a hormone have effects on some cells but not on other cells?",
+		"choices": [
+			"Because target cell receptors are unique for each hormone.",
+			"Because target cell receptors are found near the endocrine gland.",
+			"Because target cell receptors are only present during certain times.",
+			"Because target cell receptors bind certain neurotransmitters and hormones."
+		],
+		"answer": 0,
+		"explanation": "Only cells with the appropriate receptors for a hormone will respond to it; others will not."
+	},
+	{
+		"prompt": "What is a function of hormones?",
+		"choices": [
+			"To catalyze reactions by physically bringing two reactants closer together",
+			"To stimulate growth, reproduction, and development",
+			"To protect the body by fighting off diseases",
+			"To generate action potentials to send signals through the body"
+		],
+		"answer": 1,
+		"explanation": "Hormones regulate many processes, including growth, development, metabolism, and reproduction."
+	},
+	{
+		"prompt": "What do all hormones have in common?",
+		"choices": [
+			"They are steroids.",
+			"They are proteins.",
+			"They are inorganic compounds.",
+			"They are organic compounds."
+		],
+		"answer": 3,
+		"explanation": "Hormones are organic molecules, but they vary in type (steroids, peptides, amines, etc.)."
+	},
+	{
+		"prompt": "Which of the following is true for steroid hormones?",
+		"choices": [
+			"They are soluble in lipids.",
+			"They circulate free in the blood, not bound to any carriers.",
+			"Their receptors are found on the cell membranes of target cells.",
+			"They include epinephrine and norepinephrine."
+		],
+		"answer": 0,
+		"explanation": "Steroid hormones are lipid-soluble and can diffuse through cell membranes to bind intracellular receptors."
+	},
+	{
+		"prompt": "Where are hormones secreted by the posterior pituitary synthesized?",
+		"choices": [
+			"Posterior pituitary",
+			"Hypothalamus",
+			"Thalamus",
+			"Anterior pituitary"
+		],
+		"answer": 1,
+		"explanation": "ADH and oxytocin are made in the hypothalamus and transported to the posterior pituitary for release."
+	},
+	{
+		"prompt": "What controls most hormone concentrations?",
+		"choices": [
+			"Positive feedback",
+			"Negative feedback",
+			"Muscle contraction",
+			"Exposure to sun"
+		],
+		"answer": 1,
+		"explanation": "Most hormones are regulated by negative feedback loops to keep their levels within a normal range."
+	},
+	{
+		"prompt": "What are tropic hormones?",
+		"choices": [
+			"Hormones that function in the tropics",
+			"Hormones that function in only one sex",
+			"Hormones that stimulate other endocrine glands to secrete hormones",
+			"Hormones that block the actions of other hormones"
+		],
+		"answer": 2,
+		"explanation": "Tropic hormones act on other endocrine glands, stimulating them to release their own hormones."
+	},
+	{
+		"prompt": "What do nerve fibers in the posterior lobe of the pituitary gland secrete?",
+		"choices": [
+			"Thyroid-stimulating hormone",
+			"Adrenocorticotropic hormone",
+			"Growth hormone",
+			"Antidiuretic hormone"
+		],
+		"answer": 3,
+		"explanation": "Axons in the posterior pituitary release ADH (and also oxytocin) into the bloodstream."
+	},
+	{
+		"prompt": "Why is oxytocin administered to women during childbirth?",
+		"choices": [
+			"To inhibit milk production",
+			"To stimulate uterine contractions",
+			"To inhibit uterine contractions",
+			"To stimulate ACTH production"
+		],
+		"answer": 1,
+		"explanation": "Oxytocin increases the strength and frequency of uterine contractions during labor."
+	},
+	{
+		"prompt": "What hormone stimulates calcium deposition into bone?",
+		"choices": [
+			"Calcitonin",
+			"Parathyroid hormone",
+			"Thyroxine",
+			"Insulin"
+		],
+		"answer": 0,
+		"explanation": "Calcitonin lowers blood calcium levels by promoting calcium deposition in bone."
+	},
+	{
+		"prompt": "Which of the following is a hormone secreted by the adrenal medulla?",
+		"choices": [
+			"Mineralocorticoid",
+			"Glucocorticoid",
+			"Aldosterone",
+			"Epinephrine"
+		],
+		"answer": 3,
+		"explanation": "The adrenal medulla secretes catecholamines such as epinephrine and norepinephrine."
+	},
+	{
+		"prompt": "Aldosterone promotes the homeostasis of ions by causing the kidneys to __________.",
+		"choices": [
+			"conserve sodium and excrete potassium",
+			"excrete sodium and conserve potassium",
+			"excrete sodium and potassium",
+			"conserve sodium and potassium"
+		],
+		"answer": 0,
+		"explanation": "Aldosterone increases sodium reabsorption and potassium excretion, helping regulate fluid and electrolytes."
+	},
+	{
+		"prompt": "What is the action of insulin?",
+		"choices": [
+			"Decreases concentration of blood glucose",
+			"Decreases permeability of cell membranes to glucose",
+			"Increases breakdown of glycogen to release glucose",
+			"Increases concentration of blood glucose"
+		],
+		"answer": 0,
+		"explanation": "Insulin lowers blood glucose by promoting glucose uptake into cells and stimulating glycogen synthesis."
+	},
+	{
+		"prompt": "What is the action of glucagon?",
+		"choices": [
+			"Increased production of fat",
+			"Increased permeability of the cell membrane to glucose",
+			"Increased blood glucose concentration",
+			"Increase in glycogen production"
+		],
+		"answer": 2,
+		"explanation": "Glucagon raises blood glucose by stimulating glycogen breakdown and glucose release by the liver."
+	},
+	{
+		"prompt": "Which of the following has both endocrine and exocrine functions?",
+		"choices": [
+			"Pancreas",
+			"Anterior pituitary",
+			"Liver",
+			"Thyroid gland"
+		],
+		"answer": 0,
+		"explanation": "The pancreas secretes digestive enzymes (exocrine) and hormones like insulin and glucagon (endocrine)."
+	},
+	{
+		"prompt": "What is a cause of Type 2 diabetes mellitus?",
+		"choices": [
+			"A deficiency of insulin",
+			"An insensitivity of cells to insulin",
+			"An excess production of glucagon",
+			"An infection"
+		],
+		"answer": 1,
+		"explanation": "In Type 2 diabetes, target cells become less responsive to insulin, leading to insulin resistance."
+	},
+	{
+		"prompt": "Where is the thyroid gland located?",
+		"choices": [
+			"Anterior to the heart",
+			"Anterior to the trachea",
+			"In the brain",
+			"Superior to the kidneys"
+		],
+		"answer": 1,
+		"explanation": "The thyroid sits in the neck, just anterior to the trachea and inferior to the larynx."
+	}
+]

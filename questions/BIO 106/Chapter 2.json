@@ -1,0 +1,165 @@
+[
+	{
+		"prompt": "Matter is composed of elements which, in turn, are composed of__________.",
+		"choices": [
+			"atoms",
+			"inorganic molecules",
+			"organic molecules",
+			"chemicals"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What occurs to form a covalent bond?",
+		"choices": [
+			"One atom loses electrons and another atom gains electrons.",
+			"Atoms share one or more pairs of electrons.",
+			"Oppositely charged atoms are attracted to one another.",
+			"Like-charged atoms repel each other."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Sodium ions and calcium ions are examples of what type of particle?",
+		"choices": [
+			"Cations",
+			"Uncharged particles",
+			"Anions",
+			"Salts"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "How does a computerized tomography (CT) scan differ from a conventional X-ray image?",
+		"choices": [
+			"The CT scan is two-dimensional.",
+			"The CT scan is three-dimensional.",
+			"The CT scan is four-dimensional.",
+			"The CT scan is safer."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Positron emission tomography (PET) imaging relies upon the emission of__________ from radioactive isotopes such as carbon-11.",
+		"choices": [
+			"positively charged electrons",
+			"negatively charged electrons",
+			"positively charged neutrons",
+			"protons"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the chemical formula H2O referring to?",
+		"choices": [
+			"An atom with two hydrogen molecules and one oxygen molecule.",
+			"An atom with one hydrogen molecule and two oxygen molecules.",
+			"A molecule that contains two hydrogen atoms and one oxygen atom.",
+			"A molecule that contains one hydrogen atom and two oxygen atoms."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are electrolytes?",
+		"choices": [
+			"Compounds that form covalent bonds with water.",
+			"Compounds that ionize in water.",
+			"Compounds that alter pH of the solution they are in electrolytes.",
+			"Compounds that release radioactive radiation."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is measured by the pH scale?",
+		"choices": [
+			"Concentration of hydrogen ions in a solution.",
+			"Concentration of salts dissolved in a solution.",
+			"Concentration of hydroxide ions in a solution.",
+			"Strength of an electrical current that a solution can carry."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the most abundant inorganic substance in the body?",
+		"choices": [
+			"Glucose",
+			"Water",
+			"Lipid",
+			"DNA"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "A blood pH of__________ is called alkalemia.",
+		"choices": [
+			"6.5 - 7.0",
+			"7.0- 7.2",
+			"7.2 - 7.5",
+			"7.5 - 7.8"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the role of oxygen in the body?",
+		"choices": [
+			"Reacts with water to form carbonic acid.",
+			"Used to release energy from nutrient molecules.",
+			"Functions as a major electrolyte.",
+			"Produced as a waste product of celluluar metabolism."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are nucleic acids?",
+		"choices": [
+			"Inorganic salts",
+			"Molecules that act as enzymes.",
+			"Molecules comprised of nucleotides.",
+			"Primary sources of cellular energy."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "Nucleic acids include__________.",
+		"choices": [
+			"proteins and DNA",
+			"RNA and DNA",
+			"enzymes and RNA",
+			"steroids and triglycerides"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of these is a monosaccharide?",
+		"choices": [
+			"Glucose",
+			"Starch",
+			"Cellulose",
+			"Sucrose"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "A patient’s blood test shows that their blood pH is 7.26. What is the term for this condition?",
+		"choices": [
+			"Alkalosis",
+			"Acidosis"
+		],
+		"answer": 1,
+		"explanation": ""
+	}
+]

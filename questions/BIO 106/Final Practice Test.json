@@ -1,0 +1,2807 @@
+[
+	{
+		"prompt": "Which of the following are signs of aging at the cellular level?(Select all that applies)",
+		"choices": [
+			"Graying hair, waning strength, and wrinkles.",
+			"Unrepaired DNA and abnormal proteins.",
+			"Impaired cell division and the ability to break down and recycle worn cell parts.",
+			"A fatty liver and clogged blood vessels."
+		],
+		"answer": [
+			1,
+			2
+		],
+		"explanation": ""
+	},
+	{
+		"prompt": "Why are the topics of anatomy and physiology difficult to separate?",
+		"choices": [
+			"Physiological functions depend on the anatomy of structures.",
+			"Physiological functions in an organism are ongoing.",
+			"The body parts take up space.",
+			"Our understanding of physiology is changing more than our understanding of anatomy."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "The activities of an anatomist consist of__________, whereas those of a physiologist consist of__________.",
+		"choices": [
+			"observing body parts; studying functions of body parts",
+			"conducting experiments; making microscopic examinations",
+			"studying molecules; observing forms of the body parts",
+			"sketching; dissecting"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the origin of the term \"anatomy\"?",
+		"choices": [
+			"From the Greek word for \"function\".",
+			"Named after the first anatomist.",
+			"From the Greek word for \"cutting up\".",
+			"For the function of internal organs."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the term \"physiology\" is related to?",
+		"choices": [
+			"The Latin word for \"physical shape\".",
+			"The structure of internal organs.",
+			"The Greek word for \"cutting up\".",
+			"The Greek word for \"relationship to nature\"."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of the following is **not** true of organelles?",
+		"choices": [
+			"They carry on specific activities.",
+			"They are only in cells of humans.",
+			"They are composed of aggregates of large molecules.",
+			"They are found in many types of cells."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of the following lists best illustrates increasing levels of complexity?",
+		"choices": [
+			"Cells, tissues, organelles, organs, organ systems.",
+			"Tissues, cells, organs, organelles, organ systems.",
+			"Organs, organelles, organ systems, cells, tissues.",
+			"Organelles, cells, tissues, organs, organ systems."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "In all organisms, what is the basic unit of structure and function?",
+		"choices": [
+			"The atom",
+			"The organelle",
+			"The macromolecule",
+			"The cell"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Specialized cell types organized in a way that provides a specific function form__________.",
+		"choices": [
+			"tissues",
+			"organs",
+			"organ systems",
+			"organelles"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "The ability of an organism to sense and react to changes in its body is an example of__________.",
+		"choices": [
+			"circulation",
+			"respiration",
+			"responsiveness",
+			"absorption"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What process is defined as the removal of wastes?",
+		"choices": [
+			"Metabolism",
+			"Absorption",
+			"Assimilation",
+			"Excretion"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of the following characteristics of life and their descriptions is correct?",
+		"choices": [
+			"Responsiveness: obtaining and using oxygen to release energy from food.",
+			"Assimilation: sensing changes inside or outside the body and reacting to them.",
+			"Respiration: changing absorbed substances into forms that are chemically different from those that entered the body fluids.",
+			"Circulation: the movement of substances in body fluids."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the definition of metabolism?",
+		"choices": [
+			"The removal of wastes produced by chemical reactions.",
+			"The breakdown of substances into simpler forms.",
+			"The taking in of nutrients.",
+			"The chemical reactions occurring in an organism that support life."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of the following processes is most important to the continuation of the human species?",
+		"choices": [
+			"Responsiveness",
+			"Movement",
+			"Reproduction",
+			"Respiration"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the definition of homeostasis?",
+		"choices": [
+			"The changing external conditions.",
+			"The maintenance of stable external conditions.",
+			"The changing internal conditions.",
+			"The maintenance of stable internal conditions."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "In negative feedback mechanisms, what occurs due to changes that move a variable away from the normal state?",
+		"choices": [
+			"Stimulation to change the variable in the same direction.",
+			"Inhibition of all body reactions.",
+			"Stimulation to change the variable in the opposite direction.",
+			"Stimulation to reduce all requirements of the body."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the effect of a positive feedback mechanism?",
+		"choices": [
+			"It causes long-term changes.",
+			"It moves conditions away from the normal state.",
+			"It brings conditions back to the normal state.",
+			"It produces stable conditions."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of the following illustrates a positive feedback mechanism?",
+		"choices": [
+			"Maintenance of blood pressure.",
+			"Uterine contractions during childbirth.",
+			"Body temperature control.",
+			"Control of blood sugar."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of the following is true regarding the effect of a positive feedback mechanisms?",
+		"choices": [
+			"They are the primary means of maintaining homeostasis.",
+			"They stabilize conditions.",
+			"They cause unstable conditions, at least temporarily.",
+			"They maintain the internal environment.",
+			"They move conditions toward a setpoint."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The thoracic cavity is__________ to the abdominopelvic cavity.",
+		"choices": [
+			"dorsal (posterior)",
+			"ventral (anterior)",
+			"superior",
+			"inferior"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The upper midportion of the abdomen is called the__________region.",
+		"choices": [
+			"hypochondriac",
+			"iliac",
+			"hypogastric",
+			"epigastric"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "When the body is placed in the anatomical position, which of the following is **not** true?",
+		"choices": [
+			"The head is facing to the front.",
+			"The palms are facing backwards.",
+			"The body is erect.",
+			"The upper limbs are at the sides."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Matter is composed of elements which, in turn, are composed of__________.",
+		"choices": [
+			"atoms",
+			"inorganic molecules",
+			"organic molecules",
+			"chemicals"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What occurs to form a covalent bond?",
+		"choices": [
+			"One atom loses electrons and another atom gains electrons.",
+			"Atoms share one or more pairs of electrons.",
+			"Oppositely charged atoms are attracted to one another.",
+			"Like-charged atoms repel each other."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Sodium ions and calcium ions are examples of what type of particle?",
+		"choices": [
+			"Cations",
+			"Uncharged particles",
+			"Anions",
+			"Salts"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "How does a computerized tomography (CT) scan differ from a conventional X-ray image?",
+		"choices": [
+			"The CT scan is two-dimensional.",
+			"The CT scan is three-dimensional.",
+			"The CT scan is four-dimensional.",
+			"The CT scan is safer."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Positron emission tomography (PET) imaging relies upon the emission of__________ from radioactive isotopes such as carbon-11.",
+		"choices": [
+			"positively charged electrons",
+			"negatively charged electrons",
+			"positively charged neutrons",
+			"protons"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the chemical formula H2O referring to?",
+		"choices": [
+			"An atom with two hydrogen molecules and one oxygen molecule.",
+			"An atom with one hydrogen molecule and two oxygen molecules.",
+			"A molecule that contains two hydrogen atoms and one oxygen atom.",
+			"A molecule that contains one hydrogen atom and two oxygen atoms."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are electrolytes?",
+		"choices": [
+			"Compounds that form covalent bonds with water.",
+			"Compounds that ionize in water.",
+			"Compounds that alter pH of the solution they are in electrolytes.",
+			"Compounds that release radioactive radiation."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is measured by the pH scale?",
+		"choices": [
+			"Concentration of hydrogen ions in a solution.",
+			"Concentration of salts dissolved in a solution.",
+			"Concentration of hydroxide ions in a solution.",
+			"Strength of an electrical current that a solution can carry."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the most abundant inorganic substance in the body?",
+		"choices": [
+			"Glucose",
+			"Water",
+			"Lipid",
+			"DNA"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "A blood pH of__________ is called alkalemia.",
+		"choices": [
+			"6.5 - 7.0",
+			"7.0- 7.2",
+			"7.2 - 7.5",
+			"7.5 - 7.8"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the role of oxygen in the body?",
+		"choices": [
+			"Reacts with water to form carbonic acid.",
+			"Used to release energy from nutrient molecules.",
+			"Functions as a major electrolyte.",
+			"Produced as a waste product of celluluar metabolism."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are nucleic acids?",
+		"choices": [
+			"Inorganic salts",
+			"Molecules that act as enzymes.",
+			"Molecules comprised of nucleotides.",
+			"Primary sources of cellular energy."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "Nucleic acids include__________.",
+		"choices": [
+			"proteins and DNA",
+			"RNA and DNA",
+			"enzymes and RNA",
+			"steroids and triglycerides"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of these is a monosaccharide?",
+		"choices": [
+			"Glucose",
+			"Starch",
+			"Cellulose",
+			"Sucrose"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "A patient’s blood test shows that their blood pH is 7.26. What is the term for this condition?",
+		"choices": [
+			"Alkalosis",
+			"Acidosis"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are the three major parts of a cell?",
+		"choices": [
+			"Endoplasmic reticulum, Golgi apparatus, and vesicles.",
+			"Nucleus, nucleolus, and nuclear envelope.",
+			"Microtubules, ribosomes, and centrosomes.",
+			"Nucleus, cytoplasm, and cell membrane."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "A cell is surrounded by an extremely thin, flexible membrane. Why is the membrane selectively permeable?",
+		"choices": [
+			"It allows all substances to pass through, making it easier to absorb nutrients.",
+			"It allows all organic substances to pass through, but excludes all inorganic substances that could be harmful.",
+			"It allows some substances to pass through and excludes others based on size, polarity, and other factors.",
+			"It does not allow any substances to pass through as they could damage the cell."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are the major components of the cell membrane?",
+		"choices": [
+			"Lipids and carbohydrates",
+			"Proteins and carbohydrates",
+			"Lipids and proteins",
+			"Carbohydrates and polysaccharides"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What best describes endoplasmic reticulum?",
+		"choices": [
+			"A component of the cytoskeleton.",
+			"A cellular inclusion.",
+			"A nuclear pore.",
+			"A network of interconnected membranes."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which of the following describes a lysosome?",
+		"choices": [
+			"A double-membraned organelle that is the \"powerhouse\" of the cell.",
+			"A complex network of interconnected membranes that is a communication system within the cell.",
+			"A tiny, membranous sac that contains enzymes that degrade worn cell parts and debris.",
+			"A nonmembranous structure that is essential for mitosis."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "For which of the following organelles are the structure and function correctly described?",
+		"choices": [
+			"Endoplasmic reticulum: a network of interconnected membranes forming sacs and canals that package protein molecules for secretion.",
+			"Ribosome: membranous vesicle containing digestive enzymes.",
+			"Golgi apparatus: particles composed of protein and RNA that synthesize proteins.",
+			"Mitochondrion: a nonmembranous structure that synthesizes proteins."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "During cell division, it is likely that the chromosomes will not separate properly if the centrioles fail to attach to what structure?",
+		"choices": [
+			"Centromeres",
+			"Cilia",
+			"Nucleus",
+			"Microtubules"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is found within the nucleolus?",
+		"choices": [
+			"DNA only",
+			"RNA and protein",
+			"DNA and protein",
+			"RNA only"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the function of the nucleus?",
+		"choices": [
+			"To direct the activities of the cell.",
+			"To form mitochondria.",
+			"To transfer energy.",
+			"To provide shape to the cell."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Which organelle contains the nucleolus?",
+		"choices": [
+			"The mitochondrion",
+			"The endoplasmic reticulum",
+			"The Golgi apparatus",
+			"The nucleus"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What would occur if the concentration of glucose in the extracellular fluid is higher than the concentration in the intracellular fluid?",
+		"choices": [
+			"Water will enter the cell by osmosis.",
+			"Water will leave the cell by osmosis.",
+			"Glucose will enter the cell by osmosis.",
+			"Glucose will leave the cell by osmosis."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What would happen if a red blood cell was placed in a hypotonic solution?",
+		"choices": [
+			"The cell will shrink.",
+			"Only permeable substances will leave, but concentrations in the cell do not change.",
+			"The cell will remain the same size and shape.",
+			"The cell will swell and may eventually burst."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Red blood cells are placed in a solution of 0.9% NaCl and no diffusion or osmosis is observed. This means that the solution is__________.",
+		"choices": [
+			"isotonic",
+			"hypotonic",
+			"hypertonic",
+			"isertonic"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Cells are placed in a solution that causes them to absorb liquid until they burst. When water is removed from the solution, newly added cells do not burst. The original solution was__________, while the second was__________ to the cells.",
+		"choices": [
+			"hypotonic; isotonic",
+			"hypertonic; isotonic",
+			"isotonic; hypotonic",
+			"isotonic; hypertonic"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is osmosis?",
+		"choices": [
+			"Movement of molecules from an area of high concentration to an area of low concentration.",
+			"Movement of water through a selectively permeable membrane to a solution containing a higher concentration of impermeant solute.",
+			"Movement of water through a selectively permeable membrane to a solution containing a lower concentration of impermeant solute.",
+			"Movement of ions from a low pressure region to a high pressure region through a selectively permeable membrane."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "A red blood cell that is placed in a solution shrivels up. The solution is__________.",
+		"choices": [
+			"hypertonic",
+			"hypotonic",
+			"isotonic",
+			"isertonic"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is an isotonic solution?",
+		"choices": [
+			"A solution that has a greater concentration of impermeant solute than a cell.",
+			"A solution that results in more water entering than leaving a cell.",
+			"A solution that has the same osmotic pressure as a cell.",
+			"A solution that will cause a cell to shrink."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is phagocytosis?",
+		"choices": [
+			"The process by which a cell membrane engulfs solid particles.",
+			"The process by which a particle enters a cell by moving down its concentration gradient.",
+			"The process by which a cell membrane engulfs droplets.",
+			"The process by which a carrier molecule moves a substance across a cell membrane using ATP."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Following the nomenclature for cells, what cell types take in solid particles like bacteria?",
+		"choices": [
+			"Phagozyme",
+			"Phagase",
+			"Phagocyte",
+			"Phagosome"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "During what phase of the cell cycle does DNA replicate?",
+		"choices": [
+			"Prophase",
+			"Interphase",
+			"Metaphase",
+			"Telophase"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the correct order of the stages of the cell cycle?",
+		"choices": [
+			"Differentiation, cytoplasmic division, mitosis, interphase.",
+			"Interphase, differentiation, cytoplasmic division, mitosis.",
+			"Interphase, mitosis, cytoplasmic division, differentiation.",
+			"Mitosis, interphase, cytoplasmic division, differentiation."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "During which phase of mitosis do centromeres of replicated chromosomes separate?",
+		"choices": [
+			"Prophase",
+			"Metaphase",
+			"Anaphase",
+			"Telophase"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "Where is a mitochondrion found in the cell?",
+		"choices": [
+			"In the intracellular fluid",
+			"In the extracellular fluid",
+			"In the cell membrane",
+			"In the fluid of the nucleus"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "The skin, as an organ, is also referred to as the__________.",
+		"choices": [
+			"epidermis",
+			"cutaneous membrane",
+			"stratum corneum",
+			"epithelium"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "The skin along with structures such as nails, hair, and sweat glands are part of the__________.",
+		"choices": [
+			"integumentary system",
+			"dermis",
+			"subcutaneous tissue",
+			"exoskeleton"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Injections that are administered into the tissues of the skin are called__________ injections.",
+		"choices": [
+			"subcutaneous",
+			"intradermal",
+			"intramuscular",
+			"hypodermic"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Nerve fibers scattered throughout the dermis are associated with what structures?",
+		"choices": [
+			"Hair, melanocytes, and keratinocytes",
+			"Bone, tendons, and muscles",
+			"Adipose and reticular tissue",
+			"Muscles, glands, and sensory receptors"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What are dermal papillae?",
+		"choices": [
+			"Bundles of dense connective tissue fibers.",
+			"Cluster of cells that produce hair.",
+			"Site where nails are anchored to fingers or toes.",
+			"Projections of dermal tissue between epidermal ridges."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "The__________ is typically thicker than the__________.",
+		"choices": [
+			"stratum basale; stratum corneum",
+			"papillary layer; reticular layer",
+			"dermis; epidermis",
+			"skin of the forearm; skin of the palm of the hand"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "Normally, melanin is confined to what area of the skin?",
+		"choices": [
+			"Epidermis",
+			"Basement membrane",
+			"Dermal papillae",
+			"Stratum corneum"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Why does exposure to ultraviolet light darken the skin?",
+		"choices": [
+			"It stimulates the synthesis of melanin.",
+			"It stimulates the production of keratinocytes.",
+			"It stimulates the synthesis of keratin.",
+			"It stimulates the proliferation of papillae."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What determines the color of skin?",
+		"choices": [
+			"The number of melanocytes in the epidermis.",
+			"The thickness of the epidermis.",
+			"The amount of melanin that melanocytes produce.",
+			"The density of hair."
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The subcutaneous layer is comprised of what tissue type(s)?",
+		"choices": [
+			"Epithelial tissue",
+			"Areolar and adipose tissue",
+			"Epithelial tissue and areolar tissue",
+			"Adipose tissue and skeletal muscle tissue"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Skin cells play an important role in producing what vitamin?",
+		"choices": [
+			"Vitamin A",
+			"Vitamin B",
+			"Vitamin D",
+			"Vitamin K"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "Epidermis is composed of__________, whereas dermis is composed of__________.",
+		"choices": [
+			"areolar tissue; columnar epithelial tissue",
+			"dense irregular connective tissue; simple squamous epithelial tissue",
+			"pseudostratified epithelial tissue; areolar tissue",
+			"stratified squamous epithelial tissue; dense irregular connective tissue"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the cause of cyanosis?",
+		"choices": [
+			"A buildup of cyanide in the skin",
+			"Low blood oxygen levels",
+			"Excess of carotene in the diet",
+			"Excessive exposure to ultraviolet (UV) radiation"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Name the tough fibrous protein that is responsible for the waterproof nature of skin.",
+		"choices": [
+			"Keratin",
+			"Melanin",
+			"Vitamin D",
+			"Collagen"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What cell type produces the nail plates?",
+		"choices": [
+			"Cartilage cells (chondrocytes)",
+			"Fibroblasts",
+			"Melanocytes",
+			"Specialized epithelial cells"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "The nail__________ overlies the nail__________.",
+		"choices": [
+			"plate; bed",
+			"plate; body",
+			"matrix; bed",
+			"bed; plate"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What gives a nail its hardness?",
+		"choices": [
+			"Melanin",
+			"Collagen",
+			"Calcium",
+			"Keratin"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What forms the shafts of hair?",
+		"choices": [
+			"Live dermal cells",
+			"Dead epidermal cells",
+			"Live epidermal cells",
+			"Dead dermal cells"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "Arrector pili muscles are attached to what feature of the skin?",
+		"choices": [
+			"Nail beds",
+			"Sebaceous glands",
+			"Stratum corneum",
+			"Hair follicles"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is secreted by sebaceous glands?",
+		"choices": [
+			"Fat globules mixed with cellular debris",
+			"Hormones",
+			"Watery solution containing organic material",
+			"Mucus"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "What type of glands secrete breast milk and ear wax?",
+		"choices": [
+			"Modified sebaceous glands",
+			"Modified apocrine sweat glands",
+			"Modified merocrine (eccrine) sweat glands",
+			"Modified endocrine glands"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is the primary means of body heat loss?",
+		"choices": [
+			"Conduction",
+			"Convection",
+			"Evaporation",
+			"Radiation"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What is a normal response to excessive loss of body heat in a cold environment?",
+		"choices": [
+			"Dermal blood vessels constrict.",
+			"Sweat glands become active.",
+			"Smooth muscles relax.",
+			"Dermal blood vessels dilate."
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Sweating results in loss of body heat by what means?",
+		"choices": [
+			"Convection",
+			"Conduction",
+			"Evaporation",
+			"Radiation"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The body loses heat to the air molecules continuously circulating over it by the process of__________.",
+		"choices": [
+			"Radiation",
+			"Evaporation",
+			"Conduction",
+			"Convection"
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "Inflammation results in__________ in the area of injury or infection, resulting in redness and swelling of the tissue.",
+		"choices": [
+			"vasodilation",
+			"muscle contraction",
+			"blood clotting",
+			"loss of skin"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "When does inflammation occur?",
+		"choices": [
+			"In response to extreme cold",
+			"In response to injury or infection",
+			"In response to fever",
+			"In response to aging"
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "In treating a burn patient, how is the \"rule of nines\" used?",
+		"choices": [
+			"To estimate the depth of the burn.",
+			"To estimate the surface area of the burn.",
+			"To estimate time needed for healing.",
+			"To estimate the level of pain experienced by the patient."
+		],
+		"answer": 1,
+		"explanation": ""
+	},
+	{
+		"prompt": "As a person ages, what happens to their skin?",
+		"choices": [
+			"The skin becomes thicker.",
+			"The skin becomes more opaque.",
+			"The skin becomes more elastic.",
+			"The skin becomes thinner."
+		],
+		"answer": 3,
+		"explanation": ""
+	},
+	{
+		"prompt": "What feature of the skin is involved in acne?",
+		"choices": [
+			"Sweat glands",
+			"Hair follicles",
+			"Sebaceous glands",
+			"Apocrine glands"
+		],
+		"answer": 2,
+		"explanation": ""
+	},
+	{
+		"prompt": "The condition called__________ results from a complete lack of melanin.",
+		"choices": [
+			"albinism",
+			"jaundice",
+			"cyanosis",
+			"melanoma"
+		],
+		"answer": 0,
+		"explanation": ""
+	},
+	{
+		"prompt": "Compact bone has __________, whereas spongy bone has __________.",
+		"choices": [
+			"spaces that reduce the weight of bone; tightly packed matrix that is solid",
+			"osteons; trabeculae",
+			"trabeculae; osteons",
+			"osteocytes; no osteocytes"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Where on a long bone is articular cartilage found?",
+		"choices": [
+			"On the outer surface of the epiphyses",
+			"Inside the medullary cavity",
+			"On the outer surface of the diaphysis",
+			"In the spaces of the spongy bone"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What type of tissue comprises articular cartilage?",
+		"choices": [
+			"Fibrocartilage",
+			"Spongy bone",
+			"Elastic cartilage",
+			"Hyaline cartilage"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "Osteoblasts are__________, whereas osteocytes are__________.",
+		"choices": [
+			"bone-forming cells; bone-dissolving cells",
+			"mature bone cells; bone-forming cells",
+			"bone-forming cells; mature bone cells",
+			"bone-dissolving cells; mature bone cells"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What are osteoclasts?",
+		"choices": [
+			"Bone cells that secrete bone matrix",
+			"Mature bone cells that maintain the matrix",
+			"Immature bone cells that give rise to osteocytes",
+			"Bone cells that break down bone matrix"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "In a child, a vitamin D deficiency results in__________, whereas a vitamin A deficiency results in__________.",
+		"choices": [
+			"pituitary dwarfism; rickets",
+			"rickets; retardation of bone development",
+			"excess calcium absorption; osteomalacia",
+			"soft bones; rickets"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What is the function of osteoblasts?",
+		"choices": [
+			"Osteoblasts are large, multinucleated cells that break down the calcified bone matrix.",
+			"Osteoblasts deposit bone matrix around themselves and become osteocytes when they are isolated in lacunae.",
+			"Osteoblasts secrete collagen fibers and then mature into osteoclasts.",
+			"Osteoblasts secrete an acid that breaks down the epiphyseal plate."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What is the effect of exercise on bones?",
+		"choices": [
+			"Results in thickening and elongating of bones",
+			"Results in weakening and elongating bones",
+			"Results in thickening and strengthening bones",
+			"Results in thinning and weakening bones"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Red bone marrow functions in the formation of__________.",
+		"choices": [
+			"red blood cells, white blood cells, and platelets",
+			"red blood cells only",
+			"white blood cells only",
+			"red and white blood cells only"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which of the following does not describe the function(s) of the skeletal system?",
+		"choices": [
+			"It interacts with muscles, providing movement.",
+			"It stores inorganic salts.",
+			"It protects organs, especially in the head and thorax.",
+			"It generates the movements of the limbs."
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "Which of the following is not a function of bones?",
+		"choices": [
+			"Contraction",
+			"Attachment for muscles",
+			"Blood cell production",
+			"Storage of inorganic salts"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which of the following bones are found within the axial skeleton?",
+		"choices": [
+			"The upper and lower limbs and pelvic and pectoral girdles",
+			"The skull, hyoid bone, thoracic cage, and vertebral column",
+			"The radius, ulna, carpals, and phalanges",
+			"The femur, tibia, and fibula"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Bacteria infecting the mucous membranes in the air cells of the mastoid process most likely spread from the__________.",
+		"choices": [
+			"middle ear",
+			"meninges",
+			"frontal sinus",
+			"maxillary sinus"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "A cleft palate results from incomplete development of the__________.",
+		"choices": [
+			"ethmoid bone",
+			"maxillae",
+			"mandible",
+			"vomer bone"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What three bones fuse to form the hip bone?",
+		"choices": [
+			"The ilium, the femur, and the pubis.",
+			"The ilium, the sacrum, and the pubis.",
+			"The ischium, the coccyx, and the pubis.",
+			"The ilium, the ischium, and the pubis."
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "The atlas is one of the__________ vertebrae.",
+		"choices": [
+			"lumbar",
+			"thoracic",
+			"cervical",
+			"sacral"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Ribs that join the sternum directly by costal cartilages are called__________ ribs.",
+		"choices": [
+			"true",
+			"false",
+			"floating",
+			"vertebrochondral"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What are phalanges?",
+		"choices": [
+			"Skull bones",
+			"Forearm bones",
+			"Finger and toe bones",
+			"Wrist and ankle bones"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Having extra digits is termed__________.",
+		"choices": [
+			"polydactyly",
+			"polyuria",
+			"polyploidy",
+			"polydipsia"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which of the following is/are not a component(s) of the pelvic girdle?",
+		"choices": [
+			"Hip bones",
+			"Coxal bones",
+			"Femurs",
+			"Sacrum"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Which of the following describes a female's pelvis compared to a male's pelvis?",
+		"choices": [
+			"A cavity that is wider in all dimensions, with lighter bones.",
+			"A cavity that is narrower in all dimensions, with lighter bones.",
+			"A cavity that is wider in all dimensions, with heavier bones.",
+			"A cavity that is narrower in all dimensions, with heavier bones."
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which of the following describes the female pelvis compared to that of the male?",
+		"choices": [
+			"The angle of the female pubic arch is smaller.",
+			"The distance between the female ischial spines is greater.",
+			"The obturator foramen is more oval in a female.",
+			"The female iliac bones are less flared."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Where is the femur located?",
+		"choices": [
+			"In the thigh",
+			"In the pelvic girdle",
+			"In the arm",
+			"In the shin"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What is a compound fracture?",
+		"choices": [
+			"An incomplete break of the bone in more than one place",
+			"A longitudinal break in the bone",
+			"A broken bone exposed to the outside",
+			"A complete break in the bone in more than one place"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "A landscaper accidentally had their leg crushed by a tree. Their femur was impacted with such force that a section of the bone completely shattered into fragments. What type of break is this?",
+		"choices": [
+			"A comminuted fracture",
+			"A fissured fracture",
+			"An oblique fracture",
+			"A greenstick fracture"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which of the following is not a component of the skeletal system?",
+		"choices": [
+			"Skeletal muscle",
+			"Ligaments",
+			"Cartilage",
+			"Bone"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Joints are also called__________.",
+		"choices": [
+			"annotations",
+			"articulations",
+			"affectations",
+			"affiliations"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Joints can be classified as synarthrotic, amphiarthrotic, or diarthrotic. What characteristic was used to classify the joints?",
+		"choices": [
+			"Location of the joint in the body",
+			"Composition of the joint",
+			"Number of bones within the joint",
+			"Degree of movement possible at the joint"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "Suppose all synarthrotic joints were fused in an individual. Which of the following would be true of this individual?",
+		"choices": [
+			"The person would not be able to flex their fingers and grasp objects.",
+			"Braces would not work to straighten the person’s teeth because their teeth would not move.",
+			"The person would not be able to bend forward because their vertebral column would be fused.",
+			"Head-turning would be impossible because the atlas and axis would be fused."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "A patient has a condition in which collagen fibers are incorrectly manufactured and are non-functional. Which types of joints will be most heavily affected?",
+		"choices": [
+			"Synarthrotic, amphiarthrotic, and diarthrotic joints",
+			"Syndesmosis, suture, and gomphosis joints",
+			"Synchondrosis, symphysis, and synovial joints",
+			"Pivot, condylar, and ellipsoidal joints"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Suppose the pubic symphysis did not exist in the pelvic girdle and the two pubic bones were fused in the middle. Which of the following best describes the way the region would be affected if this joint was removed?",
+		"choices": [
+			"The vertebral column would not be able to extend because of the rigidity of the pelvis.",
+			"The femurs would grind inside the acetabulum and cause pain because of a lack of cartilage.",
+			"The pelvic girdle would be highly unstable because the pubic symphysis adds stability and rigidity.",
+			"Childbirth would have a high mortality risk because the pelvic girdle would be rigid and unmoving."
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "A suture is an example of a__________ joint.",
+		"choices": [
+			"fibrous",
+			"cartilaginous",
+			"synovial",
+			"plane"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What type of joint is between adjacent vertebral bodies?",
+		"choices": [
+			"Symphysis that is amphiarthrotic.",
+			"Symphysis that is synarthrotic.",
+			"Symphysis that is diarthrotic.",
+			"Synovial joint that is synarthrotic."
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What connects bones together in a cartilaginous joint?",
+		"choices": [
+			"Synovial fluid",
+			"Fibrous connective tissue",
+			"Hyaline cartilage or fibrocartilage",
+			"A joint capsule"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What does the synovial membrane secrete?",
+		"choices": [
+			"Sweat",
+			"Serous fluid",
+			"Mucus",
+			"Synovial fluid"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What would happen if the synovial membrane could not secrete synovial fluid?",
+		"choices": [
+			"The onset of arthritis would be slowed because synovial fluid generates friction within the joint capsule.",
+			"Blood would not directly flow into the joint capsule to nourish cartilage.",
+			"The cartilage contained within the capsule would not receive nutrients from synovial membrane blood vessels.",
+			"New cartilage would not be generated because synovial fluid is a stimulant for cartilage production."
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Bones of a synovial joint are held together by__________.",
+		"choices": [
+			"a synovial membrane",
+			"a joint capsule",
+			"a meniscus",
+			"articular cartilage"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Greg trips over a toy and experiences a sharp pain. His physician diagnoses a torn meniscus. What joint has Greg injured?",
+		"choices": [
+			"Knee joint",
+			"Elbow joint",
+			"Shoulder joint",
+			"Hip joint"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What is the source of oxygen and nutrients for articular cartilage?",
+		"choices": [
+			"A direct blood supply",
+			"Blood vessels in underlying spongy bone",
+			"Surrounding synovial fluid",
+			"Chondrocytes"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What reinforces a joint capsule?",
+		"choices": [
+			"Adipose tissue within the surrounding spaces",
+			"Articular cartilage cushioning ends of bones",
+			"Ligaments binding articular ends of bones together",
+			"Hyaline cartilage providing strength to the capsule walls"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Fluid-filled sacs containing synovial fluid are called__________.",
+		"choices": [
+			"bursae",
+			"menisci",
+			"ligaments",
+			"tendons"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which of the following is not a synovial joint?",
+		"choices": [
+			"Condylar",
+			"Ball-and-socket",
+			"Hinge",
+			"Symphysis"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "In which of the following is rotational movement possible?",
+		"choices": [
+			"Ball-and-socket joint",
+			"Condylar joint",
+			"Hinge joint",
+			"Suture joint"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "A muscle end attached to a less movable or relatively fixed part is called the__________.",
+		"choices": [
+			"symphysis",
+			"articulation",
+			"origin",
+			"insertion"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Which of the following correctly pairs a term with its definition?",
+		"choices": [
+			"Extension—bending the leg at the knee to bring the heel closer to the buttocks",
+			"Abduction—lifting the arm out to the side of the body so that it is parallel to the ground",
+			"Flexion—bringing the arm from overhead back down to the side of the body",
+			"Adduction—moving the arm forward so it is in front of the body"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "You turn your head to look at something over your shoulder. This is an example of__________ of the head.",
+		"choices": [
+			"retraction",
+			"abduction",
+			"circumduction",
+			"rotation"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "The largest and most complex synovial joint is the___________.",
+		"choices": [
+			"hip",
+			"knee",
+			"elbow",
+			"shoulder"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Displacement of a joint is called__________.",
+		"choices": [
+			"bursitis",
+			"sprain",
+			"dislocation",
+			"arthritis"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What is the effect of activity and exercise on joints?",
+		"choices": [
+			"It makes joints more vulnerable to injury.",
+			"It hastens osteoarthritis.",
+			"It keeps joints functioning longer.",
+			"It increases joint stiffness."
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Disuse of the joints__________, which hastens stiffening.",
+		"choices": [
+			"causes arthritis",
+			"causes injuries",
+			"hampers blood flow",
+			"degenerates cartilage"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Which of the following is an infection?",
+		"choices": [
+			"Osteoarthritis",
+			"A sprain",
+			"Bursitis",
+			"Lyme disease"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What is rheumatoid arthritis?",
+		"choices": [
+			"A condition in which the synovial membrane becomes inflamed and thickened.",
+			"An inflammation of synchondrosis joints.",
+			"A condition in which ligaments break down, resulting in joints that become extremely loose.",
+			"A natural degeneration of joints due to old age."
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What is a sprain?",
+		"choices": [
+			"Inflammation of a bursa",
+			"Overstretched or torn ligaments in a joint",
+			"Dislocation of bones in a joint",
+			"Overuse of a joint"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What type of joint is immovable?",
+		"choices": [
+			"Suture",
+			"Hinge joint",
+			"Ball-and-socket joint",
+			"Saddle joint",
+			"Synovial joint"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What is a function of muscles?",
+		"choices": [
+			"Pumping blood",
+			"Generating electrical impulses",
+			"Storage of minerals",
+			"Cushioning tissues from blunt force"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What is the name of the outermost layer of connective tissue surrounding a skeletal muscle?",
+		"choices": [
+			"Epimysium",
+			"Perimysium",
+			"Endomysium",
+			"Sarcolemma"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Myofibrils are composed primarily of__________.",
+		"choices": [
+			"actin and myosin",
+			"perimysium and endomysium",
+			"troponin and tropomyosin",
+			"fascia and tendons"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What is the functional unit of muscle contraction?",
+		"choices": [
+			"Muscle",
+			"Muscle fiber",
+			"Myosin cross-bridge",
+			"Sarcomere"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What is the function of creatine phosphate?",
+		"choices": [
+			"It catalyzes the decomposition of ATP.",
+			"It catalyzes the decomposition of ADP.",
+			"It supplies energy for the synthesis of ATP.",
+			"It supplies energy for the breakdown of ATP to ADP."
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "After finishing a sprint, Tawanda experiences painful cramps in her calf muscles. A deficit in__________ would explain her cramping.",
+		"choices": [
+			"actin",
+			"acetylcholine",
+			"ATP",
+			"ADP"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Which statement describes the mechanism of muscle contraction?",
+		"choices": [
+			"Tropomyosin molecules move and expose specific binding sites on thick filaments.",
+			"Actin filaments slide along myosin filaments.",
+			"Cross-bridges form between actin and the sarcolemma.",
+			"Filaments of troponin and tropomyosin slide past one another."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "A__________ is the functional connection between a neuron and a skeletal muscle fiber.",
+		"choices": [
+			"synapse",
+			"sarcolemma",
+			"neuroma",
+			"dendrite"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What is a motor unit?",
+		"choices": [
+			"Many myofibrils contained within a sarcolemma",
+			"The multiple folds of the motor end plate at a neuromuscular junction",
+			"A motor neuron and the muscle fibers it innervates",
+			"All muscles and other structures encased within a fascia"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "During a muscle contraction, why is ATP required?",
+		"choices": [
+			"To synthesize creatine phosphate",
+			"To breakdown glycogen into glucose for fuel",
+			"To allow myofilament movement",
+			"To stimulate enzyme activity"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What is a myogram?",
+		"choices": [
+			"A chart that shows the number of muscle fibers in a motor unit",
+			"A recording of the events of a muscle twitch",
+			"A measurement of muscle tone",
+			"A recording of the amount of movement resulting from a skeletal muscle contraction"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What happens in a muscle as it undergoes atrophy in response to disuse?",
+		"choices": [
+			"Motor neurons grow and invade the muscle abnormally.",
+			"The size of actin and myosin filaments decreases.",
+			"Capillaries within the muscle rupture.",
+			"The muscle swells."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "How does smooth muscle compare to skeletal muscle?",
+		"choices": [
+			"Smooth muscle contracts more slowly and relaxes more slowly.",
+			"Smooth muscle contracts more slowly and relaxes more rapidly.",
+			"Smooth muscle contracts more rapidly and relaxes more slowly.",
+			"Smooth muscle contracts more rapidly and relaxes more rapidly."
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which statement describes cardiac muscle?",
+		"choices": [
+			"The cells are multinucleated.",
+			"It does not require stimulation by motor neurons.",
+			"The cells contains very few mitochondria.",
+			"It lacks the straitions formed by regularly arranged sarcomeres."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Bones and muscles function together as mechanical devices called__________.",
+		"choices": [
+			"lifts",
+			"levers",
+			"leads",
+			"loads"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What term describes the more movable end of a muscle?",
+		"choices": [
+			"Origin",
+			"Fulcrum",
+			"Insertion",
+			"Source"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "In producing a movement, the muscle that causes an action is acting as the__________.",
+		"choices": [
+			"synergis",
+			"antagonist",
+			"agonist",
+			"mediator"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "In many movements, the agonist is assisted by other muscles. A muscle that assists the agonist is called a(n)__________.",
+		"choices": [
+			"antagonist",
+			"prime mover",
+			"mediator",
+			"synergist"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What is the main component of thin filaments?",
+		"choices": [
+			"Myofibrils",
+			"Acetylcholine",
+			"Actin",
+			"Myosin"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What are fascicles?",
+		"choices": [
+			"Bundles of muscle fibers",
+			"Bundles of myofibrils",
+			"Bundles of thick and thin filaments",
+			"Bundles of smooth muscle cells"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What cytoplasmic extensions, together with the cell body, provide the main receptive surfaces for neurons?",
+		"choices": [
+			"Neurofibrils",
+			"Chromatophilic substance (Nissl bodies)",
+			"Axons",
+			"Dendrites"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What is a function of the nervous system?",
+		"choices": [
+			"Provides a support system for the body",
+			"Controls the movement of muscles",
+			"Contracts and generates a force to cause bodily motion",
+			"Provides nutrients and nourishment for surrounding cells"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What is the function of sensory receptors?",
+		"choices": [
+			"To send signals from the brain to muscles",
+			"To work with muscles to generate motion",
+			"To detect changes in and outside the body",
+			"To act as a pathway between the ascending and descending tracts within the spinal cord"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What are the three general functions of the nervous system?",
+		"choices": [
+			"Sensory, motor, and predictive",
+			"Integrative, motor, and sensory",
+			"Predictive, manipulative, and integrative",
+			"Reflexive, sensory, and predictive"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Masses of myelinated nerve fibers appear__________.",
+		"choices": [
+			"white",
+			"gray",
+			"brown",
+			"transparent"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "How many axons and/or dendrites can a neuron have?",
+		"choices": [
+			"One axon and many dendrites",
+			"One dendrite and many axons",
+			"No dendrites and many axons",
+			"No axons and many dendrites"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What cytoplasmic structure supports the axon?",
+		"choices": [
+			"Dendrites",
+			"Nodes of Ranvier",
+			"Neurofibrils",
+			"Collaterals"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Every neuron has which of the following components?",
+		"choices": [
+			"Many axons",
+			"A cell body",
+			"Myelin",
+			"A neurilemma"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What is myelin?",
+		"choices": [
+			"A substance released from a neuron that travels to another neuron.",
+			"Layers of lipids and proteins that wrap around an axon.",
+			"A substance produced in response to bacterial infection.",
+			"A form of chromatophilic substance that fills Schwann cells."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "A myelinated nerve fiber is_________, whereas an unmyelinated nerve fiber is_________.",
+		"choices": [
+			"gray; white",
+			"white; black",
+			"white; gray",
+			"gray; black"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Myelin is rich in_________.",
+		"choices": [
+			"nucleic acids",
+			"carbohydrates",
+			"lipids",
+			"salts"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Synaptic knobs are at the ends of__________.",
+		"choices": [
+			"axons",
+			"dendrites",
+			"cell bodies",
+			"neuroglia"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Saltatory conduction__________.",
+		"choices": [
+			"occurs only if the myelin sheath is continuous",
+			"occurs only if nodes of Ranvier are lacking",
+			"is faster than conduction on an unmyelinated fiber",
+			"is slower than conduction on an unmyelinated fiber"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "The most rapid conduction of an impulse along an axon occurs on a fiber that is__________.",
+		"choices": [
+			"thick and myelinated",
+			"thick and unmyelinated",
+			"thin and myelinated",
+			"thin and unmyelinated"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "The resting cell membrane is more permeable to which ion?",
+		"choices": [
+			"Potassium",
+			"Sodium",
+			"Calcium",
+			"Magnesium"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "If a resting potential becomes more negative, the membrane is said to be__________.",
+		"choices": [
+			"depolarized",
+			"hyperpolarized",
+			"repolarized",
+			"summated"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What does the term metabolism refer to?",
+		"choices": [
+			"The reactions in the body that synthesize proteins and nucleic acids.",
+			"The reactions in the body that break down proteins and nucleic acids.",
+			"All of the chemical reactions in the body.",
+			"The breakdown of glucose molecules to release energy."
+		],
+		"answer": 2,
+		"explanation": "Metabolism is the sum of all chemical reactions that occur in the body, including both anabolism and catabolism."
+	},
+	{
+		"prompt": "Why is protein synthesis so important to the body?",
+		"choices": [
+			"Enzymes are proteins and enzymes are essential to metabolism.",
+			"Proteins store energy for metabolic reactions.",
+			"Proteins encode genetic sequences.",
+			"The diet does not provide the building blocks of protein."
+		],
+		"answer": 0,
+		"explanation": "Most enzymes are proteins, and enzymes are required to catalyze metabolic reactions, so protein synthesis is vital."
+	},
+	{
+		"prompt": "What is anabolism?",
+		"choices": [
+			"Biochemical reactions that synthesize compounds.",
+			"All chemical reactions occurring in the body.",
+			"Biochemical reactions that break down compounds.",
+			"Biochemical reactions that release energy from nutrients."
+		],
+		"answer": 0,
+		"explanation": "Anabolism is the building of larger molecules from smaller ones, which involves synthesis reactions."
+	},
+	{
+		"prompt": "Which of the following is an example of catabolism?",
+		"choices": [
+			"Decrease in the rate of glycogenesis.",
+			"Increase in muscle tissue with exercise.",
+			"Formation of secretory proteins in the pancreas.",
+			"Breakdown of glucose in the cytoplasm and mitochondria."
+		],
+		"answer": 3,
+		"explanation": "Catabolism breaks down larger molecules into smaller ones, such as the breakdown of glucose during cellular respiration."
+	},
+	{
+		"prompt": "What is catabolism?",
+		"choices": [
+			"Chemical reactions that require energy.",
+			"Chemical reactions that release energy.",
+			"Synthesis of large molecules from smaller ones.",
+			"The formation of genetic material."
+		],
+		"answer": 1,
+		"explanation": "Catabolic reactions break down molecules and typically release energy that can be used by the cell."
+	},
+	{
+		"prompt": "Molecules that function to increase the rate of chemical reactions are called:",
+		"choices": [
+			"hormones",
+			"substrates",
+			"enzymes",
+			"mutagens"
+		],
+		"answer": 2,
+		"explanation": "Enzymes are biological catalysts that speed up chemical reactions without being consumed."
+	},
+	{
+		"prompt": "Which of the following describes an enzyme?",
+		"choices": [
+			"A compound that is changed into a product during a chemical reaction.",
+			"A catalyst for a chemical reaction.",
+			"The end product(s) of a chemical reaction.",
+			"A compound that stores energy within its chemical bonds."
+		],
+		"answer": 1,
+		"explanation": "An enzyme is a catalyst that facilitates a chemical reaction but is not used up in the process."
+	},
+	{
+		"prompt": "What is an important mechanism that controls metabolic pathways?",
+		"choices": [
+			"Positive feedback",
+			"Amplification",
+			"Negative feedback",
+			"Genetic control"
+		],
+		"answer": 2,
+		"explanation": "Negative feedback helps maintain homeostasis by reducing activity when enough product has been made."
+	},
+	{
+		"prompt": "A cofactor is __________. Examples are __________.",
+		"choices": [
+			"an organic molecule that all enzymes require; cholesterol and calcium",
+			"an inorganic molecule that some enzymes require; vitamin B12 and B6",
+			"a necessary part of some enzymes; copper, iron, and zinc",
+			"a molecule that destabilizes enzymes; carbonic acid"
+		],
+		"answer": 2,
+		"explanation": "Some enzymes require cofactors such as metal ions like copper, iron, and zinc in order to function properly."
+	},
+	{
+		"prompt": "Humans require vitamins in their diets. What is a major function of these vitamins in the body?",
+		"choices": [
+			"To provide energy.",
+			"To be used as building blocks for lipids.",
+			"To bond to minerals and help in their transport.",
+			"To act as coenzymes."
+		],
+		"answer": 3,
+		"explanation": "Many vitamins function as coenzymes, helping enzymes catalyze metabolic reactions."
+	},
+	{
+		"prompt": "What molecule carries energy in a form that a cell can use?",
+		"choices": [
+			"Glucose",
+			"Glycogen",
+			"Vitamin C",
+			"ATP"
+		],
+		"answer": 3,
+		"explanation": "ATP stores and transfers energy in a form that is directly usable by cellular processes."
+	},
+	{
+		"prompt": "Why is ATP important for cellular processes?",
+		"choices": [
+			"It is a source of building blocks for structural proteins.",
+			"It provides energy for cellular work.",
+			"It binds and carries oxygen to parts of the cell where O₂ is needed.",
+			"As a major coenzyme, many enzymes require its presence in order to be functional."
+		],
+		"answer": 1,
+		"explanation": "ATP hydrolysis releases energy that powers many forms of cellular work, such as transport and mechanical movement."
+	},
+	{
+		"prompt": "What is the function of ATP molecules in living cells?",
+		"choices": [
+			"They contain genetic material.",
+			"Their energy is used in various cell processes.",
+			"They act as coenzymes so that fats can be synthesized.",
+			"They are an integral part of the cell membrane, important in transporting organic molecules."
+		],
+		"answer": 1,
+		"explanation": "The chemical energy stored in ATP is used to drive many reactions and processes in the cell."
+	},
+	{
+		"prompt": "What substance becomes more abundant during cellular respiration?",
+		"choices": [
+			"Oxygen",
+			"Glucose",
+			"ATP",
+			"Glycogen"
+		],
+		"answer": 2,
+		"explanation": "Cellular respiration converts energy in nutrients into ATP, so ATP levels increase."
+	},
+	{
+		"prompt": "Which of the following is a product of the citric acid cycle?",
+		"choices": [
+			"Carbon dioxide",
+			"Water",
+			"Glycogen",
+			"Pyruvic acid"
+		],
+		"answer": 0,
+		"explanation": "The citric acid cycle releases carbon dioxide as a waste product while extracting high-energy electrons."
+	},
+	{
+		"prompt": "What is the overall function of cellular respiration?",
+		"choices": [
+			"To produce glucose molecules that can be used for cellular fuel.",
+			"To release energy from nutrient molecules to be used as cellular energy.",
+			"To use carbon dioxide to produce oxygen molecules.",
+			"To produce enzymes and other proteins needed for metabolic processes."
+		],
+		"answer": 1,
+		"explanation": "Cellular respiration extracts energy from nutrients and stores it in ATP for cellular use."
+	},
+	{
+		"prompt": "What is true about the anaerobic reactions of cellular respiration?",
+		"choices": [
+			"Glucose is broken down into carbon dioxide and water.",
+			"Oxygen is required for the reactions to proceed.",
+			"Energy is transferred to ATP molecules.",
+			"The enzymes for the reactions are embedded in the inner mitochondrial membranes."
+		],
+		"answer": 2,
+		"explanation": "Anaerobic reactions, such as glycolysis, transfer some energy from glucose to ATP without requiring oxygen."
+	},
+	{
+		"prompt": "What comprises the central nervous system (CNS)?",
+		"choices": [
+			"Spinal and cranial nerves",
+			"Brain and spinal cord",
+			"Brain and cranial nerves",
+			"Nerves in the upper and lower limbs"
+		],
+		"answer": 1,
+		"explanation": "The CNS consists of the brain and spinal cord; peripheral nerves make up the PNS."
+	},
+	{
+		"prompt": "What is contained within the epidural space in the vertebral column?",
+		"choices": [
+			"Loose connective tissue, blood vessels, and adipose tissue",
+			"Dense connective tissue and cartilage",
+			"Serous fluid",
+			"Collagen, elastin, and bone tissue"
+		],
+		"answer": 0,
+		"explanation": "The epidural space contains fat, loose connective tissue, and blood vessels cushioning the spinal cord."
+	},
+	{
+		"prompt": "The __________ is the thin meninx attached to the surface of the brain, containing many nerves and blood vessels.",
+		"choices": [
+			"dura mater",
+			"arachnoid mater",
+			"pia mater",
+			"subdural mater"
+		],
+		"answer": 2,
+		"explanation": "The pia mater closely follows the contours of the brain and is rich in blood vessels."
+	},
+	{
+		"prompt": "What is the correct order for the components of a reflex arc?",
+		"choices": [
+			"Receptor, sensory neuron, motor neuron, interneuron, effector",
+			"Effector, receptor, sensory neuron, motor neuron, interneuron",
+			"Effector, sensory neuron, receptor, interneuron, motor neuron",
+			"Receptor, sensory neuron, interneuron, motor neuron, effector"
+		],
+		"answer": 3,
+		"explanation": "A typical reflex arc follows this path: receptor → sensory neuron → interneuron → motor neuron → effector."
+	},
+	{
+		"prompt": "What is the cauda equina?",
+		"choices": [
+			"Outermost protective layer covering the brain and spinal cord",
+			"The inferior tip of the spinal cord",
+			"Bundle of nervous tissue that extends beyond tip of spinal cord",
+			"Cord of connective tissue that anchors spinal cord to the coccyx"
+		],
+		"answer": 2,
+		"explanation": "The cauda equina is a bundle of spinal nerve roots extending below the end of the spinal cord."
+	},
+	{
+		"prompt": "In the spinal cord, __________ matter is surrounded by __________ matter.",
+		"choices": [
+			"white; gray",
+			"gray; white"
+		],
+		"answer": 1,
+		"explanation": "In cross-section, the spinal cord has an inner H-shaped region of gray matter surrounded by white matter."
+	},
+	{
+		"prompt": "What would be the effect of damage to Broca's area?",
+		"choices": [
+			"Memory loss",
+			"Impaired motor control of the left side of the body",
+			"Vision loss",
+			"Loss of motor control needed for speech"
+		],
+		"answer": 3,
+		"explanation": "Broca’s area coordinates the motor actions for speech; damage causes difficulty producing spoken words."
+	},
+	{
+		"prompt": "What is a function of the association areas of the frontal lobes?",
+		"choices": [
+			"Stimulate movement of arms and legs",
+			"Higher intellectual processes, including planning and problem solving",
+			"Analysis and interpretation of auditory input",
+			"Analysis and interpretation of visual input"
+		],
+		"answer": 1,
+		"explanation": "Frontal association areas are involved in higher cognitive functions such as planning and decision making."
+	},
+	{
+		"prompt": "What is a cerebrovascular accident?",
+		"choices": [
+			"Accumulation of blood between meningeal layers",
+			"Abnormal brain wave activity",
+			"Death of nervous system tissue due to blocked blood flow",
+			"Death of brain tissue due to increased intracranial pressure"
+		],
+		"answer": 2,
+		"explanation": "A cerebrovascular accident (stroke) results from interrupted blood flow, causing tissue death in the brain."
+	},
+	{
+		"prompt": "For most people, the dominant cerebral hemisphere is their __________ hemisphere.",
+		"choices": [
+			"left",
+			"right"
+		],
+		"answer": 0,
+		"explanation": "In most individuals, the left hemisphere is dominant, especially for language and analytic tasks."
+	},
+	{
+		"prompt": "Functionally, the adrenal medulla has the same effects on the body as the __________ nervous system.",
+		"choices": [
+			"sympathetic",
+			"somatic",
+			"parasympathetic",
+			"sensory"
+		],
+		"answer": 0,
+		"explanation": "The adrenal medulla releases epinephrine and norepinephrine, mimicking sympathetic nervous system activity."
+	},
+	{
+		"prompt": "Where are receptors for the general senses located?",
+		"choices": [
+			"In a few clusters within the head",
+			"Only in the integumentary system",
+			"Widely distributed throughout the body",
+			"Throughout the visceral organs"
+		],
+		"answer": 2,
+		"explanation": "General sense receptors are widely distributed in skin, muscles, joints, and various organs."
+	},
+	{
+		"prompt": "Where are receptors for the special senses located?",
+		"choices": [
+			"Primarily in the head",
+			"Throughout the integumentary system",
+			"In the fingertips",
+			"In internal organs"
+		],
+		"answer": 0,
+		"explanation": "Special senses such as vision, hearing, and taste have receptors localized mainly in the head."
+	},
+	{
+		"prompt": "The interpretation of sensory input by the brain is referred to as __________.",
+		"choices": [
+			"reception",
+			"sensation",
+			"perception",
+			"recognition"
+		],
+		"answer": 2,
+		"explanation": "Perception is the brain’s interpretation of sensory impulses, giving them meaning."
+	},
+	{
+		"prompt": "What type of receptor detects and responds to pressure?",
+		"choices": [
+			"Baroreceptors",
+			"Thermoreceptors",
+			"Photoreceptors",
+			"Chemoreceptors"
+		],
+		"answer": 0,
+		"explanation": "Baroreceptors detect changes in pressure, such as blood pressure in vessels."
+	},
+	{
+		"prompt": "Olfactory receptors are examples of what class of sensory receptor?",
+		"choices": [
+			"Thermoreceptors",
+			"Mechanoreceptors",
+			"Chemoreceptors",
+			"Proprioceptors"
+		],
+		"answer": 2,
+		"explanation": "Olfactory receptors respond to chemical molecules in the air, making them chemoreceptors."
+	},
+	{
+		"prompt": "Which receptor/stimulus pair is correct?",
+		"choices": [
+			"Baroreceptors: stimulated when injury occurs to nearby tissue.",
+			"Nociceptors: stimulated by increase in blood pressure.",
+			"Thermoreceptors: stimulated by light energy.",
+			"Proprioceptors: stimulated by changes in tension in muscles and tendons."
+		],
+		"answer": 3,
+		"explanation": "Proprioceptors detect body position and movement by sensing tension and stretch in muscles and tendons."
+	},
+	{
+		"prompt": "Muscle spindles and Golgi tendon organs are receptors for __________.",
+		"choices": [
+			"proprioception",
+			"pain",
+			"equilibrium",
+			"touch and pressure"
+		],
+		"answer": 0,
+		"explanation": "These structures sense muscle length and tension and are key proprioceptive receptors."
+	},
+	{
+		"prompt": "Structurally, taste receptors are __________.",
+		"choices": [
+			"free nerve endings",
+			"hair cells",
+			"modified connective tissue cells",
+			"modified epithelial cells"
+		],
+		"answer": 3,
+		"explanation": "Taste receptors are specialized epithelial cells that synapse with sensory neurons."
+	},
+	{
+		"prompt": "Which of the following is not a primary taste sensation?",
+		"choices": [
+			"Sweet",
+			"Salty",
+			"Pungent",
+			"Sour"
+		],
+		"answer": 2,
+		"explanation": "The primary tastes are sweet, salty, sour, bitter, and umami; pungent is not one of them."
+	},
+	{
+		"prompt": "Where are the receptors for hearing located?",
+		"choices": [
+			"In the ampullae",
+			"In the spiral organ",
+			"In the utricles",
+			"In the saccules"
+		],
+		"answer": 1,
+		"explanation": "The spiral organ (organ of Corti) in the cochlea contains the sensory cells for hearing."
+	},
+	{
+		"prompt": "What is the treatment for a cataract?",
+		"choices": [
+			"Removal of the cornea",
+			"Anchoring the retina in place",
+			"Removal of the lens",
+			"Using medication to reduce production of aqueous humor"
+		],
+		"answer": 2,
+		"explanation": "A cataract is clouding of the lens, and treatment usually involves surgical lens removal and replacement."
+	},
+	{
+		"prompt": "The olfactory receptors are examples of what class of receptor?",
+		"choices": [
+			"Thermoreceptors",
+			"Mechanoreceptors",
+			"Chemoreceptors",
+			"Proprioceptors"
+		],
+		"answer": 2,
+		"explanation": "Like other chemical-sensing receptors, olfactory receptors are chemoreceptors."
+	},
+	{
+		"prompt": "What structure is part of the innermost layer of the wall of the eye?",
+		"choices": [
+			"Ciliary body",
+			"Retina",
+			"Choroid coat",
+			"Sclera"
+		],
+		"answer": 1,
+		"explanation": "The retina is part of the inner (nervous) tunic of the eye and contains photoreceptors."
+	},
+	{
+		"prompt": "What region of the retina provides the sharpest vision?",
+		"choices": [
+			"Fovea centralis",
+			"Optic disc",
+			"Conjunctiva",
+			"Ciliary body"
+		],
+		"answer": 0,
+		"explanation": "The fovea centralis has the highest concentration of cones and provides the greatest visual acuity."
+	},
+	{
+		"prompt": "The inner ear is located within which cranial bone?",
+		"choices": [
+			"Parietal bone",
+			"Sphenoid bone",
+			"Temporal bone",
+			"Occipital bone"
+		],
+		"answer": 2,
+		"explanation": "The structures of the inner ear are embedded in the petrous part of the temporal bone."
+	},
+	{
+		"prompt": "A hormone is a __________ and the target cell is __________.",
+		"choices": [
+			"protein that stimulates other cells; the source of hormone secretions",
+			"regulatory molecule that controls secretions of other cells; a cell that synthesizes hormones",
+			"molecule that has a metabolic effect on another cell; a cell that has receptors for specific hormones",
+			"molecule; a cell that does not have receptors"
+		],
+		"answer": 2,
+		"explanation": "Hormones act on target cells that possess specific receptors and alter their metabolic activity."
+	},
+	{
+		"prompt": "How do exocrine glands differ from endocrine glands?",
+		"choices": [
+			"Exocrine glands secrete substances into the bloodstream.",
+			"Exocrine glands secrete local hormones.",
+			"Exocrine glands secrete through ducts or tubes to a free surface.",
+			"Exocrine glands only secrete salts."
+		],
+		"answer": 2,
+		"explanation": "Exocrine glands release their products through ducts to body surfaces or cavities, unlike ductless endocrine glands."
+	},
+	{
+		"prompt": "A sweat gland is an example of a(n) __________ gland.",
+		"choices": [
+			"exocrine",
+			"paracrine",
+			"endocrine",
+			"autocrine"
+		],
+		"answer": 0,
+		"explanation": "Sweat glands secrete sweat through ducts onto the skin surface, making them exocrine glands."
+	},
+	{
+		"prompt": "What does \"endocrine\" mean?",
+		"choices": [
+			"Hormone synthesis",
+			"Internal secretion",
+			"Acts upon target cells",
+			"Fast-acting compound"
+		],
+		"answer": 1,
+		"explanation": "Endocrine literally means ‘to secrete within,’ referring to hormones released into the bloodstream."
+	},
+	{
+		"prompt": "How can a hormone have effects on some cells but not on other cells?",
+		"choices": [
+			"Because target cell receptors are unique for each hormone.",
+			"Because target cell receptors are found near the endocrine gland.",
+			"Because target cell receptors are only present during certain times.",
+			"Because target cell receptors bind certain neurotransmitters and hormones."
+		],
+		"answer": 0,
+		"explanation": "Only cells with the appropriate receptors for a hormone will respond to it; others will not."
+	},
+	{
+		"prompt": "What is a function of hormones?",
+		"choices": [
+			"To catalyze reactions by physically bringing two reactants closer together",
+			"To stimulate growth, reproduction, and development",
+			"To protect the body by fighting off diseases",
+			"To generate action potentials to send signals through the body"
+		],
+		"answer": 1,
+		"explanation": "Hormones regulate many processes, including growth, development, metabolism, and reproduction."
+	},
+	{
+		"prompt": "What do all hormones have in common?",
+		"choices": [
+			"They are steroids.",
+			"They are proteins.",
+			"They are inorganic compounds.",
+			"They are organic compounds."
+		],
+		"answer": 3,
+		"explanation": "Hormones are organic molecules, but they vary in type (steroids, peptides, amines, etc.)."
+	},
+	{
+		"prompt": "Which of the following is true for steroid hormones?",
+		"choices": [
+			"They are soluble in lipids.",
+			"They circulate free in the blood, not bound to any carriers.",
+			"Their receptors are found on the cell membranes of target cells.",
+			"They include epinephrine and norepinephrine."
+		],
+		"answer": 0,
+		"explanation": "Steroid hormones are lipid-soluble and can diffuse through cell membranes to bind intracellular receptors."
+	},
+	{
+		"prompt": "Where are hormones secreted by the posterior pituitary synthesized?",
+		"choices": [
+			"Posterior pituitary",
+			"Hypothalamus",
+			"Thalamus",
+			"Anterior pituitary"
+		],
+		"answer": 1,
+		"explanation": "ADH and oxytocin are made in the hypothalamus and transported to the posterior pituitary for release."
+	},
+	{
+		"prompt": "What controls most hormone concentrations?",
+		"choices": [
+			"Positive feedback",
+			"Negative feedback",
+			"Muscle contraction",
+			"Exposure to sun"
+		],
+		"answer": 1,
+		"explanation": "Most hormones are regulated by negative feedback loops to keep their levels within a normal range."
+	},
+	{
+		"prompt": "What are tropic hormones?",
+		"choices": [
+			"Hormones that function in the tropics",
+			"Hormones that function in only one sex",
+			"Hormones that stimulate other endocrine glands to secrete hormones",
+			"Hormones that block the actions of other hormones"
+		],
+		"answer": 2,
+		"explanation": "Tropic hormones act on other endocrine glands, stimulating them to release their own hormones."
+	},
+	{
+		"prompt": "What do nerve fibers in the posterior lobe of the pituitary gland secrete?",
+		"choices": [
+			"Thyroid-stimulating hormone",
+			"Adrenocorticotropic hormone",
+			"Growth hormone",
+			"Antidiuretic hormone"
+		],
+		"answer": 3,
+		"explanation": "Axons in the posterior pituitary release ADH (and also oxytocin) into the bloodstream."
+	},
+	{
+		"prompt": "Why is oxytocin administered to women during childbirth?",
+		"choices": [
+			"To inhibit milk production",
+			"To stimulate uterine contractions",
+			"To inhibit uterine contractions",
+			"To stimulate ACTH production"
+		],
+		"answer": 1,
+		"explanation": "Oxytocin increases the strength and frequency of uterine contractions during labor."
+	},
+	{
+		"prompt": "What hormone stimulates calcium deposition into bone?",
+		"choices": [
+			"Calcitonin",
+			"Parathyroid hormone",
+			"Thyroxine",
+			"Insulin"
+		],
+		"answer": 0,
+		"explanation": "Calcitonin lowers blood calcium levels by promoting calcium deposition in bone."
+	},
+	{
+		"prompt": "Which of the following is a hormone secreted by the adrenal medulla?",
+		"choices": [
+			"Mineralocorticoid",
+			"Glucocorticoid",
+			"Aldosterone",
+			"Epinephrine"
+		],
+		"answer": 3,
+		"explanation": "The adrenal medulla secretes catecholamines such as epinephrine and norepinephrine."
+	},
+	{
+		"prompt": "Aldosterone promotes the homeostasis of ions by causing the kidneys to __________.",
+		"choices": [
+			"conserve sodium and excrete potassium",
+			"excrete sodium and conserve potassium",
+			"excrete sodium and potassium",
+			"conserve sodium and potassium"
+		],
+		"answer": 0,
+		"explanation": "Aldosterone increases sodium reabsorption and potassium excretion, helping regulate fluid and electrolytes."
+	},
+	{
+		"prompt": "What is the action of insulin?",
+		"choices": [
+			"Decreases concentration of blood glucose",
+			"Decreases permeability of cell membranes to glucose",
+			"Increases breakdown of glycogen to release glucose",
+			"Increases concentration of blood glucose"
+		],
+		"answer": 0,
+		"explanation": "Insulin lowers blood glucose by promoting glucose uptake into cells and stimulating glycogen synthesis."
+	},
+	{
+		"prompt": "What is the action of glucagon?",
+		"choices": [
+			"Increased production of fat",
+			"Increased permeability of the cell membrane to glucose",
+			"Increased blood glucose concentration",
+			"Increase in glycogen production"
+		],
+		"answer": 2,
+		"explanation": "Glucagon raises blood glucose by stimulating glycogen breakdown and glucose release by the liver."
+	},
+	{
+		"prompt": "Which of the following has both endocrine and exocrine functions?",
+		"choices": [
+			"Pancreas",
+			"Anterior pituitary",
+			"Liver",
+			"Thyroid gland"
+		],
+		"answer": 0,
+		"explanation": "The pancreas secretes digestive enzymes (exocrine) and hormones like insulin and glucagon (endocrine)."
+	},
+	{
+		"prompt": "What is a cause of Type 2 diabetes mellitus?",
+		"choices": [
+			"A deficiency of insulin",
+			"An insensitivity of cells to insulin",
+			"An excess production of glucagon",
+			"An infection"
+		],
+		"answer": 1,
+		"explanation": "In Type 2 diabetes, target cells become less responsive to insulin, leading to insulin resistance."
+	},
+	{
+		"prompt": "Where is the thyroid gland located?",
+		"choices": [
+			"Anterior to the heart",
+			"Anterior to the trachea",
+			"In the brain",
+			"Superior to the kidneys"
+		],
+		"answer": 1,
+		"explanation": "The thyroid sits in the neck, just anterior to the trachea and inferior to the larynx."
+	},
+	{
+		"prompt": "Which of the following is not one of the four basic types of body tissues?",
+		"options": [
+			"Epithelial tissue",
+			"Connective tissue",
+			"Eye tissue",
+			"Muscle tissue"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Which of the following characteristics is used to name epithelial tissue types?",
+		"options": [
+			"Location of cells in the body",
+			"Number of inclusions",
+			"Organization of cells",
+			"Number of mitochondria"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Histology is the study of__________.",
+		"options": [
+			"organ function",
+			"molecules",
+			"cells",
+			"tissues"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What do intercellular junctions connect?",
+		"options": [
+			"Cell membranes",
+			"Cell nuclei",
+			"Blood cells",
+			"Organelles"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What characteristics would be found in the tissue that forms the inner lining of the respiratory passages?",
+		"options": [
+			"Mucus-secreting and transitional.",
+			"Stratified, sputum-secreting, and non-ciliated.",
+			"Mucus-secreting, ciliated, and pseudostratified.",
+			"Serous fluid-secreting, simple, and columnar."
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Tendons and ligaments are composed primarily of what type of tissue?",
+		"options": [
+			"Dense irregular tissue",
+			"Reticular connective tissue",
+			"Muscle tissue",
+			"Dense regular connective tissue"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "Bone cells form concentric circles around longitudinal tubes called__________.",
+		"options": [
+			"osteons",
+			"central canals",
+			"lacunae",
+			"canaliculi"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Which of the following are cellular fragments?",
+		"options": [
+			"Red blood cells",
+			"White blood cells",
+			"Lymphocytes",
+			"Blood platelets"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "Elastic connective tissue is found in__________.",
+		"options": [
+			"bones",
+			"walls of blood vessels",
+			"cartilage",
+			"ligaments and tendons"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Which of the following is a general characteristic of connective tissue?",
+		"options": [
+			"It consists of cells within extracellular material.",
+			"It has no blood supply.",
+			"It covers the outside of organs.",
+			"It lines organs."
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What type of tissue is adipose tissue?",
+		"options": [
+			"Epithelial tissue",
+			"Muscle tissue",
+			"Nervous tissue",
+			"Connective tissue"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "A__________ membrane lines tubes and cavities that open to the outside of the body.",
+		"options": [
+			"serous",
+			"cutaneous",
+			"synovial",
+			"mucous"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "\"Cutaneous membrane\" refers to__________.",
+		"options": [
+			"skin",
+			"bone",
+			"cartilage",
+			"mucus"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Which muscle tissues are under involuntary control?",
+		"options": [
+			"Smooth muscle tissue and skeletal muscle tissue",
+			"Cardiac muscle tissue and skeletal muscle tissue",
+			"Smooth muscle tissue and cardiac muscle tissue",
+			"Smooth muscle tissue, skeletal muscle tissue, and cardiac muscle tissue"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Which type of muscle tissue can be consciously controlled?",
+		"options": [
+			"Smooth muscle tissue",
+			"Skeletal muscle tissue",
+			"Intestinal muscle tissue",
+			"Cardiac muscle tissue"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Cardiac muscle is found in the wall of__________.",
+		"options": [
+			"the stomach",
+			"the intestine",
+			"the heart",
+			"blood vessels"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Smooth muscle is found in the wall of the__________.",
+		"options": [
+			"heart",
+			"bone",
+			"stomach",
+			"liver"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What type of muscle tissue is in the walls of blood vessels?",
+		"options": [
+			"Cardiac muscle tissue",
+			"Smooth muscle tissue",
+			"Skeletal muscle tissue",
+			"Voluntary muscle tissue"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What are the functions of neuroglia?",
+		"options": [
+			"They guide neurons to muscles, then pass neurotransmitters to the muscle cells.",
+			"They serve as glue and scaffolding for neurons but have no physiological role.",
+			"They sense changes in the environment and respond by sending electrical impulses.",
+			"They support and bind nervous tissue and provide nutrients and growth factors to neurons by connecting them to blood vessels."
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What is the function of adipose tissue?",
+		"options": [
+			"Causes movement of the limbs",
+			"Provides framework for organs",
+			"Stores energy",
+			"Forms inner lining of body cavities",
+			"Gives shape to the ear"
+		],
+		"answer": 2
+	}
+]
