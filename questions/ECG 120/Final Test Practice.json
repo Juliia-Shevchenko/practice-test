@@ -651,6 +651,7 @@
 	},
 	{
 		"prompt": "What type of artifact is shown in the figure?",
+		"image": "images/ECG/rhythms/Somatic Tremor.jpg",
 		"choices": [
 			"Wandering baseline",
 			"Somatic tremor",
@@ -671,6 +672,7 @@
 	},
 	{
 		"prompt": "What type of artifact is shown in the figure?",
+		"image": "images/ECG/rhythms/Wandering Baseline.jpg",
 		"choices": [
 			"Somatic tremor",
 			"AC interference",
@@ -681,6 +683,7 @@
 	},
 	{
 		"prompt": "What type of artifact is shown in the figure below?",
+		"image": "images/ECG/rhythms/AC Interference.jpg",
 		"choices": [
 			"Somatic tremor",
 			"AC interference",
@@ -881,6 +884,7 @@
 	},
 	{
 		"prompt": "Identify the following rhythm:",
+		"image": "images/ECG/rhythms/Secon Degree AV Block Type I.jpg",
 		"choices": [
 			"First-degree heart block",
 			"Second-degree AV block, Mobitz type I",
