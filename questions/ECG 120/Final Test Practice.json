@@ -571,6 +571,7 @@
 	},
 	{
 		"prompt": "Which method of calculating the heart rate is shown below?",
+		"image": "images/ECG/rhythms/R_R.jpg",
 		"choices": [
 			"1500 method",
 			"R-R method",
@@ -581,6 +582,7 @@
 	},
 	{
 		"prompt": "Using the 1500 method, calculate the heart rate.",
+		"image": "images/ECG/rhythms/1500 method.jpg",
 		"choices": [
 			"40 bpm",
 			"60 bpm",
