@@ -163,5 +163,155 @@
 		],
 		"answer": 2,
 		"explanation": "The structures of the inner ear are embedded in the petrous part of the temporal bone."
-	}
+	},
+  	{
+   	 "prompt": "What structure is part of the inner tunic of the eye?",
+    "choices": ["Retina", "Cornea", "Choroid coat", "Sclera"],
+    "answer": 0,
+    "explanation": "The retina forms the inner tunic of the eye and contains photoreceptors."
+  },
+  {
+    "prompt": "Eyes, ears, nose, and taste buds are all examples of _____.",
+    "choices": ["proprioceptors", "sensory adaptation", "sense organs", "stimuli"],
+    "answer": 2,
+    "explanation": "Eyes, ears, nose, and taste buds are specialized sense organs."
+  },
+  {
+    "prompt": "_____ transduce mechanical energy such as touch, pressure, gravity, stretching, and movement.",
+    "choices": ["Photoreceptors", "Chemoreceptors", "Thermoreceptors", "Mechanoreceptors"],
+    "answer": 3,
+    "explanation": "Mechanoreceptors detect physical movement or pressure."
+  },
+  {
+    "prompt": "_____ respond to heat and cold.",
+    "choices": ["Thermoreceptors", "Chemoreceptors", "Photoreceptors", "Mechanoreceptors"],
+    "answer": 0,
+    "explanation": "Thermoreceptors detect changes in temperature."
+  },
+  {
+    "prompt": "The transparent layer that covers the iris and the pupil at the front of the eye is the _____.",
+    "choices": ["conjunctiva", "sclera", "cornea", "retina"],
+    "answer": 2,
+    "explanation": "The cornea is transparent and covers the iris and pupil."
+  },
+  {
+    "prompt": "The _____ is made up of black pigment cells that absorb light rays so that they are not reflected back out of the eye.",
+    "choices": ["sclera", "retina", "choroid", "iris"],
+    "answer": 2,
+    "explanation": "The choroid contains pigment that reduces internal light reflection."
+  },
+  {
+    "prompt": "The black spot, or opening in the circular muscle of the iris, is the _____.",
+    "choices": ["pupil", "iris", "retina", "lens"],
+    "answer": 0,
+    "explanation": "The pupil is the opening within the iris allowing light entry."
+  },
+  {
+    "prompt": "The retina _____.",
+    "choices": ["is mainly responsible for color vision", "contains the rods and cones", "contains a jelly-like substance", "is directly behind the lens"],
+    "answer": 1,
+    "explanation": "The retina houses rods and cones, the light-sensitive cells."
+  },
+  {
+    "prompt": "For vision to occur, light must pass through the eye and _____.",
+    "choices": ["form an image on the retina", "stimulate opsin and retinal to form rhodopsin", "refract the lens", "stimulate the iris"],
+    "answer": 0,
+    "explanation": "Vision occurs when light focuses to form an image on the retina."
+  },
+  {
+    "prompt": "The part of the ear that projects from the side of the head and surrounds the ear canal is the_____.",
+    "choices": ["eustachian tube", "tympanic membrane", "external auditory canal", "pinna"],
+    "answer": 3,
+    "explanation": "The pinna, or auricle, is the external visible ear structure."
+  },
+  {
+    "prompt": "The _____ is the tube that connects the middle ear and the throat.",
+    "choices": ["eustachian", "external auditory canal", "stapes", "cochlea"],
+    "answer": 0,
+    "explanation": "The eustachian tube connects the middle ear to the throat."
+  },
+  {
+    "prompt": "The sound receptors are located within the _____.",
+    "choices": ["tympanic membrane", "vestibule", "cochlea", "ossicles"],
+    "answer": 2,
+    "explanation": "The cochlea contains hair cells that detect sound vibrations."
+  },
+  {
+    "prompt": "The olfactory nerve _____.",
+    "choices": ["transmits information regarding smell", "transmits information regarding taste", "transmits sound to the ossicles", "helps us maintain the position of the body"],
+    "answer": 0,
+    "explanation": "The olfactory nerve carries smell signals to the brain."
+  },
+  {
+    "prompt": "Pain receptors, known as ___________, respond to stimuli that could damage the body.",
+    "choices": ["mechanoreceptors", "nociceptors", "chemoreceptors", "photoreceptors"],
+    "answer": 1,
+    "explanation": "Nociceptors detect potentially harmful stimuli producing pain."
+  },
+  {
+    "prompt": "Tears flow from the _____.",
+    "choices": ["conjunctiva", "lacrimal glands", "extrinsic muscles", "cornea"],
+    "answer": 1,
+    "explanation": "Lacrimal glands produce tears to lubricate the eye."
+  },
+  {
+    "prompt": "The \"white of the eye\" is the _____.",
+    "choices": ["choroid", "sclera", "conjunctiva", "cornea"],
+    "answer": 1,
+    "explanation": "The sclera is the tough white outer layer of the eye."
+  },
+  {
+    "prompt": "The sclera is covered by the _____, a moist mucous membrane that extends as a continuous lining of the inner layer of the eyelid.",
+    "choices": ["retina", "choroid", "conjunctiva", "cornea"],
+    "answer": 2,
+    "explanation": "The conjunctiva covers the sclera and lines the eyelids."
+  },
+  {
+    "prompt": "The colored part of the eye, the _____, appears as blue, green, or brown.",
+    "choices": ["rods", "cones", "iris", "lens"],
+    "answer": 2,
+    "explanation": "The iris contains pigment giving the eye its color."
+  },
+  {
+    "prompt": "The _____ is a transparent, elastic ball that lies at the rear of the anterior cavity of the eyeball.",
+    "choices": ["iris", "cornea", "lens", "sclera"],
+    "answer": 2,
+    "explanation": "The lens is elastic and focuses light onto the retina."
+  },
+  {
+    "prompt": "The function of the cones is _____.",
+    "choices": ["vision in dim light", "daytime and color vision", "accommodation for near or far vision", "to stimulate the rods"],
+    "answer": 1,
+    "explanation": "Cones provide bright-light vision and color perception."
+  },
+  {
+    "prompt": "The ear canal, or _____, leads to the middle ear.",
+    "choices": ["eustachian tube", "external auditory meatus", "malleus", "cochlea"],
+    "answer": 1,
+    "explanation": "The external auditory meatus carries sound waves inward to the tympanic membrane."
+  },
+  {
+    "prompt": "The _____, or eardrum, separates the middle and external ear.",
+    "choices": ["vestibule", "ossicle", "cochlea", "tympanic membrane"],
+    "answer": 3,
+    "explanation": "The tympanic membrane vibrates with sound and divides the outer and middle ear."
+  },
+  {
+    "prompt": "The three auditory ossicles—the malleus, incus, and stapes—_____.",
+    "choices": ["contain hair cells", "amplify vibrations caused by sound waves", "are the sound receptors", "stimulate the vestibular nerves"],
+    "answer": 1,
+    "explanation": "The ossicles amplify sound vibrations to the inner ear."
+  },
+  {
+    "prompt": "Odors are detected by _____.",
+    "choices": ["pores in the nasal concha", "olfactory epithelium", "papillae on the tongue", "olfactory nerve"],
+    "answer": 1,
+    "explanation": "The olfactory epithelium contains receptors that detect airborne chemicals."
+  },
+  {
+    "prompt": "_____ are free nerve endings that allow us to recognize cold, cool, warm, and hot.",
+    "choices": ["Proprioceptors", "Nociceptors", "Tactile receptors", "Thermoreceptors"],
+    "answer": 3,
+    "explanation": "Thermoreceptors sense temperature changes."
+  }
 ]
