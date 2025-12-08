@@ -229,5 +229,27 @@
 		],
 		"answer": 1,
 		"explanation": "The thyroid sits in the neck, just anterior to the trachea and inferior to the larynx."
-	}
+	},
+	{
+    "prompt": "What is the cause of Type 1 diabetes mellitus?",
+    "choices": [
+      "Excess sugar in the diet",
+      "Obesity",
+      "A disorder of the immune system",
+      "An effect of aging"
+    ],
+    "answer": 2,
+    "explanation": "Type 1 diabetes is an autoimmune disorder in which the immune system attacks insulin-producing cells in the pancreas."
+  },
+  {
+    "prompt": "Hormone secretion is typically regulated by _______.",
+    "choices": [
+      "oxytocin",
+      "positive target tissues",
+      "negative feedback",
+      "the thyroid gland"
+    ],
+    "answer": 2,
+    "explanation": "Most hormones are controlled by negative feedback mechanisms to maintain homeostasis."
+  }
 ]
