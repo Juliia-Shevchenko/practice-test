@@ -116,7 +116,7 @@
 		"answer": 0,
 		"explanation": "The adrenal medulla releases epinephrine and norepinephrine, mimicking sympathetic nervous system activity."
 	},
-	  {
+	{
     "prompt": "The central nervous system (CNS) consists of the _____ and _____.",
     "choices": [
       "brain; cranial nerves",
