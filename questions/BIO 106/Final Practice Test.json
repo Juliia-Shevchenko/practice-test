@@ -2605,7 +2605,7 @@
 	},
 	{
 		"prompt": "Which of the following is not one of the four basic types of body tissues?",
-		"options": [
+		"choices": [
 			"Epithelial tissue",
 			"Connective tissue",
 			"Eye tissue",
@@ -2615,7 +2615,7 @@
 	},
 	{
 		"prompt": "Which of the following characteristics is used to name epithelial tissue types?",
-		"options": [
+		"choices": [
 			"Location of cells in the body",
 			"Number of inclusions",
 			"Organization of cells",
@@ -2625,7 +2625,7 @@
 	},
 	{
 		"prompt": "Histology is the study of__________.",
-		"options": [
+		"choices": [
 			"organ function",
 			"molecules",
 			"cells",
@@ -2635,7 +2635,7 @@
 	},
 	{
 		"prompt": "What do intercellular junctions connect?",
-		"options": [
+		"choices": [
 			"Cell membranes",
 			"Cell nuclei",
 			"Blood cells",
@@ -2645,7 +2645,7 @@
 	},
 	{
 		"prompt": "What characteristics would be found in the tissue that forms the inner lining of the respiratory passages?",
-		"options": [
+		"choices": [
 			"Mucus-secreting and transitional.",
 			"Stratified, sputum-secreting, and non-ciliated.",
 			"Mucus-secreting, ciliated, and pseudostratified.",
@@ -2655,7 +2655,7 @@
 	},
 	{
 		"prompt": "Tendons and ligaments are composed primarily of what type of tissue?",
-		"options": [
+		"choices": [
 			"Dense irregular tissue",
 			"Reticular connective tissue",
 			"Muscle tissue",
@@ -2665,7 +2665,7 @@
 	},
 	{
 		"prompt": "Bone cells form concentric circles around longitudinal tubes called__________.",
-		"options": [
+		"choices": [
 			"osteons",
 			"central canals",
 			"lacunae",
@@ -2675,7 +2675,7 @@
 	},
 	{
 		"prompt": "Which of the following are cellular fragments?",
-		"options": [
+		"choices": [
 			"Red blood cells",
 			"White blood cells",
 			"Lymphocytes",
@@ -2685,7 +2685,7 @@
 	},
 	{
 		"prompt": "Elastic connective tissue is found in__________.",
-		"options": [
+		"choices": [
 			"bones",
 			"walls of blood vessels",
 			"cartilage",
@@ -2695,7 +2695,7 @@
 	},
 	{
 		"prompt": "Which of the following is a general characteristic of connective tissue?",
-		"options": [
+		"choices": [
 			"It consists of cells within extracellular material.",
 			"It has no blood supply.",
 			"It covers the outside of organs.",
@@ -2705,7 +2705,7 @@
 	},
 	{
 		"prompt": "What type of tissue is adipose tissue?",
-		"options": [
+		"choices": [
 			"Epithelial tissue",
 			"Muscle tissue",
 			"Nervous tissue",
@@ -2715,7 +2715,7 @@
 	},
 	{
 		"prompt": "A__________ membrane lines tubes and cavities that open to the outside of the body.",
-		"options": [
+		"choices": [
 			"serous",
 			"cutaneous",
 			"synovial",
@@ -2725,7 +2725,7 @@
 	},
 	{
 		"prompt": "\"Cutaneous membrane\" refers to__________.",
-		"options": [
+		"choices": [
 			"skin",
 			"bone",
 			"cartilage",
@@ -2735,7 +2735,7 @@
 	},
 	{
 		"prompt": "Which muscle tissues are under involuntary control?",
-		"options": [
+		"choices": [
 			"Smooth muscle tissue and skeletal muscle tissue",
 			"Cardiac muscle tissue and skeletal muscle tissue",
 			"Smooth muscle tissue and cardiac muscle tissue",
@@ -2745,7 +2745,7 @@
 	},
 	{
 		"prompt": "Which type of muscle tissue can be consciously controlled?",
-		"options": [
+		"choices": [
 			"Smooth muscle tissue",
 			"Skeletal muscle tissue",
 			"Intestinal muscle tissue",
@@ -2755,7 +2755,7 @@
 	},
 	{
 		"prompt": "Cardiac muscle is found in the wall of__________.",
-		"options": [
+		"choices": [
 			"the stomach",
 			"the intestine",
 			"the heart",
@@ -2765,7 +2765,7 @@
 	},
 	{
 		"prompt": "Smooth muscle is found in the wall of the__________.",
-		"options": [
+		"choices": [
 			"heart",
 			"bone",
 			"stomach",
@@ -2775,7 +2775,7 @@
 	},
 	{
 		"prompt": "What type of muscle tissue is in the walls of blood vessels?",
-		"options": [
+		"choices": [
 			"Cardiac muscle tissue",
 			"Smooth muscle tissue",
 			"Skeletal muscle tissue",
@@ -2785,7 +2785,7 @@
 	},
 	{
 		"prompt": "What are the functions of neuroglia?",
-		"options": [
+		"choices": [
 			"They guide neurons to muscles, then pass neurotransmitters to the muscle cells.",
 			"They serve as glue and scaffolding for neurons but have no physiological role.",
 			"They sense changes in the environment and respond by sending electrical impulses.",
@@ -2795,7 +2795,7 @@
 	},
 	{
 		"prompt": "What is the function of adipose tissue?",
-		"options": [
+		"choices": [
 			"Causes movement of the limbs",
 			"Provides framework for organs",
 			"Stores energy",
