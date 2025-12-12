@@ -663,6 +663,17 @@
 		"answer": 1
 	},
 	{
+		"prompt": "What type of artifact is shown in the figure?",
+		"image": "images/ECG/rhythms/Somatic Tremor_2.jpg",
+		"choices": [
+			"Wandering baseline",
+			"Somatic tremor",
+			"Alternating current interference",
+			"Baseline shift"
+		],
+		"answer": 1
+	},
+	{
 		"prompt": "Which of the following causes AC interference artifact?",
 		"choices": [
 			"Voluntary movement, such as talking or chewing gum",
@@ -686,6 +697,17 @@
 	{
 		"prompt": "What type of artifact is shown in the figure below?",
 		"image": "images/ECG/rhythms/AC Interference.jpg",
+		"choices": [
+			"Somatic tremor",
+			"AC interference",
+			"Wandering baseline",
+			"Involuntary movement"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What type of artifact is shown in the figure below?",
+		"image": "images/ECG/rhythms/AC Interference_2.jpg",
 		"choices": [
 			"Somatic tremor",
 			"AC interference",
