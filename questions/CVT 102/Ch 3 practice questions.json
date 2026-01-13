@@ -1,0 +1,204 @@
+[
+  {
+    "prompt": "The effects of the medium upon the sound wave are called biologic effects.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "The effects of the sound wave upon the biologic tissue through which it passes is called biologic effects.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "The lower the frequency, the __________ sound.",
+    "choices": ["Higher", "Lower", "Quieter", "Louder"],
+    "answer": 2
+  },
+  {
+    "prompt": "The higher the amplitude, the __________ sound.",
+    "choices": ["Higher", "Lower", "Quieter", "Louder"],
+    "answer": 3
+  },
+  {
+    "prompt": "The Hertz (Hz) is the unit of measure for which wave property?",
+    "choices": ["Frequency", "Wavelength", "Amplitude", "Speed"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following does not change in the medium as the sound wave propagates?",
+    "choices": ["Period", "Pressure", "Density", "Measure of particle motion"],
+    "answer": 0
+  },
+  {
+    "prompt": "Ultrasound is defined as a sound with a frequency of:",
+    "choices": [
+      "Greater than 20,000 kHz",
+      "Greater than 0.02 MHz",
+      "Greater than 10 MHz",
+      "Less than 1 kHz"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The final amplitude of an acoustic wave is reduced to one-half of its original value. The final power is ______ the original power.",
+    "choices": ["The same", "One half", "Double", "One fourth"],
+    "answer": 3
+  },
+  {
+    "prompt": "A sound wave that registers as 30 Hz is considered:",
+    "choices": ["Ultrasonic", "Subsonic", "Audible", "Infrasonic", "Supersonic"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following does not affect speed through a medium?",
+    "choices": ["Stiffness", "Density", "Compressibility", "Transmitted frequency", "Elasticity"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following correctly describes sound propagation in a medium?",
+    "choices": [
+      "A molecule travels from one end of the medium to another",
+      "A molecule moves back and forth but does not move to the end of the medium",
+      "A molecule does not move at all",
+      "Each molecule expands and contracts to propagate the sound wave"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following sound waves is ultrasonic and most useful in diagnostic ultrasound imaging?",
+    "choices": ["300 kHz", "6000 Hz", "25 kHz", "5 MHz", "50 MHz"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the frequency of a wave with a 1 microsecond period?",
+    "choices": ["10 Hz", "1 MHz", "0.1 kHz", "0.1 MHz"],
+    "answer": 1
+  },
+  {
+    "prompt": "As ultrasound penetrates tissue:",
+    "choices": [
+      "The intensity increases and the frequency is constant",
+      "The intensity decreases and the frequency is constant",
+      "The intensity is constant and the frequency decreases",
+      "The intensity is constant and the frequency decreases linearly",
+      "The amplitude and the frequency decrease linearly"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The effect of the biologic tissue upon the sound wave is called:",
+    "choices": [
+      "Acoustic variables",
+      "Acoustic parameters",
+      "Rarefaction",
+      "Acoustic propagation properties"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which parameter is described by letter A and letter B?",
+    "choices": [
+      "Amplitude, Wavelength",
+      "Peak-to-peak amplitude, Frequency",
+      "Power, Period",
+      "Intensity, Wavelength"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the propagation speed of a 5 MHz sound wave in soft tissue?",
+    "choices": [
+      "2.5 meters per second",
+      "1,540 km/sec",
+      "1.54 m/s",
+      "1.54 mm/microsecond"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "As a general rule, which of the following media are in decreasing order of propagation speed for sound waves?",
+    "choices": [
+      "Bone, lung, soft tissue",
+      "Soft tissue, lung, bone",
+      "Lung, soft tissue, bone",
+      "Bone, soft tissue, lung"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In which of these media will sound travel the slowest?",
+    "choices": [
+      "High density, low stiffness",
+      "Low density, low stiffness",
+      "High density, low elasticity",
+      "High density, high stiffness",
+      "Low density, high stiffness"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of these biologic tissues will sound waves propagate most quickly?",
+    "choices": ["Blood", "Fat", "Lung", "Amniotic fluid", "Bone"],
+    "answer": 4
+  },
+  {
+    "prompt": "A sound wave’s frequency is 10 MHz traveling in soft tissue. What is the wavelength?",
+    "choices": ["0.77 mm", "10 MHz", "15.4 mm", "1.54 mm", "0.15 mm"],
+    "answer": 0
+  },
+  {
+    "prompt": "The typical range of frequency for diagnostic ultrasound imaging is:",
+    "choices": [
+      "20 to 20,000 Hz",
+      "2 to 15 MHz",
+      "10 to 20 MHz",
+      "12 to 100 MHz"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the ability of an object to resist compression and relates to the hardness of a medium?",
+    "choices": ["Stiffness", "Density", "Pressure", "Inertia"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following would have the highest propagation speed?",
+    "choices": ["Air", "Bone", "Soft tissue", "Water"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following would have the lowest propagation speed?",
+    "choices": ["Water", "Soft tissue", "Bone", "Lung tissue"],
+    "answer": 3
+  },
+  {
+    "prompt": "Two sound waves with periods of 2 µs and 4 µs. Which will have a longer wavelength?",
+    "choices": ["2 µs", "4 µs", "Neither", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the wavelength of a 3 MHz sound wave in soft tissue?",
+    "choices": ["0.33 mm", "0.51 mm", "1.54 mm/microsecond", "4 mm"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is determined only by the medium?",
+    "choices": ["Propagation speed", "Frequency", "Period", "Wavelength"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the change in intensity if the power decreases by half and the area remains unchanged?",
+    "choices": [
+      "Intensity doubles",
+      "Intensity is halved",
+      "Intensity is one fourth",
+      "Intensity does not change"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is equal to the power of a wave divided by the area over which the power is distributed?",
+    "choices": ["Amplitude", "Power", "Intensity", "Absorption"],
+    "answer": 2
+  }
+]
