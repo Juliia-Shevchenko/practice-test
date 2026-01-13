@@ -1,0 +1,183 @@
+[
+  {
+    "prompt": "Waves carry energy from one location to another.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Sound is...",
+    "choices": [
+      "Longitudinal, pressure",
+      "Mechanical, transverse",
+      "Pressure, transverse"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Sound does not require a medium to travel through.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Sound waves are what type of wave?",
+    "choices": [
+      "A longitudinal wave",
+      "A transverse wave",
+      "A surface wave",
+      "A tidal wave"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Sound waves are longitudinal waves which have __________ and rarefactions.",
+    "choices": ["Crests", "Compressions", "Troughs", "None of the above"],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are true about sound waves except:",
+    "choices": [
+      "They are pressure waves",
+      "They are transverse",
+      "They carry energy from place to place",
+      "They generally travel in a straight line"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Waves that reach the same location at the same time combine together; this event is known as:",
+    "choices": [
+      "Constructive interference",
+      "Interference",
+      "Rarefaction",
+      "Longitudinal interaction"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the term for concentration of matter?",
+    "choices": ["Weight", "Energy", "Mass", "Density"],
+    "answer": 3
+  },
+  {
+    "prompt": "A pair of waves in phase. What occurs when these waves interfere?",
+    "choices": [
+      "Reflection",
+      "Constructive interference",
+      "Refraction",
+      "Destructive interference"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Area of high pressure and density is referred to as:",
+    "choices": [
+      "Compression",
+      "Rarefaction",
+      "Condensation",
+      "Refraction"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The portion of the sound beam where the molecules are pulled apart describes an area of:",
+    "choices": [
+      "Compression",
+      "Rarefaction",
+      "Refraction",
+      "Amplitude"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which type of interference results in a larger sound wave?",
+    "choices": [
+      "Constructive interference",
+      "Destructive interference",
+      "True interference",
+      "False interference"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following describes the result of destructive interference?",
+    "choices": [
+      "The resulting wave is much larger than the original wave",
+      "The resulting wave is a little larger than the original wave",
+      "The resulting wave is smaller than the original wave",
+      "Destructive interference does not occur with diagnostic imaging"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following does not belong to the group?",
+    "choices": [
+      "High pressure",
+      "Rarefaction",
+      "Low density",
+      "High distance"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "When waves of different frequency interfere with each other, the result is:",
+    "choices": [
+      "Constructive interference",
+      "Destructive interference",
+      "Both constructive and destructive interference",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In which type of wave do particles move in the same direction that the wave propagates?",
+    "choices": [
+      "Longitudinal wave",
+      "In phase wave",
+      "Out of phase wave",
+      "Transverse wave"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In which type of wave do particles move in a direction perpendicular to the direction that the wave propagates?",
+    "choices": [
+      "Longitudinal wave",
+      "In phase wave",
+      "Out of phase wave",
+      "Transverse wave"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "When the peaks and troughs of a pair of waves occur at the same time and location, they are said to be:",
+    "choices": [
+      "Longitudinal wave",
+      "In phase wave",
+      "Out of phase wave",
+      "Transverse wave",
+      "Constructive interference"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "When the peaks and troughs of a pair of waves occur at different times, they are said to be:",
+    "choices": [
+      "Longitudinal wave",
+      "In phase wave",
+      "Out of phase wave",
+      "Transverse wave",
+      "Constructive interference"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Name the three acoustic variables used to distinguish sound waves except:",
+    "choices": [
+      "Pressure",
+      "Density",
+      "Period",
+      "Distance"
+    ],
+    "answer": 2
+  }
+]
