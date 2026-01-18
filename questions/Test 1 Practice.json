@@ -1,0 +1,262 @@
+[
+  {
+    "prompt": "Between what two layers is the pericardial cavity located?",
+    "choices": ["Serous & fibrous", "Parietal & fibrous", "Visceral & parietal", "Epicardium & visceral"],
+    "answer": 2
+  },
+  {
+    "prompt": "The amount of blood ejected out of the left ventricle in one minute is called:",
+    "choices": ["Stroke volume", "Cardiac output", "Ejection fraction", "Bernoulli's principle"],
+    "answer": 1
+  },
+  {
+    "prompt": "The coronary arteries arise from:",
+    "choices": ["Descending aorta", "Ascending aorta", "Sinus of Valsalva", "Coronary sinus"],
+    "answer": 2
+  },
+  {
+    "prompt": "The heart is divided into four chambers. The bottom chambers are the:",
+    "choices": ["Right atrium and right ventricle", "Left atrium and left ventricle", "Right atrium and left atrium", "Right ventricle and left ventricle"],
+    "answer": 3
+  },
+  {
+    "prompt": "The valve located between the right atrium and right ventricle is the:",
+    "choices": ["Mitral valve", "Tricuspid valve", "Aortic valve", "Pulmonary valve"],
+    "answer": 1
+  },
+  {
+    "prompt": "The valve located between the left atrium and left ventricle is the:",
+    "choices": ["Mitral valve", "Tricuspid valve", "Aortic valve", "Pulmonary valve"],
+    "answer": 0
+  },
+  {
+    "prompt": "The valves located in the heart are important because they:",
+    "choices": ["Regulate blood speed", "Prevent blood from flowing backward", "Create electrical conduction", "Increase blood flow"],
+    "answer": 1
+  },
+  {
+    "prompt": "What are the first vessels to branch off the aorta?",
+    "choices": ["Coronary arteries", "Capillaries", "Venae cavae", "Pulmonary arteries"],
+    "answer": 0
+  },
+  {
+    "prompt": "The phase of the cardiac cycle when the heart is expanding and refilling is:",
+    "choices": ["Systole", "Diastole", "Automaticity", "Conductivity"],
+    "answer": 1
+  },
+  {
+    "prompt": "The term muscle pump refers to:",
+    "choices": ["Heart ventricles", "Right atrium", "Calf muscles", "Pulmonary arteries"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which chamber receives deoxygenated blood from the body?",
+    "choices": ["Left atrium", "Left ventricle", "Right atrium", "Right ventricle"],
+    "answer": 2
+  },
+  {
+    "prompt": "The mitral valve is located between the:",
+    "choices": ["RA & RV", "LA & LV", "LV & aorta", "RV & pulmonary artery"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is NOT a layer of the heart wall?",
+    "choices": ["Endocardium", "Myocardium", "Epicardium", "Pericardium"],
+    "answer": 3
+  },
+  {
+    "prompt": "The sinoatrial (SA) node is located in the:",
+    "choices": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valve is also known as the bicuspid valve?",
+    "choices": ["Tricuspid", "Mitral", "Aortic", "Pulmonary"],
+    "answer": 1
+  },
+  {
+    "prompt": "The coronary sinus empties into the:",
+    "choices": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+    "answer": 1
+  },
+  {
+    "prompt": "The interventricular septum separates the:",
+    "choices": ["Atria", "Ventricles", "Atria from ventricles", "Heart from lungs"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is NOT a layer of the pericardium?",
+    "choices": ["Fibrous", "Parietal", "Visceral", "Muscular"],
+    "answer": 3
+  },
+  {
+    "prompt": "The AV node is located:",
+    "choices": ["Right atrium", "Between atria & ventricles", "Left ventricle", "IV septum"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which structure connects the RV to the pulmonary artery?",
+    "choices": ["Aortic valve", "Mitral valve", "Tricuspid valve", "Pulmonary valve"],
+    "answer": 3
+  },
+  {
+    "prompt": "The left main coronary artery divides into:",
+    "choices": ["LAD & LCX", "LAD & RCA", "LCX & RCA", "Marginal & diagonal"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which is NOT part of the cardiac conduction system?",
+    "choices": ["SA node", "AV node", "Bundle of His", "Bundle of Willis"],
+    "answer": 3
+  },
+  {
+    "prompt": "The tricuspid valve is located between the:",
+    "choices": ["RA & RV", "LA & LV", "LV & aorta", "RV & pulmonary artery"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which chamber has the thickest wall?",
+    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+    "answer": 3
+  },
+  {
+    "prompt": "The chordae tendineae connect:",
+    "choices": ["Valve leaflets to papillary muscles", "Atria to ventricles", "Heart to vessels", "Pericardium to heart"],
+    "answer": 0
+  },
+  {
+    "prompt": "The moderator band is found in the:",
+    "choices": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+    "answer": 3
+  },
+  {
+    "prompt": "The bundle of His divides into:",
+    "choices": ["Left & right bundle branches", "Fascicles", "Purkinje fibers", "Bachmann bundle"],
+    "answer": 0
+  },
+  {
+    "prompt": "The interatrial septum separates:",
+    "choices": ["Right & left atria", "Ventricles", "Atria from ventricles", "Heart from lungs"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which is NOT a branch of the RCA?",
+    "choices": ["SA nodal artery", "Acute marginal", "PDA", "LAD"],
+    "answer": 3
+  },
+  {
+    "prompt": "Pulmonary veins enter the:",
+    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+    "answer": 1
+  },
+  {
+    "prompt": "The aortic valve has:",
+    "choices": ["Two cusps", "Three cusps", "Four cusps", "Five cusps"],
+    "answer": 1
+  },
+  {
+    "prompt": "The apex of the heart is formed by the:",
+    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+    "answer": 3
+  },
+  {
+    "prompt": "Coronary arteries originate from the:",
+    "choices": ["Ascending aorta", "Aortic arch", "Descending aorta", "Pulmonary artery"],
+    "answer": 0
+  },
+  {
+    "prompt": "Normal location of the AV node:",
+    "choices": ["Right atrial side of interatrial septum", "Left atrial side", "IV septum right side", "IV septum left side"],
+    "answer": 0
+  },
+  {
+    "prompt": "Papillary muscles function to:",
+    "choices": ["Generate heartbeat", "Prevent valve prolapse", "Produce hormones", "Conduct impulses"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is NOT part of the conduction system?",
+    "choices": ["SA node", "AV node", "Purkinje fibers", "Papillary muscles"],
+    "answer": 3
+  },
+  {
+    "prompt": "Normal position of the tricuspid valve:",
+    "choices": ["More superior/anterior than mitral", "More superior/posterior", "Same level", "Inferior to mitral"],
+    "answer": 3
+  },
+  {
+    "prompt": "Rapid Na+ influx occurs in:",
+    "choices": ["Phase 0", "Phase 1", "Phase 2", "Phase 3"],
+    "answer": 0
+  },
+  {
+    "prompt": "Function of Purkinje fibers:",
+    "choices": ["Generate impulses", "Delay conduction", "Open valves", "Distribute signals to ventricles"],
+    "answer": 3
+  },
+  {
+    "prompt": "Coronary arteries are located:",
+    "choices": ["Inside LV", "At root of aorta above cusps", "Pulmonary artery", "Apex"],
+    "answer": 1
+  },
+  {
+    "prompt": "What connects papillary muscles to valve leaflets?",
+    "choices": ["Coronary sinus", "Chordae tendineae", "Trabeculae carneae", "IV septum"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is NOT a normal heart sound?",
+    "choices": ["S1", "S2", "S3", "S5"],
+    "answer": 3
+  },
+  {
+    "prompt": "Floor of the right atrium is formed by:",
+    "choices": ["Tricuspid valve", "Mitral valve", "Fossa ovalis", "Crista terminalis"],
+    "answer": 2
+  },
+  {
+    "prompt": "Membranous IV septum is located:",
+    "choices": ["Apex", "Near base", "Middle", "Entire septum"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is NOT part of the right atrium?",
+    "choices": ["Fossa ovalis", "Crista terminalis", "Eustachian valve", "Mitral valve"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which is NOT a feature of the left ventricle?",
+    "choices": ["Thick wall", "Conical shape", "Moderator band", "Mitral valve"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which is NOT part of the left atrium?",
+    "choices": ["Pulmonary veins", "LA appendage", "Fossa ovalis", "Crista terminalis"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which is NOT a feature of the right ventricle?",
+    "choices": ["Thin wall", "Crescent shape", "Trabeculae carneae", "Bicuspid valve"],
+    "answer": 3
+  },
+  {
+    "prompt": "Normal orientation of the heart:",
+    "choices": ["Straight down", "To the right", "Left and downward", "Backward"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which chamber does NOT have an appendage?",
+    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+    "answer": 3
+  },
+  {
+    "prompt": "The non-coronary cusp is adjacent to the:",
+    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+    "answer": 1
+  },
+  {
+    "prompt": "The cardiac skeleton refers to:",
+    "choices": ["Bony structure", "Fibrous framework", "Major vessels", "Muscle wall"],
+    "answer": 1
+  }
+]
