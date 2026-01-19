@@ -56,7 +56,7 @@
   {
     "prompt": "What is the term for concentration of matter?",
     "choices": ["Weight", "Energy", "Mass", "Density"],
-    "answer": 3
+    "answer": 2
   },
   {
     "prompt": "A pair of waves in phase. What occurs when these waves interfere?",
@@ -116,7 +116,7 @@
       "Low density",
       "High distance"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
     "prompt": "When waves of different frequency interfere with each other, the result is:",
