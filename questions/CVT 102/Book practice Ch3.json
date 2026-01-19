@@ -1,0 +1,257 @@
+[
+{
+    "prompt": "What is the range of periods commonly found in ultrasound waves?",
+    "choices": ["0.001 to 1 s", "0.06 to 0.5 µs", "0.2 to 1 ms", "10 to 100 ns"],
+    "answer": 1
+  },
+  {
+    "prompt": "With standard ultrasound imaging, what happens to the period as a wave propagates?",
+    "choices": ["increases", "decreases", "remains the same"],
+    "answer": 2
+  },
+  {
+    "prompt": "What determines the period of an ultrasound wave?",
+    "choices": ["the transducer", "the medium", "both", "neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which units can describe the period of an acoustic wave?",
+    "choices": ["minutes", "microseconds", "meters", "mm/µs", "cubic cm"],
+    "answer": [0, 1]
+  },
+  {
+    "prompt": "True or False? The sonographer can alter the period of a wave produced by a basic transducer.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "What term describes the number of cycles completed in one second?",
+    "choices": ["period", "frequency", "pulse repetition period", "variable rate"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following cannot be considered a unit of frequency?",
+    "choices": ["per day", "cycles/sec", "Hz", "hertz", "cycles"],
+    "answer": 4
+  },
+  {
+    "prompt": "What is the range of frequencies emitted by transducers used in ultrasonic imaging?",
+    "choices": ["1 to 3 MHz", "1 to 1,000 kHz", "-10,000 to 10,000 Hz", "2,000,000 to 15,000,000 Hz"],
+    "answer": 3
+  },
+  {
+    "prompt": "What establishes the frequency of an ultrasound wave?",
+    "choices": ["the transducer", "the medium", "both A and B", "neither A nor B"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? With standard ultrasound pulses, the frequency changes significantly as the wave propagates.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "When a sonographer increases maximum imaging depth, what happens to frequency?",
+    "choices": ["increases", "decreases", "remains unchanged"],
+    "answer": 2
+  },
+  {
+    "prompt": "Ultrasound is defined as sound with a frequency of",
+    "choices": ["greater than 20,000 kHz", "less than 1 kHz", "greater than 10 MHz", "greater than 0.02 MHz"],
+    "answer": 3
+  },
+  {
+    "prompt": "Infrasound is defined as sound with a frequency of",
+    "choices": ["greater than 20,000 kHz", "less than 20 Hz", "greater than 10 MHz", "less than 0.02 MHz"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Waves in the ultrasound range behave similarly to audible sound waves.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is characteristic of acoustic waves >20,000 Hz compared with <20,000 Hz?",
+    "choices": ["travel more effectively in soft tissue", "travel more rapidly", "attenuate less", "humans cannot hear them"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is characteristic of acoustic waves <20 Hz compared with >20 Hz?",
+    "choices": ["travel less effectively", "travel more rapidly", "attenuate more", "humans can’t hear them"],
+    "answer": 3
+  },
+  {
+    "prompt": "A continuous wave has a frequency of 5 MHz. It is pulsed with duty factor 0.1. What is the new frequency?",
+    "choices": ["0.5", "0.5 MHz", "5 MHz", "10 MHz"],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? The period of an ultrasound wave is the same whether pulsed or continuous.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? If two waves have the same period, they must have the same frequency.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Wave A has one-third the frequency of wave B. How do their periods compare?",
+    "choices": ["A is one-third as long", "A is the same", "A is three times as long", "cannot be determined"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the reciprocal of period?",
+    "choices": ["inverse period", "pulse repetition period", "frequency", "propagation period"],
+    "answer": 2
+  },
+  {
+    "prompt": "What determines the initial amplitude of an ultrasound wave?",
+    "choices": ["the transducer", "the medium", "both", "neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The sonographer can vary amplitude.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "As an ultrasound wave travels through the body, its amplitude usually:",
+    "choices": ["decreases", "increases", "remains the same", "cannot be determined"],
+    "answer": 0
+  },
+  {
+    "prompt": "Acceptable units for amplitude?",
+    "choices": ["cm", "pascals", "gauss", "watts"],
+    "answer": [0, 1]
+  },
+  {
+    "prompt": "Max density = 60 lb/in², min density = 20 lb/in². What is amplitude?",
+    "choices": ["20 lb/in²", "40 lb/in²", "60 lb/in²", "none"],
+    "answer": 0
+  },
+  {
+    "prompt": "Power can be reported in:",
+    "choices": ["watts/cm²", "dB/cm", "watts", "kg/cm²"],
+    "answer": 2
+  },
+  {
+    "prompt": "As sound travels in soft tissue, power typically:",
+    "choices": ["decreases", "increases", "remains the same"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? A sonographer can routinely change power.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "When a number is squared, it is multiplied by:",
+    "choices": ["2", "0.5", "itself", "1.5"],
+    "answer": 2
+  },
+  {
+    "prompt": "Final amplitude is half the original. Final power is the original.",
+    "choices": ["same", "half", "double", "none of the above"],
+    "answer": 3
+  },
+  {
+    "prompt": "Amplitude decreases from 27 Pa to 9 Pa. Initial power = 27 W. Final power?",
+    "choices": ["3 W", "9 W", "1 W", "none"],
+    "answer": 0
+  },
+  {
+    "prompt": "Intensity is defined as:",
+    "choices": ["power divided by area", "amplitude divided by area", "power multiplied by diameter", "amplitude multiplied by circumference"],
+    "answer": 0
+  },
+  {
+    "prompt": "As sound travels, intensity typically:",
+    "choices": ["increases", "decreases", "remains the same"],
+    "answer": 1
+  },
+  {
+    "prompt": "Units of intensity:",
+    "choices": ["watts", "watts/cm", "watts/cm²", "dB"],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? Operator can alter intensity.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "What determines initial intensity?",
+    "choices": ["source", "medium", "both", "neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "What determines intensity after traveling through the body?",
+    "choices": ["source", "medium", "both", "neither"],
+    "answer": 2
+  },
+  {
+    "prompt": "Units of transmitted intensity:",
+    "choices": ["W/cm²", "watts", "dB", "none"],
+    "answer": 0
+  },
+  {
+    "prompt": "Power unchanged, beam area doubles. Intensity:",
+    "choices": ["doubles", "is halved", "quartered", "same"],
+    "answer": 1
+  },
+  {
+    "prompt": "Power increases 25%, area same. Intensity:",
+    "choices": ["increases 25%", "increases 75%", "increases 50%", "decreases 25%"],
+    "answer": 0
+  },
+  {
+    "prompt": "Power doubled, area halved. Intensity:",
+    "choices": ["doubled", "halved", "quartered", "four times larger"],
+    "answer": 3
+  },
+  {
+    "prompt": "Amplitude triples, area same. Intensity:",
+    "choices": ["triples", "increases ninefold", "same", "none"],
+    "answer": 1
+  },
+  {
+    "prompt": "Power triples, area same. Intensity:",
+    "choices": ["triples", "increases ninefold", "same", "none"],
+    "answer": 0
+  },
+  {
+    "prompt": "Amplitude increases. What remains unchanged?",
+    "choices": ["power", "frequency", "period", "intensity"],
+    "answer": [1, 2]
+  },
+  {
+    "prompt": "Sonographer adjusts output power. What also changes?",
+    "choices": ["PRP", "PRF", "propagation speed", "intensity"],
+    "answer": 3
+  },
+  {
+    "prompt": "Wavelength can be reported in:",
+    "choices": ["units of time", "units of distance", "units of area", "mm only"],
+    "answer": 1
+  },
+  {
+    "prompt": "Wavelength is determined by:",
+    "choices": ["sound source", "medium", "both", "neither"],
+    "answer": 2
+  },
+  {
+    "prompt": "Wavelength of 2 MHz sound in soft tissue?",
+    "choices": ["0.77 mm", "cannot be determined", "1.54 mm", "2 mm"],
+    "answer": 0
+  },
+  {
+    "prompt": "Relationship between frequency and wavelength in soft tissue:",
+    "choices": ["reciprocal", "direct", "related", "inverse"],
+    "answer": 3
+  },
+  {
+    "prompt": "Two pulses in same medium: 2 MHz vs 10 MHz. Which has longer period?",
+    "choices": ["10 MHz", "2 MHz", "neither", "cannot be determined"],
+    "answer": 1
+  }
+]
