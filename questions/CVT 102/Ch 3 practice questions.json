@@ -135,7 +135,7 @@
       "High density, high stiffness",
       "Low density, high stiffness"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "prompt": "Which of these biologic tissues will sound waves propagate most quickly?",
@@ -145,7 +145,7 @@
   {
     "prompt": "A sound wave’s frequency is 10 MHz traveling in soft tissue. What is the wavelength?",
     "choices": ["0.77 mm", "10 MHz", "15.4 mm", "1.54 mm", "0.15 mm"],
-    "answer": 0
+    "answer": 4
   },
   {
     "prompt": "The typical range of frequency for diagnostic ultrasound imaging is:",
