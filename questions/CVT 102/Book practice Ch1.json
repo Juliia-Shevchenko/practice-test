@@ -109,5 +109,136 @@
       "pint"
     ],
     "answer": 2
-  }
+  },
+  {
+    "prompt": "What is the vertical axis of a graph called?",
+    "choices": ["z-axis", "x-axis", "y-axis", "time-axis"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the name of the horizontal axis of a graph called?",
+    "choices": ["z-axis", "x-axis", "y-axis", "red-axis"],
+    "answer": 1
+  },
+  {
+    "prompt": "How are scores on the ultrasound board exams related to study time?",
+    "choices": ["inversely", "conversely", "directly", "unrelated"],
+    "answer": 2
+  },
+  {
+    "prompt": "How are caloric intake and weight related?",
+    "choices": ["inversely", "partially", "reciprocally", "directly"],
+    "answer": 3
+  },
+  {
+    "prompt": "How is weight related to a sonographer’s time spent exercising?",
+    "choices": ["inversely", "conversely", "directly", "unrelated"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the reciprocal of 1,000?",
+    "choices": ["one-hundredth", "1,000", "0.001", "one-millionth"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the reciprocal of 5?",
+    "choices": ["one-hundredth", "5", "1/5", "one-millionth"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the reciprocal of 1/10?",
+    "choices": ["one-hundredth", "10", "1/10", "one-millionth"],
+    "answer": 1
+  },
+  {
+    "prompt": "A sack contains 6 pounds of flour. The contents of the bag are increased by a factor of 5. How much flour is in the bag?",
+    "choices": ["6 pounds", "11 pounds", "60 pounds", "30 pounds"],
+    "answer": 3
+  },
+  {
+    "prompt": "A bouquet has 30 flowers. The size of the bouquet is decreased by a factor of 3. How many flowers remain?",
+    "choices": ["27", "0", "10", "15"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is not a measure of area?",
+    "choices": ["square cm", "meters squared", "cubic meters", "feet × feet"],
+    "answer": 2
+  },
+  {
+    "prompt": "A sonographer measures the perimeter of an anatomical structure. Which is a reasonable value?",
+    "choices": ["6 cm²", "5 cc", "15 mm", "18 dB"],
+    "answer": 2
+  },
+  {
+    "prompt": "What are the units associated with the circumference of a circle?",
+    "choices": ["mm", "mm²", "cm³", "m⁴"],
+    "answer": 0
+  },
+  {
+    "prompt": "The volume of a cystic structure is estimated from sonographic data. Which is acceptable?",
+    "choices": ["6", "6 cm", "6 cm²", "6 cm³"],
+    "answer": 3
+  },
+  {
+    "prompt": "The speed of red blood cells is 750 cm/sec. You must convert to miles per hour. What information is sufficient?",
+    "choices": [
+      "seconds in a minute & number of blood cells",
+      "miles in a meter",
+      "seconds per hour & miles in a centimeter",
+      "direction of RBC motion & Doppler shift"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How much bigger is one billion than one thousand?",
+    "choices": ["1,000×", "1,000,000×", "10×", "10,000×"],
+    "answer": 1
+  },
+  {
+    "prompt": "Select the sequence in increasing order.",
+    "choices": [
+      "mega, kilo, hecto, milli, giga",
+      "nano, milli, micro, deci, deca, mega",
+      "centi, deci, deca, hecto",
+      "milli, hecto, centi, deci, nano, giga"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How many nanoseconds are in 7 seconds?",
+    "choices": ["7,000,000", "7,000,000,000", "7 million", "0.00000007"],
+    "answer": 1
+  },
+  {
+    "prompt": "Select the sequence in decreasing order (metric prefixes).",
+    "choices": [
+      "m, k, M, g, da",
+      "g, m, k, d, u",
+      "g, k, di, m, u, n",
+      "M, k, da, d, c"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which term is the reciprocal of mega?",
+    "choices": ["nano", "kilo", "macro", "micro"],
+    "answer": 3
+  },
+  {
+    "prompt": "How can the volume of an irregularly shaped object be measured?",
+    "choices": ["visual inspection", "weight", "immersing in water", "ultrasound scanning"],
+    "answer": 2
+  },
+  {
+  "prompt": "How can the volume of an irregularly shaped object be measured?",
+  "choices": [
+    "visual inspection",
+    "weight",
+    "immersing in water",
+    "ultrasound scanning"
+  ],
+  "answer": 2
+}
+
 ]
