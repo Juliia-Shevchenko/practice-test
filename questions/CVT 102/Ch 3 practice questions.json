@@ -12,7 +12,7 @@
   {
     "prompt": "The lower the frequency, the __________ sound.",
     "choices": ["Higher", "Lower", "Quieter", "Louder"],
-    "answer": 2
+    "answer": 1
   },
   {
     "prompt": "The higher the amplitude, the __________ sound.",
@@ -47,7 +47,7 @@
   {
     "prompt": "A sound wave that registers as 30 Hz is considered:",
     "choices": ["Ultrasonic", "Subsonic", "Audible", "Infrasonic", "Supersonic"],
-    "answer": 3
+    "answer": 2
   },
   {
     "prompt": "Which of the following does not affect speed through a medium?",
@@ -97,6 +97,7 @@
   },
   {
     "prompt": "Which parameter is described by letter A and letter B?",
+    "image": "images/Physics/Ch3-Q16",
     "choices": [
       "Amplitude, Wavelength",
       "Peak-to-peak amplitude, Frequency",
