@@ -97,7 +97,7 @@
   },
   {
     "prompt": "Which parameter is described by letter A and letter B?",
-    "image": "images/Physics/Ch3-Q16",
+    "image": "images/Physics/Ch3-Q16.jpg",
     "choices": [
       "Amplitude, Wavelength",
       "Peak-to-peak amplitude, Frequency",
