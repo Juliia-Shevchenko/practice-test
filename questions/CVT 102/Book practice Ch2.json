@@ -133,35 +133,6 @@
     "prompt": "A pair of waves are in phase. What occurs when they interfere?",
     "choices": ["reflection", "constructive interference", "refraction", "destructive interference"],
     "answer": 1
-  },
-  {
-    "prompt": "What is the range of periods commonly found in ultrasound waves?",
-    "choices": ["0.001 to 1 s", "0.06 to 0.5 µs", "0.2 to 1 ms", "10 to 100 ns"],
-    "answer": 1
-  },
-  {
-    "prompt": "With standard ultrasound imaging, what happens to the period as a wave propagates?",
-    "choices": ["increases", "decreases", "remains the same"],
-    "answer": 2
-  },
-  {
-    "prompt": "What determines the period of an ultrasound wave?",
-    "choices": ["the transducer", "the medium", "both", "neither"],
-    "answer": 0
-  },
-  {
-    "prompt": "Which units can describe the period of an acoustic wave?",
-    "choices": ["minutes", "microseconds", "meters", "mm/µs", "cubic cm"],
-    "answer": [0, 1]
-  },
-  {
-    "prompt": "True or False? The sonographer can alter the period of a wave produced by a basic transducer.",
-    "choices": ["True", "False"],
-    "answer": 1
-  },
-  {
-    "prompt": "What term describes the number of cycles completed in one second?",
-    "choices": ["period", "frequency", "pulse repetition period", "variable rate"],
-    "answer": 1
   }
+  
 ]
