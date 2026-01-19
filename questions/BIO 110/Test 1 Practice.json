@@ -56,7 +56,7 @@
   },
   {
     "prompt": "The mitral valve is located between the:",
-    "choices": ["RA & RV", "LA & LV", "LV & aorta", "RV & pulmonary artery"],
+    "choices": ["Right atrium and right ventricle", "Left atrium and left ventricle", "Left ventricle and aorta", "Right ventricle and pulmonary artery"],
     "answer": 1
   },
   {
@@ -81,17 +81,17 @@
   },
   {
     "prompt": "The interventricular septum separates the:",
-    "choices": ["Atria", "Ventricles", "Atria from ventricles", "Heart from lungs"],
+    "choices": ["Left and right atria", "Left and right ventricles", "Atria from ventricles", "Heart from lungs"],
     "answer": 1
   },
   {
     "prompt": "Which is NOT a layer of the pericardium?",
-    "choices": ["Fibrous", "Parietal", "Visceral", "Muscular"],
+    "choices": ["Fibrous pericardium", "Parietal pericardium", "Visceral pericardium", "Muscular pericardium"],
     "answer": 3
   },
   {
-    "prompt": "The AV node is located:",
-    "choices": ["Right atrium", "Between atria & ventricles", "Left ventricle", "IV septum"],
+    "prompt": "The atrioventricular (AV) node is located:",
+    "choices": ["In the Right atrium", "Between atria & ventricles", "In the Left ventricle", "In the interventricular septum"],
     "answer": 1
   },
   {
@@ -101,17 +101,17 @@
   },
   {
     "prompt": "The left main coronary artery divides into:",
-    "choices": ["LAD & LCX", "LAD & RCA", "LCX & RCA", "Marginal & diagonal"],
+    "choices": ["Left anterior descending and left circumflex", "Left anterior descending and right coronary", "Left circumflex and right coronary", "Left marginal and diagonal"],
     "answer": 0
   },
   {
-    "prompt": "Which is NOT part of the cardiac conduction system?",
-    "choices": ["SA node", "AV node", "Bundle of His", "Bundle of Willis"],
+    "prompt": "Which of the following is NOT a normal component of the cardiac conduction system?",
+    "choices": ["Sinoatrial node", "Atrioventricular node", "Bundle of His", "Bundle of Willis"],
     "answer": 3
   },
   {
     "prompt": "The tricuspid valve is located between the:",
-    "choices": ["RA & RV", "LA & LV", "LV & aorta", "RV & pulmonary artery"],
+    "choices": ["Right atrium and right ventricle", "Left atrium and left ventricle", "Left ventricle and aorta", "Right ventricle and pulmonary artery"],
     "answer": 0
   },
   {
@@ -140,8 +140,8 @@
     "answer": 0
   },
   {
-    "prompt": "Which is NOT a branch of the RCA?",
-    "choices": ["SA nodal artery", "Acute marginal", "PDA", "LAD"],
+    "prompt": "Which of the following is NOT a typical branch of the right coronary artery?",
+    "choices": ["Sinoatrial nodal artery", "Acute marginal branches", "Posterior descending artery (in right dominant hearts)", "Left anterior descending artery"],
     "answer": 3
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "prompt": "The aortic valve has:",
-    "choices": ["Two cusps", "Three cusps", "Four cusps", "Five cusps"],
+    "choices": ["Two leaflets", "Three leaflets", "Four leaflets", "Five leaflets"],
     "answer": 1
   },
   {
@@ -165,8 +165,8 @@
     "answer": 0
   },
   {
-    "prompt": "Normal location of the AV node:",
-    "choices": ["Right atrial side of interatrial septum", "Left atrial side", "IV septum right side", "IV septum left side"],
+    "prompt": "Which of the following best describes the normal location of the AV node?",
+    "choices": ["Right atrial side of interatrial septum", "Left atrial side of the interatrial septum", "Right side of the interventricular septum", "Left side of the interventricular septum"],
     "answer": 0
   },
   {
@@ -175,33 +175,33 @@
     "answer": 1
   },
   {
-    "prompt": "Which is NOT part of the conduction system?",
+    "prompt": "Which of the following is NOT typically considered part of the cardiac conduction system?",
     "choices": ["SA node", "AV node", "Purkinje fibers", "Papillary muscles"],
     "answer": 3
   },
   {
-    "prompt": "Normal position of the tricuspid valve:",
-    "choices": ["More superior/anterior than mitral", "More superior/posterior", "Same level", "Inferior to mitral"],
-    "answer": 3
+    "prompt": "Which of the following best describes the normal position of the tricuspid valve?",
+    "choices": ["More superior and anterior than mitral", "More superior/posterior", "Same level", "Inferior to mitral"],
+    "answer": 0
   },
   {
-    "prompt": "Rapid Na+ influx occurs in:",
+    "prompt": "Which phase of the action potential involves rapid Na+ influx?",
     "choices": ["Phase 0", "Phase 1", "Phase 2", "Phase 3"],
     "answer": 0
   },
   {
-    "prompt": "Function of Purkinje fibers:",
-    "choices": ["Generate impulses", "Delay conduction", "Open valves", "Distribute signals to ventricles"],
+    "prompt": "What is the function of Purkinje fibers?",
+    "choices": ["To generate electrical impulses in the heart", "To delay conduction between atria and ventricles", "To open semilunar valves", "To distribute signals to ventricular muscles"],
     "answer": 3
   },
   {
     "prompt": "Coronary arteries are located:",
-    "choices": ["Inside LV", "At root of aorta above cusps", "Pulmonary artery", "Apex"],
+    "choices": ["Inside the left ventricle", "At the root of the Aorta above Aortic valve cusps", "In the pulmonary artery", "At the apex of the heart"],
     "answer": 1
   },
   {
-    "prompt": "What connects papillary muscles to valve leaflets?",
-    "choices": ["Coronary sinus", "Chordae tendineae", "Trabeculae carneae", "IV septum"],
+    "prompt": "Which structure connects the papillary muscles to valve leaflets?",
+    "choices": ["Coronary sinus", "Chordae tendineae", "Trabeculae carneae", "Interventricular septum"],
     "answer": 1
   },
   {
@@ -210,44 +210,44 @@
     "answer": 3
   },
   {
-    "prompt": "Floor of the right atrium is formed by:",
+    "prompt": "Which structure forms the floor of the right atrium?",
     "choices": ["Tricuspid valve", "Mitral valve", "Fossa ovalis", "Crista terminalis"],
-    "answer": 2
+    "answer": 0
   },
   {
-    "prompt": "Membranous IV septum is located:",
-    "choices": ["Apex", "Near base", "Middle", "Entire septum"],
+    "prompt": "The membranous part of the interventricular septum is located:",
+    "choices": ["At the apex of the heart", "Near the base of the heart", "In the middle of the septum", "Throughout the entire septum"],
     "answer": 1
   },
   {
-    "prompt": "Which is NOT part of the right atrium?",
+    "prompt": "Which of the following is NOT a normal component of the right atrium?",
     "choices": ["Fossa ovalis", "Crista terminalis", "Eustachian valve", "Mitral valve"],
     "answer": 3
   },
   {
-    "prompt": "Which is NOT a feature of the left ventricle?",
-    "choices": ["Thick wall", "Conical shape", "Moderator band", "Mitral valve"],
+    "prompt": "Which of the following is NOT a typical feature of the left ventricle?",
+    "choices": ["Thicker wall than the right ventricle", "Conical shape", "Moderator band", "Mitral valve"],
     "answer": 2
   },
   {
-    "prompt": "Which is NOT part of the left atrium?",
+    "prompt": "Which of the following is NOT a normal component of the left atrium?",
     "choices": ["Pulmonary veins", "LA appendage", "Fossa ovalis", "Crista terminalis"],
     "answer": 3
   },
   {
-    "prompt": "Which is NOT a feature of the right ventricle?",
-    "choices": ["Thin wall", "Crescent shape", "Trabeculae carneae", "Bicuspid valve"],
+    "prompt": "Which of the following is NOT a typical feature of the right ventricle?",
+    "choices": ["Thinner wall than the left ventricle", "Crescent shape in cross-section", "Trabeculae carneae", "Bicuspid valve"],
     "answer": 3
   },
   {
-    "prompt": "Normal orientation of the heart:",
-    "choices": ["Straight down", "To the right", "Left and downward", "Backward"],
+    "prompt": "Which of the following best describes the normal orientation of the heart in the chest?",
+    "choices": ["Pointing straight down", "Pointing to the right", "Pointing to the left and slightly downward", "Pointing straight backward"],
     "answer": 2
   },
   {
     "prompt": "Which chamber does NOT have an appendage?",
     "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
-    "answer": 3
+    "answer": 2
   },
   {
     "prompt": "The non-coronary cusp is adjacent to the:",
