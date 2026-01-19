@@ -1,0 +1,167 @@
+[
+  {
+    "prompt": "What term describes the effects of an ultrasound wave on living tissues?",
+    "choices": ["toxic effects", "acoustic propagation properties", "biological effects", "transmission properties"],
+    "answer": 2
+  },
+  {
+    "prompt": "As sound travels through a medium, what describes the effects of the medium on the sound wave?",
+    "choices": ["toxic effects", "acoustic propagation properties", "biological effects", "transmission properties"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which statement is true of all waves?",
+    "choices": ["they travel through a medium", "all carry energy from one site to another", "their amplitudes do not change", "they travel in a straight line"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following types of waves do not require a medium in order to propagate?",
+    "choices": ["light", "heat", "sound", "television"],
+    "answer": [0, 1, 3]
+  },
+  {
+    "prompt": "Which of the following describes the characteristics of a sound wave?",
+    "choices": ["longitudinal, non-mechanical", "mechanical, transverse", "transverse, acoustic", "mechanical, longitudinal"],
+    "answer": 3
+  },
+  {
+    "prompt": "Sound is best described as",
+    "choices": ["a series of compressions and rarefactions", "a transverse wave", "a wave humans can hear", "an oblique displacement of acoustic energy"],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following are true about sound waves except",
+    "choices": ["they are mechanical", "they are transverse", "they carry energy from place to place", "they generally travel in a straight line"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Frequency is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Pressure is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Propagation speed is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Wavelength is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Voltage is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Intensity is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Motion of particles in the wave is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Density is an acoustic variable.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "What are the units of a pressure measurement of an acoustic wave?",
+    "choices": ["atmospheres (atm)", "Pascals (Pa)", "millimeters of mercury (mm Hg)", "pounds/sq inch (psi)", "All of the above"],
+    "answer": 4
+  },
+  {
+    "prompt": "Sound can be characterized as:",
+    "choices": ["energy flowing through a vacuum", "a variable", "cyclical oscillations in certain variables", "a principle of acoustics"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which units describe pressure?",
+    "choices": ["lb/in³", "Fahrenheit degrees", "miles", "Pa", "cm", "centigrade degrees", "lb/in²", "kg/m³"],
+    "answer": [3, 6]
+  },
+  {
+    "prompt": "Which units describe density?",
+    "choices": ["lb/in³", "Fahrenheit degrees", "miles", "Pa", "cm", "centigrade degrees", "lb/in²", "kg/m³"],
+    "answer": [0, 7]
+  },
+  {
+    "prompt": "Which units describe particle motion?",
+    "choices": ["lb/in³", "Fahrenheit degrees", "miles", "Pa", "cm", "centigrade degrees", "lb/in²", "kg/m³"],
+    "answer": [2, 4]
+  },
+  {
+    "prompt": "A force is applied to a surface. If the force is tripled and the surface area is also tripled, what is the new pressure?",
+    "choices": ["three times larger", "one-third", "six times larger", "unchanged"],
+    "answer": 3
+  },
+  {
+    "prompt": "A longitudinal wave propagates east to west at 2 mph. What is the direction of particle motion?",
+    "choices": ["east to west only", "alternately east→west then west→east", "north to south only", "alternately north→south then south→north"],
+    "answer": 1
+  },
+  {
+    "prompt": "The direction of particle motion is perpendicular to the direction of propagation. What type of wave is this?",
+    "choices": ["longitudinal", "acoustic", "mechanical", "transverse"],
+    "answer": 3
+  },
+  {
+    "prompt": "A particle in a transverse wave is traveling vertically. What is the direction of wave propagation?",
+    "choices": ["horizontal", "vertical", "diagonal", "cannot be determined"],
+    "answer": 0
+  },
+  {
+    "prompt": "Waves that exist at the same location and time will combine. What is this called?",
+    "choices": ["inference", "rarefaction", "interference", "longitudinal interaction"],
+    "answer": 2
+  },
+  {
+    "prompt": "Two waves interfere and the resultant wave is smaller than either original wave. What is this called?",
+    "choices": ["constructive interference", "angular interaction", "destructive interference", "in-phase waves"],
+    "answer": 2
+  },
+  {
+    "prompt": "A pair of waves are in phase. What occurs when they interfere?",
+    "choices": ["reflection", "constructive interference", "refraction", "destructive interference"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the range of periods commonly found in ultrasound waves?",
+    "choices": ["0.001 to 1 s", "0.06 to 0.5 µs", "0.2 to 1 ms", "10 to 100 ns"],
+    "answer": 1
+  },
+  {
+    "prompt": "With standard ultrasound imaging, what happens to the period as a wave propagates?",
+    "choices": ["increases", "decreases", "remains the same"],
+    "answer": 2
+  },
+  {
+    "prompt": "What determines the period of an ultrasound wave?",
+    "choices": ["the transducer", "the medium", "both", "neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which units can describe the period of an acoustic wave?",
+    "choices": ["minutes", "microseconds", "meters", "mm/µs", "cubic cm"],
+    "answer": [0, 1]
+  },
+  {
+    "prompt": "True or False? The sonographer can alter the period of a wave produced by a basic transducer.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "What term describes the number of cycles completed in one second?",
+    "choices": ["period", "frequency", "pulse repetition period", "variable rate"],
+    "answer": 1
+  }
+]
