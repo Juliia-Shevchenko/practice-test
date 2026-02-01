@@ -1,0 +1,618 @@
+[
+  {
+    "prompt": "What is a hematocrit?",
+    "choices": [
+      "Percent of red blood cells in a blood sample",
+      "An abnormal red blood cell resulting from a genetic disorder",
+      "Clotting factor",
+      "Stem cell that gives rise to the agranulocytes"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What are the formed elements?",
+    "choices": [
+      "Sodium and potassium",
+      "Blood cells and platelets",
+      "Bone marrow and the thymus",
+      "Blood and lymph"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Which cell type is an agranulocyte?",
+    "choices": [
+      "Basophils",
+      "Eosinophils",
+      "Neutrophils",
+      "Monocytes"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the primary function of lymphocytes?",
+    "choices": [
+      "To phagocytize damaged cells.",
+      "To produce enzymes that dissolve blood clots.",
+      "To release substances that initiate blood clots.",
+      "To act against foreign substances."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Which of the following functions as a phagocyte?",
+    "choices": [
+      "Erythrocytes",
+      "Neutrophils",
+      "Basophils",
+      "Eosinophils"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What type of antigens are found on the surface of red blood cells of a person with type AB blood?",
+    "choices": [
+      "Both antigens A and B",
+      "Antigens A only",
+      "Antigens B only",
+      "Neither antigens A nor antigens B"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the rarest ABO blood type in the United States?",
+    "choices": [
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What determines an individual's blood type?",
+    "choices": [
+      "Proteins (antibodies) on the surface of red blood cells",
+      "Proteins (antibodies) circulating in blood plasma",
+      "Proteins (antigens) on the surface of white blood cells",
+      "Proteins (antigens) on the surfaces of red blood cells"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "In what situation might erythroblastosis fetalis occur?",
+    "choices": [
+      "A second Rh-positive fetus developing in an Rh-negative woman",
+      "A first Rh-positive fetus developing in an Rh-negative woman",
+      "A second Rh-negative fetus developing in an Rh-negative woman",
+      "A first Rh-negative fetus developing in an Rh-negative woman"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What blood type can successfully be given to a person with type AB blood?",
+    "choices": [
+      "Only one of the blood types",
+      "Only two of the blood types",
+      "Only type O blood",
+      "All blood types"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Blood vessels called__________ carry blood toward the heart, and__________ carry blood away from the heart.",
+    "choices": [
+      "veins; arteries",
+      "arteries; veins",
+      "capillaries; arteries",
+      "veins; capillaries"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is a function of the pulmonary circuit?",
+    "choices": [
+      "It carries oxygen-poor blood to the heart.",
+      "It carries oxygen-poor blood to the tissues.",
+      "It carries oxygen-poor blood to the lungs.",
+      "It carries oxygen-poor blood from the tissues."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is a function of the systemic circuit?",
+    "choices": [
+      "It carries oxygen-rich blood to the heart.",
+      "It carries oxygen-poor blood to the tissues.",
+      "It carries oxygen-rich blood from the lungs.",
+      "It carries oxygen-poor blood to the heart."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "During ventricular contraction, what is the status of the atrioventricular valves?",
+    "choices": [
+      "The mitral valve is opened and the tricuspid valve is closed.",
+      "The tricuspid valve is open and the mitral valve is closed.",
+      "The mitral and tricuspid valves both are closed.",
+      "The mitral and tricuspid valves both are open."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Name the tough outermost layer of the sac that surrounds the heart.",
+    "choices": [
+      "Fibrous pericardium",
+      "Visceral pericardium",
+      "Epicardium",
+      "Endocardium"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What forms the skeleton of the heart?",
+    "choices": [
+      "Bone within the myocardium",
+      "Bone within the interatrial septum",
+      "Fibrous connective tissue in the endocardium",
+      "Fibrous connective tissue around the valves"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Blood flowing from the vena cavae to the pulmonary trunk passes through what series of structures?",
+    "choices": [
+      "Right atrium, pulmonary valve, right ventricle, tricuspid valve",
+      "Right atrium, tricuspid valve, right ventricle, pulmonary valve",
+      "Right ventricle, tricuspid valve, right atrium, pulmonary valve",
+      "Right ventricle, pulmonary valve, right atrium, tricuspid valve"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What layer lines the chambers of the heart?",
+    "choices": [
+      "Epicardium",
+      "Myocardium",
+      "Endocardium",
+      "Pericardium"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Name the layers of the the wall of the heart and surrounding structures from deep to superficial.",
+    "choices": [
+      "Myocardium, endocardium, epicardium, fibrous pericardium, pericardial cavity, parietal pericardium",
+      "Fibrous pericardium, parietal pericardium, pericardial cavity, epicardium, myocardium, endocardium",
+      "Epicardium, myocardium, endocardium, pericardial cavity, parietal pericardium, fibrous pericardium",
+      "Endocardium, myocardium, epicardium, pericardial cavity, parietal pericardium, fibrous pericardium"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Blood entering the right atrium comes from what structure(s)?",
+    "choices": [
+      "Pulmonary trunk",
+      "Venae cavae and coronary sinus",
+      "Pulmonary veins",
+      "Right ventricle"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What happens in the condition called mitral valve prolapse?",
+    "choices": [
+      "The cusps of the mitral valve become immovable.",
+      "The mitral valve has hardened, narrowing the opening into the ventricle.",
+      "One or more cusps bulge into the left ventricle during ventricular relaxation.",
+      "One or more cusps bulge into the left atrium during ventricular contraction."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What chambers of the heart will contain oxygen-poor blood?",
+    "choices": [
+      "Right atrium and right ventricle",
+      "Right atrium and left atrium",
+      "Left atrium and left ventricle",
+      "Left atrium and right ventricle"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Which valve is located between the left atrium and left ventricle?",
+    "choices": [
+      "Tricuspid valve",
+      "Pulmonary valve",
+      "Mitral valve",
+      "Aortic valve"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Constriction of the__________ reduces blood flow to the myocardium of the right side of the heart. This decrease in blood flow can result in__________.",
+    "choices": [
+      "left coronary artery; mitral valve prolapse",
+      "right pulmonary artery; endocarditis",
+      "right coronary artery; ischemia",
+      "left coronary vein; myocardial infarction"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the correct sequence of components of the cardiac conduction system?",
+    "choices": [
+      "AV node → SA node → Purkinje fibers→ AV bundle",
+      "AV node → AV bundle → Purkinje fibers → SA node",
+      "SA node → Purkinje fibers → AV node → AV bundle",
+      "SA node → AV node → AV bundle → Purkinje fibers"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the normal pacemaker of the heart?",
+    "choices": [
+      "Purkinje fibers",
+      "AV bundle",
+      "Sinoatrial node",
+      "Atrioventricular node"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Sounds from the closing of the__________ valve are best heard at the fifth intercostal space just to the left of the sternum.",
+    "choices": [
+      "aortic",
+      "tricuspid",
+      "pulmonary",
+      "mitral"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the effect of nitric oxide in blood vessels?",
+    "choices": [
+      "Causes increased permeability and leakiness of capillary walls",
+      "Causes vasoconstriction",
+      "Causes vasodilation",
+      "Causes decreased permeability and leakiness of capillary walls"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What blood vessels hold the greatest volume of blood?",
+    "choices": [
+      "Arteries",
+      "Arterioles",
+      "Capillaries",
+      "Veins"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is described by the Frank-Starling law of the heart?",
+    "choices": [
+      "That the SA node will act as the pacemaker",
+      "That the quantity of blood that enters the heart equals the quantity that is pumped out",
+      "That blood will only flow through the coronary circulation during diastole",
+      "That cardiac output is equal to heart rate times stroke volume"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Which of the following is increased when sympathetic stimulation to the heart increases?",
+    "choices": [
+      "End-diastolic volume",
+      "Stroke volume",
+      "Venous return",
+      "Total peripheral resistance"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is preload?",
+    "choices": [
+      "Amount of blood pumped by each ventricle during each cardiac cycle",
+      "Amount of stretch of myocardial cells prior to contraction",
+      "Pressure in arteries, against which the heart is pumping blood",
+      "The amount of fluid leaking from capillaries, diminishing blood volume"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the effect of vasoconstriction?",
+    "choices": [
+      "Peripheral resistance decreases",
+      "Viscosity increases",
+      "Heart rate decreases",
+      "Blood pressure increases"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "How is stroke volume calculated?",
+    "choices": [
+      "SV = HR x BP",
+      "SV = EDV - ESV",
+      "SV = BP x PR",
+      "SV = CO x PR"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "How is pulse pressure calculated?",
+    "choices": [
+      "PP = systolic pressure - diastolic pressure",
+      "PP = systolic pressure x diastolic pressure",
+      "PP = systolic pressure + diastolic pressure",
+      "PP = systolic pressure / diastolic pressure"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Name two branches of the right coronary artery.",
+    "choices": [
+      "Posterior interventricular artery and right marginal branch",
+      "Anterior interventricular artery and circumflex branch",
+      "Anterior interventricular artery and posterior interventricular artery",
+      "Right marginal branch and circumflex branch"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Valves help to ensure one-way blood flow in the__________.",
+    "choices": [
+      "arteries and veins",
+      "heart and veins",
+      "heart and arteries",
+      "capillaries"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the function of the papillary muscles of the heart?",
+    "choices": [
+      "To assist in the ejection of blood",
+      "To help conduct cardiac impulses throughout the ventricular myocardium",
+      "To prevent atrioventricular valves from prolapsing",
+      "To hold the semilunar valves closed during ventricular diastole"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "During the cardiac cycle, at the time of highest ventricular pressure, what is the status of the heart valves?",
+    "choices": [
+      "Atrioventricular valves are closed; semilunar valves are open.",
+      "Atrioventricular valves are open; semilunar valves are closed.",
+      "Atrioventricular valves are open; semilunar valves are open.",
+      "Atrioventricular valves are closed; semilunar valves are closed."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What causes the first heart sound? When does this occur?",
+    "choices": [
+      "Closure of the semilunar valves at the beginning of ventricular diastole",
+      "Closure of the atrioventricular valves soon after the beginning of ventricular systole",
+      "Closure of the semilunar valves soon after the beginning of ventricular systole",
+      "Closure of the atrioventricular valves at the beginning of ventricular diastole"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "The apical heartbeat is heard by listening between the fifth and sixth ribs about 7.5 cm left of the midline.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "The coronary sinus drains blood from the wall of the heart into the left atrium.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What are pathogens?",
+    "choices": [
+      "A type of antibody",
+      "Agents that alter DNA base sequences",
+      "Disease-causing agents",
+      "Phagocytic leukocytes"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What role does the lymphatic system have in influencing body fluids?",
+    "choices": [
+      "It adds hypotonic fluid to any tissue fluid that has an elevated solute concentration.",
+      "It moves tissue fluid from one area to another, ensuring that all tissue fluid levels are consistent.",
+      "It provides the fluid needed to bathe tissue cells in nutrient-rich fluid.",
+      "It moves excess tissue fluid from the interstitium to the bloodstream."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "The structure of a lymphatic vessel is most similar to that of a(n)__________.",
+    "choices": [
+      "artery",
+      "arteriole",
+      "vein",
+      "capillary"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Name the two collecting ducts that drain the lymphatic trunks.",
+    "choices": [
+      "Thoracic duct and right lymphatic duct",
+      "Lumbar duct and left lymphatic duct",
+      "Right and left thoracic ducts",
+      "Bronchomediastinal duct and subclavian duct"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "From the collecting ducts, lymph enters__________ and becomes part of the__________.",
+    "choices": [
+      "lymphatic trunks; interstital fluid",
+      "capillaries; blood supply",
+      "veins; plasma",
+      "lymph nodes; tissue fluid"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "In what situation will there be an increase in lymph formation?",
+    "choices": [
+      "Increased osmotic pressure in blood capillaries.",
+      "Increased hydrostatic pressure in tissue fluid.",
+      "Decreased volume of tissue fluid.",
+      "Decreased protein concentration in tissue fluid."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is one function of lymph?",
+    "choices": [
+      "Return of proteins to the tissue fluid.",
+      "Transport of foreign particles to the kidneys.",
+      "Transport of foreign particles to the lymph nodes.",
+      "Transport of oxygen and carbon dioxide."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Lymph nodes are located throughout the body except in the__________.",
+    "choices": [
+      "lungs",
+      "central nervous system",
+      "mesentery",
+      "anal region"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Where are the supratrochlear lymph nodes located?",
+    "choices": [
+      "In the hand",
+      "Proximal to the ankle",
+      "Medial side of elbow",
+      "Behind the knee"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Which of the following cells function as phagocytes?",
+    "choices": [
+      "Macrophages",
+      "Platelets",
+      "Mast cells",
+      "Erythrocytes"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "How do viruses differ from other pathogens?",
+    "choices": [
+      "They are larger than most other pathogens.",
+      "They are more likely to cause life-threatening infections.",
+      "They are not capable of reproducing outside a living cell.",
+      "They are multicellular."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What type of phagocytic cells are circulating in the blood?",
+    "choices": [
+      "Neutrophils and monocytes",
+      "Neutrophils and macrophages",
+      "Monocytes and macrophages",
+      "Lymphocytes and monocytes"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "A transplant recipient is more likely to reject a transplanted organ if there is not a close match between the__________ of the recipient and that of the donor.",
+    "choices": [
+      "major histocompatibility complex",
+      "blood type",
+      "sex and age",
+      "antibody response"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Which of the following occurs during an adaptive immune response?",
+    "choices": [
+      "Phagocytosis",
+      "Production of interferon",
+      "Production of antibodies",
+      "Production of defensins"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Following a tissue transplant, the transplant recipients typically need to take medications to__________.",
+    "choices": [
+      "stimulate their immune system",
+      "suppress their immune system",
+      "prevent blood clots from forming",
+      "lower their blood pressure"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What cell types are primarily responsible for immunity?",
+    "choices": [
+      "Lymphocytes and macrophages",
+      "Neutrophils and lymphocytes",
+      "Monocytes and macrophages",
+      "Lymphocytes and monocytes"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What is the relationship between antigens and antibodies?",
+    "choices": [
+      "The presence of an antigen triggers the production of antibodies.",
+      "The presence of antibodies triggers the production of antigens.",
+      "Antigens function to destroy or neutralize antibodies.",
+      "Antibodies can be foreign cells, proteins, or other large molecules. Antigens are large proteins made by B cells."
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Antibody actions against antigens include__________ in which the antibodies bind to antigen, forming an insoluble complex that can be phagocytized.",
+    "choices": [
+      "precipitation",
+      "lysis",
+      "agglutination",
+      "opsonization"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "Anaphylactic shock is a risk with what type of hypersensitivity?",
+    "choices": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "answer": null
+  },
+  {
+    "prompt": "What type of hypersensitivity involves T lymphocytes?",
+    "choices": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "answer": null
+  }
+]
