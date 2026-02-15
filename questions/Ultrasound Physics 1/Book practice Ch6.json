@@ -1,0 +1,192 @@
+[
+  {
+    "prompt": "Every 3 dB change means that the intensity will __________.",
+    "choices": ["Stay the same", "Double", "Decrease by 10 times", "Increase ten times", "Be zero"],
+    "answer": 1
+  },
+  {
+    "prompt": "Every 10 dB change means that the intensity will __________.",
+    "choices": ["Double", "Increase ten times", "Decrease by half", "Stay constant", "Increase by 2"],
+    "answer": 1
+  },
+  {
+    "prompt": "A reduction in the intensity of a sound beam to one-half of its original value is ______ dB.",
+    "choices": ["-1 dB", "-3 dB", "-6 dB", "-10 dB", "+3 dB"],
+    "answer": 1
+  },
+  {
+    "prompt": "A reduction in the intensity of a sound beam to one-quarter of its original value is ______ dB.",
+    "choices": ["-3 dB", "-6 dB", "-9 dB", "-10 dB", "+6 dB"],
+    "answer": 1
+  },
+  {
+    "prompt": "-10 dB means that the intensity is reduced to ______ of its original value.",
+    "choices": ["One-half", "One-quarter", "One-tenth", "Ten times", "Zero"],
+    "answer": 2
+  },
+  {
+    "prompt": "dB is a mathematical representation with a ______ scale.",
+    "choices": ["logarithmic and relative", "division and relative", "longitudinal and relative", "logarithmic and absolute"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False. We need one intensity to calculate decibels.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "A wave’s intensity is 2 mW/cm². There is a change of +9 dB. What is the final intensity?",
+    "choices": ["6 mW/cm³", "2 mW/cm²", "16 mW/cm²", "16 µW/cm²"],
+    "answer": 2
+  },
+  {
+    "prompt": "If the final intensity of a sound beam is more than the initial intensity, then the gain in dB is ______.",
+    "choices": ["Negative", "Zero", "Positive", "Undefined"],
+    "answer": 2
+  },
+  {
+    "prompt": "If the initial intensity of a sound beam is less than the final intensity, then the gain in dB is ______.",
+    "choices": ["Negative", "Zero", "Positive", "Undefined"],
+    "answer": 2
+  },
+  {
+    "prompt": "Name the three components of attenuation.",
+    "choices": ["Reflection, refraction, transmission", "Absorption, reflection, scattering", "Compression, rarefaction, wavelength", "Intensity, power, area"],
+    "answer": 1
+  },
+  {
+    "prompt": "As the path length increases, the attenuation of ultrasound in soft tissue __________.",
+    "choices": ["Decreases", "Remains the same", "Increases", "Becomes zero"],
+    "answer": 2
+  },
+  {
+    "prompt": "Attenuation in lung tissue is __________ attenuation in soft tissue.",
+    "choices": ["Less than", "Greater than", "The same as", "Zero compared to"],
+    "answer": 1
+  },
+  {
+    "prompt": "Attenuation in bone is __________ attenuation in soft tissue.",
+    "choices": ["Less than", "Greater than", "The same as", "Negligible"],
+    "answer": 1
+  },
+  {
+    "prompt": "Attenuation in air is __________ attenuation in soft tissue.",
+    "choices": ["Less than", "Greater than", "The same as", "None"],
+    "answer": 1
+  },
+  {
+    "prompt": "What are the units of attenuation?",
+    "choices": ["Watts", "Meters", "Decibels (dB)", "Hertz"],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False. In a given medium, attenuation is unrelated to the speed of sound.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between ultrasound frequency and the attenuation coefficient in soft tissue?",
+    "choices": [
+      "They are unrelated",
+      "Attenuation decreases with frequency",
+      "Attenuation coefficient ≈ half the frequency in MHz",
+      "Attenuation is constant"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What are the units of the half-value layer thickness?",
+    "choices": ["Seconds", "Watts", "Centimeters", "Decibels"],
+    "answer": 2
+  },
+  {
+    "prompt": "As frequency decreases, depth of penetration __________.",
+    "choices": ["Decreases", "Remains the same", "Increases", "Becomes zero"],
+    "answer": 2
+  },
+  {
+    "prompt": "As path length increases, the half boundary layer __________.",
+    "choices": ["Decreases", "Remains the same", "Increases", "Disappears"],
+    "answer": 1
+  },
+  {
+    "prompt": "Impedance is associated with __________.",
+    "choices": ["Only the medium", "Frequency", "Intensity", "Wavelength"],
+    "answer": 0
+  },
+  {
+    "prompt": "As the path length increases, the attenuation coefficient of ultrasound in soft tissue __________.",
+    "choices": ["Decreases", "Remains the same", "Increases", "Becomes zero"],
+    "answer": 1
+  },
+  {
+    "prompt": "Acoustic impedance = ______ × ______.",
+    "choices": ["Frequency × wavelength", "Density × propagation speed", "Power × area", "Intensity × time"],
+    "answer": 1
+  },
+  {
+    "prompt": "Two media A and B have the same densities. The speed of sound in medium A is 10% higher. Which medium has higher impedance?",
+    "choices": ["Medium A", "Medium B", "Both equal", "Cannot be determined"],
+    "answer": 0
+  },
+  {
+    "prompt": "Impedance is important in ______ at boundaries.",
+    "choices": ["Reflections", "Refraction", "Diffraction", "Interference"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which is better for examining a carotid artery?",
+    "choices": ["3.0 MHz", "7.5 MHz", "Both same", "Depends on impedance"],
+    "answer": 1
+  },
+  {
+    "prompt": "A sound wave is totally reflected. What is the intensity reflection coefficient?",
+    "choices": ["50%", "25%", "0%", "100%", "10%"],
+    "answer": 3
+  },
+  {
+    "prompt": "A sound wave is totally reflected. What is the reflected intensity if incident is 50 W/cm²?",
+    "choices": ["50 W/cm²", "25 W/cm²", "0 W/cm²", "100%", "10 W/cm²"],
+    "answer": 0
+  },
+  {
+    "prompt": "If 63% of intensity is reflected, what percentage is transmitted?",
+    "choices": ["37%", "63%", "100%", "50%", "0%"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which term does not belong?",
+    "choices": ["Orthogonal", "Oblique", "Normal", "Perpendicular"],
+    "answer": 1
+  },
+  {
+    "prompt": "If 90% of intensity is reflected, what percentage is transmitted?",
+    "choices": ["10%", "90%", "100%", "0%", "50%"],
+    "answer": 0
+  },
+  {
+    "prompt": "If impedances are nearly identical, what percentage of intensity is transmitted?",
+    "choices": ["2%", "25%", "78%", "99%"],
+    "answer": 3
+  },
+  {
+    "prompt": "When the angle of transmission is less than the angle of incidence, sound travels slowest in which medium?",
+    "choices": ["Medium 1", "Medium 2", "Both same", "Cannot determine"],
+    "answer": 1
+  },
+  {
+    "prompt": "Refraction at a boundary depends on __________.",
+    "choices": ["Impedance only", "Speed difference and oblique incidence", "Frequency only", "Intensity only"],
+    "answer": 1
+  },
+  {
+    "prompt": "What percentage of sound is refracted with normal incidence and identical impedances?",
+    "choices": ["100%", "75%", "0%", "25%", "90%"],
+    "answer": 2
+  },
+  {
+    "prompt": "The angle of reflection equals the angle of __________.",
+    "choices": ["Transmission", "Incidence", "Refraction", "Diffraction"],
+    "answer": 1
+  }
+]
