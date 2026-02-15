@@ -1,0 +1,493 @@
+[
+  {
+    "prompt": "If all other factors remain unchanged, what happens to the duty factor when the pulse repetition frequency increases?",
+    "choices": ["Increases", "Decreases", "Remains the same"],
+    "answer": 0
+  },
+  {
+    "prompt": "If all other factors remain unchanged, what happens to the duty factor when imaging depth increases?",
+    "choices": ["Increases", "Decreases", "Remains the same"],
+    "answer": 1
+  },
+  {
+    "prompt": "If all other factors remain unchanged, what happens to the duty factor when the pulse repetition period increases?",
+    "choices": ["Increases", "Decreases", "Remains the same"],
+    "answer": 1
+  },
+  {
+    "prompt": "If all other factors remain unchanged, what happens to the duty factor when using a transducer with a longer pulse duration?",
+    "choices": ["Increases", "Decreases", "Remains the same"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the duty factor if the pulse duration is 1 µs and the pulse repetition period is 1 ms?",
+    "choices": ["100%", "0.1", "0.01", "0.001"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following terms does not belong with the others?",
+    "choices": ["High duty factor", "Shallow imaging", "Low PRF", "Short pulse repetition period"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following terms does not belong with the others?",
+    "choices": ["Low duty factor", "Shallow imaging", "Low PRF", "Long pulse repetition period"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of these values for pulse repetition frequency would have the longest pulse repetition period?",
+    "choices": ["2 kHz", "4000 Hz", "6 Hz", "1 kHz"],
+    "answer": 2
+  },
+  {
+    "prompt": "Four pulses have pulse repetition periods as listed below. Which wave has the highest pulse repetition frequency?",
+    "choices": ["8 s", "80 ms", "5 ms", "400 ks"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of these pulses with PRFs listed below has the shortest pulse repetition period?",
+    "choices": ["12 kHz", "6000 Hz", "20 kHz", "1 kHz"],
+    "answer": 2
+  },
+  {
+    "prompt": "Four waves have pulse repetition periods as listed below. Which wave has the lowest pulse repetition frequency?",
+    "choices": ["8 s", "80 µs", "8000 ns", "800 ms"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False: Two waves can have identical pulse repetition frequencies even if their pulse repetition periods are different.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False: Two waves can have identical PRFs even if their periods are different.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False: Two waves can have identical PRFs even if their frequencies are different.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False: PRF and pulse repetition period are determined only by imaging depth.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "_____ is the time from the start of a pulse to the end of that pulse.",
+    "choices": ["Pulse duration", "Pulse repetition period", "Duty factor", "Period"],
+    "answer": 0
+  },
+  {
+    "prompt": "_____ is the time from the start of a pulse to the start of the next pulse.",
+    "choices": ["Pulse duration", "Pulse repetition period", "Duty factor", "Wavelength"],
+    "answer": 1
+  },
+  {
+    "prompt": "What are the duty factors of the 4 patterns (A–D)?",
+    "choices": [
+      "A=100%, B=33%, C=0%, D=50%",
+      "A=50%, B=0%, C=33%, D=100%",
+      "A=33%, B=50%, C=100%, D=0%",
+      "Cannot be determined"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which pattern indicates a system with a superficial imaging depth?",
+    "choices": ["A", "B", "C", "D"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which pattern indicates a system with a deep imaging depth?",
+    "choices": ["A", "B", "C", "D"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which two patterns identify a system that cannot perform anatomic imaging?",
+    "choices": ["A and B", "A and C", "B and D", "C and D"],
+    "answer": 1
+  },
+  {
+    "prompt": "Line A represents which of the following (if measured in time)?",
+    "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
+    "answer": 3
+  },
+  {
+    "prompt": "Line A represents which of the following (if measured in distance)?",
+    "choices": ["Frequency", "Pulse repetition period", "Period", "Spatial pulse length", "Duty factor", "Amplitude"],
+    "answer": 3
+  },
+  {
+    "prompt": "Line B represents which of the following?",
+    "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
+    "answer": 5
+  },
+  {
+    "prompt": "Line C represents which of the following?",
+    "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
+    "answer": 1
+  },
+  {
+    "prompt": "Line D represents which of the following (if measured in time)?",
+    "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
+    "answer": 2
+  },
+  {
+    "prompt": "Line D represents which of the following (if measured in distance)?",
+    "choices": ["Frequency", "Pulse repetition period", "Wavelength", "Pulse duration", "Duty factor", "Amplitude"],
+    "answer": 2
+  },
+  {
+    "prompt": "Line E represents which of the following?",
+    "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "None of the above"],
+    "answer": 5
+  },
+  {
+    "prompt": "Line F represents which of the following?",
+    "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Peak-to-peak amplitude", "None of the above"],
+    "answer": 4
+  },
+  {
+    "prompt": "Which formula describes the duty factor?",
+    "choices": ["A × B", "A / E", "D / E", "A / C", "E × F", "(A + B) / C"],
+    "answer": 3
+  },
+  {
+    "prompt": "Pulse repetition frequency is the reciprocal of:",
+    "choices": ["Period", "Frequency", "Pulse repetition period", "Pulse duration"],
+    "answer": 2
+  },
+  {
+    "prompt": "Changing imaging depth affects which of the following?",
+    "choices": ["PRF only", "Duty factor only", "PRP only", "PRF, duty factor, and PRP"],
+    "answer": 3
+  },
+  {
+    "prompt": "If a wave speed is 1.8 km/sec and becomes pulsed, what happens to the propagation speed?",
+    "choices": ["Decreases", "Increases", "Remains the same", "Depends on duty factor"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the duty factor if PD = 1 microsecond and PRP = 1 ms?",
+    "choices": ["0.1", "0.01", "0.001", "0.0001"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the duty factor if PD = 1 ms and PRP = 1 second?",
+    "choices": ["0.1", "0.01", "0.001", "0.0001"],
+    "answer": 2
+  },
+  {
+    "prompt": "When imaging depth increases, what happens to PRF?",
+    "choices": ["Increases", "Decreases", "Remains the same", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "When imaging depth increases, what happens to duty factor?",
+    "choices": ["Increases", "Decreases", "Remains the same", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "When imaging depth increases, what happens to pulse repetition period?",
+    "choices": ["Increases", "Decreases", "Remains the same", "Cannot be determined"],
+    "answer": 0
+  },
+  {
+    "prompt": "Switching from 3 MHz to 6 MHz, what happens to frequency?",
+    "choices": ["Decreases", "Increases", "Remains the same", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "Switching from 3 MHz to 6 MHz, what happens to wavelength?",
+    "choices": ["Increases", "Decreases", "Remains the same", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "Increasing output power changes which parameter?",
+    "choices": ["Frequency", "Wavelength", "Intensity", "PRF"],
+    "answer": 2
+  },
+  {
+    "prompt": "Two sound waves with frequencies of 5 MHz and 3 MHz travel to the same depth and return. Which arrives first?",
+    "choices": ["5 MHz wave", "3 MHz wave", "Neither", "Cannot be determined"],
+    "answer": 2
+  },
+  {
+    "prompt": "What are the units of pulse duration?",
+    "choices": ["Unit of frequency", "Milliseconds only", "Units of time", "Units of distance"],
+    "answer": 2
+  },
+  {
+    "prompt": "What determines the pulse duration?",
+    "choices": ["The source of the wave", "The medium", "Both", "Neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "The pulse duration of an ultrasound system does not change significantly if system components remain unchanged.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Pulse duration is expressed in the same units as the _____",
+    "choices": ["Period", "PRF", "Wavelength", "Density"],
+    "answer": 0
+  },
+  {
+    "prompt": "A sonographer can adjust pulse duration by changing propagation speed.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "A sonographer can adjust pulse duration by changing imaging depth.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "A sonographer cannot change pulse duration unless transducers are switched.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Pulse duration cannot be changed under any circumstances.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is pulse duration equal to?",
+    "choices": [
+      "Frequency × period",
+      "Period × wavelength",
+      "Cycles ÷ wavelength",
+      "Period × number of cycles"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What happens to pulse duration when imaging depth decreases?",
+    "choices": ["Increases", "Decreases", "Remains the same", "Cannot be determined"],
+    "answer": 2
+  },
+  {
+    "prompt": "What are the units of spatial pulse length?",
+    "choices": ["Time", "Hertz", "Meters", "Unitless"],
+    "answer": 2
+  },
+  {
+    "prompt": "What determines spatial pulse length?",
+    "choices": ["System", "Medium", "Both", "Neither"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which describes spatial pulse length?",
+    "choices": [
+      "Frequency × wavelength",
+      "PRF × wavelength",
+      "Wavelength × number of cycles",
+      "Duty factor × wavelength"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which pulse has greater spatial pulse length: 4 MHz or 6 MHz (same cycles)?",
+    "choices": ["6 MHz", "4 MHz", "Same", "Cannot determine"],
+    "answer": 1
+  },
+  {
+    "prompt": "What happens to spatial pulse length when imaging depth increases?",
+    "choices": ["Increases", "Decreases", "Remains the same", "Cannot determine"],
+    "answer": 2
+  },
+  {
+    "prompt": "Spatial pulse length does not change if system components remain the same.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Pulse repetition period depends on:",
+    "choices": ["Source", "Medium", "Both", "Neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "Changing imaging depth affects which parameters?",
+    "choices": ["PRP only", "Wavelength only", "PRF only", "PRP and PRF"],
+    "answer": 3
+  },
+  {
+    "prompt": "Pulse repetition period is defined as:",
+    "choices": [
+      "Wavelength × speed",
+      "Reciprocal of frequency",
+      "Pulse on time + listening time",
+      "Time transducer is pulsing"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What happens to PRP when imaging depth decreases?",
+    "choices": ["Increases", "Decreases", "Remains same", "Cannot determine"],
+    "answer": 1
+  },
+  {
+    "prompt": "For 3 MHz vs 6 MHz, which has longer period?",
+    "choices": ["3 MHz", "6 MHz"],
+    "answer": 0
+  },
+  {
+    "prompt": "For 3 MHz vs 6 MHz, which has longer wavelength?",
+    "choices": ["3 MHz", "6 MHz"],
+    "answer": 0
+  },
+  {
+    "prompt": "Do pulses of 3 MHz and 6 MHz travel at same speed in tissue?",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "PRF of 6 MHz is greater than PRF of 3 MHz at same depth.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Using longer pulse duration increases PRP.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Using longer pulse duration increases PRF.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Using longer pulse duration increases duty factor.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Using longer pulse duration increases frequency.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Units of pulse repetition frequency are:",
+    "choices": ["Seconds", "1/seconds", "mm/us", "seconds^-2"],
+    "answer": 1
+  },
+  {
+    "prompt": "PRF can be changed by the sonographer.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "PRF depends on:",
+    "choices": ["Source", "Medium", "Both", "Neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "When imaging depth increases, PRF:",
+    "choices": ["Increases", "Decreases", "Unchanged"],
+    "answer": 1
+  },
+  {
+    "prompt": "Pulse repetition frequency and frequency are unrelated.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "PRF is the:",
+    "choices": [
+      "Wavelength × speed",
+      "Reciprocal of period",
+      "Pulse duration + listening time",
+      "Reciprocal of PRP"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Typical duty factor value in diagnostic imaging is:",
+    "choices": ["0.001 msec", "0.001 kg/cm^3", "0.75", "0.001"],
+    "answer": 3
+  },
+  {
+    "prompt": "Duty cycle of continuous wave ultrasound is:",
+    "choices": ["100%", "1%", "1000%", "None"],
+    "answer": 3
+  },
+  {
+    "prompt": "Maximum duty factor for pulsed ultrasound is:",
+    "choices": ["100%", "1", "Less than 100%", "None"],
+    "answer": 2
+  },
+  {
+    "prompt": "When depth increases, duty factor:",
+    "choices": ["Increases", "Decreases", "Unchanged"],
+    "answer": 1
+  },
+  {
+    "prompt": "Adjusting imaging depth changes duty factor.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Duty factor remains constant if system components remain unchanged.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which can a sonographer change? (best answer)",
+    "choices": ["PRP only", "PRF only", "Duty cycle only", "PRP, PRF, and duty cycle"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which does not belong?",
+    "choices": [
+      "Increased depth",
+      "Increased duty factor",
+      "Increased PRP",
+      "Decreased PRF"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which does not belong?",
+    "choices": [
+      "Increased depth",
+      "Decreased duty factor",
+      "Increased PRP",
+      "Decreased SPL"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Why describe sound intensity in different ways?",
+    "choices": [
+      "Better transducer design",
+      "Study bioeffects",
+      "Improve image quality",
+      "Measure harmonics"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which intensity correlates most with tissue heating?",
+    "choices": ["SPTP", "SATP", "SPTA", "SATA"],
+    "answer": 2
+  },
+  {
+    "prompt": "A logarithm is defined as how many times ____ must be multiplied.",
+    "choices": ["1", "2", "5", "10"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is a decibel?",
+    "choices": [
+      "Absolute value",
+      "Range of values",
+      "Relationship between two numbers",
+      "None"
+    ],
+    "answer": 2
+  }
+]
+
