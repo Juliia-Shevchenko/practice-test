@@ -1,0 +1,271 @@
+[
+  {
+    "prompt": "The distance that a pulse occupies in space from the start to the end of a pulse is:",
+    "choices": ["Pulse Duration", "Pulse Repetition Period", "Pulse Repetition Frequency", "Duty Factor", "Spatial Pulse Length"],
+    "answer": 4
+  },
+  {
+    "prompt": "The number of pulses that an ultrasound system transmits into the body each second is:",
+    "choices": ["Pulse duration", "Pulse Repetition Period", "Duty Factor", "Pulse Repetition Frequency"],
+    "answer": 3
+  },
+  {
+    "prompt": "What are the units for pulse repetition frequency?",
+    "choices": ["Seconds", "Meters", "Hertz", "Watts"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of these does not belong with the others?",
+    "choices": ["High PRF", "Short pulse duration", "Short pulse repetition period", "Shallow imaging", "High duty factor"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of these choices has the greatest effect upon the depth of view?",
+    "choices": ["Spatial pulse length", "Acoustic impedance", "Pulse repetition period", "Pulse duration", "Transducer output"],
+    "answer": 2
+  },
+  {
+    "prompt": "The time from the start of a pulse to the start of the next pulse is:",
+    "choices": ["Spatial pulse length", "Pulse repetition period", "Pulse repetition frequency", "Pulse duration"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the formula for pulse duration?",
+    "choices": ["# of cycles × wavelength / frequency", "Has no formula", "# of cycles × period", "# of cycles × frequency"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is pulse duration?",
+    "choices": [
+      "Distance a pulse occupies in space",
+      "Time a pulse occupies from start to end",
+      "Time from start of one pulse to next",
+      "Number of pulses per second"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Is pulse repetition period (PRP) adjustable?",
+    "choices": ["Yes", "No"],
+    "answer": 0
+  },
+  {
+    "prompt": "Depth of view describes the minimum distance into the body that an ultrasound system is imaging.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "How are PRP and depth related?",
+    "choices": ["Directly", "Inversely", "No relationship"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which PRP value will have the highest duty factor?",
+    "choices": ["4 msec", "2 sec", "2 msec", "2 µsec"],
+    "answer": 3
+  },
+  {
+    "prompt": "For two sound beams with 4 cycles, which has the lower spatial pulse length?",
+    "choices": ["3 MHz", "6 MHz", "Neither"],
+    "answer": 1
+  },
+  {
+    "prompt": "If imaging depth decreases, which of the following also decreases?",
+    "choices": ["PRP", "PRF", "SPL", "DF", "PD"],
+    "answer": 0
+  },
+  {
+    "prompt": "If imaging depth decreases from 6 cm to 4 cm, which increases?",
+    "choices": ["PRP", "PD", "SPL", "Frequency", "DF"],
+    "answer": 4
+  },
+  {
+    "prompt": "If imaging depth decreases from 10 cm to 5 cm, what happens to PRP?",
+    "choices": ["Half", "Double", "Remains same", "Unchanged"],
+    "answer": 0
+  },
+  {
+    "prompt": "If imaging depth decreases from 6 cm to 3 cm, what happens to PRF?",
+    "choices": ["Half", "Double", "Remains same", "Unchanged"],
+    "answer": 1
+  },
+  {
+    "prompt": "Duty factor for clinical imaging is typically:",
+    "choices": ["100%", "0%", "0.2% - 0.5%", "1"],
+    "answer": 2
+  },
+  {
+    "prompt": "Duty factor for continuous wave is:",
+    "choices": ["100%", "0%", "0.2% - 0.5%", "1"],
+    "answer": 0
+  },
+  {
+    "prompt": "Highest duty factor for a wave is:",
+    "choices": ["100", "0%", "0.2% - 0.5%", "1"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the duty factor if PD = 1 microsecond and PRP = 1 ms?",
+    "choices": ["0.01", "0.001", "0.0001", "0.00001"],
+    "answer": 1
+  },
+  {
+    "prompt": "For two sound beams with 2 cycles, which has the longer spatial pulse length?",
+    "choices": ["5 MHz", "10 MHz", "Neither"],
+    "answer": 0
+  },
+  {
+    "prompt": "If imaging depth decreases from 6 cm to 4 cm, which increases?",
+    "choices": ["PRP", "PD", "SPL", "Frequency", "PRF"],
+    "answer": 4
+  },
+  {
+    "prompt": "Can a continuous wave create an image?",
+    "choices": ["Yes", "No"],
+    "answer": 1
+  },
+  {
+    "prompt": "Can a pulsed wave create an image?",
+    "choices": ["Yes", "No"],
+    "answer": 0
+  },
+  {
+    "prompt": "Spatial pulse length is determined by:",
+    "choices": ["Sound source", "Medium", "Source & medium"],
+    "answer": 2
+  },
+  {
+    "prompt": "Is spatial pulse length adjustable?",
+    "choices": ["Yes", "No"],
+    "answer": 1
+  },
+  {
+    "prompt": "How are PRF and depth of view related?",
+    "choices": ["Direct", "Inverse"],
+    "answer": 1
+  },
+  {
+    "prompt": "Is duty factor adjustable?",
+    "choices": ["Yes", "No"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between PRP and PRF?",
+    "choices": ["Direct", "Inverse"],
+    "answer": 1
+  },
+  {
+    "prompt": "The actual time from the start of a pulse to the end of that pulse is:",
+    "choices": ["Pulse Duration", "Pulse Repetition Period", "Pulse Repetition Frequency", "Spatial Pulse Length", "Duty Factor"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the unit of pulse duration?",
+    "choices": ["Watts", "Meters", "Seconds", "Hertz", "Joules"],
+    "answer": 2
+  },
+  {
+    "prompt": "Pulse duration is determined by:",
+    "choices": ["Sound source", "Medium", "Both"],
+    "answer": 0
+  },
+  {
+    "prompt": "Is pulse duration adjustable?",
+    "choices": ["Yes", "No"],
+    "answer": 1
+  },
+  {
+    "prompt": "The distance that a pulse occupies in space from the start to the end of a pulse is:",
+    "choices": ["Pulse Duration", "Pulse Repetition Period", "Pulse Repetition Frequency", "Duty Factor", "Spatial Pulse Length"],
+    "answer": 4
+  },
+  {
+    "prompt": "What is the unit for spatial pulse length?",
+    "choices": ["Seconds", "Meters", "Hertz", "Watts", "Joules"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the typical value for spatial pulse length?",
+    "choices": ["0.1-1 mm", "0.1-1 cm", "0.1-1 m", "1-10 mm"],
+    "answer": 0
+  },
+  {
+    "prompt": "Spatial pulse length is determined by:",
+    "choices": ["Sound source", "Medium", "Both"],
+    "answer": 2
+  },
+  {
+    "prompt": "Is spatial pulse length adjustable?",
+    "choices": ["Yes", "No"],
+    "answer": 1
+  },
+  {
+    "prompt": "The time from the start of one pulse to the start of the next pulse is:",
+    "choices": ["Pulse Duration", "Pulse Repetition Period", "Pulse Repetition Frequency", "Duty Factor"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the unit for pulse repetition period?",
+    "choices": ["Meters", "Seconds", "Hertz", "Watts", "Joules"],
+    "answer": 1
+  },
+  {
+    "prompt": "Pulse repetition period is determined by:",
+    "choices": ["Sound source", "Medium", "Both"],
+    "answer": 0
+  },
+  {
+    "prompt": "Is pulse repetition period adjustable?",
+    "choices": ["Yes", "No"],
+    "answer": 0
+  },
+  {
+    "prompt": "The number of pulses transmitted into the body each second is:",
+    "choices": ["Pulse duration", "Pulse Repetition Period", "Duty Factor", "Pulse Repetition Frequency"],
+    "answer": 3
+  },
+  {
+    "prompt": "What are the units for pulse repetition frequency?",
+    "choices": ["Seconds", "Meters", "Hertz", "Watts", "Joules"],
+    "answer": 2
+  },
+  {
+    "prompt": "Pulse repetition frequency is determined by:",
+    "choices": ["Sound source", "Medium", "Both"],
+    "answer": 0
+  },
+  {
+    "prompt": "Is pulse repetition frequency adjustable?",
+    "choices": ["Yes", "No"],
+    "answer": 0
+  },
+  {
+    "prompt": "How is pulse repetition frequency adjusted?",
+    "choices": ["Power", "Depth", "Gain", "Focus"],
+    "answer": 1
+  },
+  {
+    "prompt": "The percentage or fraction of time that the system is transmitting is called:",
+    "choices": ["Spatial Pulse Length", "Pulse Duration", "Pulse Repetition Period", "Pulse Repetition Frequency", "Duty Factor"],
+    "answer": 4
+  },
+  {
+    "prompt": "What is the pulse duration in the image?",
+    "image": "images/Physics/Ch7_15.jpg",
+    "choices": ["A", "B", "C", "D"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the spatial pulse length in the image?",
+    "image": "images/Physics/Ch7_15.jpg",
+    "choices": ["A", "B", "C", "D"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the pulse repetition period in the image?",
+    "image": "images/Physics/Ch7_15.jpg",
+    "choices": ["A", "B", "C", "D"],
+    "answer": 2
+  }
+]
+
