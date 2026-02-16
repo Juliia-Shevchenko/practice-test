@@ -1,0 +1,62 @@
+[
+  {
+    "prompt": "Which of the following will change with the change in imaging depth?",
+    "choices": ["SPTA", "SPPA", "SPTP", "SATP"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is the correct description for Ita?",
+    "choices": [
+      "Average intensity measured from the start of the pulse to the end of the pulse",
+      "Average intensity measured from the start of the pulse to the start of the next pulse",
+      "The maximum intensity of the most intense half cycle",
+      "The average intensity of the most intense half cycle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is most relevant in respect to bio effects?",
+    "choices": ["SATA", "SPTA", "SPPA", "SAPA"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following has the lowest value?",
+    "choices": ["SPTA", "SATA", "SPPA", "SPTP"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following intensities have their values between SPTP and SPTA?",
+    "choices": ["SPPA", "SATA", "None of the above"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will change when imaging depth increases from 1 cm to 3 cm?",
+    "choices": ["SPPA", "SPTP", "SPTA", "SAPA"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following doesn’t belong to the group?",
+    "choices": ["Isp", "Ita", "Itp", "Ipa", "Imax"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following would be the value for Ipa?",
+    "choices": ["4 watts", "4 w/cm3", "4 mili watts", "4 w/cm2", "4 cm2"],
+    "answer": 3
+  },
+  {
+    "prompt": "_____ is measured at the location where the intensity is maximum, averaged over the transmit time?",
+    "choices": ["Isppa", "Isptp", "Ispta", "Isata"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the rank of intensities from smallest to largest?",
+    "choices": [
+      "SPTA < SPPA < SATA < SPTP",
+      "SPTP < SPPA < SPTA < SATA",
+      "SATA < SPTA < SPPA < SPTP",
+      "SPPA < SPTP < SPTP < SPTA"
+    ],
+    "answer": 2
+  }
+]
