@@ -222,12 +222,7 @@
     "choices": ["Frequency", "Wavelength", "Intensity", "PRF"],
     "answer": 2
   },
-  {
-    "prompt": "Two sound waves with frequencies of 5 MHz and 3 MHz travel to the same depth and return. Which arrives first?",
-    "choices": ["5 MHz wave", "3 MHz wave", "Neither", "Cannot be determined"],
-    "answer": 2
-  },
-  {
+   {
     "prompt": "What are the units of pulse duration?",
     "choices": ["Unit of frequency", "Milliseconds only", "Units of time", "Units of distance"],
     "answer": 2
@@ -485,21 +480,6 @@
   {
     "prompt": "Which intensity correlates most with tissue heating?",
     "choices": ["SPTP", "SATP", "SPTA", "SATA"],
-    "answer": 2
-  },
-  {
-    "prompt": "A logarithm is defined as how many times ____ must be multiplied.",
-    "choices": ["1", "2", "5", "10"],
-    "answer": 3
-  },
-  {
-    "prompt": "What is a decibel?",
-    "choices": [
-      "Absolute value",
-      "Range of values",
-      "Relationship between two numbers",
-      "None"
-    ],
     "answer": 2
   }
 ]
