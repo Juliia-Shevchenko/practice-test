@@ -1,0 +1,233 @@
+[
+  {
+    "prompt": "Which of the following is the correct equation to calculate impedance of a medium?",
+    "choices": ["Density × stiffness", "Density × incidence", "Propagation speed × density", "Propagation speed × stiffness"],
+    "answer": 2
+  },
+  {
+    "prompt": "If the attenuation coefficient is 3 dB/cm, what is the total attenuation at 10 cm depth?",
+    "choices": ["3 dB/cm", "9 dB/cm", "30 dB", "90 dB", "0.3 dB"],
+    "answer": 2
+  },
+  {
+    "prompt": "Between a 5 MHz and 7 MHz wave, which has more attenuation at 5 cm depth?",
+    "choices": ["5 MHz", "7 MHz", "Both", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "A 5 MHz wave in soft tissue attenuates most at which depth?",
+    "choices": ["5 cm", "7 cm", "Neither", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "A 5 MHz and 7 MHz wave strike a boundary. Which has greater reflection?",
+    "choices": ["5 MHz", "7 MHz", "Neither", "Cannot be determined"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which decreases as a 7 MHz wave attenuates in soft tissue?",
+    "choices": ["Period", "Frequency", "Propagation speed", "Amplitude", "Impedance"],
+    "answer": 3
+  },
+  {
+    "prompt": "Between 5 MHz and 7 MHz, which has higher attenuation coefficient?",
+    "choices": ["5 MHz", "7 MHz", "Neither", "Cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which has no relationship with attenuation?",
+    "choices": ["Propagation speed", "Frequency", "Path length", "Wavelength"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which does not belong?",
+    "choices": ["Backscatter", "Scattering", "Reflection", "Specular reflection", "Diffuse reflection"],
+    "answer": 0
+  },
+  {
+    "prompt": "Total attenuation of a 5 MHz wave in soft tissue at 10 cm depth?",
+    "choices": ["2.5 dB/cm", "2.5 dB", "25 dB", "25 dB/cm", "Cannot be determined"],
+    "answer": 2
+  },
+  {
+    "prompt": "Between 3 MHz and 5 MHz, which has higher attenuation?",
+    "choices": ["3 MHz", "5 MHz"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which does not belong?",
+    "choices": ["High frequency", "Low frequency", "More attenuation", "High scattering"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which does not belong?",
+    "choices": ["Smooth boundary reflection", "Irregular boundary reflection", "Rough boundary reflection", "Backscatter"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which does not belong?",
+    "choices": ["90°", "45°", "Oblique", "Non-perpendicular", "Not normal"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which does NOT influence impedance?",
+    "choices": ["Elasticity", "Propagation speed", "Density", "Stiffness", "Frequency"],
+    "answer": 4
+  },
+  {
+    "prompt": "If incident intensity is 50 W/cm² and ITC is 20%, what is IRC?",
+    "choices": ["80%", "40 W/cm²", "40%", "100%", "10 W/cm²"],
+    "answer": 0
+  },
+  {
+    "prompt": "If medium A has higher speed than B but same density, what happens at boundary?",
+    "choices": ["Will occur", "May occur", "Will not occur", "Cannot be determined"],
+    "answer": 0
+  },
+  {
+    "prompt": "If two media have different speeds and densities, what happens at boundary?",
+    "choices": ["Will occur", "Will not occur", "Cannot be determined"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which is unrelated to reflection?",
+    "choices": ["Impedance", "Stiffness", "Density", "Propagation speed", "Absorption"],
+    "answer": 4
+  },
+  {
+    "prompt": "Sound from soft tissue to fat at 86°—angle of transmission?",
+    "choices": ["=86°", "Less than 86°", "More than 86°", "Cannot be determined"],
+    "answer": 2
+  },
+  {
+    "prompt": "If transmission angle is 72°, what is reflection angle?",
+    "choices": [">72°", "<72°", "=72°"],
+    "answer": 2
+  },
+  {
+    "prompt": "If 15% is reflected, what is ITC?",
+    "choices": ["85 W/cm²", "35 W/cm²", "85%", "15 W/cm²", "35%"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which decreases as wave travels deeper?",
+    "choices": ["Propagation speed", "Wavelength", "Frequency", "Power", "Period"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which does not contribute to attenuation?",
+    "choices": ["Period", "Imaging depth", "Reflection", "Conversion to heat", "Propagation speed"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which is not required for reflection?",
+    "choices": ["Impedance", "Large boundary", "Propagation speed", "Elasticity", "Intensity"],
+    "answer": 4
+  },
+  {
+    "prompt": "Which causes reflection?",
+    "choices": [
+      "Different speed, 60°",
+      "Different speed, 90°",
+      "Different impedance, 90°",
+      "Identical speed, 90°",
+      "Identical speed, 60°"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which causes refraction?",
+    "choices": [
+      "Different speed, 60°",
+      "Different speed, 90°",
+      "Different impedance, 90°",
+      "Identical speed, 90°",
+      "Identical speed, 60°"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If ITC = 0.8, what is IRC?",
+    "choices": ["20%", "30%", "30 W/cm²", "20 W/cm²", "35%"],
+    "answer": 0
+  },
+  {
+    "prompt": "Attenuation coefficient of 5 MHz in soft tissue at 10 cm?",
+    "choices": ["50 dB/cm", "5 dB/cm", "2.5 dB/cm", "5 dB", "10 dB"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which decreases as wave attenuates?",
+    "choices": ["Frequency", "Wavelength", "Propagation speed", "Amplitude", "Period"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which increases as amplitude decreases?",
+    "choices": ["Intensity", "Frequency", "Max imaging depth", "Attenuation"],
+    "answer": 3
+  },
+  {
+    "prompt": "Disadvantage of diffuse reflector?",
+    "choices": [
+      "Stronger reflection",
+      "Weaker reflection than specular",
+      "Better at suboptimal angles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which redirects sound in all directions?",
+    "choices": ["Parenchyma", "Lung", "Pericardium", "Blood"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which interface gives maximum reflection?",
+    "choices": ["Soft tissue-liver", "Soft tissue-spleen", "Soft tissue-air", "Skin-skin"],
+    "answer": 2
+  },
+  {
+    "prompt": "What determines impedance?",
+    "choices": ["Attenuation", "Frequency", "Absorption", "Density", "Amplitude"],
+    "answer": 3
+  },
+  {
+    "prompt": "Echo most dependent on angle of incidence?",
+    "choices": ["Rayleigh scatterer", "Diffuse reflector", "Specular reflector", "Scatterer", "Non-specular"],
+    "answer": 2
+  },
+  {
+    "prompt": "What happens with oblique incidence?",
+    "choices": [
+      "Strong reflection",
+      "All reflected",
+      "All transmitted",
+      "Reflection directed away"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Snell's law describes:",
+    "choices": [
+      "Reflection percentage",
+      "Transmission percentage",
+      "Angle of transmission",
+      "Backscatter",
+      "Scattering"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is necessary for specular reflection?",
+    "choices": [
+      "Reflector larger than wavelength",
+      "Reflector smaller than wavelength",
+      "Heat conversion"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is most important for forming an ultrasound image?",
+    "choices": ["Incidence", "Reflection", "Scattering", "Refraction", "Absorption"],
+    "answer": 1
+  }
+]
