@@ -1,5 +1,20 @@
 [
   {
+    "prompt": "A logarithm is defined as how many times ____ must be multiplied.",
+    "choices": ["1", "2", "5", "10"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is a decibel?",
+    "choices": [
+      "Absolute value",
+      "Range of values",
+      "Relationship between two numbers",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
     "prompt": "Decibel notation is a _____ between two numbers.",
     "choices": ["Difference", "Sum", "Product", "Ratio"],
     "answer": 3
