@@ -424,7 +424,7 @@
   },
   {
     "prompt": "Duty cycle of continuous wave ultrasound is:",
-    "choices": ["100%", "1%", "1000%", "None"],
+    "choices": ["100", "1%", "1000%", "None"],
     "answer": 3
   },
   {
