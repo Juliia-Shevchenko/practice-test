@@ -1,0 +1,327 @@
+[
+  {
+    "prompt": "Decibel notation is a _____ between two numbers.",
+    "choices": ["Difference", "Sum", "Product", "Ratio"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which reports the relative strength of an ultrasound wave?",
+    "choices": ["Decibels", "Watts", "W/cm^2", "Pascals"],
+    "answer": 0
+  },
+  {
+    "prompt": "The scale associated with decibel notation is:",
+    "choices": ["Linear", "Discrete", "Logarithmic", "Additive"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the decibel representation when a signal is amplified?",
+    "choices": ["Positive", "Negative", "Zero"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the decibel notation for an attenuated signal?",
+    "choices": ["Positive", "Negative", "Zero"],
+    "answer": 1
+  },
+  {
+    "prompt": "If intensity decreases from 1.5 to 0.75 mW/cm^2, what is the dB change?",
+    "choices": ["3 dB", "0.75 dB", "-0.75 dB", "-3 dB"],
+    "answer": 3
+  },
+  {
+    "prompt": "If power increases 10×, what is the dB change?",
+    "choices": ["3", "6", "10", "20"],
+    "answer": 2
+  },
+  {
+    "prompt": "What dB represents a 100-fold increase in intensity?",
+    "choices": ["10", "20", "100", "6"],
+    "answer": 1
+  },
+  {
+    "prompt": "A -6 dB change means intensity becomes:",
+    "choices": ["One-tenth", "Four times", "One-fourth", "One-sixth"],
+    "answer": 2
+  },
+  {
+    "prompt": "Units used to describe attenuation are:",
+    "choices": ["Watts", "W/cm^2", "Macro", "Decibels"],
+    "answer": 3
+  },
+  {
+    "prompt": "A 3 dB increase means the value has:",
+    "choices": ["Doubled", "Tripled", "Increased 30%", "Increased ten times"],
+    "answer": 0
+  },
+  {
+    "prompt": "The decrease in total power as sound travels is called:",
+    "choices": ["Absorption", "Scattering", "Attenuation", "Reflection"],
+    "answer": 2
+  },
+  {
+    "prompt": "Attenuation is determined by:",
+    "choices": ["Density and stiffness", "Frequency and speed", "PRF and path length", "Path length and frequency"],
+    "answer": 3
+  },
+  {
+    "prompt": "A 6 dB attenuation results in intensity:",
+    "choices": ["4× larger", "6× larger", "1/4 as large", "1/10 as large"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which is NOT a contributor to attenuation?",
+    "choices": ["Reflection", "Redirection", "Focusing", "Heat conversion"],
+    "answer": 2
+  },
+  {
+    "prompt": "Reflection from a smooth boundary is:",
+    "choices": ["Partial", "Rayleigh", "Specular", "Total"],
+    "answer": 2
+  },
+  {
+    "prompt": "A rough boundary causes:",
+    "choices": ["Backscatter", "Specular", "Rayleigh", "Refraction"],
+    "answer": 0
+  },
+  {
+    "prompt": "Diffuse reflection means:",
+    "choices": ["Smooth boundary", "Large reflectors", "Many directions", "Not in soft tissue"],
+    "answer": 2
+  },
+  {
+    "prompt": "Uniform dispersion after striking small particles is:",
+    "choices": ["Microscattering", "Backscatter", "Rayleigh scattering", "Absorption"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which is a Rayleigh scatterer?",
+    "choices": ["Bone", "Liver", "Muscle", "Blood cell"],
+    "answer": 3
+  },
+  {
+    "prompt": "Rayleigh scattering is proportional to:",
+    "choices": ["1/2 wavelength", "√speed", "Frequency^4", "PRF^2"],
+    "answer": 2
+  },
+  {
+    "prompt": "Conversion of sound to heat is called:",
+    "choices": ["Scattering", "Absorption", "Refraction", "Rarefaction"],
+    "answer": 1
+  },
+  {
+    "prompt": "Attenuation per cm is called:",
+    "choices": ["Beam uniformity", "Attenuation coefficient", "Attenuation", "Duty factor"],
+    "answer": 1
+  },
+  {
+    "prompt": "Attenuation over 9 cm at 3 dB/cm is:",
+    "choices": ["9 dB", "3 dB", "27 dB", "18 dB"],
+    "answer": 2
+  },
+  {
+    "prompt": "Attenuation in bone compared to soft tissue is:",
+    "choices": ["Greater", "Less", "Equal"],
+    "answer": 0
+  },
+  {
+    "prompt": "Attenuation in lung compared to soft tissue is:",
+    "choices": ["Greater", "Less", "Equal"],
+    "answer": 0
+  },
+  {
+    "prompt": "Attenuation in blood compared to soft tissue is:",
+    "choices": ["Greater", "Less", "Equal"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which shows increasing attenuation?",
+    "choices": [
+      "Water, lung, soft tissue, bone, air",
+      "Lung, air, soft tissue, bone",
+      "Lung, fat, muscle",
+      "Water, blood, fat, muscle, bone, air"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Attenuation and propagation speed are unrelated.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Acoustic impedance is a property of the ____ and has units of ____.",
+    "choices": ["Source, Imps", "Medium, dB", "Medium, Rayls", "Medium, Ohms"],
+    "answer": 2
+  },
+  {
+    "prompt": "Impedance is calculated by:",
+    "choices": [
+      "Divide speed by density",
+      "Multiply density by speed",
+      "Divide density by speed",
+      "Multiply stiffness by density"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Impedance depends on:",
+    "choices": ["Density & temperature", "Density & stiffness", "Stiffness & elastance", "Elasticity & compressibility"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is closest to soft tissue impedance?",
+    "choices": ["1.5 kRayls", "2.5 dRayls", "19 MRayls", "2,000,000 Rayls"],
+    "answer": 3
+  },
+  {
+    "prompt": "45° angle is:",
+    "choices": ["Orthogonal", "Acute", "Obtuse", "Normal"],
+    "answer": 1
+  },
+  {
+    "prompt": "123° angle is:",
+    "choices": ["Orthogonal", "Acute", "Obtuse", "Normal"],
+    "answer": 2
+  },
+  {
+    "prompt": "90° incidence is called:",
+    "choices": ["Not normal", "Direct", "Oblique", "Orthogonal"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which does not belong?",
+    "choices": ["Orthogonal", "Right angle", "Oblique", "90°", "Normal", "Perpendicular"],
+    "answer": 2
+  },
+  {
+    "prompt": "60° incidence is called:",
+    "choices": ["Orthogonal", "Angular", "Obtuse", "Oblique"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which is not normal incidence?",
+    "choices": ["Orthogonal", "Perpendicular", "Oblique"],
+    "answer": 2
+  },
+  {
+    "prompt": "Units of intensity transmission coefficient:",
+    "choices": ["W/cm^2", "Watts", "dB", "None"],
+    "answer": 3
+  },
+  {
+    "prompt": "Units of intensity reflection coefficient:",
+    "choices": ["None", "W/cm^2", "Watts", "dB"],
+    "answer": 0
+  },
+  {
+    "prompt": "Reflected intensity / incident intensity equals:",
+    "choices": ["IRC", "ITC", "BUC", "None"],
+    "answer": 0
+  },
+  {
+    "prompt": "Transmitted intensity / incident intensity equals:",
+    "choices": ["IRC", "ITC", "BUC", "None"],
+    "answer": 1
+  },
+  {
+    "prompt": "IRC + ITC equals:",
+    "choices": ["Incident coefficient", "Impedance", "Total intensity", "1"],
+    "answer": 3
+  },
+  {
+    "prompt": "Incident minus reflected equals:",
+    "choices": ["1", "Incident intensity", "ITC", "Transmitted intensity"],
+    "answer": 3
+  },
+  {
+    "prompt": "Maximum IRC or ITC value:",
+    "choices": ["100", "1%", "1", "Infinity"],
+    "answer": 2
+  },
+  {
+    "prompt": "Minimum IRC or ITC value:",
+    "choices": ["Different", "-1", "100%", "0"],
+    "answer": 3
+  },
+  {
+    "prompt": "If 70% is reflected, what is transmitted?",
+    "choices": ["45 W/cm^2", "25 W/cm^2", "30%", "100%"],
+    "answer": 2
+  },
+  {
+    "prompt": "Reflection occurs at 90° if media have different:",
+    "choices": ["Conductance", "Density", "Impedance", "Speed"],
+    "answer": 2
+  },
+  {
+    "prompt": "More impedance difference means more reflection.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "If speeds differ but impedances equal, reflection is:",
+    "choices": ["Large", "Medium", "Small", "None"],
+    "answer": 3
+  },
+  {
+    "prompt": "Reflection depends on difference in:",
+    "choices": ["Frequency", "Speed", "Amplitude", "Impedance"],
+    "answer": 3
+  },
+  {
+    "prompt": "At 90° with different densities and speeds:",
+    "choices": ["Reflection occurs", "No reflection", "Refraction", "None"],
+    "answer": 3
+  },
+  {
+    "prompt": "Angle of reflection equals angle of incidence?",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Snell's law governs:",
+    "choices": ["Transmission", "Refraction", "Impedance"],
+    "answer": 1
+  },
+  {
+    "prompt": "Snell's law describes:",
+    "choices": ["Reflection normal", "Reflection oblique", "Transmission normal", "Transmission oblique"],
+    "answer": 3
+  },
+  {
+    "prompt": "Refraction requires oblique incidence.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Refraction requires:",
+    "choices": [
+      "Unequal impedance, normal",
+      "Unequal density, normal",
+      "Different speed, oblique",
+      "Different elasticity, oblique"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Refraction always occurs when speeds differ.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "If speed increases, transmitted angle is:",
+    "choices": ["> incident", "= incident", "< incident", "Unknown"],
+    "answer": 0
+  },
+  {
+    "prompt": "Round trip to 1 cm depth takes:",
+    "choices": ["13 µs", "150 ms", "15 µs", "2 s"],
+    "answer": 0
+  },
+  {
+    "prompt": "39 µs round trip corresponds to depth:",
+    "choices": ["2 cm", "6 cm", "3 cm", "Unknown"],
+    "answer": 2
+  }
+]
