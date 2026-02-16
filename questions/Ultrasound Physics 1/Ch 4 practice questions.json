@@ -251,19 +251,19 @@
   },
   {
     "prompt": "What is the pulse duration in the image?",
-    "image": "images/Physics/Ch7_15.jpg",
+    "image": "images/Physics/Ch4-Q7_15",
     "choices": ["A", "B", "C", "D"],
     "answer": 0
   },
   {
     "prompt": "What is the spatial pulse length in the image?",
-    "image": "images/Physics/Ch7_15.jpg",
+    "image": "images/Physics/Ch4-Q7_15",
     "choices": ["A", "B", "C", "D"],
     "answer": 1
   },
   {
     "prompt": "What is the pulse repetition period in the image?",
-    "image": "images/Physics/Ch7_15.jpg",
+    "image": "images/Physics/Ch4-Q7_15",
     "choices": ["A", "B", "C", "D"],
     "answer": 2
   }
