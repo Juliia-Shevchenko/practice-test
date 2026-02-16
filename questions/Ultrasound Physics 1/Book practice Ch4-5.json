@@ -86,6 +86,7 @@
   },
   {
     "prompt": "What are the duty factors of the 4 patterns (A–D)?",
+    "image": "images/Physics/Ch3_6.jpg",
     "choices": [
       "A=100%, B=33%, C=0%, D=50%",
       "A=50%, B=0%, C=33%, D=100%",
@@ -96,61 +97,73 @@
   },
   {
     "prompt": "Which pattern indicates a system with a superficial imaging depth?",
+    "image": "images/Physics/Ch3_6.jpg",
     "choices": ["A", "B", "C", "D"],
     "answer": 3
   },
   {
     "prompt": "Which pattern indicates a system with a deep imaging depth?",
+    "image": "images/Physics/Ch3_6.jpg",
     "choices": ["A", "B", "C", "D"],
     "answer": 1
   },
   {
     "prompt": "Which two patterns identify a system that cannot perform anatomic imaging?",
+    "image": "images/Physics/Ch3_6.jpg",
     "choices": ["A and B", "A and C", "B and D", "C and D"],
     "answer": 1
   },
   {
     "prompt": "Line A represents which of the following (if measured in time)?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
     "answer": 3
   },
   {
     "prompt": "Line A represents which of the following (if measured in distance)?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Period", "Spatial pulse length", "Duty factor", "Amplitude"],
     "answer": 3
   },
   {
     "prompt": "Line B represents which of the following?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
     "answer": 5
   },
   {
     "prompt": "Line C represents which of the following?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
     "answer": 1
   },
   {
     "prompt": "Line D represents which of the following (if measured in time)?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "Amplitude"],
     "answer": 2
   },
   {
     "prompt": "Line D represents which of the following (if measured in distance)?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Wavelength", "Pulse duration", "Duty factor", "Amplitude"],
     "answer": 2
   },
   {
     "prompt": "Line E represents which of the following?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Duty factor", "None of the above"],
     "answer": 5
   },
   {
     "prompt": "Line F represents which of the following?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["Frequency", "Pulse repetition period", "Period", "Pulse duration", "Peak-to-peak amplitude", "None of the above"],
     "answer": 4
   },
   {
     "prompt": "Which formula describes the duty factor?",
+    "image": "images/Physics/Ch7_15.jpg",
     "choices": ["A × B", "A / E", "D / E", "A / C", "E × F", "(A + B) / C"],
     "answer": 3
   },
