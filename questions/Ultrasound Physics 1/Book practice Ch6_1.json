@@ -328,15 +328,5 @@
     "prompt": "If speed increases, transmitted angle is:",
     "choices": ["> incident", "= incident", "< incident", "Unknown"],
     "answer": 0
-  },
-  {
-    "prompt": "Round trip to 1 cm depth takes:",
-    "choices": ["13 µs", "150 ms", "15 µs", "2 s"],
-    "answer": 0
-  },
-  {
-    "prompt": "39 µs round trip corresponds to depth:",
-    "choices": ["2 cm", "6 cm", "3 cm", "Unknown"],
-    "answer": 2
   }
 ]
