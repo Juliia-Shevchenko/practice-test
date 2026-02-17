@@ -191,7 +191,7 @@
     "answer": 3
   },
   {
-    "prompt": "Echo most dependent on angle of incidence?",
+    "prompt": "An echo from which one of the following sound reflectors is most dependent on the angle of incidence?",
     "choices": ["Rayleigh scatterer", "Diffuse reflector", "Specular reflector", "Scatterer", "Non-specular"],
     "answer": 2
   },
