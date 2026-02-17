@@ -100,7 +100,7 @@
     "answer": 1
   },
   {
-    "prompt": "If transmission angle is 72°, what is reflection angle?",
+    "prompt": "If the angle of transmission is 72° for a sound wave passing from medium 1 to medium 2, the propagation speed of medium 1 is 1540m/s and medium 2 is 1750 m/s. What can be said about the angle of reflection? (Assuming same densities",
     "choices": [">72°", "<72°", "=72°"],
     "answer": 2
   },
