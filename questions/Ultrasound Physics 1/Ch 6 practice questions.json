@@ -147,7 +147,7 @@
     "answer": 0
   },
   {
-    "prompt": "If ITC = 0.8, what is IRC?",
+    "prompt": "Which of the following will be the value of the IRC if the incident intensity is 50w/cm2, ITC is 0.8?",
     "choices": ["20%", "30%", "30 W/cm²", "20 W/cm²", "35%"],
     "answer": 0
   },
