@@ -97,7 +97,7 @@
   {
     "prompt": "A wave of acoustic energy is leaving soft tissue and transmitting into fat with an 86 ° incident angle. What is true of the angle of transmission",
     "choices": ["=86°", "Less than 86°", "More than 86°", "Cannot be determined"],
-    "answer": 2
+    "answer": 1
   },
   {
     "prompt": "If transmission angle is 72°, what is reflection angle?",
