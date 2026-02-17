@@ -42,7 +42,7 @@
   {
     "prompt": "Which does not belong?",
     "choices": ["Backscatter", "Scattering", "Reflection", "Specular reflection", "Diffuse reflection"],
-    "answer": 0
+    "answer": 1
   },
   {
     "prompt": "Total attenuation of a 5 MHz wave in soft tissue at 10 cm depth?",
