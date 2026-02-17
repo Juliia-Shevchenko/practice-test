@@ -85,7 +85,7 @@
     "answer": 0
   },
   {
-    "prompt": "If two media have different speeds and densities, what happens at boundary?",
+    "prompt": " If a sound wave hits the boundary between medium A & B with normal incidence,and medium A has different propagation speed than B and both have different densities, what would be said about the reflection at the boundary",
     "choices": ["Will occur", "Will not occur", "Cannot be determined"],
     "answer": 0
   },
