@@ -157,14 +157,14 @@
     "answer": 2
   },
   {
-    "prompt": "Which decreases as wave attenuates?",
+    "prompt": "Which of the following will decrease as the sound wave attenuates through soft tissue",
     "choices": ["Frequency", "Wavelength", "Propagation speed", "Amplitude", "Period"],
     "answer": 3
   },
   {
     "prompt": "Which increases as amplitude decreases?",
     "choices": ["Intensity", "Frequency", "Max imaging depth", "Attenuation"],
-    "answer": 3
+    "answer": 2
   },
   {
     "prompt": "Disadvantage of diffuse reflector?",
@@ -178,7 +178,7 @@
   {
     "prompt": "Which redirects sound in all directions?",
     "choices": ["Parenchyma", "Lung", "Pericardium", "Blood"],
-    "answer": 0
+    "answer": 3
   },
   {
     "prompt": "Which interface gives maximum reflection?",
