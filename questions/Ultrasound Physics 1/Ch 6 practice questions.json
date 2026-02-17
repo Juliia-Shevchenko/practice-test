@@ -105,7 +105,7 @@
     "answer": 2
   },
   {
-    "prompt": "If 15% is reflected, what is ITC?",
+    "prompt": "If the intensity is 50 w/cm2 and 15% of it is reflected back, what will the intensity transmission coefficient be?",
     "choices": ["85 W/cm²", "35 W/cm²", "85%", "15 W/cm²", "35%"],
     "answer": 2
   },
@@ -117,7 +117,7 @@
   {
     "prompt": "Which does not contribute to attenuation?",
     "choices": ["Period", "Imaging depth", "Reflection", "Conversion to heat", "Propagation speed"],
-    "answer": 0
+    "answer": 4
   },
   {
     "prompt": "Which is not required for reflection?",
