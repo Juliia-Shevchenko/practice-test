@@ -80,7 +80,7 @@
     "answer": 0
   },
   {
-    "prompt": "If medium A has higher speed than B but same density, what happens at boundary?",
+    "prompt": "If a sound wave hits the boundary between medium A and medium B with normal incidence. Medium A has higher propagation speed than medium B , Both have identical densities , what can be said about reflection at the boundary",
     "choices": ["Will occur", "May occur", "Will not occur", "Cannot be determined"],
     "answer": 0
   },
