@@ -122,7 +122,7 @@
   {
     "prompt": "A diastolic murmur heard at the left lower sternal border is most likely due to:",
     "choices": ["Mitral stenosis", "Aortic regurgitation", "Tricuspid regurgitation", "Pulmonic stenosis"],
-    "answer": 1
+    "answer": 0
   },
   {
     "prompt": "The location for best auscultating the mitral valve is:",
