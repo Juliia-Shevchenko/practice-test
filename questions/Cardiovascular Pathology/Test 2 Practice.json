@@ -242,7 +242,7 @@
   {
     "prompt": "A systolic murmur that is louder with Valsalva maneuver is most likely due to:",
     "choices": ["Aortic stenosis", "Mitral valve prolapse", "Hypertrophic cardiomyopathy", "Tricuspid regurgitation"],
-    "answer": 2
+    "answer": 1
   },
   {
     "prompt": "A pansystolic murmur best heard at the left lower sternal border is indicative of:",
