@@ -262,7 +262,7 @@
   {
     "prompt": "A diastolic murmur heard best at the left sternal border and increased with inspiration suggests:",
     "choices": ["Aortic regurgitation", "Mitral stenosis", "Tricuspid stenosis", "Pulmonary regurgitation"],
-    "answer": 2
+    "answer": 3
   },
   {
     "prompt": "Which heart sound is most commonly associated with left ventricular hypertrophy?",
