@@ -1,0 +1,327 @@
+[
+  {
+    "prompt": "Which artery supplies blood to the brain?",
+    "choices": ["Femoral artery", "Coronary artery", "Carotid artery", "Renal artery"],
+    "answer": 2
+  },
+  {
+    "prompt": "The largest artery in the human body is:",
+    "choices": ["Pulmonary artery", "Aorta", "Subclavian artery", "Brachial artery"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following veins is responsible for draining blood from the brain?",
+    "choices": ["Jugular vein", "Subclavian vein", "Femoral vein", "Renal vein"],
+    "answer": 0
+  },
+  {
+    "prompt": "The hepatic portal vein carries blood from the gastrointestinal tract to the:",
+    "choices": ["Heart", "Lungs", "Liver", "Kidneys"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which vessel carries oxygenated blood from the lungs to the heart?",
+    "choices": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Coronary artery"],
+    "answer": 1
+  },
+  {
+    "prompt": "The femoral artery is located in the:",
+    "choices": ["Arm", "Neck", "Leg", "Abdomen"],
+    "answer": 2
+  },
+  {
+    "prompt": "The renal arteries supply blood to the:",
+    "choices": ["Lungs", "Kidneys", "Liver", "Brain"],
+    "answer": 1
+  },
+  {
+    "prompt": "The superior vena cava drains blood from the:",
+    "choices": ["Lower body", "Upper body", "Heart", "Lungs"],
+    "answer": 1
+  },
+  {
+    "prompt": "The celiac trunk is a branch of the:",
+    "choices": ["Femoral artery", "Aorta", "Subclavian artery", "Pulmonary artery"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which artery is the main supply to the pelvis and legs?",
+    "choices": ["Carotid artery", "Subclavian artery", "Femoral artery", "Iliac artery"],
+    "answer": 3
+  },
+  {
+    "prompt": "The brachial artery is a continuation of which artery?",
+    "choices": ["Subclavian artery", "Axillary artery", "Radial artery", "Ulnar artery"],
+    "answer": 1
+  },
+  {
+    "prompt": "Blood from the digestive organs first passes through the liver via the:",
+    "choices": ["Hepatic artery", "Portal vein", "Inferior vena cava", "Aorta"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which vein is commonly used for intravenous injections?",
+    "choices": ["Femoral vein", "Jugular vein", "Cephalic vein", "Renal vein"],
+    "answer": 2
+  },
+  {
+    "prompt": "The coronary arteries supply blood to the:",
+    "choices": ["Brain", "Heart", "Liver", "Kidneys"],
+    "answer": 1
+  },
+  {
+    "prompt": "The vertebral arteries are branches of the:",
+    "choices": ["Carotid arteries", "Subclavian arteries", "Axillary arteries", "Brachial arteries"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following arteries is palpated to check the pulse in the wrist?",
+    "choices": ["Ulnar artery", "Brachial artery", "Radial artery", "Axillary artery"],
+    "answer": 2
+  },
+  {
+    "prompt": "The inferior vena cava returns blood to the heart from the:",
+    "choices": ["Head", "Upper body", "Lower body", "Arms"],
+    "answer": 2
+  },
+  {
+    "prompt": "The thoracic duct drains lymph into the:",
+    "choices": ["Left subclavian vein", "Right subclavian vein", "Inferior vena cava", "Superior vena cava"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which artery is involved in the Circle of Willis?",
+    "choices": ["Brachial artery", "Coronary artery", "Internal carotid artery", "Renal artery"],
+    "answer": 2
+  },
+  {
+    "prompt": "The first heart sound (S1) is caused by:",
+    "choices": ["Closure of the aortic and pulmonic valves", "Closure of the mitral and tricuspid valves", "Opening of the mitral and tricuspid valves", "Opening of the aortic and pulmonic valves"],
+    "answer": 1
+  },
+  {
+    "prompt": "The second heart sound (S2) is caused by:",
+    "choices": ["Closure of the mitral and tricuspid valves", "Opening of the aortic and pulmonic valves", "Closure of the aortic and pulmonic valves", "Opening of the mitral and tricuspid valves"],
+    "answer": 2
+  },
+  {
+    "prompt": "The third heart sound (S3) is often associated with:",
+    "choices": ["Hypertension", "Heart failure", "Atrial fibrillation", "Pulmonary embolism"],
+    "answer": 1
+  },
+  {
+    "prompt": "The fourth heart sound (S4) is caused by:",
+    "choices": ["Rapid ventricular filling", "Atrial contraction", "Closure of the mitral valve", "Closure of the tricuspid valve"],
+    "answer": 1
+  },
+  {
+    "prompt": "A systolic murmur heard at the right upper sternal border is most likely due to:",
+    "choices": ["Mitral regurgitation", "Aortic stenosis", "Pulmonary regurgitation", "Tricuspid stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "A diastolic murmur heard at the left lower sternal border is most likely due to:",
+    "choices": ["Mitral stenosis", "Aortic regurgitation", "Tricuspid regurgitation", "Pulmonic stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "The location for best auscultating the mitral valve is:",
+    "choices": ["Right second intercostal space", "Left second intercostal space", "Left fifth intercostal space, midclavicular line", "Left lower sternal border"],
+    "answer": 2
+  },
+  {
+    "prompt": "The location for best auscultating the aortic valve is:",
+    "choices": ["Right second intercostal space", "Left second intercostal space", "Left fifth intercostal space", "Left lower sternal border"],
+    "answer": 0
+  },
+  {
+    "prompt": "A continuous murmur that is best heard in the left infraclavicular area is characteristic of:",
+    "choices": ["Mitral valve prolapse", "Patent ductus arteriosus", "Aortic stenosis", "Tricuspid regurgitation"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which heart sound is normally split during inspiration?",
+    "choices": ["S1", "S2", "S3", "S4"],
+    "answer": 1
+  },
+  {
+    "prompt": "A murmur heard best at the apex and radiating to the axilla is indicative of:",
+    "choices": ["Aortic stenosis", "Pulmonary stenosis", "Mitral regurgitation", "Tricuspid regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "An ejection click heard in systole suggests:",
+    "choices": ["Mitral stenosis", "Aortic stenosis", "Tricuspid stenosis", "Pulmonary hypertension"],
+    "answer": 1
+  },
+  {
+    "prompt": "A holosystolic murmur is typically associated with:",
+    "choices": ["Mitral regurgitation", "Aortic stenosis", "Pulmonic regurgitation", "Mitral stenosis"],
+    "answer": 0
+  },
+  {
+    "prompt": "The most common cause of a mid-systolic click is:",
+    "choices": ["Mitral stenosis", "Mitral valve prolapse", "Aortic stenosis", "Tricuspid regurgitation"],
+    "answer": 1
+  },
+  {
+    "prompt": "A rumbling diastolic murmur with an opening snap is characteristic of:",
+    "choices": ["Aortic regurgitation", "Pulmonary stenosis", "Mitral stenosis", "Tricuspid stenosis"],
+    "answer": 2
+  },
+  {
+    "prompt": "A harsh, crescendo-decrescendo systolic murmur best heard at the right second intercostal space is likely due to:",
+    "choices": ["Mitral regurgitation", "Aortic stenosis", "Tricuspid regurgitation", "Mitral stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "A high-pitched, blowing diastolic murmur best heard at the left sternal border is indicative of:",
+    "choices": ["Mitral stenosis", "Aortic regurgitation", "Tricuspid regurgitation", "Pulmonary stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following conditions is most likely to cause a machine-like murmur?",
+    "choices": ["Atrial septal defect", "Ventricular septal defect", "Patent ductus arteriosus", "Tetralogy of Fallot"],
+    "answer": 2
+  },
+  {
+    "prompt": "A widely split S2 that does not vary with respiration is indicative of:",
+    "choices": ["Aortic stenosis", "Mitral regurgitation", "Atrial septal defect", "Pulmonary hypertension"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which condition is characterized by a low-pitched, rumbling diastolic murmur heard at the apex?",
+    "choices": ["Aortic stenosis", "Mitral stenosis", "Tricuspid stenosis", "Pulmonary stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "The third heart sound (S3) is best heard with the:",
+    "choices": ["Bell of the stethoscope at the apex", "Diaphragm of the stethoscope at the base", "Bell of the stethoscope at the left sternal border", "Diaphragm of the stethoscope at the right sternal border"],
+    "answer": 0
+  },
+  {
+    "prompt": "The presence of an S4 heart sound is most often associated with:",
+    "choices": ["Rapid ventricular filling", "Increased atrial pressure", "Atrial fibrillation", "Ventricular septal defect"],
+    "answer": 1
+  },
+  {
+    "prompt": "A mid-diastolic murmur with a presystolic accentuation is indicative of:",
+    "choices": ["Aortic regurgitation", "Mitral stenosis", "Tricuspid regurgitation", "Pulmonary stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "An early diastolic murmur heard best at the left sternal border is characteristic of:",
+    "choices": ["Mitral regurgitation", "Aortic regurgitation", "Pulmonary regurgitation", "Tricuspid stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "A systolic murmur that increases in intensity with squatting is most likely:",
+    "choices": ["Mitral valve prolapse", "Hypertrophic cardiomyopathy", "Aortic stenosis", "Tricuspid regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "A continuous machine-like murmur is heard in:",
+    "choices": ["Ventricular septal defect", "Patent ductus arteriosus", "Atrial septal defect", "Tetralogy of Fallot"],
+    "answer": 1
+  },
+  {
+    "prompt": "A systolic murmur heard at the left upper sternal border with a fixed split S2 suggests:",
+    "choices": ["Aortic stenosis", "Pulmonic stenosis", "Atrial septal defect", "Mitral regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "A systolic ejection murmur that radiates to the carotids is indicative of:",
+    "choices": ["Mitral regurgitation", "Aortic stenosis", "Tricuspid stenosis", "Pulmonary stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "A diastolic murmur best heard with the bell of the stethoscope at the apex, with the patient in the left lateral decubitus position, is characteristic of:",
+    "choices": ["Aortic stenosis", "Mitral stenosis", "Tricuspid stenosis", "Pulmonary stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "A systolic murmur that is louder with Valsalva maneuver is most likely due to:",
+    "choices": ["Aortic stenosis", "Mitral valve prolapse", "Hypertrophic cardiomyopathy", "Tricuspid regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "A pansystolic murmur best heard at the left lower sternal border is indicative of:",
+    "choices": ["Mitral regurgitation", "Tricuspid regurgitation", "Aortic stenosis", "Pulmonic stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "A loud S1 is most commonly heard in:",
+    "choices": ["Mitral stenosis", "Aortic stenosis", "Tricuspid stenosis", "Pulmonary stenosis"],
+    "answer": 0
+  },
+  {
+    "prompt": "A murmur that decreases in intensity with handgrip exercise is most likely:",
+    "choices": ["Aortic stenosis", "Mitral regurgitation", "Hypertrophic cardiomyopathy", "Tricuspid regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "A diastolic murmur heard best at the left sternal border and increased with inspiration suggests:",
+    "choices": ["Aortic regurgitation", "Mitral stenosis", "Tricuspid stenosis", "Pulmonary regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which heart sound is most commonly associated with left ventricular hypertrophy?",
+    "choices": ["S1", "S2", "S3", "S4"],
+    "answer": 3
+  },
+  {
+    "prompt": "A murmur that radiates to the back or left scapular area is indicative of:",
+    "choices": ["Aortic stenosis", "Mitral regurgitation", "Coarctation of the aorta", "Tricuspid regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "A high-pitched, blowing diastolic murmur that radiates to the apex is characteristic of:",
+    "choices": ["Aortic regurgitation", "Mitral regurgitation", "Tricuspid stenosis", "Pulmonary stenosis"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which heart sound is commonly heard in young, healthy individuals and athletes?",
+    "choices": ["S1", "S2", "S3", "S4"],
+    "answer": 2
+  },
+  {
+    "prompt": "A harsh, mid-systolic ejection murmur heard best at the left upper sternal border is indicative of:",
+    "choices": ["Aortic stenosis", "Pulmonic stenosis", "Mitral regurgitation", "Tricuspid regurgitation"],
+    "answer": 1
+  },
+  {
+    "prompt": "A late systolic murmur with a mid-systolic click is most likely due to:",
+    "choices": ["Aortic stenosis", "Pulmonary stenosis", "Mitral valve prolapse", "Tricuspid regurgitation"],
+    "answer": 2
+  },
+  {
+    "prompt": "A continuous murmur heard at the left upper sternal border in a child suggests:",
+    "choices": ["Atrial septal defect", "Ventricular septal defect", "Patent ductus arteriosus", "Coarctation of the aorta"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which heart sound is produced by the closure of the aortic and pulmonic valves?",
+    "choices": ["S1", "S2", "S3", "S4"],
+    "answer": 1
+  },
+  {
+    "prompt": "A diastolic murmur with a decrescendo shape is most likely due to:",
+    "choices": ["Mitral stenosis", "Aortic regurgitation", "Tricuspid stenosis", "Pulmonary stenosis"],
+    "answer": 1
+  },
+  {
+    "prompt": "A soft, blowing, early diastolic murmur heard best at the left lower sternal border is indicative of:",
+    "choices": ["Aortic stenosis", "Mitral stenosis", "Tricuspid regurgitation", "Pulmonary regurgitation"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which murmur is best heard with the patient leaning forward?",
+    "choices": ["Mitral regurgitation", "Aortic regurgitation", "Tricuspid regurgitation", "Pulmonary regurgitation"],
+    "answer": 1
+  },
+  {
+    "prompt": "A murmur that is accentuated by leaning forward and exhaling is most likely:",
+    "choices": ["Mitral stenosis", "Aortic regurgitation", "Tricuspid regurgitation", "Pulmonic stenosis"],
+    "answer": 1
+  }
+]
