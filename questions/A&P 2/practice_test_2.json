@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "prompt": "What is a function of the digestive system?",
+    "choices": [
+      "Ingests and breaks down food, absorbs nutrients, and defecates the unabsorbed material.",
+      "Mechanically and chemically assembles food from absorbed nutrients.",
+      "Sends cellular debris to lysosomes.",
+      "Absorbs nutrients in the mouth, pharynx, esophagus and stomach, and releases nutrients in the intestines."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Where does peristalsis occur in the digestive tract?",
+    "choices": [
+      "From the pharynx to the anus",
+      "In the stomach and small intestine only",
+      "In the small and large intestines only",
+      "In the stomach, small intestine, and large intestine"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The mechanical breakup of food particles in the mouth is called__________.",
+    "choices": [
+      "mastication",
+      "salivation",
+      "peristalsis",
+      "absorption"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is a function of saliva?",
+    "choices": [
+      "Absorbing fat from ingested food",
+      "Cleansing the esophagus",
+      "Breaking food into smaller pieces",
+      "Beginning the chemical digestion of carbohydrates"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the main part of the stomach is called?",
+    "choices": [
+      "Fundus",
+      "Pylorus",
+      "Cardia",
+      "Body"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is not a function of the liver?",
+    "choices": [
+      "Maintaining blood glucose concentration",
+      "Formation of urea",
+      "Secretion of bile",
+      "Secretion of insulin"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is true about bile?",
+    "choices": [
+      "Cholecystokinin stimulates its production.",
+      "Secretin stimulates its release into the duodenum.",
+      "It contains concentrated enzymes that digest carbohydrates.",
+      "It is produced by the liver."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which constituent of bile has a digestive function?",
+    "choices": [
+      "Bile salts",
+      "Bile pigments",
+      "Cholesterol",
+      "Electrolytes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is a function of the liver?",
+    "choices": [
+      "It forms glucose from noncarbohydrates.",
+      "It stores vitamin C.",
+      "It produces red blood cells.",
+      "It secretes chymotrypsin."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The common hepatic duct and the cystic duct unite to form the__________.",
+    "choices": [
+      "common bile duct",
+      "hepatic duct",
+      "hepatopancreatic duct",
+      "pancreatic duct"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Why might gallstones form?",
+    "choices": [
+      "Because bile is too concentrated",
+      "Because hepatic cells secrete too much HCl",
+      "Because the pH of the gallbladder becomes too alkaline",
+      "Because the liver is lacerated"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is usually a major component of gallstones?",
+    "choices": [
+      "Calcium salts",
+      "Uric acid",
+      "Cholesterol",
+      "Bile pigments"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Bile salts function like detergents in that they__________ fat globules.",
+    "choices": [
+      "emulsify",
+      "coagulate",
+      "digest",
+      "liquefy"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is the correct sequence for the digestion and absorption of lipids? 1. Formation of chylomicrons 2. Emulsification by bile 3. Diffusion through the epithelial cell membrane 4. Hydrolysis by pancreatic lipase 5. Movement into lacteal ducts",
+    "choices": [
+      "4, 3, 2, 1, 5",
+      "2, 4, 3, 1, 5",
+      "2, 1, 4, 3, 5",
+      "3, 2, 4, 5, 1"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is one of the functions of the large intestine?",
+    "choices": [
+      "To secrete digestive enzymes",
+      "To absorb ingested water",
+      "To regulate the release of bile",
+      "To break down hemoglobin"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Enlarged blood vessels of the anal columns are called__________.",
+    "choices": [
+      "peritonitis",
+      "hemorrhoids",
+      "diarrhea",
+      "polyps"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "How is hepatitis B transmitted?",
+    "choices": [
+      "Contact with infected feces",
+      "Sexual activity",
+      "Infected food",
+      "Travel to developing countries"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Jaundice is the abnormal yellowish-tint of tissues, such as the sclera of the eye. Jaundice is due to the accumulation of what substance?",
+    "choices": [
+      "Cholesterol",
+      "Bile pigments",
+      "Carotene",
+      "Hemoglobin A"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Hepatitis C accounts for nearly half the known causes of hepatitis. How is hepatitis C transmitted?",
+    "choices": [
+      "Coming in contact with infected saliva",
+      "Eating infected food",
+      "Coming in contact with infected blood",
+      "Having sexual intercourse with an infected person"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The salivary glands secrete the enzyme__________ that breaks down__________.",
+    "choices": [
+      "amylase; carbohydrates",
+      "pepsin; proteins",
+      "sucrase; sucrose",
+      "lipase; lipids"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the effect of parasympathetic innervation on the salivary glands secretions?",
+    "choices": [
+      "Small volume of watery saliva",
+      "Large volume of viscous saliva",
+      "Large volume of watery saliva",
+      "Small volume of viscous saliva"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Where are nucleic acids chemically digested?",
+    "choices": [
+      "In the mouth",
+      "In the stomach",
+      "In the small intestine",
+      "In the large intestine"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Sarah eats fruits, vegetables and dairy, but no meat or eggs. She is a(n)__________.",
+    "choices": [
+      "lacto-vegetarian",
+      "ovo-vegetarian",
+      "vegan",
+      "pesco-vegetarian"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Carbohydrates, proteins, and fats are classified as__________.",
+    "choices": [
+      "nanonutrients",
+      "micronutrients",
+      "macronutrients",
+      "piconutrients"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Cells of the__________ system require a continuous supply of glucose.",
+    "choices": [
+      "muscular",
+      "respiratory",
+      "digestive",
+      "nervous"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What components form a triglyceride?",
+    "choices": [
+      "Three glycerols and a fatty acid",
+      "Glycerol and three fatty acids",
+      "A cholesterol and three fatty acids",
+      "Two cholesterols and two fatty acids"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is high in monounsaturated fats?",
+    "choices": [
+      "Olive oil",
+      "Butter",
+      "Palm oil",
+      "Coconut oil"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How many essential amino acids are needed by adults?",
+    "choices": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What does BMI measure?",
+    "choices": [
+      "Weight in proportion to height",
+      "The amount of body fat",
+      "Volume in proportion to area",
+      "The basal metabolic rate"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Deficiency of vitamin__________ causes osteomalacia.",
+    "choices": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Treatment with antibiotic drugs is sometimes followed by a deficiency of vitamin__________.",
+    "choices": [
+      "A",
+      "C",
+      "D",
+      "K"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What are examples of fat-soluble vitamins?",
+    "choices": [
+      "Vitamin C and E",
+      "B-complex vitamins",
+      "Vitamins A, D, and K",
+      "Vitamins A and B-complex vitamins"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What condition is associated with lack of intrinsic factor and decreased absorption of cyanocobalamin?",
+    "choices": [
+      "Pernicious anemia",
+      "Pellagra",
+      "Megaloblastic anemia",
+      "Scurvy"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following vitamins is necessary for production of collagen?",
+    "choices": [
+      "Vitamin D",
+      "Vitamin C",
+      "Thiamine",
+      "Biotin"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a trace element?",
+    "choices": [
+      "Magnesium",
+      "Sulfur",
+      "Iron",
+      "Chlorine"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What condition can result from excess calcium in the diet?",
+    "choices": [
+      "Deposition of calcium in soft tissue",
+      "Brittle teeth",
+      "Cracked fingernails",
+      "Stunted growth"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is a function of iron in the body?",
+    "choices": [
+      "Needed for synthesis of hemoglobin",
+      "Needed for blood clotting process",
+      "Needed for synthesis of thyroid hormone",
+      "Needed for activation of digestive enzymes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Why might a protein deficiency be accompanied by edema?",
+    "choices": [
+      "Protein deficiency results in a decrease in colloid osmotic pressure.",
+      "Protein deficiency causes an increase in blood pressure.",
+      "Protein deficiency causes vasodilation of capillaries throughout the body.",
+      "Protein deficiency causes a decrease in antidiuretic hormone (ADH) secretion."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The process called__________ involves gas exchange between the atmosphere and the cells of the body and the resulting chemical reactions that provide the cells with energy to function.",
+    "choices": [
+      "breathing",
+      "oxidation",
+      "respiration",
+      "metabolism"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is included in the process of external respiration?",
+    "choices": [
+      "Gas exchange at the tissues",
+      "Gas exchange at the lungs",
+      "Production of ATP by cells",
+      "Transport of gases via the blood"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Describe the process of ventilation.",
+    "choices": [
+      "Delivery of oxygen to cells",
+      "Forcible movement of oxygen molecules into the bloodstream",
+      "Delivery of carbon dioxide to cells",
+      "Movement of air into and out of lungs"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following does not contain a paranasal sinus?",
+    "choices": [
+      "maxilla",
+      "frontal bone",
+      "sphenoid bone",
+      "zygomatic bone"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Chronic obstructive pulmonary disease (COPD) includes which respiratory disorders?",
+    "choices": [
+      "Lung cancer and cystic fibrosis",
+      "Chronic bronchitis and emphysema",
+      "Smoker's lung and asthma",
+      "Pneumothorax and alveolitis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Where are the vocal cords located?",
+    "choices": [
+      "In the pharynx",
+      "In the larynx",
+      "In the trachea",
+      "In the oral cavity"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the correct order of structures, from superior to inferior?",
+    "choices": [
+      "Nasopharynx → oropharynx → laryngopharynx",
+      "Oropharynx → laryngopharynx → nasopharynx",
+      "Oropharynx → nasopharynx → laryngopharynx",
+      "Laryngopharynx → oropharynx → nasopharynx"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The pharynx functions as a passageway for__________, whereas the larynx functions as a passageway for__________.",
+    "choices": [
+      "passageway for air and food; passageway for food only",
+      "passageway for air only; passageway for air and food",
+      "passageway for air and food; passageway for air only",
+      "passageway for food only; passageway for air only"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The right lung has__________ lobes; the left lung has__________ lobes.",
+    "choices": [
+      "three; two",
+      "two; two",
+      "three; three",
+      "two; three"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What causes air to move into the lungs during inspiration?",
+    "choices": [
+      "Pressure gradient between atmosphere and alveoli",
+      "Muscle contraction of upper airways",
+      "Concentration gradients for oxygen and carbon dioxide",
+      "Partial pressure gradients for oxygen and carbon dioxide"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What drives the air out of the lungs during quiet expiration?",
+    "choices": [
+      "Contraction of the diaphragm",
+      "Contraction of the external intercostal muscles",
+      "Surface tension and the elastic recoil of lung tissues",
+      "Contraction of smooth muscles in airways"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "During inspiration, intrapleural pressure__________ and intra-alveolar pressure__________.",
+    "choices": [
+      "increases; decreases",
+      "decreases; increases",
+      "decreases; decreases",
+      "increases; increases"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following occurs first, causing inspiration?",
+    "choices": [
+      "The diaphragm moves downward and the external intercostal muscles contract.",
+      "Atmospheric pressure forces air into the respiratory tract.",
+      "Intra-alveolar pressure decreases.",
+      "The lungs inflate."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following occurs first, causing expiration?",
+    "choices": [
+      "Intra-alveolar pressure increases.",
+      "Elastic tissues of the lungs and thoracic cage recoil.",
+      "Air flows down its pressure gradient, out of the lungs.",
+      "The diaphragm and external intercostal respiratory muscles relax."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Where are the respiratory control areas located?",
+    "choices": [
+      "Cerebral cortex",
+      "Pons and medulla oblongata",
+      "Alveoli",
+      "Hypothalamus"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is typically the underlying cause of adult sleep apnea?",
+    "choices": [
+      "Unresponsiveness of central chemoreceptors",
+      "A deep sleep state in which respiration markedly slows",
+      "Obstruction of upper airways",
+      "Nasal congestion"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A__________ is a condition in which air separates the visceral and parietal pleura in the chest, resulting in a collapsed lung.",
+    "choices": [
+      "intrapleural pressure",
+      "surfactant production",
+      "serous fluid production",
+      "pneumothorax"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following has an effect on the pH of blood?",
+    "choices": [
+      "Oxygen",
+      "Phosphate",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the result of hyperventilation?",
+    "choices": [
+      "Decreased PCO2 and decreased pH",
+      "Decreased PCO2 and increased pH",
+      "Increased PCO2 and decreased pH",
+      "Increased PCO2 and increased pH"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is globin?",
+    "choices": [
+      "Another term for alveolus",
+      "A carrier for carbon dioxide",
+      "A molecule produced when CO2 combines with water",
+      "The protein part of hemoglobin"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "How is oxygen transported in the blood?",
+    "choices": [
+      "98% bound to hemoglobin; 2% dissolved in plasma",
+      "95% bound to hemoglobin; 3% bound to albumin; 2% dissolved in plasma",
+      "90% bound to hemoglobin; 10% dissolved in plasma",
+      "100% bound to hemoglobin"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How is carbon dioxide transported in the blood?",
+    "choices": [
+      "70% transported as HCO3-; 23% bound to hemoglobin; 7% dissolved in plasma",
+      "98% bound to hemoglobin; 2% transported as HCO3-",
+      "50% transported as HCO3-; 25% bound to hemoglobin; 25% dissolved in plasma",
+      "95% transported as HCO3-; 3% bound to hemoglobin; 2% dissolved in plasma"
+    ],
+    "answer": 0
+  }
+]
