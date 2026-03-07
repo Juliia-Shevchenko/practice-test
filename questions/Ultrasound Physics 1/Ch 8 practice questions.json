@@ -205,7 +205,7 @@
       "improve the image quality",
       "decrease the sensitivity"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "prompt": "A pulsed wave transducer has a resonant frequency of 5 MHz. The lowest frequency in the pulse is 2 MHz and the highest is 8 MHz. What is the bandwidth?",

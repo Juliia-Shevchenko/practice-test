@@ -1,0 +1,347 @@
+[
+  {
+    "prompt": "If the PZT diameter is 6 mm and the near zone length is 8 cm, what is the diameter of the sound beam at the end of the near zone?",
+    "choices": [
+      "12 mm",
+      "16 mm",
+      "16 cm",
+      "3 mm",
+      "12 cm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "If the PZT diameter is 6 mm and the near zone length is 8 cm, what is the diameter of the sound beam at twice the focal length distance?",
+    "choices": [
+      "8 cm",
+      "6 mm",
+      "3 cm",
+      "3 mm",
+      "16 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the PZT diameter is 6 mm and the near zone length is 8 cm, what is the diameter of the sound beam at the beginning of the near zone?",
+    "choices": [
+      "8 cm",
+      "6 mm",
+      "3 cm",
+      "16 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the PZT diameter is 6 mm and the near zone length is 8 cm, what is the diameter of the sound beam at 16 cm depth?",
+    "choices": [
+      "6 mm",
+      "3 mm",
+      "5 mm",
+      "4 mm",
+      "8 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A sound wave produced by a 5 mm diameter PZT has a near field length of 10 cm and a 4 cm focal zone. What depth marks the beginning of the focal zone?",
+    "choices": [
+      "4 cm",
+      "2 cm",
+      "8 cm",
+      "12 cm",
+      "2.5 cm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A sound wave produced by a 5 mm diameter PZT has a near field length of 10 cm and a 4 cm focal zone. What depth marks the end of the focal zone?",
+    "choices": [
+      "4 cm",
+      "2 cm",
+      "8 cm",
+      "12 cm",
+      "2.5 cm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "If the diameter of the PZT is 6 mm and the focal depth is 8 cm, and the focal zone length is 4 cm, at what other depth will the sound beam diameter be equal to that at 5 cm depth?",
+    "choices": [
+      "11 cm",
+      "8 cm",
+      "12 cm",
+      "2 cm",
+      "16 cm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "For a circular unfocused 6 mm PZT crystal, if the near zone length is 10 cm, what is the best estimate of the sound beam diameter at 8 cm depth?",
+    "choices": [
+      "6 mm",
+      "3 mm",
+      "5 mm",
+      "2 mm",
+      "8 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will provide the highest near zone length?",
+    "choices": [
+      "Large diameter PZT, high frequency",
+      "Small diameter PZT, low frequency",
+      "Faster sound in PZT, thinner PZT",
+      "Slower sound in PZT, thicker PZT",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will provide the minimum beam divergence deep in the far field?",
+    "choices": [
+      "Large diameter PZT, high frequency",
+      "Small diameter PZT, low frequency",
+      "Faster sound in PZT, thinner PZT",
+      "Slower sound in PZT, thicker PZT",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A sound wave produced by a 5 mm diameter PZT has a near field length of 10 cm and a 4 cm focal zone. What is the best estimate of the beam diameter at 6 cm depth?",
+    "choices": [
+      "5 mm",
+      "2.5 mm",
+      "10 mm",
+      "4 mm",
+      "2 mm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A sound beam has a focal depth of 15 cm, a focal zone of 4 cm, and a PZT diameter of 6 mm. At what depth is the focus?",
+    "choices": [
+      "15 cm",
+      "30 cm",
+      "10 cm",
+      "14 cm",
+      "3 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following does not belong to the group?",
+    "choices": [
+      "Near field",
+      "Near zone",
+      "Fresnel zone",
+      "Focal zone"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "At the starting point, how wide is the sound beam?",
+    "choices": [
+      "Same as PZT",
+      "1/2 of the PZT diameter",
+      "More than PZT diameter"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the location where the beam diameter is the narrowest called?",
+    "choices": [
+      "Focus",
+      "Near field",
+      "Far field",
+      "Focal zone"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the region from the transducer to the focus called?",
+    "choices": [
+      "Focus",
+      "Near field",
+      "Far field",
+      "Focal zone"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "At the far end of two near zone lengths, what is the diameter of the sound beam?",
+    "choices": [
+      "Same as PZT",
+      "1/2 of the PZT diameter",
+      "More than PZT diameter"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The distance from the transducer to the focus is called what?",
+    "choices": [
+      "Focus",
+      "Near field",
+      "Far field",
+      "Near zone length"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The region starting at the focus and extending deeper is called what?",
+    "choices": [
+      "Focus",
+      "Near field",
+      "Far field",
+      "Near zone length"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When the beam is more than two near zone lengths from the transducer, how wide is it?",
+    "choices": [
+      "Same as PZT",
+      "1/2 of the PZT diameter",
+      "More than PZT diameter"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The region around the focus where the beam is relatively narrow is called what?",
+    "choices": [
+      "Focus",
+      "Near field",
+      "Far field",
+      "Focal zone"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What marks the end of the near zone?",
+    "choices": [
+      "Focus",
+      "Near field",
+      "Far field",
+      "Focal zone"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "At what point does the sound beam first begin to widen?",
+    "choices": [
+      "Focus",
+      "Near field",
+      "Far field",
+      "Focal zone"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Where is the focal zone found?",
+    "choices": [
+      "Half in the near zone and half in the far zone",
+      "Near field",
+      "Far field",
+      "Focal zone"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The distance from the transducer to the focus is called what?",
+    "choices": [
+      "Focal length",
+      "Focus",
+      "Near field",
+      "Far field"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "For a fixed-focus transducer, what two characteristics determine the focal depth?",
+    "choices": [
+      "Diameter of the PZT and frequency of sound",
+      "Thickness of PZT and frequency of sound",
+      "Fast speed of sound in PZT and diameter of the PZT"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between transducer diameter and focal depth?",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between frequency and focal depth?",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The gradual spread of the sound beam beyond the focus is called what?",
+    "choices": [
+      "Convergence",
+      "Divergence"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What two characteristics of a transducer determine beam divergence?",
+    "choices": [
+      "Diameter of the PZT and frequency of sound",
+      "Thickness of PZT and frequency of sound",
+      "Fast speed of sound in PZT and diameter of the PZT"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between crystal diameter and beam divergence?",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Since larger diameter crystals create sound beams that diverge less in the far field, what is improved in the far field?",
+    "choices": [
+      "Axial resolution",
+      "Lateral resolution",
+      "Elevational resolution"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Since high-frequency sound beams diverge less in the far field, what is improved in the far field?",
+    "choices": [
+      "Axial resolution",
+      "Lateral resolution",
+      "Elevational resolution"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What explains the shape of an imaging transducer beam based on in-phase and out-of-phase wavelets interfering with each other?",
+    "choices": [
+      "Huygen’s principle",
+      "Snell’s law",
+      "Curie law"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Deep focus involves what two characteristics?",
+    "choices": [
+      "Large diameter, high frequency",
+      "Small diameter, low frequency",
+      "Large diameter, low frequency",
+      "Small diameter, high frequency"
+    ],
+    "answer": 0
+  }
+]
