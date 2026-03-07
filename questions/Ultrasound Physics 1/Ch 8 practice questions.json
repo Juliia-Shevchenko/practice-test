@@ -1,0 +1,403 @@
+[
+  {
+    "prompt": "All of the following correctly describe an imaging transducer except:",
+    "choices": [
+      "high sensitivity",
+      "low Q",
+      "wide bandwidth",
+      "damped"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Shorter duration events (such as dampened pulses) are more likely to have wide bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The acoustic impedance of the matching layer is approximately the same as that of the skin.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Imaging transducers are usually of wide rather than narrow bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A very high Q factor transducer is used more often in diagnostic imaging than a low Q factor.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A pulse with a long pulse duration is likely to have a narrow bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The damping material in a transducer increases the sensitivity.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer increases the pulse length.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer decreases the pulse duration.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The damping material in a transducer improves the system's lateral resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer improves the system's longitudinal resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The dampening material in a transducer decreases bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer decreases the quality factor.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the frequency of the electrical excitation voltage of a pulsed wave transducer is 6 MHz, then the operating frequency of the transducer is 6 MHz.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the PRF of a transducer is increased, then the frequency of the sound produced by the transducer remains the same.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The diameter of the active element of a transducer helps determine the frequency of the sound produced by the transducer.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two PZT crystals are made from the same material. The thicker crystal will make a pulsed transducer with a higher frequency.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two PZT crystals are made from the same material. The thicker crystal will make a continuous wave transducer with a lower frequency.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The normal propagation speed in PZT material is about 3-5 times greater than in soft tissue.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The impedance of a transducer active element is 1,900,000 Rayls, and the impedance of the skin is 1,400,000 Rayls. What is an acceptable impedance for the matching layer?",
+    "choices": [
+      "1,200,000 Rayls",
+      "1,400,000 Rayls",
+      "1,726,000 Rayls",
+      "1,950,000 Rayls"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following crystals will produce sound with the lowest frequency?",
+    "choices": [
+      "thin and with a low speed",
+      "thin and with a high speed",
+      "thick and with a low speed",
+      "thick and with a high speed"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which type of transducer has a greater Q-factor?",
+    "choices": [
+      "therapeutic",
+      "imaging"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which type of transducer has a greater bandwidth?",
+    "choices": [
+      "Continuous wave transducer",
+      "Pulse wave transducer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which type of transducer has more backing material?",
+    "choices": [
+      "therapeutic",
+      "imaging"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In an imaging transducer, what is the purpose of attaching the backing material to the PZT?",
+    "choices": [
+      "increase the bandwidth",
+      "decrease the Q factor",
+      "improve the image quality",
+      "decrease the sensitivity"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A pulsed wave transducer has a resonant frequency of 5 MHz. The lowest frequency in the pulse is 2 MHz and the highest is 8 MHz. What is the bandwidth?",
+    "choices": [
+      "5 MHz",
+      "8 MHz",
+      "3 MHz",
+      "6 MHz",
+      "2 MHz"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following will provide the highest transmitted sound wave frequency for a continuous wave ultrasound transducer?",
+    "choices": [
+      "Large diameter PZT, high frequency",
+      "Small diameter PZT, low frequency",
+      "Faster sound in PZT, thinner PZT",
+      "Slower sound in PZT, thicker PZT",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will prevent the patient from getting an electrical shock?",
+    "choices": [
+      "PZT",
+      "Matching layer",
+      "Backing material",
+      "Gel",
+      "Case"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "How thick is the active element of a 3 MHz pulse wave transducer?",
+    "choices": [
+      "1.54 mm",
+      "0.51 mm",
+      "1/2 wavelength of the sound wave",
+      "1/4 wavelength of the sound wave"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "If the frequency of electrical excitation voltage of a continuous wave transducer is 6 MHz, then the operating frequency of the transducer is:",
+    "choices": [
+      "12 MHz",
+      "6 MHz",
+      "3 MHz",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will provide the highest transmitted frequency for a pulsed wave transducer?",
+    "choices": [
+      "Large diameter PZT, thicker PZT",
+      "Small diameter PZT, thinner PZT",
+      "Faster sound in PZT, thinner PZT",
+      "Slower sound in PZT, thicker PZT",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the relationship between damping (pulse length) and Q-factor (quality factor)?",
+    "choices": [
+      "Directly related",
+      "Inverse"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A PW transducer has a resonant frequency of 5 MHz, the lowest frequency is 2 MHz, and the highest frequency is 8 MHz. What is the resonant frequency?",
+    "choices": [
+      "5 MHz",
+      "8 MHz",
+      "3 MHz",
+      "6 MHz"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A PW transducer has a resonant frequency of 5 MHz, the lowest frequency is 2 MHz, and the highest frequency is 8 MHz. What is the Q factor?",
+    "choices": [
+      "5 MHz",
+      "0.8",
+      "3 MHz",
+      "1.5"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following uncouples the internal components of the transducer from the case?",
+    "choices": [
+      "PZT",
+      "Matching layer",
+      "Backing material",
+      "Gel",
+      "Acoustic insulator"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Arrange in order of impedance from highest to lowest.",
+    "choices": [
+      "PZT, Matching layer, Skin, Gel",
+      "Gel, PZT, Matching layer, Skin",
+      "Matching layer, Skin, Gel, PZT",
+      "Skin, Gel, PZT, Matching layer"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will help reduce electrical noise in an image?",
+    "choices": [
+      "PZT",
+      "Gel",
+      "Acoustic insulator",
+      "Case",
+      "Electrical shield"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following is also known as a coupling agent?",
+    "choices": [
+      "PZT",
+      "Matching layer",
+      "Backing material",
+      "Gel"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is not true about backing material?",
+    "choices": [
+      "Decreased sensitivity",
+      "Wide bandwidth",
+      "High Q factor",
+      "Short sound pulses"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is made of epoxy resin impregnated with tungsten filaments?",
+    "choices": [
+      "PZT",
+      "Matching layer",
+      "Backing material",
+      "Gel"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will increase the efficiency of sound wave transmission between the active element and the body?",
+    "choices": [
+      "PZT",
+      "Matching layer",
+      "Backing material",
+      "Gel"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What are man-made piezoelectric materials called?",
+    "choices": [
+      "PZT (lead zirconate titanate)",
+      "Tourmaline",
+      "Quartz"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The property of certain materials to create a voltage when they are mechanically deformed is called what?",
+    "choices": [
+      "Piezoelectric effect",
+      "Reverse piezoelectric effect",
+      "Polarization",
+      "Depolarization"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The property of certain materials to change shape when a voltage is applied to them is called what?",
+    "choices": [
+      "Piezoelectric effect",
+      "Reverse piezoelectric effect",
+      "Polarization",
+      "Depolarization"
+    ],
+    "answer": 1
+  }
+]
