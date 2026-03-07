@@ -1,0 +1,149 @@
+[
+  {
+    "prompt": "If the time of flight for a sound wave in soft tissue is 39µs. What would be the reflector’s depth?",
+    "choices": [
+      "3µs",
+      "3cm/s",
+      "3cm",
+      "6cm",
+      "6cm/s"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "If the depth of the reflector is 2cm. What would be the PRP of the sound wave?",
+    "choices": [
+      "26µs",
+      "4cm",
+      "4cm/s",
+      "6.5µs",
+      "48µs"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the time of flight for a sound wave in soft tissue is 39µs. What would be the total distance travelled by the sound wave?",
+    "choices": [
+      "3µs",
+      "3cm/s",
+      "3cm",
+      "6cm",
+      "6cm/s"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "If the PRP of a sound wave is 130µs what would be the PRF of the wave in soft tissue?",
+    "choices": [
+      "7700hz",
+      "77000hz",
+      "770hz",
+      "77hz",
+      "7.7hz"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The maximum imaging depth is 20 cm. The imaging depth is adjusted to 40 cm. What happens to PRP?",
+    "choices": [
+      "it is unchanged",
+      "it is halved",
+      "it is doubled",
+      "it is 20x longer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The maximum imaging depth is 10 cm. The imaging depth is adjusted to 5 cm. What happens to PRF?",
+    "choices": [
+      "it is unchanged",
+      "it is halved",
+      "it is doubled",
+      "it is 20x longer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A sound wave is created by a transducer, reflects off an object, and returns to the transducer. The go-return time is 26 microseconds. What is the depth of the reflector?",
+    "choices": [
+      "1 cm",
+      "2 cm",
+      "3 cm",
+      "4 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A sound wave is created by a transducer, reflects off an object, and returns to the transducer. The go-return time is 26 microseconds. What is the total distance that the pulse traveled?",
+    "choices": [
+      "1 cm",
+      "2 cm",
+      "3 cm",
+      "4 cm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the relationship between PRP and imaging depth?",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between PRF and imaging depth?",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The elapsed time from pulse creation to pulse reception is called what?",
+    "choices": [
+      "Time of Flight",
+      "PRF",
+      "Pulse Duration"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between time of flight and depth?",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "For every 13 microseconds of go-return time, the reflector is 1 cm deeper known as",
+    "choices": [
+      "Snell’s law",
+      "13 Micro sec rule",
+      "Hugen’s principle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A sound wave is created by a transducer, reflects off an object, and returns to the transducer. The go-return time is 52 microseconds. What is the total distance that the pulse traveled?",
+    "choices": [
+      "12 cm",
+      "6 cm",
+      "4 cm",
+      "8 cm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "If the time of flight for a sound wave in soft tissue is 78µs. What would be the reflector’s depth?",
+    "choices": [
+      "3µs",
+      "6cm",
+      "3cm",
+      "6µs",
+      "6cm/s"
+    ],
+    "answer": 1
+  }
+]
