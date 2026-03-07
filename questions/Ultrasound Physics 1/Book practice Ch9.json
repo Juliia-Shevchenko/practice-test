@@ -330,5 +330,224 @@
       "beginning of the Fraunhofer zone"
     ],
     "answer": 1
+  },
+  {
+    "prompt": "What is the region from the transducer to the smallest cross-sectional area of a sound beam called?",
+    "choices": [
+      "focus",
+      "half-value thickness",
+      "near zone",
+      "Fraunhofer zone"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The area that starts at the beam's smallest diameter and extends deeper is:",
+    "choices": [
+      "the distant zone",
+      "the Fresnel zone",
+      "the Fraunhofer zone",
+      "the depth of penetration"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of these terms have the same meaning?",
+    "choices": [
+      "1 and 2, 3 and 4",
+      "1 and 4, 2 and 3",
+      "4 and 6, 5 and 1",
+      "2 and 3, 5 and 1"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the point or location where a beam reaches its smallest dimension?",
+    "choices": [
+      "near zone",
+      "focus",
+      "penetration depth",
+      "focal zone"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are true of the focus except:",
+    "choices": [
+      "it is at the end of the near zone",
+      "it is at the beginning of the Fraunhofer zone",
+      "it has the highest spatial peak intensity",
+      "it is at the start of the Fresnel zone"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? The near zone is the only region where the diameter of the sound beam is smaller than the transducer diameter.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? The far zone is the only region where the beam diameter exceeds the transducer diameter.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? If the diameter of a sound beam is 8 mm at a depth equal to twice the near zone length, then the PZT crystal has a diameter of 16 mm.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? If the diameter of the acoustic beam produced by a crystal is 8 mm at a depth of twice the near zone length then the PZT crystal has a diameter of 8 mm.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? The near zone is the only region where the diameter of the sound beam decreases as depth increases.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? If the narrowest diameter of a sound beam is at a depth of 8 cm, then the PZT crystal's diameter is 16 cm.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? The higher the frequency of the acoustic wave, the shorter the length of the near zone.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? The greater the diameter of a transducer's piezoelectric crystal, the longer the near zone is.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A PZT crystal in the shape of a disc produces a continuous ultrasound wave. The beam is unfocused. True or False? The thicker a continuous wave transducer's piezoelectric crystal, the longer the near zone length is.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "For a disc-shaped PZT crystal producing continuous sound, which design will create a beam with the shallowest focus?",
+    "choices": [
+      "large diameter, low frequency",
+      "large diameter, high frequency",
+      "small diameter, low frequency",
+      "small diameter, high frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "For a disc-shaped PZT crystal producing continuous sound, which design will create a beam with the deepest focus?",
+    "choices": [
+      "large diameter, low frequency",
+      "large diameter, high frequency",
+      "small diameter, low frequency",
+      "small diameter, high frequency"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two ultrasound systems are identical except for the diameter of the transducer's piezoelectric crystal. Which system has the deepest focus?",
+    "choices": [
+      "the system with the smaller diameter crystal",
+      "the one with the larger diameter crystal",
+      "their foci will be at the same depth"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two systems are identical except for the frequency of the emitted pulse. Which system will have the deeper focus?",
+    "choices": [
+      "the lower frequency system",
+      "the higher frequency system",
+      "both foci will be at the same depth"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "As sound travels deeply into the far zone, the beam diverges, or spreads out. Which of the following will result in a minimum beam divergence deep in the far zone?",
+    "choices": [
+      "small diameter, high frequency",
+      "high frequency, large diameter",
+      "large diameter, low frequency",
+      "low frequency, small diameter"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "As sound travels deeply into the far zone, the beam diverges, or spreads out. Which of the following will result in the greatest beam divergence deep in the far zone?",
+    "choices": [
+      "small diameter, high frequency",
+      "high frequency, large diameter",
+      "large diameter, low frequency",
+      "low frequency, small diameter"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Two ultrasound systems are identical except for the pulse repetition period (PRP) of the emitted pulse. Which system will have the deeper focus?",
+    "choices": [
+      "the system with the lower PRP",
+      "the system with the higher PRP",
+      "their foci will be at the same depth"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following terms describe the shape of a sound wave created by a tiny fragment of PZT except:",
+    "choices": [
+      "spherical",
+      "Huygens' wavelet",
+      "V shaped",
+      "hourglass shaped"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following explains the difference in sound beam shape created by a disc-shaped crystal from that of a small chip of PZT?",
+    "choices": [
+      "Huygens' Principle",
+      "Snell's Law",
+      "Bernoulli's Law",
+      "Murphy's Law"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Huygens' Principle is based on ______.",
+    "choices": [
+      "refraction",
+      "constructive indices",
+      "transverse waves",
+      "interference"
+    ],
+    "answer": 3
   }
 ]

@@ -88,5 +88,45 @@
       "100 μs"
     ],
     "answer": 0
+  },
+  {
+    "prompt": "How long does it take for sound to make a round trip to and from the skin’s surface to a reflector depth of 1 cm in soft tissue?",
+    "choices": [
+      "13 μs",
+      "150 ms",
+      "15 μs",
+      "2 seconds"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In soft tissue, sound travels to a reflector and back to the transducer in 39 μs. How deep is the reflector?",
+    "choices": [
+      "2 cm",
+      "6 cm",
+      "3 cm",
+      "cannot be determined"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In soft tissue, sound travels to a reflector and back to the transducer in 39 μs. What is the total distance that the pulse traveled?",
+    "choices": [
+      "2 cm",
+      "6 cm",
+      "3 cm",
+      "cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "One reflector is 5 times deeper than another. The time of flight of sound to the deeper structure is ______ the time of flight of the shallower reflector.",
+    "choices": [
+      "one fifth as much as",
+      "equal to",
+      "less than",
+      "five times more than"
+    ],
+    "answer": 3
   }
 ]

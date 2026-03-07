@@ -300,5 +300,275 @@
       "2 MHz"
     ],
     "answer": 0
+  },
+  {
+    "prompt": "Which component of an ultrasound system is made of lead zirconate titanate (PZT)?",
+    "choices": [
+      "transducer's matching layer",
+      "Transducer's active element",
+      "transducer's damping material",
+      "scan converter's computer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "How thick is the active element of a 3 MHz pulsed wave transducer?",
+    "choices": [
+      "1.54 mm",
+      "0.51 mm",
+      "half of the wavelength of the sound wave in the PZT",
+      "one quarter the wavelength of sound in the matching layer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? The purpose of the backing material of an ultrasound transducer is to shorten the pulses, thereby creating images with better image quality.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The main purposes of a transducer's case are:",
+    "choices": [
+      "to protect the patient from shock",
+      "to protect the patient from heat",
+      "to protect the internal components of the transducer",
+      "to protect the patient from radiation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which component of an ultrasound transducer is made from a slab of epoxy embedded with tungsten particles?",
+    "choices": [
+      "the matching layer",
+      "the piezoelectric crystal",
+      "the damping material",
+      "the computer chips"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? The characteristic impedance of acoustic gel is greater than the matching layer's impedance but less than the piezoelectric element's impedance.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The impedance of a transducer's matching layer is 2.6 MRayls and the impedance of the piezoelectric crystal is 3.4 MRayls. If this is assumed to be a good imaging system, what is the best estimate for the impedance of the skin?",
+    "choices": [
+      "1.5 MRayls",
+      "3.8 MRayls",
+      "3.4 MRayls",
+      "2.8 MRayls"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The piezoelectric crystal of a transducer typically has an impedance higher than the impedance of skin.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following lists orders the impedance from highest to lowest?",
+    "choices": [
+      "skin, gel, matching layer, PZT",
+      "PZT, gel, matching layer, skin",
+      "gel, PZT, matching layer, skin",
+      "PZT, matching layer, gel, skin"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the thickness of the matching layer of a 2 MHz pulsed wave transducer?",
+    "choices": [
+      "1.54 mm",
+      "0.77 mm",
+      "half the wavelength of the sound wave in the PZT",
+      "one-quarter the wavelength of sound in the matching layer"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? The acoustic impedance of the skin is greater than the acoustic impedances of both the matching layer and the piezoelectric element.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With regard to the backing material of a pulsed ultrasound transducer, is the following true or false? The damping material helps to decrease the pulse repetition period achieved at a given imaging depth?",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With regard to the backing material of a pulsed ultrasound transducer, is the following true or false? The backing material helps to decrease the duty cycle at a particular PRF.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "With regard to the backing material of a pulsed ultrasound transducer, is the following true or false? The pulse duration is increased as a result of the presence of backing material.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With regard to the backing material of a pulsed ultrasound transducer, is the following true or false? The backing material decreases the quality factor.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "With regard to the backing material of a pulsed ultrasound transducer, is the following true or false? The spatial pulse length is decreased with the application of backing material.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Assume that the frequency of sound with the greatest power emitted by a transducer is 5 MHz. However, the pulse contains acoustic energy with frequencies as low as 3.5 MHz and as high as 6.5 MHz. What is the bandwidth of the transducer?",
+    "choices": [
+      "6.5 MHz",
+      "5.0 MHz",
+      "3.5 MHz",
+      "3 MHz"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? In general, ultrasound imaging transducers have a lower quality factor and wider bandwidth than therapeutic ultrasound transducers.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Damping material is secured to piezoelectric material during the fabrication of an ultrasonic imaging transducer. Which of the following is not a consequence of this attachment?",
+    "choices": [
+      "bandwidth increases",
+      "quality factor decreases",
+      "sensitivity increases",
+      "transducer case is longer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following actions would cause a PZT crystal to lose its special properties?",
+    "choices": [
+      "breaking it in pieces",
+      "exposing it to high temperatures",
+      "exposing it to electrical current",
+      "exposing it to low pressures"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are true about transducers except...",
+    "choices": [
+      "It is necessary to sterilize transducers before use",
+      "most transducers simply require disinfection as they do not penetrate mucous membranes",
+      "sterilization could depolarize PZT",
+      "They are unlikely to transmit infection"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which properties of the piezoelectric crystal of a continuous wave transducer result in highest emitted acoustic waves frequency?",
+    "choices": [
+      "thin, high propagation speed",
+      "thick, slow propagation speed",
+      "thin, slow propagation speed",
+      "none of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What helps to determine the frequency of the sound produced by the transducer of a continuous wave ultrasound system?",
+    "choices": [
+      "piezoelectric crystal diameter",
+      "piezoelectric crystal thickness",
+      "damping material density",
+      "ultrasound system electronics"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "With pulsed wave ultrasonic imaging, what helps to establish the primary frequency of the acoustic energy discharged by the transducer?",
+    "choices": [
+      "piezoelectric crystal diameter",
+      "piezoelectric crystal thickness",
+      "damping material density",
+      "ultrasound system electronics"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "An ultrasonic pulse is traveling in soft tissue. Which of the following is most important in the determination of the frequency of the sound?",
+    "choices": [
+      "The propagation speed of the ultrasound transducer's matching layer",
+      "the thickness of the transducer's backing material",
+      "the impedance of the transducer's matching layer",
+      "the propagation speed of the transducer's active element"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the best estimate of the propagation speed of the ferroelectric element of a transducer used in a typical diagnostic imaging laboratory?",
+    "choices": [
+      "1.2 mm/usec",
+      "4.0 m/sec",
+      "4.0 mm/usec",
+      "1.0 km/sec"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which properties of the piezoelectric crystal of an imaging transducer result in the highest emitted acoustic wave frequency?",
+    "choices": [
+      "thin, high propagation speed",
+      "thick, slow propagation speed",
+      "thin, slow propagation speed",
+      "none of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "You are asked to fabricate a pulsed ultrasound transducer with the highest possible frequency. Which piezoelectric crystal would you select?",
+    "choices": [
+      "6 mm thick, 4 cm diameter, 4.0 mm/us propagation speed",
+      "8 mm thick, 2 cm diameter, 6.0 mm/us propagation speed",
+      "4 mm thick, 9 cm diameter, 5.0 mm/us propagation speed",
+      "2 mm thick, 6 cm diameter, 6.0 mm/us propagation speed"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "You are asked to fabricate a pulsed ultrasound transducer with the lowest possible frequency. Which piezoelectric crystal would you select?",
+    "choices": [
+      "6 mm thick, 4 cm diameter, 4.0 mm/us propagation speed",
+      "8 mm thick, 2 cm diameter, 6.0 mm/us propagation speed",
+      "4 mm thick, 9 cm diameter, 5.0 mm/us propagation speed",
+      "2 mm thick, 6 cm diameter, 6.0 mm/us propagation speed"
+    ],
+    "answer": 1
   }
 ]
