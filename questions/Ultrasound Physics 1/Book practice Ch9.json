@@ -112,5 +112,223 @@
       "middle of the focal zone"
     ],
     "answer": 2
+  },
+  {
+    "prompt": "A pair of 6 MHz probes are identical except for the active element diameter. The active element diameters are 6 mm and 10 mm. The sound beam of which probe will have a shallower focus?",
+    "choices": [
+      "6 mm diameter probe",
+      "10 mm diameter probe"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A pair of 9 mm diameter probes are identical except for frequency, which is 3 MHz and 6 MHz. Which beam will have a shallower focus?",
+    "choices": [
+      "3 MHz probe",
+      "6 MHz probe"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following probes creates a beam with the deepest focus?",
+    "choices": [
+      "4 mm diameter, 4 MHz",
+      "6 mm diameter, 8 MHz",
+      "6 mm diameter, 2 MHz",
+      "5 mm diameter, 8 MHz"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following probes creates a beam with the shallowest focus?",
+    "choices": [
+      "4 mm diameter, 4 MHz",
+      "6 mm diameter, 8 MHz",
+      "4 mm diameter, 2 MHz",
+      "5 mm diameter, 8 MHz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following probes creates a beam with the shallowest focus?",
+    "choices": [
+      "small diameter, high frequency",
+      "large diameter, high frequency",
+      "small diameter, low frequency",
+      "large diameter, low frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False. Active element diameter and near zone length are directly related.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False. Transducer frequency and near zone length are inversely related.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. Wavelength and near zone length are inversely related.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A pair of 6 MHz probes are identical except for the active element diameters, which are 6 mm and 10 mm, respectively. Which beam will be more compact in the far field?",
+    "choices": [
+      "6 mm diameter probe",
+      "10 mm diameter probe"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A pair of 9 mm diameter probes are identical except for frequencies, which are 3 MHz and 6 MHz. Which sound beam will spread out more in the far field?",
+    "choices": [
+      "3 MHz beam",
+      "6 MHz beam"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following probes creates a beam with the least divergence?",
+    "choices": [
+      "4 mm diameter, 4 MHz",
+      "6 mm diameter, 8 MHz",
+      "6 mm diameter, 2 MHz",
+      "5 mm diameter, 8 MHz"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following probes creates a beam with the most divergence?",
+    "choices": [
+      "4 mm diameter, 4 MHz",
+      "6 mm diameter, 8 MHz",
+      "4 mm diameter, 2 MHz",
+      "5 mm diameter, 8 MHz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following probes creates a beam with the most divergence?",
+    "choices": [
+      "small diameter, high frequency",
+      "large diameter, high frequency",
+      "small diameter, low frequency",
+      "large diameter, low frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False. Transducer frequency and beam divergence are inversely related.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False. Active element diameter and beam divergence are inversely related.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The frequency of a transducer does not change. If the diameter of the new piezoelectric crystal increases, what happens to the near zone length?",
+    "choices": [
+      "increases",
+      "decreases",
+      "no change"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The frequency of a transducer does not change. If the diameter of the new piezoelectric crystal increases, what happens to the beam diameter in the far zone?",
+    "choices": [
+      "increases",
+      "decreases",
+      "no change"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The frequency of a transducer does not change. If the diameter of the new piezoelectric crystal increases, what happens to the wavelength?",
+    "choices": [
+      "increases",
+      "decreases",
+      "no change"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The frequency of a transducer does not change. If the diameter of the new piezoelectric crystal increases, what happens to the beam diameter in the near zone?",
+    "choices": [
+      "increases",
+      "decreases",
+      "no change"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "At what location is the sound beam diameter three times greater than the transducer diameter?",
+    "choices": [
+      "at the end of the near zone",
+      "at a depth equal to four focal lengths",
+      "at the end of the far zone",
+      "at the triple-diameter depth"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the shape of a sound beam created by a tiny piece of PZT?",
+    "choices": [
+      "hourglass shaped",
+      "V-shaped",
+      "round",
+      "shaped like a tube"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following explains why a sound beam created by a disc-shaped crystal is hourglass shaped?",
+    "choices": [
+      "Bernoulli’s Principle",
+      "Sheffield’s Law",
+      "Ohm’s Law",
+      "Huygens’ Principle"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following locations is the deepest?",
+    "choices": [
+      "end of the Fresnel zone",
+      "end of the focal zone",
+      "end of the Fraunhofer zone",
+      "end of the near zone"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following locations is the most shallow?",
+    "choices": [
+      "beginning of the far zone",
+      "beginning of the focal zone",
+      "focal depth",
+      "beginning of the Fraunhofer zone"
+    ],
+    "answer": 1
   }
 ]
