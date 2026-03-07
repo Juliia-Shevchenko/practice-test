@@ -1,0 +1,107 @@
+[
+  {
+    "prompt": "In Fig. 9.4, a disc-shaped PZT crystal creates a continuous wave sound beam. The diameter of the active element is 12 mm and the near zone length is 8 cm. What is the best estimate of the diameter or width of the sound beam as it exits the transducer?",
+    "image": "images/Physics/Ch9-Q1_10.jpg",
+    "choices": [
+      "6 mm",
+      "9 mm",
+      "12 mm",
+      "8 mm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In Fig. 9.4, a disc-shaped PZT crystal creates a continuous wave sound beam. The diameter of the active element is 12 mm and the near zone length is 8 cm. What is the diameter of the sound beam at a depth of 8 cm?",
+    "choices": [
+      "6 mm",
+      "9 mm",
+      "12 mm",
+      "8 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In Fig. 9.4, a disc-shaped PZT crystal creates a continuous wave sound beam. The diameter of the active element is 12 mm and the near zone length is 8 cm. What is the diameter of the sound beam at a depth of 16 cm?",
+    "choices": [
+      "6 mm",
+      "9 mm",
+      "12 mm",
+      "8 mm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In Fig. 9.4, a disc-shaped PZT crystal creates a continuous wave sound beam. The diameter of the active element is 12 mm and the near zone length is 8 cm. At what depth is the focus?",
+    "choices": [
+      "6 cm",
+      "8 cm",
+      "1 cm",
+      "12 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In Fig. 9.4, a disc-shaped PZT crystal creates a continuous wave sound beam. The diameter of the active element is 12 mm and the near zone length is 8 cm. What depth marks the beginning of the focal zone?",
+    "choices": [
+      "6 cm",
+      "8 cm",
+      "12 mm",
+      "8 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What depth marks the end of the focal zone?",
+    "choices": [
+      "6 cm",
+      "8 cm",
+      "10 mm",
+      "10 cm",
+      "8 mm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "At which of the following depths is the beam narrowing?",
+    "choices": [
+      "6 cm",
+      "8 cm",
+      "12 cm",
+      "10 cm",
+      "9 cm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "At which of the following depths is the beam widening?",
+    "choices": [
+      "2 cm",
+      "4 cm",
+      "6 cm",
+      "8 cm",
+      "9.375 cm"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "At which of the following depths is the beam most likely to have the same diameter as it has at a depth of 11 cm?",
+    "choices": [
+      "1 cm",
+      "3 cm",
+      "5 cm",
+      "8 cm",
+      "14 cm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following terms does not belong?",
+    "choices": [
+      "focus",
+      "end of the near zone",
+      "end of the Fraunhofer zone",
+      "middle of the focal zone"
+    ],
+    "answer": 2
+  }
+]

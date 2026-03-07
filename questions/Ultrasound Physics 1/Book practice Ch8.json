@@ -1,0 +1,304 @@
+[
+  {
+    "prompt": "You are given 5 substances: backing material, PZT, matching layer, gel, and skin, whose impedances have been measured. The labels have fallen off. The possible impedances are 0.8 Mrayls, 1.9 Mrayls, 1.6 Mrayls, 2.0 Mrayls, and 1.0 Mrayls. If the impedance of the backing material is 1.9 Mrayls, what is the impedance of PZT?",
+    "choices": [
+      "0.8 Mrayls",
+      "1.0 Mrayls",
+      "1.6 Mrayls",
+      "2.0 Mrayls"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Pulse length is [directly or inversely] related to pulse duration.",
+    "choices": [
+      "directly",
+      "inversely"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Q-factor is [directly or inversely] related to bandwidth.",
+    "choices": [
+      "directly",
+      "inversely"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Pulse duration is [directly or inversely] related to bandwidth.",
+    "choices": [
+      "directly",
+      "inversely"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The sensitivity of transducers that create short duration pulses is likely to be [greater than, less than, or equal to] that of transducers that create long pulses.",
+    "choices": [
+      "greater than",
+      "less than",
+      "equal to"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following correctly describe an imaging transducer except.",
+    "choices": [
+      "high sensitivity",
+      "low Q",
+      "wide bandwidth",
+      "damped"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False: Shorter duration events (such as dampened pulses) are more likely to be wide bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What occurs when a PZT crystal’s temperature is elevated above the Curie point?",
+    "choices": [
+      "The crystal becomes more sensitive",
+      "The PZT becomes depolarized and loses its piezoelectric properties permanently",
+      "The transducer frequency increases",
+      "The impedance decreases"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The acoustic impedance of the matching layer is approximately the same as the acoustic impedance of skin.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Imaging transducers are usually of high rather than low bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A very high Q factor transducer is used more often in diagnostic imaging transducers than a low Q factor.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A pulse with a long pulse duration is likely to have a narrow bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The damping material in a transducer increases the sensitivity.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer increases the pulse length.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer decreases the pulse duration.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The damping material in a transducer improves the system’s lateral resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer improves the system’s longitudinal resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The damping material in a transducer decreases the bandwidth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The damping material in a transducer decreases the quality factor.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the frequency of the electrical excitation voltage of a pulsed wave transducer is 6 MHz, then the operating frequency of the transducer is 6 MHz.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the pulse repetition frequency of a transducer is increased, then the frequency of sound produced by the transducer remains the same.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The diameter of the active element of a transducer helps to determine the frequency of the sound that the transducer creates.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the frequency of the electrical excitation voltage of a continuous wave transducer is 6 MHz, then the operating frequency of the transducer is 6 MHz.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two piezoelectric crystals are made from the same material. The thicker crystal will make a pulsed transducer with a higher frequency.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two piezoelectric crystals are made from the same material. The thicker crystal will make a continuous wave transducer with a lower frequency.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The normal propagation speed in piezoelectric material is about 3 to 5 times greater than that in soft tissue.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The impedance of a transducer active element is 1,900,000 Rayls, and the impedance of the skin is 1,400,000 Rayls. What is an acceptable impedance for the matching layer?",
+    "choices": [
+      "1,200,000 Rayls",
+      "1,400,000 Rayls",
+      "1,726,000 Rayls",
+      "1,950,000 Rayls"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following crystals will produce sound with the lowest frequency?",
+    "choices": [
+      "thin and with a low speed",
+      "thin and with a high speed",
+      "thick and with a low speed",
+      "thick and with a high speed"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which type of transducer has a greater Q-factor: therapeutic or imaging?",
+    "choices": [
+      "Therapeutic",
+      "Imaging"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which type of transducer has a greater bandwidth: continuous wave or imaging?",
+    "choices": [
+      "Continuous wave",
+      "Imaging"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which type of transducer has more backing material: therapeutic or imaging?",
+    "choices": [
+      "Therapeutic",
+      "Imaging"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In an imaging transducer, what is the purpose of attaching the backing material to the PZT?",
+    "choices": [
+      "increase the bandwidth",
+      "decrease the Q-factor",
+      "improve image quality",
+      "decrease the transducer’s sensitivity"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A pulsed-wave transducer has a resonant frequency of 5 MHz. The lowest frequency in the pulse is 2 MHz and the highest is 8 MHz. What is the bandwidth?",
+    "choices": [
+      "5 MHz",
+      "8 MHz",
+      "3 MHz",
+      "6 MHz",
+      "2 MHz"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "For the transducer described in question 25, what is the main frequency?",
+    "choices": [
+      "5 MHz",
+      "8 MHz",
+      "3 MHz",
+      "6 MHz",
+      "2 MHz"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "For the transducer described in question 25, what is the Q-factor?",
+    "choices": [
+      "0.8",
+      "3 MHz",
+      "5 MHz",
+      "1.5",
+      "2 MHz"
+    ],
+    "answer": 0
+  }
+]
