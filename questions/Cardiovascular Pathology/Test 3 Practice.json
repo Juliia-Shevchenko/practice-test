@@ -1,0 +1,562 @@
+[
+  {
+    "prompt": "What agent can be used in a patient for stress echo if he can't walk?",
+    "choices": [
+      "Lidocaine",
+      "persantine",
+      "dobutamine",
+      "Benzo diazepam"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Injection into the bloodstream of an agent that results in increased echogenicity of the blood or myocardium on ultrasound imaging is called",
+    "choices": [
+      "Stress Echo",
+      "Contrast Echo",
+      "Point of care echo",
+      "Intra cardiac echo"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is used to treat bradycardia?",
+    "choices": [
+      "metoprolol",
+      "atropine",
+      "diuretics",
+      "verapamil"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a vasodilator and first choice for angina and ischemia?",
+    "choices": [
+      "ACE inhibitors",
+      "morphine",
+      "nitroglycerine",
+      "oxygen"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The gold standard test for determination of ischemic heart disease is",
+    "choices": [
+      "Contrast echo",
+      "Stress echo",
+      "Intracardiac echo",
+      "Trans esophageal echo"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The best test to detect septal defects is",
+    "choices": [
+      "Stress echo",
+      "Trans thoracic echo",
+      "Contrast echo",
+      "Trans esophageal echo"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The best exam to visualize a suspected left atrial clot is",
+    "choices": [
+      "Stress echocardiogram",
+      "Intracardiac echocardiogram",
+      "Transesophageal echocardiogram",
+      "Transthoracic echocardiogram"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Beta-blockers work by",
+    "choices": [
+      "Increasing urine output",
+      "Blocking beta-adrenergic receptors",
+      "Inhibiting ACE",
+      "Blocking calcium channels"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "An example of an ACE inhibitor is",
+    "choices": [
+      "Losartan",
+      "Enalapril",
+      "Metoprolol",
+      "Amlodipine"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which calcium channel blocker is used to treat arrhythmias?",
+    "choices": [
+      "Verapamil",
+      "Prazosin",
+      "Spironolactone",
+      "Atenolol"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Nitrates help in angina by",
+    "choices": [
+      "Reducing heart rate",
+      "Blocking sodium channels",
+      "Dilating blood vessels",
+      "Inhibiting platelet aggregation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "An example of a nitrate is",
+    "choices": [
+      "Amlodipine",
+      "Nitroglycerin",
+      "Metoprolol",
+      "Warfarin"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Beta-blockers in angina work by",
+    "choices": [
+      "Increasing nitric oxide levels",
+      "Reducing myocardial oxygen demand",
+      "Blocking calcium channels",
+      "Prolonging repolarization"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which drug increases the force of cardiac contraction?",
+    "choices": [
+      "Spironolactone",
+      "Digoxin",
+      "Amlodipine",
+      "Losartan"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which anticoagulant is administered orally?",
+    "choices": [
+      "Heparin",
+      "Warfarin",
+      "Aspirin",
+      "Clopidogrel"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Aspirin acts as an antiplatelet by",
+    "choices": [
+      "Inhibiting clotting factors",
+      "Blocking platelet aggregation",
+      "Dilating blood vessels",
+      "Inhibiting calcium influx"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Calcium channel blockers inhibit",
+    "choices": [
+      "Potassium channels",
+      "Sodium channels",
+      "Calcium influx",
+      "Beta-adrenergic receptors"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "An example of a beta-blocker is",
+    "choices": [
+      "Lisinopril",
+      "Metoprolol",
+      "Furosemide",
+      "Losartan"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Nitroglycerin is used in",
+    "choices": [
+      "Atrial fibrillation",
+      "Angina pectoris",
+      "Deep vein thrombosis",
+      "Arrhythmias"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which drug is classified as an inotrope?",
+    "choices": [
+      "Ramipril",
+      "Digoxin",
+      "Valsartan",
+      "Atenolol"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which drug class is commonly used after a myocardial infarction?",
+    "choices": [
+      "Anticoagulants",
+      "ACE inhibitors",
+      "Nitrates",
+      "Diuretics"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A drug used to treat atrial fibrillation by blocking beta-adrenergic receptors is",
+    "choices": [
+      "Amiodarone",
+      "Metoprolol",
+      "Amlodipine",
+      "Clopidogrel"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The primary goal of anticoagulant therapy is to",
+    "choices": [
+      "Increase blood pressure",
+      "Reduce cholesterol levels",
+      "Prevent thrombosis",
+      "Enhance cardiac contraction"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What minimally invasive procedure is frequently performed to open narrowed or blocked blood vessels?",
+    "choices": [
+      "Thromboplastic surgery",
+      "Angiography",
+      "Venostasis",
+      "Angioplasty"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "For which condition might Coumadin be prescribed?",
+    "choices": [
+      "Hypovolemia",
+      "Hypertension",
+      "Hypercoagulopathy",
+      "Hypotension"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which procedure allows visualization of the coronary arteries and placement of a stent?",
+    "choices": [
+      "Echocardiography",
+      "Enhanced external counter pulsation",
+      "Coronary artery bypass",
+      "Cardiac catheterization"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is Coumadin used for?",
+    "choices": [
+      "Increase vitamin K activity",
+      "Promote collateral vessels",
+      "Prevent restenosis",
+      "Reduce clot formation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Major health risk for atrial fibrillation patients",
+    "choices": [
+      "Hypertension",
+      "Bundle branch block",
+      "Congestive heart failure",
+      "Thrombus formation or embolism"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Treatment usually attempted for atrial fibrillation",
+    "choices": [
+      "Exercise stress test",
+      "Angiogram",
+      "Medication and/or electrical cardioversion",
+      "Echocardiogram"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What heart chamber receives blood from the body?",
+    "choices": [
+      "Right ventricle",
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Most common echocardiography test",
+    "choices": [
+      "Transesophageal echo",
+      "Transthoracic echo",
+      "Breast echo",
+      "Electrocardiogram"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Patient position for transthoracic echo",
+    "choices": [
+      "Supine",
+      "Prone",
+      "Right lateral decubitus",
+      "Left lateral decubitus"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which requires IV access?",
+    "choices": [
+      "Transthoracic echo",
+      "Pharmacologic stress echo",
+      "Stress echo",
+      "Pediatric echo"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is used to treat bradycardia?",
+    "choices": [
+      "metoprolol",
+      "atropine",
+      "diuretics",
+      "verapamil"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is not an anticoagulant or antiplatelet?",
+    "choices": [
+      "heparin",
+      "aspirin",
+      "warfarin",
+      "metoprolol"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which is not a topical administration?",
+    "choices": [
+      "epicutaneous",
+      "oral",
+      "intranasal",
+      "inhalation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is not an antihypertensive drug?",
+    "choices": [
+      "beta blockers",
+      "ACE inhibitors",
+      "vasopressors",
+      "diuretics"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which modality is not most useful for chronic pulmonary disorder?",
+    "choices": [
+      "Transthoracic echo",
+      "Transesophageal echo",
+      "right sided contrast echo",
+      "left sided contrast echo"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which is not a major complication of stress echo?",
+    "choices": [
+      "Sustained ventricular tachycardia",
+      "Hypotension",
+      "Tachycardia",
+      "Hypoglycemia"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Mechanism of diuretics to reduce blood pressure",
+    "choices": [
+      "Increase vessel diameter",
+      "Increase resistance",
+      "Decrease resistance",
+      "Increase urine production"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Anti-arrhythmic medicines include",
+    "choices": [
+      "Beta blockers",
+      "Cardiac glycosides",
+      "CCB",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Procedure for 90% coronary occlusion",
+    "choices": [
+      "CABG",
+      "Enhanced counter pulsation",
+      "PTCA",
+      "Thrombolytic therapy"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Stent is inserted to",
+    "choices": [
+      "Repair vessel walls",
+      "Prevent restenosis",
+      "Reroute blood",
+      "Prevent bleeding"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Purpose of dye in PCI",
+    "choices": [
+      "Locate blockage",
+      "Contains Coumadin",
+      "Avoid nerves",
+      "Changes color"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Atherosclerosis is commonly known as",
+    "choices": [
+      "Arteriosclerosis",
+      "Cardiac arrest",
+      "Myocardial infarction",
+      "Peripheral artery disease"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Where does plaque buildup start?",
+    "choices": [
+      "Tunica media",
+      "Tunica intima",
+      "Tunica adventitia",
+      "Lumen"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Complication of atherosclerosis",
+    "choices": [
+      "Hyperlipidemia",
+      "Hemorrhage into plaque",
+      "Ventricular hypertrophy",
+      "Hypertension"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Dislodged plaque can lead to",
+    "choices": [
+      "Stroke and organ failure",
+      "Hypertension",
+      "Increased heart rate",
+      "Increased perfusion"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Angina pectoris is",
+    "choices": [
+      "Heart attack",
+      "Symptom of ischemia",
+      "Pulmonary condition",
+      "Vascular disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Smoking increases risk by",
+    "choices": [
+      "Promoting plaque rupture",
+      "Enhancing HDL",
+      "Reducing perfusion",
+      "Dilating vessels"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Hypertension increases",
+    "choices": [
+      "Oxygen delivery",
+      "Vessel wall stress",
+      "Blood lipid levels",
+      "HDL"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Standard therapy for chronic angina",
+    "choices": [
+      "CCB",
+      "ACE inhibitors",
+      "Nitrates",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Aspirin in ischemic heart disease is used to",
+    "choices": [
+      "Reduce heart rate",
+      "Prevent acute coronary syndromes",
+      "Lower cholesterol",
+      "Increase oxygen demand"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Beta-blockers beneficial in angina because",
+    "choices": [
+      "Increase oxygen supply",
+      "Reduce oxygen demand",
+      "Lower cholesterol",
+      "Prevent embolism"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Nitrates relieve angina by",
+    "choices": [
+      "Blocking calcium channels",
+      "Dilating blood vessels",
+      "Increasing heart rate",
+      "Reducing LDL"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Embolization of disrupted plaque can cause",
+    "choices": [
+      "Stroke",
+      "Aneurysm",
+      "Dyslipidemia",
+      "Chronic ischemia"
+    ],
+    "answer": 0
+  }
+]
