@@ -430,12 +430,12 @@
     "answer": 1
   },
   {
-    "prompt": "Purpose of dye in PCI",
+    "prompt": "Mrs. Bayfield is prepared for percutaneous coronary intervention. As you are also assisting in her procedure, she states, They are going to put a stent in my heart",
     "choices": [
-      "Locate blockage",
-      "Contains Coumadin",
-      "Avoid nerves",
-      "Changes color"
+      "The dye is used to find the exact location of the blockage.",
+      "The dye contains Coumadin, which will make the blood flow more freely.",
+      "The dye is a precaution to help the surgeon avoid nearby nerve endings.",
+      "The dye is an indicator that changes color when blood flow is restored."  
     ],
     "answer": 0
   },
