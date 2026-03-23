@@ -412,9 +412,9 @@
   {
     "prompt": "Procedure for 90% coronary occlusion",
     "choices": [
-      "CABG",
+      "Coronary artery bypass graft surgery",
       "Enhanced counter pulsation",
-      "PTCA",
+      "Percutaneous transluminal coronary angioplasty",
       "Thrombolytic therapy"
     ],
     "answer": 2
