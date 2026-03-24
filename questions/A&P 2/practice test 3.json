@@ -1,0 +1,510 @@
+[
+  {
+    "prompt": "Which of the following is NOT a function of the kidneys?",
+    "choices": [
+      "Maintaining volume, pH, and composition of body fluids within normal ranges",
+      "Removal of excess chemicals",
+      "Removal of metabolic wastes",
+      "Synthesis of plasma proteins"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What are the organs of the urinary system?",
+    "choices": [
+      "The renal cortex, renal pelvis, and renal medulla.",
+      "The glomerular capsule, proximal convoluted tubule, the nephron loop, distal convoluted tubule, and the collecting duct.",
+      "The major and minor calyces, renal pelvis, and renal sinus.",
+      "The paired kidneys, paired ureters, a bladder and a urethra."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following chemicals might athletes abuse because of its potential ability to improve performance by increasing red blood cell production?",
+    "choices": [
+      "ADH",
+      "Erythropoietin (EPO)",
+      "Aldosterone",
+      "Urea"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The renal corpuscle includes what two structures?",
+    "choices": [
+      "Glomerulus and glomerular capsule",
+      "Glomerulus and renal tubule",
+      "Glomerular capsule and renal tubule",
+      "Renal tubule and collecting tubule"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the correct sequence of renal tubule segments through which filtrate would flow?",
+    "choices": [
+      "Proximal tubule, ascending limb of nephron loop, descending limb of nephron loop, distal tubule",
+      "Distal tubule, ascending limb of nephron loop, descending limb of nephron loop, proximal tubule",
+      "Proximal tubule, descending limb of nephron loop, ascending limb of nephron loop, distal tubule",
+      "Collecting duct, proximal tubule, descending limb of nephron loop, ascending limb of nephron loop, distal tubule"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What would be the likely outcome if tubular reabsorption in the nephron did not occur?",
+    "choices": [
+      "Accumulation of toxic waste",
+      "Excessive loss of fluids",
+      "Cessation of urination",
+      "Excessive retention of electrolytes and glucose"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The hormone ADH promotes water reabsorption through the wall(s) of the__________.",
+    "choices": [
+      "distal tubule and collecting duct",
+      "proximal tubule and collecting duct",
+      "ascending limb of the nephron loop",
+      "descending limb of the nephron loop"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "About how many liters of fluid will an average adult filter through both kidneys in two days?",
+    "choices": [
+      "180",
+      "250",
+      "360",
+      "540"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The__________ is the tube that conveys urine outside the body.",
+    "choices": [
+      "ureter",
+      "urethra",
+      "collecting duct",
+      "nephron loop"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Why are females are at higher risk of contracting a urinary tract infection?",
+    "choices": [
+      "The female urethra is shorter than the male's.",
+      "The female urethra is longer than the male's.",
+      "Women sit down to urinate.",
+      "Women use toilet paper after they urinate."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Glomerulonephritis is inflammation of the__________.",
+    "choices": [
+      "glomerular capsule",
+      "peritubular capillaries",
+      "glomerular capillaries",
+      "collecting ducts"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is a function of the kindeys?",
+    "choices": [
+      "Synthesis of vitamin D",
+      "Regulation of blood-glucose levels",
+      "Excretion of carbon dioxide",
+      "Regulation of lymphocyte production"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A nephron consists of what structures?",
+    "choices": [
+      "A renal corpuscle and a renal tubule",
+      "An afferent and efferent arteriole",
+      "A cortex and a medulla",
+      "A bladder and a ureter"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The renal medulla contains__________, whereas the renal cortex contains__________.",
+    "choices": [
+      "renal pyramids; ureters from nephrons",
+      "renal columns; renal pyramids and nephrons",
+      "renal corpuscles; nephron loops",
+      "renal pyramids; renal corpuscles"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A renal corpuscle is a__________, whereas a renal tubule is a__________.",
+    "choices": [
+      "cluster of blood capillaries and glomerular capsule; highly coiled tubule exiting the glomerular capsule",
+      "special blood cell in the kidneys; tubule that leads from the kidneys to the bladder",
+      "storage area for urine; tubule that carries urine from the urinary bladder outside",
+      "glandular structure that regulates blood pressure; blood vessel that regulates the flow of blood into the glomerulus"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is a normal constituent of urine?",
+    "choices": [
+      "Glucose",
+      "Creatinine",
+      "Large proteins",
+      "Blood"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Glomerular filtration produces about__________ liters of fluid in twenty-four hours.",
+    "choices": [
+      "40",
+      "96",
+      "144",
+      "180"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Extracorporeal shock-wave lithotripsy is used to treat__________.",
+    "choices": [
+      "kidney failure",
+      "a urinary tract infection",
+      "kidney stones",
+      "gout"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the trigone?",
+    "choices": [
+      "A group of three neighboring nephrons in a kidney.",
+      "A triangular area on the floor of the urinary bladder.",
+      "A region where the glomerulus meets the glomerular capsule.",
+      "A muscle layer that surrounds each kidney."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is nocturnal enuresis?",
+    "choices": [
+      "An infection",
+      "Bedwetting",
+      "Kidney stones",
+      "A form of kidney cancer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What does hemodialysis involve?",
+    "choices": [
+      "An artificial kidney",
+      "An artificial liver",
+      "A kidney transplant",
+      "A bone marrow transplant"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Why are water balance and electrolyte balance considered to be interdependent?",
+    "choices": [
+      "Because water dissolves in electrolytes",
+      "Because water and electrolytes are both in an ionic state in the blood",
+      "Because both form ions in blood",
+      "Because electrolytes are dissolved in water"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is a type of transcellular fluid?",
+    "choices": [
+      "Cerebrospinal fluid",
+      "Interstitial fluid",
+      "Blood plasma",
+      "Cytoplasm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Compared to the body of an average adult male, the body of an average adult female will have__________.",
+    "choices": [
+      "more water and more adipose tissue",
+      "more water and less adipose tissue",
+      "less water and more adipose tissue",
+      "less water and less adipose tissue"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "High concentrations of__________ are found in intracellular fluid.",
+    "choices": [
+      "chloride and potassium ions",
+      "sodium and phosphate ions",
+      "potassium and phosphate ions",
+      "sodium and chloride ions"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the largest compartment of extracellular fluid?",
+    "choices": [
+      "Plasma",
+      "Lymph",
+      "Interstitial fluid",
+      "Transcellular fluid"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the ratio of intracellular to extracellular fluids in the body of an average male?",
+    "choices": [
+      "1:1",
+      "1:2",
+      "2:1",
+      "3:2"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The thirst center in the hypothalamus is stimulated by__________ of the extracellular fluid, and is inhibited by__________.",
+    "choices": [
+      "an increase in the osmotic pressure; distension of the stomach by water",
+      "a decrease in the osmotic pressure; stimulation of osmoreceptors",
+      "a decrease in sodium ions; an increase in sodium ions",
+      "nerve impulses from the cerebrum; nerve impulses from the thalamus"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is an effect of drinking too much water?",
+    "choices": [
+      "Osmoreceptors gain water and swell; ADH release is stimulated.",
+      "Osmoreceptors gain water and swell; ADH release is inhibited.",
+      "Osmoreceptors lose water and shrink; ADH release is stimulated.",
+      "Osmoreceptors lose water and shrink; ADH release is inhibited."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a physiological buffer?",
+    "choices": [
+      "Bicarbonate buffer",
+      "Phosphate buffer",
+      "Protein buffer",
+      "Renal mechanism"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What blood pH occurs with the condition called acidosis?",
+    "choices": [
+      "above 7.45",
+      "7.35 to 7.45",
+      "below 7.35"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What blood pH occurs with the condition called alkalosis?",
+    "choices": [
+      "Above 7.45",
+      "7.35 to 7.45",
+      "Below 7.35"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Prolonged vomiting of stomach contents can lead to__________.",
+    "choices": [
+      "metabolic alkalosis",
+      "metabolic acidosis",
+      "respiratory alkalosis",
+      "respiratory acidosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What process can compensate for respiratory alkalosis?",
+    "choices": [
+      "Increase in breathing rate",
+      "Increase in secretion of bases by the kidneys",
+      "Decrease in breathing rate",
+      "Increase in secretion of hydrogen ion by the kidneys"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Dehydration can be caused by__________.",
+    "choices": [
+      "excessive water intake",
+      "prolonged sleep deprivation",
+      "prolonged vomiting or prolonged diarrhea",
+      "obstruction of airways"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What occurs during the first meiotic division?",
+    "choices": [
+      "A sperm and egg form.",
+      "Homologous chromosome pairs separate.",
+      "Homologous chromosome pairs join.",
+      "The cell becomes diploid."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Why is meiosis necessary?",
+    "choices": [
+      "Otherwise the fertilized ovum will have too much genetic material.",
+      "Otherwise the fertilized ovum will have too little genetic material.",
+      "Otherwise reproduction would have to be asexual.",
+      "Otherwise too many mutations will occur."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How many chromosomes are present in each cell at the end of meiosis I?",
+    "choices": [
+      "12 chromosomes",
+      "23 chromosomes",
+      "46 chromosomes",
+      "68 chromosomes"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Where do sperm cells mature?",
+    "choices": [
+      "In the ductus deferens",
+      "In the ejaculatory duct",
+      "In the epididymis",
+      "In the seminal vesicle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What hormone is responsible for the development and maintenance of male secondary sex characteristics?",
+    "choices": [
+      "LH",
+      "FSH",
+      "Testosterone",
+      "GnRH"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What stimulates the release of testosterone?",
+    "choices": [
+      "Increased plasma concentration of LH",
+      "Decreased plasma concentration of LH",
+      "Decreased plasma concentration of FSH",
+      "Increased plasma concentration of FSH"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The egg, or ovum, is more correctly called a(n)__________.",
+    "choices": [
+      "primary oocyte",
+      "secondary oocyte",
+      "oogonium",
+      "zygote"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A Pap smear is used to detect abnormal cells in the__________.",
+    "choices": [
+      "urethra",
+      "ovary",
+      "cervix",
+      "vagina"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The uterine tube is located between what two structures?",
+    "choices": [
+      "Uterus and the cervix",
+      "Uterus and vagina",
+      "Vagina and labia majora",
+      "Ovary and uterus"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Fertilization normally occurs in the__________.",
+    "choices": [
+      "ovary",
+      "uterine tube",
+      "uterus",
+      "vagina"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What occurs in the first step of oogenesis?",
+    "choices": [
+      "Secondary oocyte divides to form a polar body and an egg cell.",
+      "Primary oocyte divides to form a secondary oocyte and a first polar body.",
+      "Primary oocyte divides to form two secondary oocytes.",
+      "Secondary oocyte divides to form two polar bodies."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Menopause is due to aging of the________.",
+    "choices": [
+      "ovaries",
+      "vagina",
+      "cervix",
+      "uterine tube"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Ovulation is triggered by a surge of_________ from the anterior pituitary gland.",
+    "choices": [
+      "estrogens",
+      "progesterone",
+      "LH",
+      "androgens"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In the reproductive cycle, estrogens__________, whereas progesterone__________.",
+    "choices": [
+      "stimulates erection of the clitoris; stimulates the uterine lining to become glandular",
+      "ejects milk from the mammary glands; stimulates milk secretion",
+      "stimulates uterine wall development; stimulates the uterine lining to become more glandular",
+      "inhibits the release of FSH; stimulates the release of FSH"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is endometriosis?",
+    "choices": [
+      "Diminished menstrual flow",
+      "Growth of tissue in the abdominal cavity that resembles the uterine lining",
+      "Discontinuation of growth of the uterine lining during reproductive cycles.",
+      "Cessation of the uterine and ovarian cycles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "When fertilized, what cell becomes a zygote?",
+    "choices": [
+      "Mature follicle",
+      "Primary oocyte",
+      "Secondary oocyte",
+      "Polar body"
+    ],
+    "answer": 2
+  }
+]
