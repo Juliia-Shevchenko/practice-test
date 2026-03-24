@@ -377,7 +377,7 @@
       "right sided contrast echo",
       "left sided contrast echo"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "prompt": "Which is not a major complication of stress echo?",
