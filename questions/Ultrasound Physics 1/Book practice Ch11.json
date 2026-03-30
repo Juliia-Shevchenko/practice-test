@@ -68,5 +68,300 @@
       "Time axis"
     ],
     "answer": 2
+  },
+  {
+    "prompt": "Which imaging modality places time-of-flight information on the x-axis and echo amplitude on the y-axis?",
+    "choices": [
+      "M-mode",
+      "L-mode",
+      "J-mode",
+      "A-mode"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which imaging mode accurately displays reflector depth?",
+    "choices": [
+      "I-mode",
+      "L-mode",
+      "C-mode",
+      "A-mode"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which imaging technique usually displays a single jagged line of varying heights?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "C-mode",
+      "J-mode"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "With B-mode, on which axis is the strength of the reflection input?",
+    "choices": [
+      "x-axis",
+      "y-axis",
+      "z-axis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which imaging modality places dots of dissimilar gray scale on the display?",
+    "choices": [
+      "A-mode",
+      "I-mode",
+      "B-mode",
+      "M-mode"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The mode that produces lines related to the changing position of reflectors in the body with respect to time is called ___.",
+    "choices": [
+      "A-mode",
+      "M-mode",
+      "B-mode",
+      "a la mode"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "To which of the following do the x-axis of a B-mode, the y-axis of an M-mode and the x-axis of an A-mode all relate?",
+    "choices": [
+      "depth of view",
+      "go time",
+      "echo amplitude",
+      "time of flight"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "With these transducers, the ultrasound beam is steered by a motor, a rotating reflecting mirror, or a similar device.",
+    "choices": [
+      "linear switched array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "These transducers focus the ultrasound beam electronically.",
+    "choices": [
+      "linear switched array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With these transducers, the ultrasound beam is focused with an acoustic lens, a mirror, or by milling the piezoelectric crystal in a curved shape.",
+    "choices": [
+      "linear switched array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The ultrasound beam is directed in many different directions to create an imaging plane.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The ultrasound beam is not focused electronically.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "There is communication between the pulser of the ultrasound system and the piezoelectric crystal of the transducer.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Foci exist at multiple depths as an ultrasound beam propagates through the body.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which two of the following terms are associated with phased array transducers?",
+    "choices": [
+      "lens",
+      "multi-focus",
+      "mirror",
+      "adjustable",
+      "external"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The minimum number of active elements in a mechanical transducer is:",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "none of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which best describes the elements in a linear phased array transducer?",
+    "choices": [
+      "rectangular, 1/4 wavelength thick",
+      "rectangular, 1/2 to 1/4 wavelength wide",
+      "circular",
+      "squares, 1/2 wavelength thick"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All phased array transducer systems direct ultrasound pulses in many directions to create a two-dimensional image.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How are the piezoelectric crystals of a linear phased array transducer fired?",
+    "choices": [
+      "in a single specific pattern",
+      "in order, from top to bottom",
+      "at exactly the same time",
+      "at almost exactly the same time"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The pattern of electrical signals exciting the piezoelectric crystals of a linear phased array transducer ___.",
+    "choices": [
+      "typically changes from one acoustic pulse to the next",
+      "changes every fourth or fifth acoustic pulse",
+      "changes only when the maximum imaging depth changes",
+      "none of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The “curved pattern” of delays in the electrical spikes used in a linear phase array transducer focuses the beam during transmission.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The “curved pattern” of delays in the electrical spikes used in a linear phase array transducer focuses the beam during reception.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Both linear and phased array technologies have the ability to variably focus an ultrasound beam to different depths.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following forms of focusing is different from the others?",
+    "choices": [
+      "lens",
+      "mirror",
+      "phased",
+      "dynamic receive"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following describe dynamic receive focusing except",
+    "choices": [
+      "delay pattern changes continuously throughout reception",
+      "may be used by single crystal transducers",
+      "focusing occurs at many depths",
+      "automatically performed by system"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the shape of the elements in an annular phased array transducer?",
+    "choices": [
+      "rectangles",
+      "squares",
+      "wedges",
+      "circles"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? Annular phased array transducers focus sound beams in all planes and at all depths.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is true of the electrical pulses that excite the active elements of an annular phased array transducer?",
+    "choices": [
+      "they arrive at each piezoelectric crystal at exactly the same time",
+      "they vary in amplitude based on the direction of the steering and focusing",
+      "they excite the crystals at different times, nanoseconds apart",
+      "they arrive at each PZT crystal at different times, microseconds apart"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "How are the piezoelectric crystals excited when using an ultrasound system with a sequential linear array transducer?",
+    "choices": [
+      "singly and in order: the first crystal, second, then the third, etc.",
+      "in pairs: the first two crystals, the 3rd and 4th, the 5th and 6th, etc.",
+      "in a specific order",
+      "in a random sequence"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which best describes the elements in a linear sequential array transducer?",
+    "choices": [
+      "rectangular, 1/4 wavelength thick",
+      "rectangular, 1/4 to 1/2 wavelength wide",
+      "rectangular, 1 wavelength wide",
+      "squares, 1 wavelength thick"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What image is created with a two-dimensional array transducer?",
+    "choices": [
+      "two-dimensional static image",
+      "two-dimensional real-time image",
+      "three-dimensional real-time image",
+      "B-mode"
+    ],
+    "answer": 2
   }
 ]
