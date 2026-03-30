@@ -212,7 +212,7 @@
       "adjustable",
       "external"
     ],
-    "answer": 1
+     "answer": [1,3]
   },
   {
     "prompt": "The minimum number of active elements in a mechanical transducer is:",
