@@ -172,7 +172,7 @@
     "answer": [0,2,4]
   },
   {
-    "prompt": "The ultrasound beam is directed in many different directions to create an imaging plane.",
+    "prompt": "In mechanical transducer the ultrasound beam is directed in many different directions to create an imaging plane.",
     "choices": [
       "True",
       "False"
@@ -180,7 +180,7 @@
     "answer": 0
   },
   {
-    "prompt": "The ultrasound beam is not focused electronically.",
+    "prompt": "In mechanical transducer the ultrasound beam is not focused electronically.",
     "choices": [
       "True",
       "False"
@@ -188,7 +188,7 @@
     "answer": 0
   },
   {
-    "prompt": "There is communication between the pulser of the ultrasound system and the piezoelectric crystal of the transducer.",
+    "prompt": "In mechanical transducer there is communication between the pulser of the ultrasound system and the piezoelectric crystal of the transducer.",
     "choices": [
       "True",
       "False"
@@ -196,7 +196,7 @@
     "answer": 0
   },
   {
-    "prompt": "Foci exist at multiple depths as an ultrasound beam propagates through the body.",
+    "prompt": "In mechanical transducer Foci exist at multiple depths as an ultrasound beam propagates through the body.",
     "choices": [
       "True",
       "False"
