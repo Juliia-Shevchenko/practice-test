@@ -147,7 +147,7 @@
       "annular phased array transducer",
       "convex or curvilinear array transducer"
     ],
-    "answer": 2
+    "answer": [2,3]
   },
   {
     "prompt": "These transducers focus the ultrasound beam electronically.",
