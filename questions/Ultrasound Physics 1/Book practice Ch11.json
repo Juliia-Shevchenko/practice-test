@@ -1,0 +1,72 @@
+[
+  {
+    "prompt": "What is the only display mode that provides information regarding reflector motion with respect to time?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "D-mode"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "With A-mode, what is displayed on the x-axis?",
+    "choices": [
+      "Amplitude of the reflected signal",
+      "Time",
+      "Depth of the reflector",
+      "Reflection strength"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "With M-mode, what is displayed on the y-axis?",
+    "choices": [
+      "Time",
+      "Amplitude",
+      "Depth of the reflector",
+      "Frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which mode provides the foundation for real-time, gray scale anatomic imaging?",
+    "choices": [
+      "A-mode",
+      "M-mode",
+      "D-mode",
+      "B-mode, or brightness mode"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "With A-mode, what is displayed on the y-axis?",
+    "choices": [
+      "Depth of the reflector",
+      "Amplitude of the reflected signal",
+      "Time",
+      "Reflection strength"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In M-mode, what is displayed on the x-axis?",
+    "choices": [
+      "Depth of the reflector",
+      "Amplitude",
+      "Time",
+      "Frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "With B-mode, which axis is related to the strength of the reflection?",
+    "choices": [
+      "X-axis",
+      "Y-axis",
+      "Z-axis",
+      "Time axis"
+    ],
+    "answer": 2
+  }
+]
