@@ -1,0 +1,202 @@
+[
+  {
+    "prompt": "Which of the following transducers has the poorest axial resolution?",
+    "choices": [
+      "1.7 MHz and 4 cycles/pulse",
+      "2.6 MHz and 3 cycles/pulse",
+      "1.7 MHz and 5 cycles/pulse",
+      "2.6 MHz and 2 cycles/pulse"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In soft tissue, a 3 cycle, 1 MHz pulse has a pulse length equal to 4.5 mm. What is the axial resolution?",
+    "choices": [
+      "3 mm",
+      "1 mm",
+      "2.25 mm",
+      "1.54 mm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following transducers has the best axial resolution?",
+    "choices": [
+      "1.7 MHz and 4 cycles/pulse",
+      "2.6 MHz and 3 cycles/pulse",
+      "1.7 MHz and 5 cycles/pulse",
+      "2.6 MHz and 2 cycles/pulse"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Two different transducers create sound pulses. One transducer is labeled 5 MHz and the other 3 MHz. Which transducer is more likely to create a more accurate image with respect to axial resolution? Which transducer probably has a lower numerical value of axial resolution?",
+    "choices": [
+      "3 MHz transducer",
+      "5 MHz transducer",
+      "Both are equal",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two different transducers create pulses. Both transducers create sound with a frequency of 4 MHz. One transducer creates a pulse that comprises 6 cycles and the other, 3 cycles. Which transducer is more likely to create a more accurate image with respect to axial resolution? Which transducer has a lower numerical value of axial resolution?",
+    "choices": [
+      "6-cycle pulse transducer",
+      "3-cycle pulse transducer",
+      "Both are equal",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the lateral resolution at a depth of 8 cm?",
+    "choices": [
+      "4.5 mm",
+      "9 mm",
+      "5 mm",
+      "14 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is the lateral resolution at a depth of 16 cm?",
+    "choices": [
+      "4.5 mm",
+      "9 mm",
+      "5 mm",
+      "14 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the best estimate for the resolution at 4 cm?",
+    "choices": [
+      "1 cm",
+      "9 mm",
+      "5 mm",
+      "14 mm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the best estimate for the resolution at 7 cm?",
+    "choices": [
+      "1 cm",
+      "9 mm",
+      "5 mm",
+      "14 mm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the best estimate for the resolution at 21 cm?",
+    "choices": [
+      "1 cm",
+      "9 mm",
+      "5 mm",
+      "14 mm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The ability to distinguish two structures lying close together is called ____.",
+    "choices": [
+      "contrast",
+      "resolution",
+      "attenuation",
+      "propagation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The ability to distinguish two structures lying close together front-to-back is called ____.",
+    "choices": [
+      "lateral resolution",
+      "temporal resolution",
+      "axial resolution",
+      "contrast resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The ability to distinguish two structures lying close together side by side is called ____.",
+    "choices": [
+      "axial resolution",
+      "lateral resolution",
+      "temporal resolution",
+      "spatial resolution"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Axial resolution and lateral resolution are both measured with units of ____.",
+    "choices": [
+      "time",
+      "frequency",
+      "distance",
+      "power"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When the number of cycles in a pulse increases while the frequency remains the same, the numerical value of the range resolution ____.",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains the same",
+      "becomes zero"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "When the number of cycles in a pulse increases (more ringing) while the frequency remains the same, the image quality ____.",
+    "choices": [
+      "improves",
+      "degrades",
+      "remains the same",
+      "doubles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "____ frequency transducers have the best range resolution.",
+    "choices": [
+      "Low",
+      "Medium",
+      "High",
+      "Variable"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Name the 4 synonyms for axial resolution.",
+    "choices": [
+      "lateral, angular, transverse, azimuthal",
+      "longitudinal, axial, range, radial",
+      "temporal, spatial, contrast, dynamic",
+      "near, far, focus, depth"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Name the 3 synonyms for lateral resolution.",
+    "choices": [
+      "longitudinal, axial, range",
+      "temporal, spatial, contrast",
+      "lateral, angular, transverse",
+      "near, far, depth"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The length of a pulse is 8 mm. What is the minimum distance between two reflectors, positioned one in front of the other, that still produces two echoes on our image?",
+    "choices": [
+      "8 mm",
+      "4 mm",
+      "16 mm",
+      "2 mm"
+    ],
+    "answer": 1
+  }
+]
