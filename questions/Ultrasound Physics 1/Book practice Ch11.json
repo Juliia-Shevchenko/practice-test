@@ -169,7 +169,7 @@
       "annular phased array transducer",
       "convex or curvilinear array transducer"
     ],
-    "answer": 0
+    "answer": [0,2,4]
   },
   {
     "prompt": "The ultrasound beam is directed in many different directions to create an imaging plane.",
