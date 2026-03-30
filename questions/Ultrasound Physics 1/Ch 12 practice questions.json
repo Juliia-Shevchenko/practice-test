@@ -1,0 +1,245 @@
+[
+  {
+    "prompt": "Which of the following improves lateral resolution by dividing a crystal into groups of smaller crystals",
+    "choices": [
+      "Apodization",
+      "Subdicing",
+      "Dynamic receive focusing",
+      "Dynamic aperture"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following improves lateral resolution by altering electrical spike voltage",
+    "choices": [
+      "Apodization",
+      "Subdicing",
+      "Dynamic receive focusing",
+      "Dynamic aperture"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following improves lateral resolution over a substantial depth range?",
+    "choices": [
+      "Apodization",
+      "Subdicing",
+      "Dynamic receive focusing",
+      "Dynamic aperture"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following resolution represent the accuracy in imaging for reflectors located above and below the imaging plane?",
+    "choices": [
+      "Lateral resolution",
+      "Axial resolution",
+      "Slice thickness resolution",
+      "Azimuthal resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following transducers will have identical elevational and lateral resolution",
+    "choices": [
+      "Mechanical/annular",
+      "Linear sequential",
+      "Linear phased",
+      "Curvilinear"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of these is a way to improve elevational resolution at wide range of depths?",
+    "choices": [
+      "Use of a 1D array transducer",
+      "Use of a 1.5D array transducer",
+      "Use of mechanical focusing for elevational resolution",
+      "Use of acoustic lens"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following transducer will give rise to side lobes?",
+    "choices": [
+      "Linear phased array",
+      "Linear sequential array",
+      "Curvilinear array",
+      "mechanical"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Side and grating lobes will degrade which of the following resolution?",
+    "choices": [
+      "Range",
+      "Depth",
+      "Transverse",
+      "Axial"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which if the following transducer will NOT have the elevational and lateral resolutions identical?",
+    "choices": [
+      "Annular array",
+      "Mechanical",
+      "Linear phased array"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "This transducer has: 120-250 crystals, arranged side-by-side Trapezoidal shaped image Electronic steering (combination of linear and phased array) Electronic focusing",
+    "choices": [
+      "Vector Transducer",
+      "Linear phased array Transducer",
+      "Curvilinear Transducer"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Mechanical scanning produces pictures that are similar in shape to linear phased array images.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Many active elements fire at almost the same time in a mechanical scanner",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Many active elements fire at almost the same time in a phased array scanner",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which transducer is best described as mechanically steered and fixed, single focused?",
+    "choices": [
+      "Linear Phased",
+      "Linear Sequential",
+      "Mechanical",
+      "Curvilinear"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which transducer is best described as mechanically steered and multi-focus?",
+    "choices": [
+      "Linear Phased",
+      "Linear Sequential",
+      "Mechanical",
+      "Annular"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which transducer creates a rectangular shaped image?",
+    "choices": [
+      "Linear Phased",
+      "Linear Sequential",
+      "Mechanical",
+      "Annular"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The time differences between electrical spikes exciting their specific PZT is called?",
+    "choices": [
+      "Focusing",
+      "Phase maneuvers",
+      "Transmit steering",
+      "Phase delays"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is a consequence of damaged PZT in the mechanical transducer?",
+    "choices": [
+      "No image",
+      "Vertical band drop out",
+      "Horizontal band drop out"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "How is the beam steered in a mechanical transducer?",
+    "choices": [
+      "Mechanically steered",
+      "Electronic steering"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Define, steered / focused?",
+    "image": "images/Physics/Ch12-Q20.jpg",
+    "choices": [
+      "Steered, focused",
+      "Unsteered, Unfocused",
+      "Steered, unfocused",
+      "Unsteered, focused"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Define, steered or focused?",
+    "image": "images/Physics/Ch12-Q21.jpg",
+    "choices": [
+      "Steered, focused",
+      "Unsteered, Unfocused",
+      "Steered, unfocused",
+      "Unsteered, focused"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Define the transducer types and the consequences of damaged crystal",
+    "image": "images/Physics/Ch12-Q22.jpg",
+    "choices": [
+      "Linear Phased , Vertical band drop out",
+      "Linear Sequential, Horizontal band drop",
+      "Mechanical, Vertical band drop out",
+      "Curvilinear, Vertical band drop out"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Define the transducer types and the consequences of damaged crystal",
+    "image": "images/Physics/Ch12-Q23.jpg",
+    "choices": [
+      "Linear Phased, Vertical band drop out",
+      "Linear Sequential, Vertical band drop out",
+      "Mechanical, Vertical band drop out",
+      "Annular, Horizontal band drop"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Phased array means?",
+    "choices": [
+      "Fast speed electronics",
+      "Best resolution & image quality",
+      "Adjustable or multi-focus",
+      "Both internal and external fixed focusing"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "This transducer has: 100-300 crystals, arranged in a straight line Sector shaped image Electronic steering (phased) Compact, no moving parts Electronic focusing",
+    "choices": [
+      "Linear sequential",
+      "Mechanical",
+      "Curvilinear",
+      "Linear Phased"
+    ],
+    "answer": 3
+  }
+]
