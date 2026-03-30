@@ -161,17 +161,6 @@
     "answer": 2
   },
   {
-    "prompt": "With these transducers, the ultrasound beam is focused with an acoustic lens, a mirror, or by milling the piezoelectric crystal in a curved shape.",
-    "choices": [
-      "linear switched array transducer",
-      "linear phased array transducer",
-      "mechanical transducer",
-      "annular phased array transducer",
-      "convex or curvilinear array transducer"
-    ],
-    "answer": [0,2,4]
-  },
-  {
     "prompt": "In mechanical transducer the ultrasound beam is directed in many different directions to create an imaging plane.",
     "choices": [
       "True",
