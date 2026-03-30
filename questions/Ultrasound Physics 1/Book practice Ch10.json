@@ -51,6 +51,7 @@
   },
   {
     "prompt": "Which of the following is the lateral resolution at a depth of 8 cm?",
+    "image": "images/Physics/Ch10.jpg",
     "choices": [
       "4.5 mm",
       "9 mm",
@@ -61,6 +62,7 @@
   },
   {
     "prompt": "Which of the following is the lateral resolution at a depth of 16 cm?",
+    "image": "images/Physics/Ch10.jpg",
     "choices": [
       "4.5 mm",
       "9 mm",
@@ -71,6 +73,7 @@
   },
   {
     "prompt": "What is the best estimate for the resolution at 4 cm?",
+    "image": "images/Physics/Ch10.jpg",
     "choices": [
       "1 cm",
       "9 mm",
@@ -81,6 +84,7 @@
   },
   {
     "prompt": "What is the best estimate for the resolution at 7 cm?",
+    "image": "images/Physics/Ch10.jpg",
     "choices": [
       "1 cm",
       "9 mm",
@@ -91,6 +95,7 @@
   },
   {
     "prompt": "What is the best estimate for the resolution at 21 cm?",
+    "image": "images/Physics/Ch10.jpg",
     "choices": [
       "1 cm",
       "9 mm",
