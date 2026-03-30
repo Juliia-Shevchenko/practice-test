@@ -1,0 +1,152 @@
+[
+  {
+    "prompt": "Which of the following will be the most accurate for depth measurement?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will be able to perform depth measurement?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following will have time on one of its axis?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will display strength of the reflection as a series bright and dark dots?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the best mode to compare the reflector depth at an instance of time?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "As a sound pulse is emitted, paper is moved at a constant speed. Various lines representing the changing depth of the reflecting surfaces are produced on the paper. What is the display mode?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A dot moves at a constant speed across the display; reflections are represented by upward deflections. What is the display mode?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "X=Depth, Y=Amplitude. What is the display mode?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What display mode is most frequently used in ophthalmology, for measuring depth?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "X=Depth, Z=Amplitude, What is the display mode?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "An invisible dot moves at a constant speed across the display; reflections are represented by visible dots, with brightness representing reflection strength. What is the display mode?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the only display mode that provides information regarding reflector motion with respect to time?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "M-mode sampling rate is very high and is equal to what?",
+    "choices": [
+      "Duty time",
+      "PRP",
+      "PRF",
+      "FREQUENCY"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which mode provides the foundation for real-time, grayscale anatomic imaging?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "All of the following"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Weaker reflections in B mode appear as:",
+    "choices": [
+      "Darker gray dots",
+      "Brighter white dots",
+      "Anechoic or black dots",
+      "Black and white straight lines"
+    ],
+    "answer": 0
+  }
+]
