@@ -169,7 +169,7 @@
       "convex or curvilinear array transducer",
       "vector array transducer"
     ],
-    "answer": [0,4]
+    "answer": [0, 4]
   },
   {
     "prompt": "A special sector shape is produced when this transducer is used. It looks like a wedge or a slice of pie, but it doesn’t originate at a point. The sector has a blunted, curved shape at the top. The arc at the top of the image may be a few centimeters wide.",
@@ -181,7 +181,7 @@
       "convex or curvilinear array transducer",
       "vector array transducer"
     ],
-    "answer": 4
+    "answer": [1, 2, 3]
   },
   {
     "prompt": "With these transducers, a sector (wedge-shaped or “slice of pie”) image is produced. At the top, the sector is very narrow and tapers to a point.",
