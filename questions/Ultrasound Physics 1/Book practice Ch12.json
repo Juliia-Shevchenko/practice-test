@@ -1,0 +1,138 @@
+[
+  {
+    "prompt": "True or False. Mechanical scanning produces pictures that are similar in shape to linear phased array images.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False. Many active elements fire at almost the same time in a mechanical scanner.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. Many active elements fire at almost the same time in a phased array scanner.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following transducers is best described as mechanically steered and fixed, single focused?",
+    "choices": [
+      "annular phased array",
+      "annular array",
+      "mechanical",
+      "linear phased"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is best described as mechanically steered and multi-focus?",
+    "choices": [
+      "annular phased array transducer",
+      "annular sequential array transducer",
+      "mechanical transducer",
+      "linear phased transducer"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following transducers creates a rectangular shaped image?",
+    "choices": [
+      "annular phased array",
+      "linear sequential array",
+      "mechanical",
+      "linear phased"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A linear phased array transducer has 128 crystals. How many of these crystals are fired to create a single sound beam?",
+    "choices": [
+      "1",
+      "a small group",
+      "a large group",
+      "128"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A linear sequential array transducer has 128 crystals. How many of these crystals are fired to create a single sound beam?",
+    "choices": [
+      "1",
+      "a small group",
+      "a large group",
+      "128"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In a linear phased array, what is the firing pattern that steers a beam to the left or right?",
+    "choices": [
+      "electronic curvature",
+      "electronic slope",
+      "mechanical steering",
+      "beam divergence"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In linear phased arrays, what is the firing pattern that focuses a sound beam?",
+    "choices": [
+      "electronic slope",
+      "electronic curvature",
+      "mechanical focusing",
+      "beam steering"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. There are large time delays in the firing pattern of a linear phased array transducer.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. A machine that displays A-mode and two-dimensional images is called a duplex scanner.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following improves elevational resolution?",
+    "choices": [
+      "matrix array",
+      "linear phased array",
+      "one and one-half dimensional array",
+      "two-dimensional array"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False. Side lobes degrade axial resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. Side lobes degrade lateral resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  }
+]
