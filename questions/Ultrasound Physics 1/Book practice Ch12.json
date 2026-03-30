@@ -181,7 +181,7 @@
       "convex or curvilinear array transducer",
       "vector array transducer"
     ],
-    "answer": [1, 2, 3]
+    "answer": 4
   },
   {
     "prompt": "With these transducers, a sector (wedge-shaped or “slice of pie”) image is produced. At the top, the sector is very narrow and tapers to a point.",
@@ -193,7 +193,7 @@
       "convex or curvilinear array transducer",
       "vector array transducer"
     ],
-    "answer": 1
+    "answer": [1, 2, 3]
   },
   {
     "prompt": "With these transducers, a trapezoidal image shape is produced. The image is flat at the top and becomes progressively wider at increasing depths.",
