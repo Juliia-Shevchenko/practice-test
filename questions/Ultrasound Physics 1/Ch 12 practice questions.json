@@ -168,7 +168,7 @@
       "Vertical band drop out",
       "Horizontal band drop out"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "prompt": "How is the beam steered in a mechanical transducer?",
