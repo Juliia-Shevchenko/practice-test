@@ -203,5 +203,210 @@
       "2 mm"
     ],
     "answer": 1
+  },
+  {
+    "prompt": "The focus of an ultrasound beam is the location where the ___.",
+    "choices": [
+      "beam is the broadest",
+      "optimum transverse resolution is",
+      "frequency is the highest",
+      "finest depth resolution is obtained"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The lateral resolution of an ultrasound system is primarily determined by the ___.",
+    "choices": [
+      "width of the sound pulse",
+      "length of the ultrasound pulse",
+      "duration of the sound pulse",
+      "none of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two ultrasound systems produce acoustic pulses. One pulse is 0.4 μsec in duration and the other is 0.2 μsec. Which pulse will most likely provide the best lateral resolution?",
+    "choices": [
+      "0.4 μsec pulse",
+      "0.2 μsec pulse",
+      "they are the same",
+      "cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? The pulse duration does not profoundly influence the lateral resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two ultrasound systems have near zone lengths of 8 cm. At the focus, System G’s lateral resolution is 3.0 mm, whereas System P’s is 5.0 mm. Which system will produce higher quality pictures at their foci?",
+    "choices": [
+      "System P",
+      "System G",
+      "both will be of similar quality"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? When using standard ultrasonic imaging instrumentation, the lateral resolution has a higher numerical value than the axial resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two ultrasound systems have near zone lengths of 8 cm. At their foci, System Q’s lateral resolution is 3.0 mm and System H’s is 5.0 mm. Which system will correctly display two small structures at a depth of 8 cm? The objects are side by side and are 0.4 cm apart.",
+    "choices": [
+      "System H",
+      "System Q",
+      "both produce similar quality pictures"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The lateral resolution of an ultrasound system is 4 mm. Two structures are separated by 3 mm and lie side by side in relation to the sound beam’s main axis. What will most likely appear on the system’s display?",
+    "choices": [
+      "two weak echoes, 4 mm apart",
+      "two bright echoes, 3 mm apart",
+      "one echo",
+      "two bright echoes, 7 mm apart"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? When using an instrument typical of today’s imaging devices, a higher frequency transducer is likely to mildly improve the system’s lateral resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? When using an instrument typical of today’s diagnostic imaging devices, a higher frequency transducer is likely to improve the axial resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What will lower the value of an ultrasound system’s lateral resolution?",
+    "choices": [
+      "decrease the # of cycles in the pulse",
+      "increase the effective damping material",
+      "increase the pulse repetition period",
+      "use an acoustic lens"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following focusing techniques is different from the others?",
+    "choices": [
+      "lens",
+      "curved crystal",
+      "fixed",
+      "phased"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following techniques is internal focusing?",
+    "choices": [
+      "lens",
+      "curved crystal",
+      "electronic"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following techniques is external focusing?",
+    "choices": [
+      "lens",
+      "curved crystal",
+      "electronic"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of these terms means adjustable focusing or multi-focusing?",
+    "choices": [
+      "dynamic aperture",
+      "harmonics",
+      "frequency agility",
+      "phased array"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of these techniques is consistent with variable or multi-focusing?",
+    "choices": [
+      "lens",
+      "curved crystal",
+      "electronic"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following occur with focusing except",
+    "choices": [
+      "lower intensity at the focus",
+      "shorter near zone length",
+      "more compact focal zone",
+      "smaller diameter beam diameter at the end of the near zone"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In which region of a sound beam is focusing most effective?",
+    "choices": [
+      "the very shallow near zone",
+      "the end of the near zone",
+      "very deep in the far zone",
+      "throughout its entire length"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? In comparison to other locations along the length of an ultrasound beam, focusing is generally ineffective in the far zone.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two ultrasound systems have near zone lengths of 8 cm. At the focus, System S’s lateral resolution is 3.0 mm, whereas System C’s is 5.0 mm. Which system is most likely to appropriately display two small body structures that lie, one in front of the other, at depths of 8.6 and 9.0 mm?",
+    "choices": [
+      "System C",
+      "System S",
+      "both have comparable quality",
+      "cannot be determined"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The diameter of a disc-shaped, unfocused piezoelectric crystal is 1 cm. What is the best estimate for the minimum lateral resolution of the ultrasound system?",
+    "choices": [
+      "1 mm",
+      "5 mm",
+      "1 cm",
+      "5 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The diameter of a disc-shaped, unfocused piezoelectric crystal is 1.2 cm. The near zone length is 8 cm. What is the best estimate for the lateral resolution at a depth of 16 cm?",
+    "choices": [
+      "0.6 cm",
+      "1.2 cm",
+      "0.8 cm",
+      "16 cm"
+    ],
+    "answer": 1
   }
 ]
