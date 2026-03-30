@@ -1,0 +1,253 @@
+[
+  {
+    "prompt": "What would be the transverse resolution of a sound wave produced by a circular PZT of 6mm diameter at the end of the Fresnel zone if the focal depth is 10cm?",
+    "choices": [
+      "5cm",
+      "20cm",
+      "60mm",
+      "3mm",
+      "12mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will be the numerical value of depth resolution for a sound wave with SPL of 6mm, wavelength of 3mm.",
+    "choices": [
+      "3mm",
+      "1.5mm",
+      "18mm",
+      "9mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two structures located perpendicular to the sound beam 4mm apart at 7cm depth. If the sound beam’s diameter at the same depth is 3mm, which below is true?",
+    "choices": [
+      "1 echo returns",
+      "2 echoes return",
+      "Cannot be determined."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If PZT 1 is larger in diameter than PZT 2. Which of the following will have a better azimuthal resolution deep in the far field?",
+    "choices": [
+      "1",
+      "2",
+      "cannot be determined"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the PZT’s diameter is 10mm and if the near zone length is 10cm, what would be the transverse resolution at 2x near zone length?",
+    "choices": [
+      "10cm",
+      "20cm",
+      "10mm",
+      "20mm",
+      "5mm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following sound pulse will have the highest numerical value of axial resolution?",
+    "choices": [
+      "7Mhz , 2 cycles",
+      "5Mhz, 7 cycles",
+      "7Mhz, 7 cycles",
+      "5Mhz, 2 cycles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two structures placed 5mm apart parallel to the sound beam with a SPL of 6mm will be displayed as",
+    "choices": [
+      "1 echo",
+      "2 echoes",
+      "Cannot be determined"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will have the best range resolution?",
+    "choices": [
+      "5Mhz,2 cycles",
+      "7Mhz,2 cycles",
+      "5Mhz,5 cycles",
+      "7Mhz,5 cycles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will have the best transverse resolution deep in the far field?",
+    "choices": [
+      "5Mhz, 3mm",
+      "7Mhz, 2mm",
+      "7Mhz, 3mm",
+      "5Mhz, 2mm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "For a circular PZT of 6mm diameter. Which of the following is correct for 2 structure located perpendicular to the sound beam 4mm apart at the end the Fresnel zone?",
+    "choices": [
+      "1 echo",
+      "2 echoes",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will have the best range resolution?",
+    "choices": [
+      "Shorter wavelength and more cycles",
+      "Shorter wavelength and fewer cycles",
+      "Longer wavelength and more cycles",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is important to improve depth resolution?",
+    "choices": [
+      "Damping material",
+      "Matching layer",
+      "Gel",
+      "Acoustic insulator"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following uses system electronics to focus the sound beam?",
+    "choices": [
+      "Internal focusing",
+      "External focusing",
+      "Fixed focusing",
+      "Phased array focusing"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following transducers has the poorest axial resolution?",
+    "choices": [
+      "1.7 MHz and 2 cycles/pulse",
+      "3.7 MHz and 4 cycles/pulse",
+      "1.7 MHz and 5 cycles/pulse",
+      "4.2 MHz and 3 cycles/pulse"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following transducers has the best axial resolution?",
+    "choices": [
+      "4.6 MHz and 4 cycles/pulse",
+      "2.6 MHz and 3 cycles/pulse",
+      "1.7 MHz and 5 cycles/pulse",
+      "4.6 MHz and 2 cycles/pulse"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following will not improve axial resolution?",
+    "choices": [
+      "Increased damping.",
+      "Increased transducer frequency.",
+      "Increased bandwidth",
+      "Increased pulse length"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the diameter of the sound beam at a depth of 20 cm?",
+    "image": "images/Physics/Ch10-Q17_18.jpg",
+    "choices": [
+      "12mm",
+      "24mm",
+      "5 cm",
+      "8 cm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the best estimate of lateral resolution at 5 cm?",
+    "image": "images/Physics/Ch10-Q17_18.jpg",
+    "choices": [
+      "16 mm",
+      "8mm",
+      "6 mm",
+      "24 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The minimum distance between two reflectors placed side by side such that you can see them as two separate reflectors is called",
+    "choices": [
+      "Radial resolution",
+      "elevational resolution",
+      "Transverse resolution",
+      "Longitudinal resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "As sound travels deeply into the far zone, the beam diverges, or spreads out. Which will result in a greatest beam divergence deep in the far zone?",
+    "choices": [
+      "Small diameter, high frequency",
+      "High frequency, large diameter",
+      "Large diameter, low frequency",
+      "Low Frequency, small diameter"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In soft tissue, 13 cycle, 1 MHz pulse has a spatial pulse length of a pulse is 4.5 mm. What is the axial resolution?",
+    "choices": [
+      "2.25mm",
+      "1 mm",
+      "3 mm",
+      "1.54 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will not improve axial resolution?",
+    "choices": [
+      "Increased damping.",
+      "Increased transducer frequency.",
+      "Increased bandwidth.",
+      "Decreased pulse length.",
+      "Increased focusing."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Lateral resolution of an ultrasound system is determined by:",
+    "choices": [
+      "width of the sound beam",
+      "length of the ultrasound system",
+      "duration of the sound pulse",
+      "none of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the starting depth of focal zone in the below image of sound beam..",
+    "image": "images/Physics/Ch10-Q24.jpg",
+    "choices": [
+      "12cm",
+      "9cm",
+      "15cm",
+      "6cm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The length of a pulse is 8mm. What is the minimum distance between two reflectors, positioned one in front of the other that still produces two echoes on our image?",
+    "choices": [
+      "4 mm",
+      "6 mm",
+      "8 mm"
+    ],
+    "answer": 0
+  }
+]
