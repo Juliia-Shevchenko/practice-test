@@ -150,7 +150,7 @@
     "answer": [2,3]
   },
   {
-    "prompt": "These transducers focus the ultrasound beam electronically.",
+    "prompt": "These transducers focus the ultrasound beam electronically exept.",
     "choices": [
       "linear switched array transducer",
       "linear phased array transducer",
@@ -158,7 +158,7 @@
       "annular phased array transducer",
       "convex or curvilinear array transducer"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "prompt": "With these transducers, the ultrasound beam is focused with an acoustic lens, a mirror, or by milling the piezoelectric crystal in a curved shape.",
