@@ -134,5 +134,127 @@
       "False"
     ],
     "answer": 0
+  },
+  {
+    "prompt": "These transducers steer the beam with a motor and focus the beam with an acoustic lens or a curved PZT element.",
+    "choices": [
+      "linear switched (also called linear sequential) array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer",
+      "vector array transducer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "These transducer systems typically produce an image that, throughout its entire depth, is approximately as wide as the ultrasound transducer itself.",
+    "choices": [
+      "linear switched (also called linear sequential) array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer",
+      "vector array transducer"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Ultrasound systems using these transducers do not actually steer the ultrasound beams to create a two-dimensional image.",
+    "choices": [
+      "linear switched (also called linear sequential) array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer",
+      "vector array transducer"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A special sector shape is produced when this transducer is used. It looks like a wedge or a slice of pie, but it doesn’t originate at a point. The sector has a blunted, curved shape at the top. The arc at the top of the image may be a few centimeters wide.",
+    "choices": [
+      "linear switched (also called linear sequential) array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer",
+      "vector array transducer"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "With these transducers, a sector (wedge-shaped or “slice of pie”) image is produced. At the top, the sector is very narrow and tapers to a point.",
+    "choices": [
+      "linear switched (also called linear sequential) array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer",
+      "vector array transducer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With these transducers, a trapezoidal image shape is produced. The image is flat at the top and becomes progressively wider at increasing depths.",
+    "choices": [
+      "linear switched (also called linear sequential) array transducer",
+      "linear phased array transducer",
+      "mechanical transducer",
+      "annular phased array transducer",
+      "convex or curvilinear array transducer",
+      "vector array transducer"
+    ],
+    "answer": 5
+  },
+  {
+    "prompt": "When looking at images produced by these transducer systems, which one can be distinguished from all the others?",
+    "choices": [
+      "linear phased array",
+      "linear switched array",
+      "annular phased array",
+      "mechanical transducer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the advantage of using a 1½ dimensional array transducer?",
+    "choices": [
+      "improved elevational resolution",
+      "improved lateral resolution",
+      "improved axial resolution",
+      "improved temporal resolution"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which transducer possesses the best slice thickness resolution?",
+    "choices": [
+      "linear phased arrays",
+      "2-D arrays",
+      "1½ dimensional arrays",
+      "linear sequential arrays"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the use of a greater number of channels to receive echoes from ever increasing depths called?",
+    "choices": [
+      "dynamic aperture",
+      "apodization",
+      "dynamic frequency tuning",
+      "subdicing"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The excitation of array elements with dissimilar voltages is called ___ and is used to ___.",
+    "choices": [
+      "dynamic aperture, reduce refraction",
+      "subdicing, eliminate lobes",
+      "apodization, remove flash artifact",
+      "apodization, reduce lobe artifact"
+    ],
+    "answer": 3
   }
 ]
