@@ -249,5 +249,133 @@
       "8 mm"
     ],
     "answer": 0
+  },
+  {
+    "prompt": "What would be the transverse resolution of a sound wave produced by a circular PZT of 6 mm diameter at the end of the Fresnel zone if the focal depth is 10 cm?",
+    "choices": [
+      "5 cm",
+      "20 cm",
+      "60 mm",
+      "3 mm",
+      "12 mm"
+    ],
+    "answer": [3]
+  },
+  {
+    "prompt": "Which of the following will be the numerical value of depth resolution for a sound wave with SPL of 6 mm, wavelength of 3 mm?",
+    "choices": [
+      "3 mm",
+      "1.5 mm",
+      "18 mm",
+      "9 mm"
+    ],
+    "answer": [0]
+  },
+  {
+    "prompt": "2 structures located perpendicular to the sound beam 4 mm apart at 7 cm depth. If the sound beam’s diameter at the same depth is 3 mm, which below is true?",
+    "choices": [
+      "1 echo returns",
+      "2 echoes return",
+      "cannot be determined"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "If PZT 1 is larger in diameter than PZT 2, which of the following will have a better transverse resolution deep in the far field?",
+    "choices": [
+      "1",
+      "2",
+      "cannot be determined"
+    ],
+    "answer": [0]
+  },
+  {
+    "prompt": "If the PZT’s diameter is 10 mm and if the near zone length is 10 cm, what would be the azimuthal resolution at 2× near zone length?",
+    "choices": [
+      "10 cm",
+      "20 cm",
+      "10 mm",
+      "20 mm",
+      "5 mm"
+    ],
+    "answer": [2]
+  },
+  {
+    "prompt": "Which of the following sound pulses will have the highest numerical value of axial resolution?",
+    "choices": [
+      "7 MHz, 2 cycles",
+      "5 MHz, 7 cycles",
+      "7 MHz, 7 cycles",
+      "5 MHz, 2 cycles"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "Two structures placed 5 mm apart parallel to the sound beam with a SPL of 6 mm will be displayed as",
+    "choices": [
+      "1 echo",
+      "2 echoes",
+      "Cannot be determined"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "Which of the following will have the best range resolution?",
+    "choices": [
+      "5 MHz, 2 cycles",
+      "7 MHz, 2 cycles",
+      "5 MHz, 5 cycles",
+      "7 MHz, 5 cycles"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "Which of the following will have the best transverse resolution deep in the far field?",
+    "choices": [
+      "5 MHz, 3 mm",
+      "7 MHz, 2 mm",
+      "7 MHz, 3 mm",
+      "5 MHz, 2 mm"
+    ],
+    "answer": [2]
+  },
+  {
+    "prompt": "For a circular PZT of 6 mm diameter, which of the following is correct for 2 structures located perpendicular to the sound beam 4 mm apart at the end of the Fresnel zone?",
+    "choices": [
+      "1 echo",
+      "2 echoes",
+      "Cannot be determined"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "Which of the following will have the best range resolution?",
+    "choices": [
+      "Shorter wavelength and more cycles",
+      "Shorter wavelength and fewer cycles",
+      "Longer wavelength and more cycles",
+      "Cannot be determined"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "Which of the following is important to improve depth resolution?",
+    "choices": [
+      "Damping material",
+      "Matching layer",
+      "Gel",
+      "Acoustic insulator"
+    ],
+    "answer": [0]
+  },
+  {
+    "prompt": "Which of the following uses system electronics to focus the sound beam?",
+    "choices": [
+      "Internal focusing",
+      "External focusing",
+      "Fixed focusing",
+      "Phased array focusing"
+    ],
+    "answer": [3]
   }
 ]
