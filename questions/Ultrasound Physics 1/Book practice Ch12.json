@@ -255,5 +255,94 @@
       "apodization, reduce lobe artifact"
     ],
     "answer": 3
+  },
+  {
+    "prompt": "Which of the following improves lateral resolution by altering electrical spike voltage?",
+    "choices": [
+      "Apodization",
+      "Subdicing",
+      "Dynamic receive focusing",
+      "Dynamic aperture"
+    ],
+    "answer": [0]
+  },
+  {
+    "prompt": "Which of the following improves lateral resolution by dividing a crystal into groups of smaller crystals?",
+    "choices": [
+      "Apodization",
+      "Subdicing",
+      "Dynamic receive focusing",
+      "Dynamic aperture"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "Which of the following improves lateral resolution over a substantial depth range?",
+    "choices": [
+      "Apodization",
+      "Subdicing",
+      "Dynamic receive focusing",
+      "Dynamic aperture"
+    ],
+    "answer": [2]
+  },
+  {
+    "prompt": "Which of the following resolution represents the accuracy in imaging for reflectors located above and below the imaging plane?",
+    "choices": [
+      "Lateral resolution",
+      "Axial resolution",
+      "Slice thickness resolution",
+      "Azimuthal resolution"
+    ],
+    "answer": [2]
+  },
+  {
+    "prompt": "Which of the following transducers will have identical elevational and lateral resolution?",
+    "choices": [
+      "Mechanical/annular",
+      "Linear sequential",
+      "Linear phased",
+      "Curvilinear"
+    ],
+    "answer": [0]
+  },
+  {
+    "prompt": "Which of these is a way to improve elevational resolution at a wide range of depths?",
+    "choices": [
+      "Use of a 1D array transducer",
+      "Use of a 1.5D array transducer",
+      "Use of mechanical focusing for elevational resolution",
+      "Use of acoustic lens"
+    ],
+    "answer": [1]
+  },
+  {
+    "prompt": "Which of the following transducer will give rise to side lobes?",
+    "choices": [
+      "Linear phased array",
+      "Linear sequential array",
+      "Curvilinear array",
+      "Mechanical"
+    ],
+    "answer": [3]
+  },
+  {
+    "prompt": "Side and grating lobes will degrade which of the following resolution?",
+    "choices": [
+      "Range",
+      "Depth",
+      "Transverse",
+      "Axial"
+    ],
+    "answer": [2]
+  },
+  {
+    "prompt": "Which of the following transducer will NOT have the elevational and lateral resolutions identical?",
+    "choices": [
+      "Annular array",
+      "Mechanical",
+      "Linear phased array"
+    ],
+    "answer": [2]
   }
 ]
