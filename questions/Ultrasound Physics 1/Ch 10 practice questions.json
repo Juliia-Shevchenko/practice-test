@@ -359,16 +359,6 @@
     "answer": [1]
   },
   {
-    "prompt": "Which of the following is important to improve depth resolution?",
-    "choices": [
-      "Damping material",
-      "Matching layer",
-      "Gel",
-      "Acoustic insulator"
-    ],
-    "answer": [0]
-  },
-  {
     "prompt": "Which of the following uses system electronics to focus the sound beam?",
     "choices": [
       "Internal focusing",
