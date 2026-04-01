@@ -1,0 +1,1115 @@
+[
+  {
+    "prompt": "Which of the following is TRUE about how blood flows through the heart?",
+    "choices": [
+      "RA to RV to LV to LA to aorta",
+      "RV to RA to pulmonary artery to LV to LA to aorta",
+      "RA to RV to pulmonary artery to LA to LV to aorta",
+      "RA to LA to pulmonary artery to RV to LV",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following veins return blood DIRECTLY into the RA?",
+    "choices": [
+      "SVC and IVC",
+      "Pulmonary veins",
+      "Femoral vein",
+      "Subclavian vein"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following statements are TRUE about the ventricles?",
+    "choices": [
+      "The ventricles have thicker walls than the atria.",
+      "The LV has much thicker walls than the RV.",
+      "The right and left ventricles are separated by the interventricular septum.",
+      "The ventricles receive blood from the atria.",
+      "All of the above are true."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following is TRUE regarding the myocardial conduction system?",
+    "choices": [
+      "The system is composed of specialized nerve cells that conduct impulses.",
+      "The conduction system conducts blood from the LA into the LV.",
+      "The conduction system conducts electrical impulse from the autonomic nervous system to different portions of the heart.",
+      "The conduction system is made up of specialized myocardial muscle cells.",
+      "None of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following statements are TRUE regarding the coronary circulation?",
+    "choices": [
+      "The RCA, the LAD coronary artery, and the LCX are the major \"trunk\" arteries that supply large areas of the heart.",
+      "The right and left coronary arteries originate from the aorta.",
+      "The heart protects itself with cross-connections between arteries (collateral circulation).",
+      "The majority of myocardial blood flow occurs during diastole.",
+      "All of the above are true."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "The cardiac action potential represents the changes in membrane potential in myocardial muscle cells from the flow of ions across the membrane.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The ECG is useful for monitoring which of the following?",
+    "choices": [
+      "The pressure in the central venous circulation",
+      "Arrhythmias",
+      "The PCWP",
+      "Cardiac output",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following statements is FALSE regarding the cardiac cycle?",
+    "choices": [
+      "As blood flows from the atria into the ventricles, the ventricular pressure rises.",
+      "After the atria contract, the ventricles reach their EDV.",
+      "When the LV contracts, the pressure rises in the ventricle until it overcomes the aortic pressure and it begins ejecting blood into the aorta.",
+      "Systole is defined as when the ventricles begin to relax.",
+      "None of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following statements are TRUE about the cardiac cycle?",
+    "choices": [
+      "Valves within the heart prevent the flow of blood backward.",
+      "EF is defined as the amount of blood ejected from the heart during diastole.",
+      "CO is equal to the EF times the HR.",
+      "Diastole is when the heart is contracting.",
+      "None of the above."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following factors DO NOT affect the force of contraction of the heart?",
+    "choices": [
+      "The AV node",
+      "Preload",
+      "Contractility",
+      "Drugs",
+      "Afterload"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following are potentially lethal cardiac arrhythmias?",
+    "choices": [
+      "Ventricular fibrillation",
+      "Ventricular tachycardia",
+      "Sinus bradycardia",
+      "A and B",
+      "A and C"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is NOT a determinant of myocardial oxygen supply?",
+    "choices": [
+      "Hemoglobin level",
+      "Afterload",
+      "Blood oxygen saturation",
+      "Coronary blood flow",
+      "Diastolic time"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is TRUE about how blood flows through the heart except?",
+    "choices": [
+      "RA to RV to LA to LV to aorta",
+      "LA to LV to aorta to RA to RV to Pulmonary artery",
+      "RA to RV to pulmonary artery to lung to LA to LV to aorta",
+      "RA to LA to pulmonary artery to RV to LV",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following veins return blood DIRECTLY into the LA?",
+    "choices": [
+      "SVC and IVC",
+      "Pulmonary veins",
+      "Femoral vein",
+      "Subclavian vein",
+      "Internal jugular vein"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following statements is true about Preload?",
+    "choices": [
+      "Preload is a measure of the degree of the ventricular stretch when the heart is at the end of diastole.",
+      "Preload is estimated by measuring the pulmonary capillary wedge pressure.",
+      "The total volume of circulating blood affects preload.",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following statements is False about Afterload?",
+    "choices": [
+      "Afterload is an indication of the amount of wall tension that is produced by the ventricle",
+      "Because increasing afterload increases the work of the heart, it also increases myocardial oxygen consumption.",
+      "Afterload is a measure of the degree of the ventricular stretch when the heart is at the end of diastole.",
+      "Afterload is the amount of pressure the ventricle must generate to eject blood."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What does the electrocardiogram or ECG detect?",
+    "choices": [
+      "The electrical activity of the heart",
+      "The muscle contractions of the heart",
+      "High blood pressure readings",
+      "The volume of blood pumped per minute"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The force at which blood is pumped against the walls of the arteries is a person's:",
+    "choices": [
+      "Cardiac output.",
+      "Blood pressure.",
+      "Stroke volume.",
+      "Pulse."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The outermost layer of the heart is the:",
+    "choices": [
+      "Endocardium.",
+      "Myocardium.",
+      "Epicardium.",
+      "Pericardium."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The middle layer of the heart is the:",
+    "choices": [
+      "Endocardium.",
+      "Myocardium.",
+      "Epicardium.",
+      "Pericardium."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The innermost layer of the heart is the:",
+    "choices": [
+      "Endocardium.",
+      "Myocardium.",
+      "Epicardium.",
+      "Pericardium."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The sac of tissue that encloses the entire heart is the:",
+    "choices": [
+      "Atrium.",
+      "Ventricle.",
+      "Myocardium.",
+      "Pericardium."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is the MAIN function of the respiratory system?",
+    "choices": [
+      "Gas exchange",
+      "Gas humidification",
+      "Acid-base balance",
+      "Immunologic defense",
+      "Production of surfactant"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following participates in gas exchange with blood?",
+    "choices": [
+      "Trachea",
+      "Bronchi",
+      "Bronchioles",
+      "Alveoli",
+      "Type II pneumocytes"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "At the end of normal expiration, the volume of gas remaining in the lungs is referred to as:",
+    "choices": [
+      "Total lung capacity",
+      "Inspiratory capacity",
+      "Functional residual capacity",
+      "Forced vital capacity",
+      "Closing capacity"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The Pharynx divided into",
+    "choices": [
+      "Nasopharynx",
+      "Oropharynx",
+      "Laryngopharynx",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What role does the lymphatic system have in influencing body fluids?",
+    "choices": [
+      "It adds hypotonic fluid to any tissue fluid that has an elevated solute concentration.",
+      "It moves tissue fluid from one area to another, ensuring that all tissue fluid levels are consistent.",
+      "It provides the fluid needed to bathe tissue cells in nutrient-rich fluid.",
+      "It moves excess tissue fluid from the interstitium to the bloodstream."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Name the two collecting ducts that drain the lymphatic trunks.",
+    "choices": [
+      "Thoracic duct and right lymphatic duct",
+      "Lumbar duct and left lymphatic duct",
+      "Right and left thoracic ducts",
+      "Bronchomediastinal duct and subclavian duct"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "From the collecting ducts, lymph enters__________ and becomes part of the__________.",
+    "choices": [
+      "lymphatic trunks; interstital fluid",
+      "capillaries; blood supply",
+      "veins; plasma",
+      "lymph nodes; tissue fluid"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Lymph nodes are located throughout the body except in the__________.",
+    "choices": [
+      "lungs",
+      "central nervous system",
+      "mesentery",
+      "anal region"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following cells function as phagocytes?",
+    "choices": [
+      "Macrophages",
+      "Platelets",
+      "Mast cells",
+      "Erythrocytes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How do viruses differ from other pathogens?",
+    "choices": [
+      "They are larger than most other pathogens.",
+      "They are more likely to cause life-threatening infections.",
+      "They are not capable of reproducing outside a living cell.",
+      "They are multicellular."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What type of phagocytic cells are circulating in the blood?",
+    "choices": [
+      "Neutrophils and monocytes",
+      "Neutrophils and macrophages",
+      "Monocytes and macrophages",
+      "Lymphocytes and monocytes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A transplant recipient is more likely to reject a transplanted organ if there is not a close match between the__________ of the recipient and that of the donor.",
+    "choices": [
+      "major histocompatibility complex",
+      "blood type",
+      "sex and age",
+      "antibody response"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What cell types are primarily responsible for immunity?",
+    "choices": [
+      "Lymphocytes and macrophages",
+      "Neutrophils and lymphocytes",
+      "Monocytes and macrophages",
+      "Lymphocytes and monocytes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between antigens and antibodies?",
+    "choices": [
+      "The presence of an antigen triggers the production of antibodies.",
+      "The presence of antibodies triggers the production of antigens.",
+      "Antigens function to destroy or neutralize antibodies.",
+      "Antibodies can be foreign cells, proteins, or other large molecules. Antigens are large proteins made by B cells."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Antibody actions against antigens include__________ in which the antibodies bind to antigen, forming an insoluble complex that can be phagocytized.",
+    "choices": [
+      "precipitation",
+      "lysis",
+      "agglutination",
+      "opsonization"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is a function of the digestive system?",
+    "choices": [
+      "Ingests and breaks down food, absorbs nutrients, and defecates the unabsorbed material.",
+      "Mechanically and chemically assembles food from absorbed nutrients.",
+      "Sends cellular debris to lysosomes.",
+      "Absorbs nutrients in the mouth, pharynx, esophagus and stomach, and releases nutrients in the intestines."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Where does peristalsis occur in the digestive tract?",
+    "choices": [
+      "From the pharynx to the anus",
+      "In the stomach and small intestine only",
+      "In the small and large intestines only",
+      "In the stomach, small intestine, and large intestine"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is a function of saliva?",
+    "choices": [
+      "Absorbing fat from ingested food",
+      "Cleansing the esophagus",
+      "Breaking food into smaller pieces",
+      "Beginning the chemical digestion of carbohydrates"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is true about bile?",
+    "choices": [
+      "Cholecystokinin stimulates its production.",
+      "Secretin stimulates its release into the duodenum.",
+      "It contains concentrated enzymes that digest carbohydrates.",
+      "It is produced by the liver."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which constituent of bile has a digestive function?",
+    "choices": [
+      "Bile salts",
+      "Bile pigments",
+      "Cholesterol",
+      "Electrolytes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How is hepatitis B transmitted?",
+    "choices": [
+      "Contact with infected feces",
+      "Sexual activity",
+      "Infected food",
+      "Travel to developing countries"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What does BMI measure?",
+    "choices": [
+      "Weight in proportion to height",
+      "The amount of body fat",
+      "Volume in proportion to area",
+      "The basal metabolic rate"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Chronic obstructive pulmonary disease (COPD) includes which respiratory disorders?",
+    "choices": [
+      "Lung cancer and cystic fibrosis",
+      "Chronic bronchitis and emphysema",
+      "Smoker's lung and asthma",
+      "Pneumothorax and alveolitis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Where are the vocal cords located?",
+    "choices": [
+      "In the pharynx",
+      "In the larynx",
+      "In the trachea",
+      "In the oral cavity"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Laryngitis occurs when the larynx becomes irritated and inflamed from an infection, acid reflux, or strenuous use of the vocal cords. Which of the following symptoms would you directly associate with having laryngitis, considering the structures affected?",
+    "choices": [
+      "Swollen tongue and tonsils",
+      "Runny nose and painful sinuses",
+      "Loss of voice or a quiet, raspy voice",
+      "Chest pain"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What causes air to move into the lungs during inspiration?",
+    "choices": [
+      "Pressure gradient between atomosphere and alveoli",
+      "Muscle contraction of upper airways",
+      "Concentration gradients for oxygen and carbon dioxide",
+      "Partial pressure gradients for oxygen and carbon dioxide"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How is carbon dioxide transported in the blood?",
+    "choices": [
+      "70% transported as HCO3-; 23% bound to hemoglobin; 7% dissolved in plasma",
+      "98% bound to hemoglobin; 2% transported as HCO3-",
+      "50% transported as HCO3-; 25% bound to hemoglobin; 25% dissolved in plasma",
+      "95% transported as HCO3-; 3% bound to hemoglobin; 2% dissolved in plasma"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is a type of transcellular fluid?",
+    "choices": [
+      "Cerebrospinal fluid",
+      "Interstitial fluid",
+      "Blood plasma",
+      "Cytoplasm"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is an effect of drinking too much water?",
+    "choices": [
+      "Osmoreceptors gain water and swell; ADH release is stimulated.",
+      "Osmoreceptors gain water and swell; ADH release is inhibited.",
+      "Osmoreceptors lose water and shrink; ADH release is stimulated.",
+      "Osmoreceptors lose water and shrink; ADH release is inhibited."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Prolonged vomiting of stomach contents can lead to__________.",
+    "choices": [
+      "metabolic alkalosis",
+      "metabolic acidosis",
+      "respiratory alkalosis",
+      "respiratory acidosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Why is meiosis necessary?",
+    "choices": [
+      "Otherwise the fertilized ovum will have too much genetic material.",
+      "Otherwise the fertilized ovum will have too little genetic material.",
+      "Otherwise reproduction would have to be asexual.",
+      "Otherwise too many mutations will occur."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How many sperm cells form from a primary spermatocyte?",
+    "choices": [
+      "4",
+      "16",
+      "46",
+      "100"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Where do sperm cells mature?",
+    "choices": [
+      "In the ductus deferens",
+      "In the ejaculatory duct",
+      "In the epididymis",
+      "In the seminal vesicle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What hormone is responsible for the development and maintenance of male secondary sex characteristics?",
+    "choices": [
+      "LH",
+      "FSH",
+      "Testosterone",
+      "GnRH"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What stimulates the release of testosterone?",
+    "choices": [
+      "Increased plasma concentration of LH",
+      "Decreased plasma concentration of LH",
+      "Decreased plasma concentration of FSH",
+      "Increased plasma concentration of FSH"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A Pap smear is used to detect abnormal cells in the__________.",
+    "choices": [
+      "urethra",
+      "ovary",
+      "cervix",
+      "vagina"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Fertilization normally occurs in the__________.",
+    "choices": [
+      "ovary",
+      "uterine tube",
+      "uterus",
+      "vagina"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What occurs in the first step of oogenesis?",
+    "choices": [
+      "Secondary oocyte divides to form a polar body and an egg cell.",
+      "Primary oocyte divides to form a secondary oocyte and a first polar body.",
+      "Primary oocyte divides to form two secondary oocytes.",
+      "Secondary oocyte divides to form two polar bodies."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Menopause is due to aging of the________.",
+    "choices": [
+      "ovaries",
+      "vagina",
+      "cervix",
+      "uterine tube"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Ovulation is triggered by a surge of_________ from the anterior pituitary gland.",
+    "choices": [
+      "estrogens",
+      "progesterone",
+      "LH",
+      "androgens"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is endometriosis?",
+    "choices": [
+      "Diminished menstrual flow",
+      "Growth of tissue in the abdominal cavity that resembles the uterine lining",
+      "Discontinuation of growth of the uterine lining during reproductive cycles.",
+      "Cessation of the uterine and ovarian cycles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Human prenatal development takes__________ weeks.",
+    "choices": [
+      "28",
+      "32",
+      "38",
+      "44"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When is the postnatal period?",
+    "choices": [
+      "From the time of a fertilized egg until the end of life",
+      "From fertilization to birth",
+      "From birth to death",
+      "From the beginning of the fetal period until the beginning of childhood"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Where does fertilization usually occur?",
+    "choices": [
+      "In the ovary",
+      "In the uterine tube",
+      "In the uterus",
+      "In the vagina"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Sperm movement through the uterus and uterine tubes is aided by muscle contractions of the uterine walls and__________ in the semen.",
+    "choices": [
+      "estrogen",
+      "progestins",
+      "prostaglandins",
+      "epinephrine"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "At the blastocyst stage, the cells are considered__________.",
+    "choices": [
+      "totipotent",
+      "extraembryonic",
+      "pluripotent",
+      "endodermal"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How does fetal hemoglobin differ from adult hemoglobin?",
+    "choices": [
+      "Fetal hemoglobin binds has a stronger affinity for iron.",
+      "Fetal hemoglobin has more hemoglobin subunits.",
+      "Fetal hemoglobin binds oxygen more readily.",
+      "Fetal hemoglobin has more heme units."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In the fetal circulation, blood from the__________ flows directly into the descending aorta.",
+    "choices": [
+      "foramen ovale",
+      "ductus arteriosus",
+      "umbilical artery",
+      "ductus venosus"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is an effect of drinking too much water?",
+    "choices": [
+      "Osmoreceptors gain water and swell; ADH release is stimulated.",
+      "Osmoreceptors gain water and swell; ADH release is inhibited.",
+      "Osmoreceptors lose water and shrink; ADH release is stimulated.",
+      "Osmoreceptors lose water and shrink; ADH release is inhibited."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Prolonged vomiting of stomach contents can lead to__________.",
+    "choices": [
+      "metabolic alkalosis",
+      "metabolic acidosis",
+      "respiratory alkalosis",
+      "respiratory acidosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Why is meiosis necessary?",
+    "choices": [
+      "Otherwise the fertilized ovum will have too much genetic material.",
+      "Otherwise the fertilized ovum will have too little genetic material.",
+      "Otherwise reproduction would have to be asexual.",
+      "Otherwise too many mutations will occur."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "How many sperm cells form from a primary spermatocyte?",
+    "choices": [
+      "4",
+      "16",
+      "46",
+      "100"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Where do sperm cells mature?",
+    "choices": [
+      "In the ductus deferens",
+      "In the ejaculatory duct",
+      "In the epididymis",
+      "In the seminal vesicle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What hormone is responsible for the development and maintenance of male secondary sex characteristics?",
+    "choices": [
+      "LH",
+      "FSH",
+      "Testosterone",
+      "GnRH"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What stimulates the release of testosterone?",
+    "choices": [
+      "Increased plasma concentration of LH",
+      "Decreased plasma concentration of LH",
+      "Decreased plasma concentration of FSH",
+      "Increased plasma concentration of FSH"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A Pap smear is used to detect abnormal cells in the__________.",
+    "choices": [
+      "urethra",
+      "ovary",
+      "cervix",
+      "vagina"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Fertilization normally occurs in the__________.",
+    "choices": [
+      "ovary",
+      "uterine tube",
+      "uterus",
+      "vagina"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What occurs in the first step of oogenesis?",
+    "choices": [
+      "Secondary oocyte divides to form a polar body and an egg cell.",
+      "Primary oocyte divides to form a secondary oocyte and a first polar body.",
+      "Primary oocyte divides to form two secondary oocytes.",
+      "Secondary oocyte divides to form two polar bodies."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Menopause is due to aging of the________.",
+    "choices": [
+      "ovaries",
+      "vagina",
+      "cervix",
+      "uterine tube"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Ovulation is triggered by a surge of_________ from the anterior pituitary gland.",
+    "choices": [
+      "estrogens",
+      "progesterone",
+      "LH",
+      "androgens"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is endometriosis?",
+    "choices": [
+      "Diminished menstrual flow",
+      "Growth of tissue in the abdominal cavity that resembles the uterine lining",
+      "Discontinuation of growth of the uterine lining during reproductive cycles.",
+      "Cessation of the uterine and ovarian cycles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Human prenatal development takes__________ weeks.",
+    "choices": [
+      "28",
+      "32",
+      "38",
+      "44"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When is the postnatal period?",
+    "choices": [
+      "From the time of a fertilized egg until the end of life",
+      "From fertilization to birth",
+      "From birth to death",
+      "From the beginning of the fetal period until the beginning of childhood"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Where does fertilization usually occur?",
+    "choices": [
+      "In the ovary",
+      "In the uterine tube",
+      "In the uterus",
+      "In the vagina"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Sperm movement through the uterus and uterine tubes is aided by muscle contractions of the uterine walls and__________ in the semen.",
+    "choices": [
+      "estrogen",
+      "progestins",
+      "prostaglandins",
+      "epinephrine"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "At the blastocyst stage, the cells are considered__________.",
+    "choices": [
+      "totipotent",
+      "extraembryonic",
+      "pluripotent",
+      "endodermal"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How does fetal hemoglobin differ from adult hemoglobin?",
+    "choices": [
+      "Fetal hemoglobin binds has a stronger affinity for iron.",
+      "Fetal hemoglobin has more hemoglobin subunits.",
+      "Fetal hemoglobin binds oxygen more readily.",
+      "Fetal hemoglobin has more heme units."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In the fetal circulation, blood from the__________ flows directly into the descending aorta.",
+    "choices": [
+      "foramen ovale",
+      "ductus arteriosus",
+      "umbilical artery",
+      "ductus venosus"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What regulates the process of labor?",
+    "choices": [
+      "Negative feedback control",
+      "Positive feedback control",
+      "Prolactin",
+      "Estrogens"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What hormones maintain the uterine wall during the last 5 to 6 months of pregnancy?",
+    "choices": [
+      "FSH and LH",
+      "Human chorionic gonadotropin and estrogens",
+      "Placental lactogen and relaxin",
+      "Placental estrogens and progesterone"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What would be the effect of a lack of oxytocin secretion from the posterior pituitary gland during birth?",
+    "choices": [
+      "No fetal muscular movements",
+      "Reduced uterine wall contractions",
+      "Increased progesterone secretion from the placenta",
+      "Increased estrogen secretion from the placenta"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What comprises the placental membrane?",
+    "choices": [
+      "The embryonic disc",
+      "A single layer of epithelial cells",
+      "A double layer of epithelial cells",
+      "The amnion and chorion"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The ductus venosus is a fetal vessel that transports blood from the umbilical vein to the__________.",
+    "choices": [
+      "umbilical artery",
+      "aorta",
+      "inferior vena cava",
+      "superior vena cava"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The foramen ovale is an opening that allows fetal blood to pass between what two chambers of the heart?",
+    "choices": [
+      "Right atrium to the left atrium",
+      "Left atrium to right atrium",
+      "Right ventricle to the left ventricle",
+      "Left ventricle to the right ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The fetal blood that passes through the ductus venosus is relatively_________ in oxygen and__________ in nutrients.",
+    "choices": [
+      "low; low",
+      "high; high",
+      "low; high",
+      "high; low"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "As a result of the foramen ovale, blood is allowed to bypass the__________.",
+    "choices": [
+      "aorta",
+      "liver",
+      "lungs",
+      "kidneys"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The ductus arteriosus allows fetal blood to move from the__________.",
+    "choices": [
+      "right atrium into the left atrium",
+      "left atrium into the right atrium",
+      "aorta into the pulmonary trunk",
+      "pulmonary trunk into the aorta"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A difference between fetal blood flow and adult blood flow is that in the fetus the__________ contains blood high in oxygen.",
+    "choices": [
+      "inferior vena cava",
+      "pulmonary artery",
+      "femoral vein",
+      "left ventricle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Dizygotic twins result from fertilization of how many egg and sperm cells?",
+    "choices": [
+      "One egg cell and one sperm cell",
+      "One egg cell and two sperm cells",
+      "Two egg cells and one sperm cell",
+      "Two egg cells and two sperm cells"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is a function of hCG?",
+    "choices": [
+      "It breaks down the corpus luteum.",
+      "It protects the blastocyst from being rejected.",
+      "It prevents the developing placenta from secreting hormones.",
+      "It stimulates the release of enzymes that enable the blastocyst to implant into the endometrium."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the function of the placenta?",
+    "choices": [
+      "Allows oxygen and nutrients to diffuse from maternal blood to the embryo.",
+      "Allows carbon dioxide and other wastes to diffuse from the maternal blood to the embryonic blood.",
+      "Allows maternal blood to mix with fetal blood.",
+      "Allows the fetus to enlarge without rupturing the mother's abdomen."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "After birth, what causes the foramen ovale to close?",
+    "choices": [
+      "The increase in pressure in the right atrium.",
+      "The increase in pressure in the left atrium.",
+      "The increase in resistance in the pulmonary circuit.",
+      "The decrease in blood volume in the pulmonary veins."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "How long is the period of preactive dying?",
+    "choices": [
+      "A year to three years",
+      "Up to three months",
+      "One day",
+      "An entire life time"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What changes occur during active dying?",
+    "choices": [
+      "Limbs become cool and numb",
+      "Sudden onset of high-grade fevers",
+      "Prolonged high blood pressure",
+      "Flushing of the skin"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is passive aging?",
+    "choices": [
+      "A cessation of life",
+      "A decay of tissues",
+      "A breakdown of structures and slowing of functions",
+      "A buildup of structures and speeding of functions"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When does apoptosis occur?",
+    "choices": [
+      "Only after the age 50",
+      "Only in adults",
+      "From embryonic stage until death",
+      "Only when someone has a disease"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The process by which a blastocyst embeds within the uterine endometrium is known as_________.",
+    "choices": [
+      "cleavage",
+      "implantation",
+      "capacitation",
+      "the acrosome reaction"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The human genome consists of__________.",
+    "choices": [
+      "DNA, most of which encodes protein",
+      "DNA, most of which does not encode protein",
+      "DNA, most of which encodes RNA",
+      "protein, most of which does not encode DNA"
+    ],
+    "answer": 1
+  }
+]
