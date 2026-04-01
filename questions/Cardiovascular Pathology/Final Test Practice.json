@@ -1,0 +1,1292 @@
+[
+  {
+    "prompt": "What minimally invasive procedure is frequently performed to open narrowed or blocked blood vessels?",
+    "choices": [
+      "Thromboplastic surgery",
+      "Angiography",
+      "Venostasis",
+      "Angioplasty"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Emergency test results indicate that Mr. Hartman has had an MI due to 90% occlusion of the right coronary artery. The physician has determined that a procedure needs to be performed immediately to open the artery. Which of the following procedures is the physician most likely to order for Mr. Hartman?",
+    "choices": [
+      "Coronary artery bypass graft surgery",
+      "Enhanced external counter pulsation therapy",
+      "Percutaneous transluminal coronary angioplasty",
+      "Thrombolytic therapy"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When angioplasty is performed on a coronary vessel, a stent is typically inserted to do what?",
+    "choices": [
+      "Repair the vessel walls",
+      "Help prevent restenosis",
+      "Reroute blood flow away from the surgical site",
+      "Prevent excess bleeding from the surgical site"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Mrs. Bayfield is prepared for percutaneous coronary intervention. As you are also assisting in her procedure, she states, They are going to put a stent in my heart",
+    "choices": [
+      "The dye is used to find the exact location of the blockage.",
+      "The dye contains Coumadin, which will make the blood flow more freely.",
+      "The dye is a precaution to help the surgeon avoid nearby nerve endings.",
+      "The dye is an indicator that changes color when blood flow is restored."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which procedure allows visualization of the coronary arteries and placement of a stent?",
+    "choices": [
+      "Echocardiography",
+      "Enhanced external counter pulsation",
+      "Coronary artery bypass",
+      "Cardiac catheterization"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is Coumadin used for?",
+    "choices": [
+      "To increase the activity of vitamin K",
+      "To promote the growth of new collateral blood vessels",
+      "To prevent restenosis of a blood vessel",
+      "To reduce clot formation in the blood"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which rhythm occurs when the atria quiver like a bowl of Jell-O?",
+    "choices": [
+      "Atrial flutter",
+      "Multifocal atrial tachycardia",
+      "Atrial fibrillation",
+      "PACs"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the major health risk for patients with atrial fibrillation?",
+    "choices": [
+      "Hypertension",
+      "Bundle branch block",
+      "Congestive heart failure",
+      "Thrombus formation or embolism"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What treatment is usually attempted for patients with atrial fibrillation?",
+    "choices": [
+      "Exercise stress test",
+      "Angiogram",
+      "Medication and/or electrical cardioversion",
+      "Echocardiogram"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What mode can be used to demonstrate the fetal heart motion during a sonogram?",
+    "choices": [
+      "B-mode",
+      "Pulsed mode",
+      "Color mode",
+      "M-mode"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What heart chamber receives blood from the body?",
+    "choices": [
+      "Right ventricle",
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is the most common test performed by the echocardiographer?",
+    "choices": [
+      "Transesophageal echocardiogram",
+      "Transthoracic echocardiogram",
+      "Breast echocardiogram",
+      "Electrocardiogram"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "For a transthoracic echocardiogram, the patient is typically placed in what position?",
+    "choices": [
+      "Supine",
+      "Prone",
+      "Right lateral decubitus",
+      "Left lateral decubitus"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following would require that the patient have intravenous access?",
+    "choices": [
+      "Transthoracic echocardiogram",
+      "Pharmacologic stress echocardiogram",
+      "Stress echocardiogram",
+      "Pediatric echocardiogram"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which chamber of the heart receives deoxygenated blood from the body?",
+    "choices": [
+      "Left atrium",
+      "Left ventricle",
+      "Right atrium",
+      "Right ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The mitral valve is located between the:",
+    "choices": [
+      "Right atrium and right ventricle",
+      "Left atrium and left ventricle",
+      "Left ventricle and aorta",
+      "Right ventricle and pulmonary artery"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is NOT one of the layers of the heart wall?",
+    "choices": [
+      "Endocardium",
+      "Myocardium",
+      "Epicardium",
+      "Pericardium"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The sinoatrial (SA) node is located in the:",
+    "choices": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valve is also kown as the bicuspid valve?",
+    "choices": [
+      "Tricuspid valve",
+      "Mitral valve",
+      "Aortic valve",
+      "Pulmonary valve"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The coronary sinus empties into the:",
+    "choices": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The interventricular septum separates the:",
+    "choices": [
+      "Left and right atria",
+      "Left and right ventricles",
+      "Atria from the ventricles",
+      "Heart from the lungs"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is NOT a layer of the pericardium?",
+    "choices": [
+      "Fibrous pericardium",
+      "Parietal pericardium",
+      "Visceral pericardium",
+      "Muscular pericardium"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The atrioventricular (AV) node is located:",
+    "choices": [
+      "In the right atrium",
+      "Between the atria and ventricles",
+      "In the left ventricle",
+      "In the interventricular septum"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The left main coronary artery divides into which two branches?",
+    "choices": [
+      "Left anterior descending and left circumflex",
+      "Left anterior descending and right coronary",
+      "Left circumflex and right coronary",
+      "Left marginal and diagonal"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is NOT a normal component of the cardiac conduction system?",
+    "choices": [
+      "Sinoatrial node",
+      "Atrioventricular node",
+      "Bundle of His",
+      "Bundle of Willis"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The tricuspid valve is located between the:",
+    "choices": [
+      "Right atrium and right ventricle",
+      "Left atrium and left ventricle",
+      "Left ventricle and aorta",
+      "Right ventricle and pulmonary artery"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which chamber of the heart has the thickest muscular wall?",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The chordae tendineae connect the:",
+    "choices": [
+      "Valve leaflets to the papillary muscles",
+      "Atria to the ventricles",
+      "Heart to the great vessels",
+      "Pericardium to the heart"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following veins does NOT typically drain into the coronary sinus?",
+    "choices": [
+      "Great cardiac vein",
+      "Middle cardiac vein",
+      "Small cardiac vein",
+      "Anterior cardiac veins"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The moderator band is found in the:",
+    "choices": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is NOT a normal heart sound?",
+    "choices": [
+      "S1",
+      "S2",
+      "S3",
+      "S5"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The bundle of His divides into:",
+    "choices": [
+      "Left and right bundle branches",
+      "Anterior and posterior fascicles",
+      "Purkinje fibers",
+      "Bachmann's bundle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which structure forms the floor of the right atrium?",
+    "choices": [
+      "Tricuspid valve",
+      "Mitral valve",
+      "Fossa ovalis",
+      "Crista terminalis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The membranous part of the interventricular septum is located:",
+    "choices": [
+      "At the apex of the heart",
+      "Near the base of the heart",
+      "In the middle of the septum",
+      "Throughout the entire septum"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is NOT a normal component of the fibrous skeleton of the heart?",
+    "choices": [
+      "Mitral annulus",
+      "Tricuspid annulus",
+      "Aortic annulus",
+      "Pulmonary annulus"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is NOT a normal component of the right atrium?",
+    "choices": [
+      "Fossa ovalis",
+      "Crista terminalis",
+      "Eustachian valve",
+      "Mitral valve"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The interatrial septum primarily separates:",
+    "choices": [
+      "The right and left atria",
+      "The right and left ventricles",
+      "The atria from the ventricles",
+      "The heart from the lungs"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The conus arteriosus is part of the:",
+    "choices": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The ligamentum arteriosum is a remnant of the:",
+    "choices": [
+      "Foramen ovale",
+      "Ductus arteriosus",
+      "Ductus venosus",
+      "Umbilical vein"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The pulmonary veins typically enter the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is NOT a typical feature of the left ventricle?",
+    "choices": [
+      "Thicker wall than the right ventricle",
+      "Conical shape",
+      "Moderator band",
+      "Mitral valve"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The aortic valve typically has:",
+    "choices": [
+      "Two leaflets",
+      "Three leaflets",
+      "Four leaflets",
+      "Five leaflets"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The apex of the heart is formed primarily by the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is NOT a normal component of the left atrium?",
+    "choices": [
+      "Pulmonary vein openings",
+      "Left atrial appendage",
+      "Fossa ovalis",
+      "Crista terminalis"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The coronary arteries originate from the:",
+    "choices": [
+      "Ascending aorta",
+      "Arch of the aorta",
+      "Descending aorta",
+      "Pulmonary artery"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The papillary muscles are primarily responsible for:",
+    "choices": [
+      "Generating the heartbeat",
+      "Preventing valve prolapse",
+      "Producing hormones",
+      "Conducting electrical impulses"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The foramen ovale in fetal circulation is located in the:",
+    "choices": [
+      "Interventricular septum",
+      "Interatrial septum",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The non-coronary cusp of the aortic valve is typically adjacent to the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The heart begins to develop from the:",
+    "choices": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Neural crest"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The primary heart field forms in which region of the embryo?",
+    "choices": [
+      "Cranial",
+      "Caudal",
+      "Lateral",
+      "Medial"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The heart tube is formed by the fusion of:",
+    "choices": [
+      "Two endocardial tubes",
+      "Two mesodermal tubes",
+      "Two ectodermal tubes",
+      "Two endodermal tubes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which structure gives rise to the left and right atria?",
+    "choices": [
+      "Sinus venosus",
+      "Bulbus cordis",
+      "Primitive atrium",
+      "Primitive ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The truncus arteriosus divides into the:",
+    "choices": [
+      "Pulmonary veins and aorta",
+      "Pulmonary trunk and aorta",
+      "Superior vena cava and inferior vena cava",
+      "Left and right atria"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The septum primum forms the:",
+    "choices": [
+      "Foramen ovale",
+      "Fossa ovalis",
+      "Atrial septum",
+      "Ventricular septum"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The foramen ovale allows blood to flow from:",
+    "choices": [
+      "Right atrium to left atrium",
+      "Left atrium to right atrium",
+      "Right ventricle to left ventricle",
+      "Left ventricle to right ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The bulbus cordis contributes to the formation of the:",
+    "choices": [
+      "Right ventricle",
+      "Left ventricle",
+      "Right atrium",
+      "Left atrium"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The ductus arteriosus connects the:",
+    "choices": [
+      "Pulmonary trunk and aorta",
+      "Right atrium and left atrium",
+      "Right ventricle and left ventricle",
+      "Pulmonary veins and aorta"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The first functional organ in the human embryo is the:",
+    "choices": [
+      "Liver",
+      "Brain",
+      "Heart",
+      "Kidneys"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The atrioventricular valves develop from:",
+    "choices": [
+      "Endocardial cushions",
+      "Mesodermal cells",
+      "Neural crest cells",
+      "Ectodermal cells"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The truncus arteriosus is divided by the:",
+    "choices": [
+      "Septum primum",
+      "Septum secundum",
+      "Spiral septum",
+      "Atrioventricular septum"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The sinus venosus contributes to the formation of the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The septum secundum forms the:",
+    "choices": [
+      "Foramen ovale",
+      "Fossa ovalis",
+      "Atrial septum",
+      "Ventricular septum"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The cardiogenic area is located near the:",
+    "choices": [
+      "Tail of the embryo",
+      "Head of the embryo",
+      "Lateral sides of the embryo",
+      "Midline of the embryo"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The development of the heart begins at which week of gestation?",
+    "choices": [
+      "1st week",
+      "3rd week",
+      "5th week",
+      "7th week"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which structure forms the smooth part of the right atrium?",
+    "choices": [
+      "Sinus venosus",
+      "Primitive atrium",
+      "Bulbus cordis",
+      "Primitive ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The interventricular septum separates the:",
+    "choices": [
+      "Right and left atria",
+      "Right and left ventricles",
+      "Pulmonary trunk and aorta",
+      "Superior and inferior vena cava"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The outflow tracts of the ventricles are derived from the:",
+    "choices": [
+      "Sinus venosus",
+      "Primitive atrium",
+      "Bulbus cordis",
+      "Primitive ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The formation of the heart loop occurs during which week of gestation?",
+    "choices": [
+      "2nd week",
+      "3rd week",
+      "4th week",
+      "5th week"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The epicardium is derived from:",
+    "choices": [
+      "Mesoderm",
+      "Ectoderm",
+      "Endoderm",
+      "Neural crest cells"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The right horn of the sinus venosus becomes part of the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The foramen secundum develops in the:",
+    "choices": [
+      "Septum primum",
+      "Septum secundum",
+      "Bulbus cordis",
+      "Primitive atrium"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The myocardium is derived from:",
+    "choices": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest cells"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The left atrium receives blood from the:",
+    "choices": [
+      "Right ventricle",
+      "Pulmonary veins",
+      "Pulmonary arteries",
+      "Aorta"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The coronary arteries develop from:",
+    "choices": [
+      "Ectoderm",
+      "Endoderm",
+      "Neural crest cells",
+      "Mesoderm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The cardiac jelly is involved in the formation of:",
+    "choices": [
+      "Epicardium",
+      "Myocardium",
+      "Endocardial cushions",
+      "Pericardium"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The septum primum initially separates:",
+    "choices": [
+      "The right and left ventricles",
+      "The right and left atria",
+      "The sinus venosus and atrium",
+      "The aorta and pulmonary trunk"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The umbilical vein carries oxygenated blood to the:",
+    "choices": [
+      "Lungs",
+      "Liver",
+      "Right atrium",
+      "Left atrium"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The endocardial cushions are critical for the formation of:",
+    "choices": [
+      "Semilunar valves",
+      "Interventricular septum",
+      "Atrioventricular valves",
+      "Conotruncal septum"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The primitive ventricle contributes to the formation of the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The most common cause of aortic stenosis in adults is:",
+    "choices": [
+      "Rheumatic fever",
+      "Congenital bicuspid valve",
+      "Degenerative calcification",
+      "Infective endocarditis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Mitral stenosis is most commonly caused by:",
+    "choices": [
+      "Rheumatic fever",
+      "Congenital malformation",
+      "Myxomatous degeneration",
+      "Infective endocarditis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Aortic regurgitation may be caused by:",
+    "choices": [
+      "Rheumatic fever",
+      "Bacterial endocarditis",
+      "Aortic dissection",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which valvular abnormality is characterized by a fish-mouth appearance of the valve?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid stenosis",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A water hammer pulse is associated with:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of mitral regurgitation in developed countries is:",
+    "choices": [
+      "Rheumatic fever",
+      "Mitral valve prolapse",
+      "Infective endocarditis",
+      "Ischemic heart disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Pulmonary stenosis is often associated with:",
+    "choices": [
+      "Rheumatic fever",
+      "Congenital heart defects",
+      "Infective endocarditis",
+      "Myocardial infarction"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of tricuspid regurgitation is:",
+    "choices": [
+      "Rheumatic fever",
+      "Right ventricular dilatation",
+      "Infective endocarditis",
+      "Carcinoid syndrome"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is often asymptomatic until it becomes severe?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The presence of a mid-systolic click on auscultation suggests:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Mitral valve prolapse",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular disease is characterized by a holosystolic murmur that radiates to the axilla?",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The diastolic murmur of mitral stenosis is best heard:",
+    "choices": [
+      "At the right upper sternal border",
+      "At the apex",
+      "Along the left sternal border",
+      "At the left upper sternal border"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is commonly associated with atrial fibrillation?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Pulmonary stenosis",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A patient with aortic stenosis is most likely to present with:",
+    "choices": [
+      "Syncope",
+      "Hemoptysis",
+      "Palpitations",
+      "Peripheral edema"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a wide pulse pressure?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid stenosis",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common congenital heart defect causing valvular disease is:",
+    "choices": [
+      "Tetralogy of Fallot",
+      "Ventricular septal defect",
+      "Bicuspid aortic valve",
+      "Coarctation of the aorta"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality may cause a bounding pulse?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The presence of an opening snap followed by a diastolic rumble suggests:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which condition is characterized by a systolic ejection murmur that radiates to the carotids?",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Tricuspid stenosis",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The murmur of aortic regurgitation is best heard with the patient:",
+    "choices": [
+      "Supine",
+      "Sitting up and leaning forward",
+      "Left lateral decubitus position",
+      "Standing"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of tricuspid stenosis is:",
+    "choices": [
+      "Rheumatic fever",
+      "Congenital heart disease",
+      "Infective endocarditis",
+      "Carcinoid syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Pulmonary regurgitation is most commonly secondary to:",
+    "choices": [
+      "Rheumatic fever",
+      "Pulmonary hypertension",
+      "Congenital heart defects",
+      "Infective endocarditis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality presents with a high-pitched, blowing, early diastolic murmur?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valve is most commonly affected by rheumatic fever?",
+    "choices": [
+      "Aortic valve",
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The presence of a systolic murmur that increases with inspiration suggests:",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A high-pitched, decrescendo diastolic murmur heard best at the left lower sternal border indicates:",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic regurgitation",
+      "Pulmonary regurgitation",
+      "Tricuspid stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The most common cause of mitral valve prolapse is:",
+    "choices": [
+      "Rheumatic fever",
+      "Myxomatous degeneration",
+      "Infective endocarditis",
+      "Congenital heart disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of valvular heart disease worldwide is:",
+    "choices": [
+      "Congenital heart disease",
+      "Degenerative changes",
+      "Rheumatic heart disease",
+      "Infective endocarditis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality is most likely to cause a blowing pansystolic murmur at the left lower sternal border?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A systolic ejection murmur heard best at the left upper sternal border suggests:",
+    "choices": [
+      "Aortic stenosis",
+      "Pulmonary stenosis",
+      "Mitral regurgitation",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a crescendo-decrescendo murmur?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A holosystolic murmur at the apex with radiation to the axilla is characteristic of:",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a systolic murmur that decreases with Valsalva maneuver?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Hypertrophic cardiomyopathy",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The most common cause of acquired valvular heart disease in developed countries is:",
+    "choices": [
+      "Rheumatic fever",
+      "Degenerative calcification",
+      "Infective endocarditis",
+      "Congenital heart disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a mid-diastolic rumble?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with Marfan syndrome?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Aortic regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality is commonly seen in patients with carcinoid syndrome?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valve abnormality is characterized by a diamond-shaped murmur?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is often found in patients with systemic lupus erythematosus?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Aortic stenosis can lead to:",
+    "choices": [
+      "Left ventricular hypertrophy",
+      "Right ventricular hypertrophy",
+      "Left atrial enlargement",
+      "Right atrial enlargement"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a midsystolic click followed by a late systolic murmur?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Mitral valve prolapse",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The murmur of tricuspid regurgitation is best heard:",
+    "choices": [
+      "At the apex",
+      "Along the left sternal border",
+      "At the right upper sternal border",
+      "In the right lower sternal border"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which valvular abnormality may be associated with hemoptysis?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which valvular abnormality can cause right-sided heart failure?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A systolic murmur heard best at the left sternal border and increasing with inspiration suggests:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Pulmonary regurgitation",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The most common cause of aortic regurgitation in developing countries is:",
+    "choices": [
+      "Bicuspid aortic valve",
+      "Rheumatic fever",
+      "Infective endocarditis",
+      "Degenerative calcification"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is commonly associated with syncope?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The presence of a continuous murmur is most suggestive of:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Patent ductus arteriosus",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a to-and-fro murmur?",
+    "choices": [
+      "Aortic regurgitation",
+      "Mitral regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Aortic stenosis is most commonly diagnosed by:",
+    "choices": [
+      "Echocardiography",
+      "Chest X-ray",
+      "Electrocardiogram",
+      "Cardiac catheterization"
+    ],
+    "answer": 0
+  }
+]
