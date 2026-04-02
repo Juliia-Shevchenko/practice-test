@@ -911,5 +911,105 @@
       "protein, most of which does not encode DNA"
     ],
     "answer": 1
+  },
+  {
+    "prompt": "What is a gene?",
+    "choices": [
+      "DNA sequence that contains the information for producing one type of protein.",
+      "Structure that contains chromosomes.",
+      "Amino acid sequence that contains the information for producing a particular DNA sequence.",
+      "Collection of all of the protein-encoding DNA sequences on a particular chromosome."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Among humans, our genomes are about__________% alike.",
+    "choices": [
+      "0.1",
+      "46",
+      "72",
+      "99.9"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Genetics is the study of__________.",
+    "choices": [
+      "sperm and eggs",
+      "the effect of the environment on health",
+      "inheritance of characteristics",
+      "DNA"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A human zygote has__________ chromosomes,__________ each from the sperm and the egg.",
+    "choices": [
+      "22; 11",
+      "44; 22",
+      "46; 23",
+      "48; 24"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What processes result in the passing of genetic information from one generation to the next?",
+    "choices": [
+      "Mitosis and fertilization",
+      "Meiosis and fertilization",
+      "Mitosis and meiosis",
+      "Fertilization and cleavage"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is an exome?",
+    "choices": [
+      "The parts of the genome that determine sex.",
+      "The protein-encoding parts of the genome.",
+      "The parts of the genome that do not encode for proteins, but have regulatory functions.",
+      "The set of RNA molecules made in a particular cell type under specific conditions."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Name the two types of chromosomes.",
+    "choices": [
+      "Autosomes and allosomes",
+      "Sex chromosomes and allosomes",
+      "Sex chromosomes and autosomes",
+      "X and Y chromosomes"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is a karyotype?",
+    "choices": [
+      "A diagram that represents family relationships.",
+      "A chart of chromosomes, from largest to smallest.",
+      "A genome sequence.",
+      "A list of genes and the proteins they encode."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Colorblindness is an X-linked recessive trait. Antonio is colorblind. Emilia is not colorblind nor is she a carrier for colorblindness. What phenotypes will occur in their children?",
+    "choices": [
+      "Their sons will be colorblind and theirs daughters will have color vision.",
+      "Their daughters will be colorblind and their sons will have normal color vision.",
+      "All of their children, regardless of sex, will be colorblind.",
+      "All of their children, regardless of sex, will have normal color vision."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which term describes a human cell with 46 chromosomes?",
+    "choices": [
+      "Aneuploid",
+      "Euploid",
+      "Polyploid",
+      "Haploid"
+    ],
+    "answer": 1
   }
 ]
