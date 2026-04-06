@@ -617,7 +617,7 @@
       "Atrial septum",
       "Ventricular septum"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "prompt": "The cardiogenic area is located near the:",
@@ -1237,7 +1237,7 @@
       "Pulmonary regurgitation",
       "Tricuspid regurgitation"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "prompt": "The most common cause of aortic regurgitation in developing countries is:",
