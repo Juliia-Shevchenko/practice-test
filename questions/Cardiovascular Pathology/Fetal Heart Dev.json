@@ -1,0 +1,312 @@
+[
+  {
+    "prompt": "The heart begins to develop from the:",
+    "choices": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Neural crest"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The primary heart field forms in which region of the embryo?",
+    "choices": [
+      "Cranial",
+      "Caudal",
+      "Lateral",
+      "Medial"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The heart tube is formed by the fusion of:",
+    "choices": [
+      "Two endocardial tubes",
+      "Two mesodermal tubes",
+      "Two ectodermal tubes",
+      "Two endodermal tubes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which structure gives rise to the left and right atria?",
+    "choices": [
+      "Sinus venosus",
+      "Bulbus cordis",
+      "Primitive atrium",
+      "Primitive ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The truncus arteriosus divides into the:",
+    "choices": [
+      "Pulmonary veins and aorta",
+      "Pulmonary trunk and aorta",
+      "Superior vena cava and inferior vena cava",
+      "Left and right atria"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The septum primum forms the:",
+    "choices": [
+      "Foramen ovale",
+      "Fossa ovalis",
+      "Atrial septum",
+      "Ventricular septum"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The foramen ovale allows blood to flow from:",
+    "choices": [
+      "Right atrium to left atrium",
+      "Left atrium to right atrium",
+      "Right ventricle to left ventricle",
+      "Left ventricle to right ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The bulbus cordis contributes to the formation of the:",
+    "choices": [
+      "Right ventricle",
+      "Left ventricle",
+      "Right atrium",
+      "Left atrium"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The ductus arteriosus connects the:",
+    "choices": [
+      "Pulmonary trunk and aorta",
+      "Right atrium and left atrium",
+      "Right ventricle and left ventricle",
+      "Pulmonary veins and aorta"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The first functional organ in the human embryo is the:",
+    "choices": [
+      "Liver",
+      "Brain",
+      "Heart",
+      "Kidneys"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The atrioventricular valves develop from:",
+    "choices": [
+      "Endocardial cushions",
+      "Mesodermal cells",
+      "Neural crest cells",
+      "Ectodermal cells"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The truncus arteriosus is divided by the:",
+    "choices": [
+      "Septum primum",
+      "Septum secundum",
+      "Spiral septum",
+      "Atrioventricular septum"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The sinus venosus contributes to the formation of the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The septum secundum forms the:",
+    "choices": [
+      "Foramen ovale",
+      "Fossa ovalis",
+      "Atrial septum",
+      "Ventricular septum"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The cardiogenic area is located near the:",
+    "choices": [
+      "Tail of the embryo",
+      "Head of the embryo",
+      "Lateral sides of the embryo",
+      "Midline of the embryo"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The development of the heart begins at which week of gestation?",
+    "choices": [
+      "1st week",
+      "3rd week",
+      "5th week",
+      "7th week"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which structure forms the smooth part of the right atrium?",
+    "choices": [
+      "Sinus venosus",
+      "Primitive atrium",
+      "Bulbus cordis",
+      "Primitive ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The interventricular septum separates the:",
+    "choices": [
+      "Right and left atria",
+      "Right and left ventricles",
+      "Pulmonary trunk and aorta",
+      "Superior and inferior vena cava"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The outflow tracts of the ventricles are derived from the:",
+    "choices": [
+      "Sinus venosus",
+      "Primitive atrium",
+      "Bulbus cordis",
+      "Primitive ventricle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The formation of the heart loop occurs during which week of gestation?",
+    "choices": [
+      "2nd week",
+      "3rd week",
+      "4th week",
+      "5th week"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The epicardium is derived from:",
+    "choices": [
+      "Mesoderm",
+      "Ectoderm",
+      "Endoderm",
+      "Neural crest cells"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The right horn of the sinus venosus becomes part of the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The foramen secundum develops in the:",
+    "choices": [
+      "Septum primum",
+      "Septum secundum",
+      "Bulbus cordis",
+      "Primitive atrium"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The myocardium is derived from:",
+    "choices": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest cells"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The left atrium receives blood from the:",
+    "choices": [
+      "Right ventricle",
+      "Pulmonary veins",
+      "Pulmonary arteries",
+      "Aorta"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The coronary arteries develop from:",
+    "choices": [
+      "Ectoderm",
+      "Endoderm",
+      "Neural crest cells",
+      "Mesoderm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The cardiac jelly is involved in the formation of:",
+    "choices": [
+      "Epicardium",
+      "Myocardium",
+      "Endocardial cushions",
+      "Pericardium"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The septum primum initially separates:",
+    "choices": [
+      "The right and left ventricles",
+      "The right and left atria",
+      "The sinus venosus and atrium",
+      "The aorta and pulmonary trunk"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The umbilical vein carries oxygenated blood to the:",
+    "choices": [
+      "Lungs",
+      "Liver",
+      "Right atrium",
+      "Left atrium"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The endocardial cushions are critical for the formation of:",
+    "choices": [
+      "Semilunar valves",
+      "Interventricular septum",
+      "Atrioventricular valves",
+      "Conotruncal septum"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The primitive ventricle contributes to the formation of the:",
+    "choices": [
+      "Right atrium",
+      "Left atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": 2
+  }
+]
