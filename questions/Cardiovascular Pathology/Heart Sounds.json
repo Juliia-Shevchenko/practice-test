@@ -1,0 +1,461 @@
+[
+  { "prompt": "A water hammer pulse is associated with:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of mitral regurgitation in developed countries is:",
+    "choices": [
+      "Rheumatic fever",
+      "Mitral valve prolapse",
+      "Infective endocarditis",
+      "Ischemic heart disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Pulmonary stenosis is often associated with:",
+    "choices": [
+      "Rheumatic fever",
+      "Congenital heart defects",
+      "Infective endocarditis",
+      "Myocardial infarction"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of tricuspid regurgitation is:",
+    "choices": [
+      "Rheumatic fever",
+      "Right ventricular dilatation",
+      "Infective endocarditis",
+      "Carcinoid syndrome"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is often asymptomatic until it becomes severe?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The presence of a mid-systolic click on auscultation suggests:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Mitral valve prolapse",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular disease is characterized by a holosystolic murmur that radiates to the axilla?",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The diastolic murmur of mitral stenosis is best heard:",
+    "choices": [
+      "At the right upper sternal border",
+      "At the apex",
+      "Along the left sternal border",
+      "At the left upper sternal border"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is commonly associated with atrial fibrillation?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Pulmonary stenosis",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A patient with aortic stenosis is most likely to present with:",
+    "choices": [
+      "Syncope",
+      "Hemoptysis",
+      "Palpitations",
+      "Peripheral edema"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a wide pulse pressure?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid stenosis",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common congenital heart defect causing valvular disease is:",
+    "choices": [
+      "Tetralogy of Fallot",
+      "Ventricular septal defect",
+      "Bicuspid aortic valve",
+      "Coarctation of the aorta"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality may cause a bounding pulse?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The presence of an opening snap followed by a diastolic rumble suggests:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which condition is characterized by a systolic ejection murmur that radiates to the carotids?",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Tricuspid stenosis",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The murmur of aortic regurgitation is best heard with the patient:",
+    "choices": [
+      "Supine",
+      "Sitting up and leaning forward",
+      "Left lateral decubitus position",
+      "Standing"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of tricuspid stenosis is:",
+    "choices": [
+      "Rheumatic fever",
+      "Congenital heart disease",
+      "Infective endocarditis",
+      "Carcinoid syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Pulmonary regurgitation is most commonly secondary to:",
+    "choices": [
+      "Rheumatic fever",
+      "Pulmonary hypertension",
+      "Congenital heart defects",
+      "Infective endocarditis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality presents with a high-pitched, blowing, early diastolic murmur?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valve is most commonly affected by rheumatic fever?",
+    "choices": [
+      "Aortic valve",
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The presence of a systolic murmur that increases with inspiration suggests:",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A high-pitched, decrescendo diastolic murmur heard best at the left lower sternal border indicates:",
+    "choices": [
+      "Mitral regurgitation",
+      "Aortic regurgitation",
+      "Pulmonary regurgitation",
+      "Tricuspid stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The most common cause of mitral valve prolapse is:",
+    "choices": [
+      "Rheumatic fever",
+      "Myxomatous degeneration",
+      "Infective endocarditis",
+      "Congenital heart disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The most common cause of valvular heart disease worldwide is:",
+    "choices": [
+      "Congenital heart disease",
+      "Degenerative changes",
+      "Rheumatic heart disease",
+      "Infective endocarditis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality is most likely to cause a blowing pansystolic murmur at the left lower sternal border?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A systolic ejection murmur heard best at the left upper sternal border suggests:",
+    "choices": [
+      "Aortic stenosis",
+      "Pulmonary stenosis",
+      "Mitral regurgitation",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a crescendo-decrescendo murmur?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A holosystolic murmur at the apex with radiation to the axilla is characteristic of:",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a systolic murmur that decreases with Valsalva maneuver?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Hypertrophic cardiomyopathy",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The most common cause of acquired valvular heart disease in developed countries is:",
+    "choices": [
+      "Rheumatic fever",
+      "Degenerative calcification",
+      "Infective endocarditis",
+      "Congenital heart disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a mid-diastolic rumble?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary regurgitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with Marfan syndrome?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Aortic regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality is commonly seen in patients with carcinoid syndrome?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valve abnormality is characterized by a diamond-shaped murmur?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is often found in patients with systemic lupus erythematosus?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Aortic stenosis can lead to:",
+    "choices": [
+      "Left ventricular hypertrophy",
+      "Right ventricular hypertrophy",
+      "Left atrial enlargement",
+      "Right atrial enlargement"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a midsystolic click followed by a late systolic murmur?",
+    "choices": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Mitral valve prolapse",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The murmur of tricuspid regurgitation is best heard:",
+    "choices": [
+      "At the apex",
+      "Along the left sternal border",
+      "At the right upper sternal border",
+      "In the right lower sternal border"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which valvular abnormality may be associated with hemoptysis?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which valvular abnormality can cause right-sided heart failure?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A systolic murmur heard best at the left sternal border and increasing with inspiration suggests:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Pulmonary regurgitation",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The most common cause of aortic regurgitation in developing countries is:",
+    "choices": [
+      "Bicuspid aortic valve",
+      "Rheumatic fever",
+      "Infective endocarditis",
+      "Degenerative calcification"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which valvular abnormality is commonly associated with syncope?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The presence of a continuous murmur is most suggestive of:",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Patent ductus arteriosus",
+      "Pulmonary stenosis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which valvular abnormality is associated with a to-and-fro murmur?",
+    "choices": [
+      "Aortic regurgitation",
+      "Mitral regurgitation",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Aortic stenosis is most commonly diagnosed by:",
+    "choices": [
+      "Echocardiography",
+      "Chest X-ray",
+      "Electrocardiogram",
+      "Cardiac catheterization"
+    ],
+    "answer": 0
+  }
+]
