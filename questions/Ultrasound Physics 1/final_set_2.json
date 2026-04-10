@@ -1,0 +1,122 @@
+[
+  {
+    "prompt": "Which of the following is the propagation speed of soft tissue?",
+    "choices": [
+      "1450m/sec",
+      "1540 km/sec",
+      "1540 m/sec",
+      "1560 mm/msec"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following would have the highest propagation speed?",
+    "choices": [
+      "Bone",
+      "Soft tissue",
+      "Water"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following would have the lowest propagation speed?",
+    "choices": [
+      "Water",
+      "Soft tissue",
+      "Bone",
+      "Lung tissue"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A pair of waves in phase. What occurs when these waves interfere?",
+    "choices": [
+      "Constructive interference",
+      "Refraction",
+      "Destructive interference"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The typical range of frequency for diagnostic ultrasound image is:",
+    "choices": [
+      "2 to 15 MHZ",
+      "10 to 20 MHZ",
+      "12 to 100 MHZ"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is described as the distance over which one cycle occurs?",
+    "choices": [
+      "Duty factor",
+      "Period",
+      "Wavelength"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Area of high pressure and density is referred to as:",
+    "choices": [
+      "Rarefaction",
+      "Condensation",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Density and propagation speed are:",
+    "choices": [
+      "Inversely related",
+      "Directly related",
+      "Directly proportional",
+      "Unrelated"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Snell's law describes",
+    "choices": [
+      "The angle of transmission at an interface between media having different speed",
+      "The amount of attenuation of sound in tissue with depth",
+      "The amount of backscatter from a diffuse reflector"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship of frequency to absorption?",
+    "choices": [
+      "If frequency is doubled, absorption is doubled",
+      "If frequency is doubled, absorption is halved",
+      "If frequency is halved, absorption is quartered",
+      "The rate of sound absorption is not frequency dependent"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is most relevant intensity in the study of Bio effects?",
+    "choices": [
+      "SPTP",
+      "SPTA",
+      "SATA",
+      "SATP"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the relationship between PRF and imaging depth?:",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which type of transducer has a greater bandwidth",
+    "choices": [
+      "Continuous wave Transducer",
+      "Pulse wave transducer"
+    ],
+    "answer": 1
+  }
+]

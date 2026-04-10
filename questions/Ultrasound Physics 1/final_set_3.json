@@ -1,0 +1,296 @@
+[
+  {
+    "prompt": "The portion of the sound beam where the molecules are pulled apart describes an area of:",
+    "choices": [
+      "Compression",
+      "Rarefaction",
+      "Refraction",
+      "Amplitude"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is considered the speed of sound in soft tissue?",
+    "choices": [
+      "660 m/s",
+      "330 m/s",
+      "1480 m/s",
+      "1540 m/s"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is defined as the number of ultrasound pulses emitted in 1 second?",
+    "choices": [
+      "PRP",
+      "Duty factor",
+      "PRF",
+      "Spatial pulse length"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The rate of attenuation, or the attenuation coefficient, is expressed in",
+    "choices": [
+      "\u00b5W/cm\u00b2",
+      "\u00b5W",
+      "dB/cm",
+      "dB/cm2"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which type of transducer has a greater bandwidth",
+    "choices": [
+      "Continuous wave Transducer",
+      "Pulse wave transducer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A pair of waves in phase. What occurs when these waves interfere?",
+    "choices": [
+      "Constructive interference",
+      "Refraction",
+      "Destructive interference"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is essentially equal to the power of a wave divided by the area over which the power is distributed?",
+    "choices": [
+      "Amplitude",
+      "Power",
+      "Intensity",
+      "Absorption"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following relate to the strength of the sound wave except",
+    "choices": [
+      "Amplitude",
+      "Wavelength",
+      "Intensity",
+      "Power"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is defined as active time only?",
+    "choices": [
+      "Duty factor",
+      "PRF",
+      "Period",
+      "Pulse duration"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the change in power if the amplitude triples?",
+    "choices": [
+      "It doubles",
+      "It triples",
+      "It quadruples",
+      "It increases nine times"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is the part of the transducer that stops the ringing of the element?",
+    "choices": [
+      "Matching layer",
+      "case",
+      "Damping material",
+      "Insulator"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is determined only by the medium?",
+    "choices": [
+      "Propagation speed",
+      "Frequency",
+      "Period",
+      "Wavelength"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is most relevant intensity in the study of Bio effects?",
+    "choices": [
+      "SPTP",
+      "SPTA",
+      "SATA",
+      "SATP"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which term is reciprocal of Mega?",
+    "choices": [
+      "Milli",
+      "Micro",
+      "Mega",
+      "Centi"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is described as the distance over which one cycle occurs?",
+    "choices": [
+      "Duty factor",
+      "Period",
+      "Wavelength"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following crystals will produce a sound beam of lower beam divergence?",
+    "choices": [
+      "Smaller diameter & higher frequency",
+      "Smaller diameter and lower frequency",
+      "Larger diameter and higher frequency",
+      "Larger diameter & lower frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following would have the highest propagation speed?",
+    "choices": [
+      "Bone",
+      "Soft tissue",
+      "Water"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If only the density of a medium is increased, then the:",
+    "choices": [
+      "Propagation speed will increase",
+      "Propagation speed will decrease",
+      "Propagation speed will stay the same",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following lists the order of impedance from lowest to highest?",
+    "choices": [
+      "Skin, gel, matching layer, PZT",
+      "Gel, matching layer, skin, PZT",
+      "PZT, matching layer, gel, Skin",
+      "Matching layer, Gel, Skin, PZT"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The duty factor for continuous wave ultrasound is:",
+    "choices": [
+      "<99%",
+      "100%",
+      ">20,000 Hz",
+      "8 Pa"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Density and propagation speed are:",
+    "choices": [
+      "Inversely related",
+      "Directly related",
+      "Directly proportional",
+      "Unrelated"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the change in intensity if the power decreases by half and area remains unchanged?",
+    "choices": [
+      "Intensity doubles",
+      "Intensity is halved",
+      "Intensity is one fourth",
+      "Intensity does not change"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following tissue has the highest rate of attenuation of an ultrasound wave?",
+    "choices": [
+      "Liver",
+      "Fat",
+      "Fluid",
+      "Lung and bone",
+      "Muscle"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following would be considered ultrasonic?",
+    "choices": [
+      "10 Hz",
+      "12.5 Hz",
+      "1 MHz",
+      "200 Hz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of these intensity is smallest?",
+    "choices": [
+      "SATP",
+      "SPTP",
+      "SATA",
+      "SPPA"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When the elasticity of a medium is high, the ____________ is low.",
+    "choices": [
+      "Compressibility",
+      "Transmission",
+      "Reflectivity",
+      "Propagation speed"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship between PRF and imaging depth?:",
+    "choices": [
+      "Direct",
+      "Inverse"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following would have the lowest propagation speed?",
+    "choices": [
+      "Water",
+      "Soft tissue",
+      "Bone",
+      "Lung tissue"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "As imaging depth increases, the PRF must",
+    "choices": [
+      "Not change",
+      "Increase",
+      "Decrease",
+      "PRF does not relate to imaging depth"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Sound is technically a:",
+    "choices": [
+      "Transverse and longitudinal wave",
+      "Mechanical and transverse wave",
+      "Non mechanical pressure wave",
+      "Mechanical and longitudinal wave"
+    ],
+    "answer": 3
+  }
+]

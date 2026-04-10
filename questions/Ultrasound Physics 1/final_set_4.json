@@ -1,0 +1,129 @@
+[
+  {
+    "prompt": "Area of high pressure and density is referred to as:",
+    "choices": [
+      "Rarefaction",
+      "Condensation",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the range of frequencies present within the beam?",
+    "choices": [
+      "Quality factor",
+      "Bandwidth",
+      "Array",
+      "Resonant frequency"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The percentage of time that the ultrasound system is producing pulses of ultrasound describes the:",
+    "choices": [
+      "PRP",
+      "Pulse duration",
+      "Duty factor",
+      "PRF"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is the propagation speed of soft tissue?",
+    "choices": [
+      "1450m/sec",
+      "1540 km/sec",
+      "1540 m/sec",
+      "1560 mm/msec"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following correctly describes an imaging transducer except",
+    "choices": [
+      "High sensitivity",
+      "Low Q factor",
+      "Wide bandwidth",
+      "Damped"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If intensity remains the same while the power is quadrupled, what happens to the beam area?",
+    "choices": [
+      "Quadrupled",
+      "Doubled",
+      "Halved",
+      "Unchanged"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Snell's law describes",
+    "choices": [
+      "The angle of transmission at an interface between media having different speed",
+      "The amount of attenuation of sound in tissue with depth",
+      "The amount of backscatter from a diffuse reflector"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the relationship of frequency to absorption?",
+    "choices": [
+      "If frequency is doubled, absorption is doubled",
+      "If frequency is doubled, absorption is halved",
+      "If frequency is halved, absorption is quartered",
+      "The rate of sound absorption is not frequency dependent"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The typical range of frequency for diagnostic ultrasound image is:",
+    "choices": [
+      "2 to 15 MHZ",
+      "10 to 20 MHZ",
+      "12 to 100 MHZ"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If frequency is 1 MHz, the period is",
+    "choices": [
+      "1,000,000 s",
+      "100 s",
+      "0.01 S",
+      "0.000001 s"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is defined as the number of cycles emitted in 1 second?",
+    "choices": [
+      "Period",
+      "Frequency",
+      "Wavelength",
+      "Power"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are true of wavelength except:",
+    "choices": [
+      "It is determined by both the medium and sound source",
+      "It is equal to period divided by the frequency",
+      "It is inversely related to frequency",
+      "It is directly related to period"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Spatial pulse length can be calculated as:",
+    "choices": [
+      "Number of cycles x frequency",
+      "Period/frequency",
+      "Number of cycles x wavelength",
+      "Number of cycles/wavelength"
+    ],
+    "answer": 2
+  }
+]
