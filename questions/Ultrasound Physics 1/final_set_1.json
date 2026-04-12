@@ -110,6 +110,16 @@
     "answer": 3
   },
   {
+    "prompt": "The maximum value or minimum value of an acoustic variable minus the equilibrium value of that variable describes the:",
+    "choices": [
+      "Power",
+      "Intensity",
+      "Duty factor",
+      "Amplitude"
+    ],
+    "answer": 3
+  },
+  {
     "prompt": "Which of the following would be considered ultrasonic?",
     "choices": [
       "10 Hz",
@@ -130,6 +140,16 @@
     "answer": 3
   },
   {
+    "prompt": "An increase in the PRF would lead to",
+    "choices": [
+      "An increase in the duty factor",
+      "An increase in pulse duration",
+      "An increase in the number of cycles",
+      "A decrease in resolution"
+    ],
+    "answer": 0
+  },
+  {
     "prompt": "As imaging depth increases, the PRF must",
     "choices": [
       "Not change",
@@ -148,6 +168,26 @@
       "Number of cycles/wavelength"
     ],
     "answer": 2
+  },
+  {
+    "prompt": "As imaging depth increase PRP:",
+    "choices": [
+      "Remains constant",
+      "Increase",
+      "Decrease",
+      "Doubles"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If PRF increases then the duty factor",
+    "choices": [
+      "remains same",
+      "Increase",
+      "Decrease",
+      "Doubles"
+    ],
+    "answer": 1
   },
   {
     "prompt": "The percentage of time that the ultrasound system is producing pulses of ultrasound describes the:",
@@ -180,6 +220,16 @@
     "answer": 3
   },
   {
+    "prompt": "What happens to the pulse duration when a sonographer decrease the maximum imaging depth in an Ultrasound?",
+    "choices": [
+      "remains same",
+      "Increase",
+      "Decrease",
+      "Cannot be determined"
+    ],
+    "answer": 0
+  },
+  {
     "prompt": "The duty factor for continuous wave ultrasound is:",
     "choices": [
       "<99%",
@@ -190,6 +240,16 @@
     "answer": 1
   },
   {
+    "prompt": "What is defined as the beginning of one pulse to the beginning of the next pulse, and therefore includes both the on and off time?",
+    "choices": [
+      "Pulse repetition period",
+      "Pulse duration",
+      "Duty factor",
+      "Pulse repetition frequency"
+    ],
+    "answer": 0
+  },
+  {
     "prompt": "Which of these intensity is smallest?",
     "choices": [
       "SATP",
@@ -198,6 +258,26 @@
       "SPPA"
     ],
     "answer": 2
+  },
+  {
+    "prompt": "The units of attenuation are ______________ this is a _________________ scale.",
+    "choices": [
+      "Mm/cm, parametric",
+      "Db/cm, multiplicative",
+      "None, relative",
+      "DB, logarithmic"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Sound wave intensity is attenuated from one fourth of original. How many decibel of attenuation is this?",
+    "choices": [
+      "6 DB",
+      "9 DB",
+      "10 DB",
+      "3 DB"
+    ],
+    "answer": 0
   },
   {
     "prompt": "Which of the following tissue has the highest rate of attenuation of an ultrasound wave?",
@@ -231,7 +311,17 @@
     "answer": 1
   },
   {
-    "prompt": "Which of the following correctly describes an imaging transducer except",
+    "prompt": "What does heat sterilization do to an ultrasound transducer?",
+    "choices": [
+      "Gives it a better axial resolution",
+      "Improves lateral resolution of the transducer",
+      "Kills the bacteria and viruses",
+      "Kills pathogen and destroy transducer"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following correctly describes an imaging transducer except",
     "choices": [
       "High sensitivity",
       "Low Q factor",
@@ -239,6 +329,27 @@
       "Damped"
     ],
     "answer": 0
+  },
+  {
+    "prompt": "A pulsed wave transducer has a resonant frequency of 5 MHZ. The lowest frequency in the pulse is 2 MHZ and the Highest is 8 MHZ. What is the Q factor?",
+    "choices": [
+      "0.8",
+      "3 MHZ",
+      "5 MHZ",
+      "1.9",
+      "2 MHZ"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In an imaging transducer what is the purpose of attaching the backing material to PZT?",
+    "choices": [
+      "Increase bandwidth",
+      "Decrease Q factor",
+      "Improve image Quality",
+      "Decrease transducer sensitivity"
+    ],
+    "answer": 2
   },
   {
     "prompt": "Which of the following lists the order of impedance from lowest to highest?",
@@ -251,53 +362,43 @@
     "answer": 0
   },
   {
-    "prompt": "Which of the following crystals will produce a sound beam of lower beam divergence?",
+    "prompt": "The backing material decrease",
     "choices": [
-      "Smaller diameter & higher frequency",
-      "Smaller diameter and lower frequency",
-      "Larger diameter and higher frequency",
-      "Larger diameter & lower frequency"
+      "Bandwidth",
+      "Quality factor",
+      "Size of case",
+      "PRP"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "prompt": "If frequency is 1 MHz, the period is",
+    "prompt": "What is thickness of a matching layer of a 3 MHZ pulsed wave transducer?",
     "choices": [
-      "1,000,000 s",
-      "100 s",
-      "0.01 S",
-      "0.000001 s"
+      "1.54 mm",
+      "0.77 mm",
+      "Half the wavelength of the sound wave in the PZT",
+      "One quarter the wavelength of sound in the matching layer"
     ],
     "answer": 3
   },
   {
-    "prompt": "The rate of attenuation, or the attenuation coefficient, is expressed in",
+    "prompt": "What helps to determine the frequency of the sound produced by the transducer of a continuous wave ultrasound system?",
     "choices": [
-      "\u00b5W/cm\u00b2",
-      "\u00b5W",
-      "dB/cm",
-      "dB/cm2"
+      "PZT diameter",
+      "PZT crystal thickness",
+      "Damping material density",
+      "Ultrasound system electronics"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
-    "prompt": "If intensity remains the same while the power is quadrupled, what happens to the beam area?",
+    "prompt": "You are asked to fabricate a pulsed ultrasound transducer with the highest possible frequency. Which piezoelectric crystal would you select",
     "choices": [
-      "Quadrupled",
-      "Doubled",
-      "Halved",
-      "Unchanged"
+      "8 mm thick, 4 cm diameter, 4 mm/microsec propagation speed",
+      "6 mm thick, 2 cm diameter, 6 mm/microsec propagation speed",
+      "4 mm thick, 9 cm diameter, 5 mm/microsec propagation speed",
+      "3 mm thick, 6 cm diameter, 6 mm/microsec propagation speed"
     ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which term is reciprocal of Mega?",
-    "choices": [
-      "Milli",
-      "Micro",
-      "Mega",
-      "Centi"
-    ],
-    "answer": 1
+    "answer": 3
   }
 ]
