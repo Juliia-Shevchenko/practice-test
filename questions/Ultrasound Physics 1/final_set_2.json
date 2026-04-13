@@ -1,5 +1,148 @@
 [
   {
+    "prompt": "The impedance of a transducer's active elements is 1,900,000 rayls and the impedance of skin is 1400000. What is an acceptable impedance for the matching layer?",
+    "choices": [
+      "1,407,00 rayls",
+      "2,400,000 rayls",
+      "1,200,000 rayls",
+      "1,726,444 rayls",
+      "1,900,000 rayls"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "When will the beam's diameter be greater than the diameter of the PZT?",
+    "choices": [
+      "At focus",
+      "At twice the focal length",
+      "Beyond twice the focal length",
+      "At the beginning of the beam."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which transducer would provide the longest near-zone length?",
+    "choices": [
+      "1O MHz, 6 mm diameter aperture",
+      "10 MHz, 5 mm diameter aperture",
+      "10 MHz, 4 mm diameter aperture",
+      "1O MHz, 3 mm diameter aperture",
+      "10 MHz, 2 mm diameter aperture"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following crystals will produce a sound beam of lower beam divergence?",
+    "choices": [
+      "Smaller diameter & higher frequency",
+      "Smaller diameter and lower frequency",
+      "Larger diameter and higher frequency",
+      "Larger diameter & lower frequency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the best estimate of the beam's diameter as it exits the transducer? Transducer's Diameter: 10 mm Focal Zone:4 cm, Focal Depth:8 cm",
+    "choices": [
+      "4 mm",
+      "10 mm",
+      "8 cm",
+      "10 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following transducers has the worst depth resolution?",
+    "choices": [
+      "3 MHz & 5 cycles/pulse",
+      "2 MHZ & 5 cycles/pulse",
+      "3 MHz & 2 cycles/pulse",
+      "2 MHz & 2 cycles/pulse"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The type of transducer that uses the time delay to steer the beam at an angle for imaging is called __________ array.",
+    "choices": [
+      "A phased.",
+      "An annular.",
+      "A curved.",
+      "A linear."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If frequency is 1 MHz, the period is",
+    "choices": [
+      "1,000,000 s",
+      "100 s",
+      "0.01 S",
+      "0.000001 s"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "One advantage a diffuse reflector provides over a specular reflector is it",
+    "choices": [
+      "Exhibits less angular dependence of the reflection",
+      "Does not attenuate the sound beam",
+      "Exhibits a greater acoustic impendence change",
+      "Intersects only a small fraction of the beam"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The rate of attenuation, or the attenuation coefficient, is expressed in",
+    "choices": [
+      "µW/cm²",
+      "µW",
+      "dB/cm",
+      "dB/cm2"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "If the sonographer decreases the maximum imaging depth from 6cm to 4cm. Which of the following will increase?",
+    "choices": [
+      "PRP",
+      "PD",
+      "SPL",
+      "FREQUENCY",
+      "DF"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "When the frequencies of the sound waves differ, what unique type of interference occurs?",
+    "choices": [
+      "Constructive interference",
+      "Destructive interference",
+      "Both constructive interference",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "If intensity remains the same while the power is quadrupled, what happens to the beam area?",
+    "choices": [
+      "Quadrupled",
+      "Doubled",
+      "Halved",
+      "Unchanged"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will change with depth?",
+    "choices": [
+      "SPTP",
+      "SATP",
+      "SPTA",
+      "SPPA"
+    ],
+    "answer": 2
+  },
+  {
     "prompt": "Which of the following is the propagation speed of soft tissue?",
     "choices": [
       "1450m/sec",
@@ -10,113 +153,248 @@
     "answer": 2
   },
   {
-    "prompt": "Which of the following would have the highest propagation speed?",
+    "prompt": "Which term is reciprocal of Mega?",
     "choices": [
-      "Bone",
-      "Soft tissue",
-      "Water"
+      "Milli",
+      "Micro",
+      "Mega",
+      "Centi"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
-    "prompt": "Which of the following would have the lowest propagation speed?",
+    "prompt": "A sonographer adjust the maximum imaging depth of an ultrasound system. Which of following also change?",
     "choices": [
-      "Water",
-      "Soft tissue",
-      "Bone",
-      "Lung tissue"
-    ],
-    "answer": 3
-  },
-  {
-    "prompt": "A pair of waves in phase. What occurs when these waves interfere?",
-    "choices": [
-      "Constructive interference",
-      "Refraction",
-      "Destructive interference"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "The typical range of frequency for diagnostic ultrasound image is:",
-    "choices": [
-      "2 to 15 MHZ",
-      "10 to 20 MHZ",
-      "12 to 100 MHZ"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which of the following is described as the distance over which one cycle occurs?",
-    "choices": [
+      "Pulse duration",
+      "Spatial pulse length",
       "Duty factor",
-      "Period",
-      "Wavelength"
+      "Frequency"
     ],
     "answer": 2
   },
   {
-    "prompt": "Area of high pressure and density is referred to as:",
+    "prompt": "Two media A and B have the same densities. The speed of sound in medium A is 20 % lower than in medium B. Which medium has the higher acoustic impedance?",
     "choices": [
-      "Rarefaction",
-      "Condensation",
-      "Refraction"
+      "Medium A",
+      "Medium B",
+      "neither",
+      "Both mediums have equal impedance."
     ],
     "answer": 1
   },
   {
-    "prompt": "Density and propagation speed are:",
+    "prompt": "All of the following describes correctly an imaging transducer except:",
     "choices": [
-      "Inversely related",
-      "Directly related",
-      "Directly proportional",
-      "Unrelated"
+      "Low Q factor",
+      "Wide bandwidth",
+      "Damped",
+      "High sensitivity"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In a B mode display which of the following axis is used with the amplitude of the reflection?",
+    "choices": [
+      "M axis",
+      "Y axis",
+      "X axis",
+      "Time base axis",
+      "Z axis"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "As sound travels deeply in to far zone, the beam diverges. Which of the following will result in a minimum beam divergence deep in fraunhofer zone?",
+    "choices": [
+      "Small diameter, high frequency",
+      "Large diameter, high frequency",
+      "Small diameter, low frequency",
+      "Large diameter, low frequency"
     ],
     "answer": 1
   },
   {
-    "prompt": "Snell's law describes",
+    "prompt": "If an angle of incidence is 80°, what is the angle of transmission at the interface if medium 1 has a propagation speed of 1580 m/s and medium 2 has a propagation speed of 1700 m/s?",
     "choices": [
-      "The angle of transmission at an interface between media having different speed",
-      "The amount of attenuation of sound in tissue with depth",
-      "The amount of backscatter from a diffuse reflector"
+      "<80 degrees",
+      ">80 degrees",
+      "80 degrees",
+      "Cannot tell the angle of transmission"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is best described as mechanically steered and multi-focus?",
+    "choices": [
+      "Annular phased array",
+      "Linear sequential array",
+      "Linear phased array",
+      "Curved sequential array"
     ],
     "answer": 0
   },
   {
-    "prompt": "What is the relationship of frequency to absorption?",
+    "prompt": "The range equation explains",
     "choices": [
-      "If frequency is doubled, absorption is doubled",
-      "If frequency is doubled, absorption is halved",
-      "If frequency is halved, absorption is quartered",
-      "The rate of sound absorption is not frequency dependent"
+      "Side lobes",
+      "Distance to reflectors",
+      "Attenuation",
+      "Calibration"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the correct equation to calculate Impedance of a medium?",
+    "choices": [
+      "Density x stiffness",
+      "Density x incidence",
+      "Propagation speed x density",
+      "Propagation speed x stiffness"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "If the attenuation coefficient is 3 dB/cm. What would attenuation coefficient be at 10cm depth?",
+    "choices": [
+      "3 db/cm",
+      "9 db/cm",
+      "30 db",
+      "90 db",
+      "0.3 db"
     ],
     "answer": 0
   },
   {
-    "prompt": "Which of the following is most relevant intensity in the study of Bio effects?",
+    "prompt": "Which of the following has no relationship with attenuation?",
     "choices": [
-      "SPTP",
-      "SPTA",
-      "SATA",
-      "SATP"
+      "Propagation speed",
+      "Frequency",
+      "Path length",
+      "Wavelength"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will decrease in value as the sound wave propagates deeper in the medium?",
+    "choices": [
+      "Propagation speed",
+      "Wavelength",
+      "Frequency",
+      "Power",
+      "period"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following will cause reflection to occur?",
+    "choices": [
+      "Different propagation speed, 60 degree incident angle",
+      "Different propagation speed, 90 degree incident angle",
+      "Different impedance, perpendicular incident angle",
+      "Identical speed, 90 incident angle",
+      "Identical speed, 60 degree incident angle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will cause refraction to occur?",
+    "choices": [
+      "Different propagation speed, 60 degree incident angle",
+      "Different propagation speed, 90 degree incident angle",
+      "Different impedance, perpendicular incident angle",
+      "Identical speed, 90 incident angle",
+      "Identical speed, 60 degree incident angle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What would be the attenuation coefficient of a 5 MHz transducer in soft tissue at 10 cm depth ?",
+    "choices": [
+      "50db/cm",
+      "5db/cm",
+      "2.5db/cm",
+      "5db",
+      "10db"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Two structures located perpendicular to the sound beam 4mm apart at 7cm depth. If the sound beam's diameter at the same depth is 3mm, which below is true?",
+    "choices": [
+      "1 echo returns",
+      "2 echoes return",
+      "Cannot be determined."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the PZT's diameter is 10mm and if the near zone length is 10cm, what would be the transverse resolution at 2x near zone length?",
+    "choices": [
+      "10cm",
+      "20cm",
+      "10mm",
+      "20mm",
+      "5mm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following sound pulse will have the highest numerical value of axial resolution?",
+    "choices": [
+      "7Mhz , 2 cycles",
+      "5Mhz, 7 cycles",
+      "7Mhz, 7 cycles",
+      "5Mhz, 2 cycles"
     ],
     "answer": 1
   },
   {
-    "prompt": "What is the relationship between PRF and imaging depth?:",
+    "prompt": "Which of the following will have the best transverse resolution deep in the far field?",
     "choices": [
-      "Direct",
-      "Inverse"
+      "5Mhz, 3mm",
+      "7Mhz, 2mm",
+      "7Mhz, 3mm",
+      "5Mhz, 2mm"
     ],
     "answer": 1
   },
   {
-    "prompt": "Which type of transducer has a greater bandwidth",
+    "prompt": "Which of the following will have the best range resolution?",
     "choices": [
-      "Continuous wave Transducer",
-      "Pulse wave transducer"
+      "Shorter wavelength and more cycles",
+      "Shorter wavelength and fewer cycles",
+      "Longer wavelength and more cycles",
+      "Cannot be determined"
     ],
     "answer": 1
+  },
+  {
+    "prompt": "Which of these is a way to improve elevational resolution at wide range of depths?",
+    "choices": [
+      "Use of a 1D array transducer",
+      "Use of a 1.5D array transducer",
+      "Use of mechanical focusing for elevational resolution",
+      "Use of acoustic lens"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Side and grating lobes will degrade which of the following resolution?",
+    "choices": [
+      "Range",
+      "Depth",
+      "Transverse",
+      "Axial"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "This transducer has: 120-250 crystals, arranged side-by-side Trapezoidal shaped image Electronic steering (combination of linear and phased array) Electronic focusing",
+    "choices": [
+      "Vector Transducer",
+      "Linear phased array Transducer",
+      "Curvilinear Transducer"
+    ],
+    "answer": 0
   }
 ]
