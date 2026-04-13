@@ -1,0 +1,202 @@
+[
+  {
+    "prompt": "What is pressure measured in?",
+    "choices": ["Feet, inches, centimeters, or miles", "Pascals or pounds per square inch", "Kilograms per centimeter cubed", "Hertz, kilohertz, or megahertz"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is essentially equal to the power of a wave divided by the area over which the power is distributed?",
+    "choices": ["Amplitude", "Power", "Intensity", "Absorption"],
+    "answer": 2
+  },
+  {
+    "prompt": "Transducers have material within them that, when electronically stimulated produces ultrasound waves. This is most likely some form of:",
+    "choices": ["Copperhirm titonize", "Zinconian sulfate", "Lead zirconate titanate", "Barium"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the change in power if the amplitude triples?",
+    "choices": ["It doubles", "It triples", "It quadruples", "It increases nine times"],
+    "answer": 3
+  },
+  {
+    "prompt": "The portion of the sound beam where the molecules are pulled apart describes an area of:",
+    "choices": ["Compression", "Rarefaction", "Refraction", "Amplitude"],
+    "answer": 1
+  },
+  {
+    "prompt": "If only the density of a medium is increased, then the:",
+    "choices": ["Propagation speed will increase", "Propagation speed will decrease", "Propagation speed will stay the same", "None of the above"],
+    "answer": 1
+  },
+  {
+    "prompt": "Sound is technically a:",
+    "choices": ["Transverse and longitudinal wave", "Mechanical and transverse wave", "Nonmechanical pressure wave", "Mechanical and longitudinal wave"],
+    "answer": 3
+  },
+  {
+    "prompt": "The maximum value or minimum value of an acoustic variable minus the equilibrium value of that variable describes the:",
+    "choices": ["Power", "Intensity", "Duty factor", "Amplitude"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following would be considered ultrasonic?",
+    "choices": ["10 Hz", "12.5 Hz", "1 MHz", "200 Hz"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is considered the speed of sound in soft tissue?",
+    "choices": ["660 m/s", "330 m/s", "1480 m/s", "1540 m/s"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following would be considered the narrowest part of a sound beam?",
+    "choices": ["Far zone", "Near zone", "Near zone length", "Focus"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is the part of the transducer that stops the ringing of the element?",
+    "choices": ["Matching layer", "Housing", "Damping material", "Insulator"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is the type of transducer that utilize elements arranged in concentric pattern?",
+    "choices": ["Phased array", "Annular array", "Mechanical", "Linear"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following would be considered an advantage of a curved linear array over a phased array?",
+    "choices": ["Wide near field", "Linear scan line", "Narrower near field", "Narrower far field"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is not a true statement about a mechanical transducer?",
+    "choices": ["It uses a motor to steer the beam", "Most transducer are no longer mechanical", "May be focused with a lens or phased focus", "There are no moving parts"],
+    "answer": 3
+  },
+  {
+    "prompt": "Along with crystal diameter the divergence in the far field is also determined by which of the following?",
+    "choices": ["Spatial pulse length", "Frequency", "Propagation speed", "Line density"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is true of the diameter of the sound beam in the fresnel zone?",
+    "choices": ["It increase", "It decrease", "It does not change", "It is unpredictable"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which resolution is better in clinical imaging?",
+    "choices": ["Axial", "Lateral", "Slice thickness", "Temporal"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will increase the near zone length?",
+    "choices": ["Large crystal diameter, low frequency", "Small crystal diameter , low frequency", "Large crystal diameter, high frequency", "Small crystal diameter, high frequency"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will decrease beam diverges in the far field?",
+    "choices": ["Large crystal diameter, low frequency", "Small crystal  diameter, low frequency", "Large crystal diameter, high frequency", "Small crystal diameter, low frequency"],
+    "answer": 2
+  },
+  {
+    "prompt": "Imaging transducers have",
+    "choices": ["Low quality factors, wide bandwidths", "High quality factors, narrow bandwidths", "Low quality factors, narrow bandwidths", "High quality factors, wide bandwidths"],
+    "answer": 0
+  },
+  {
+    "prompt": "Damping material produces all of the following except:",
+    "choices": ["Decreased sensitivity", "Increased SPL", "Wide bandwidths", "Low quality factors"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following electrical patterns produces electronic focusing of the ultrasound beam?",
+    "choices": ["Curve", "Slope", "Width", "Length"],
+    "answer": 0
+  },
+  {
+    "prompt": "In an unfocused, single-element transducer, the focal point of the sound beam measures how much of the total beam width?",
+    "choices": ["One fourth", "One third", "One half", "Equal"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following facilitates the transmission of sound from the element into the patient’s skin?",
+    "choices": ["Damping material", "Matching layer", "Tungsten covering", "Focusing material"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the range of frequencies present within the beam?",
+    "choices": ["Quality factor", "Bandwidth", "Array", "Resonant frequency"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which type of interference results in a larger sound wave?",
+    "choices": ["Constructive interference", "Destructive interference", "True interference", "False interference"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following transducers uses a motor for steering the beam?",
+    "choices": ["Linear phased array", "Sequential linear array", "Mechanical transducer", "Curvilinear sequenced array"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following best describes the components of the damping material?",
+    "choices": ["Epoxy resin loaded with tungsten", "Tungsten resin loaded with lead zircoate titanate", "Lead zirconate titanate impregnated with tungsten", "Tungsten impregnated with lead"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is not true of the linear sequenced array transducer?",
+    "choices": ["Rectangular shape image", "Firing is sequenced", "Electronically focused", "The elements are arranged in a ring"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is not a true statement?",
+    "choices": ["Lateral resolution varies with depth", "A larger aperture results in a shorter near zone length", "A larger aperture produces less divergence in the far field", "Lateral resolution may also be referred to as azimuthal resolution"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is not true of damping?",
+    "choices": ["Damping decreases the number of cycles in a pulse", "Damping decreases spatial pulse length", "Damping worsens axial resolution", "Damping decreases the sensitivity of the transducer"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is not a synonym for axial resolution?",
+    "choices": ["Angular", "Range", "Depth", "Radial"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following may also may be referred to as far zone?",
+    "choices": ["Frame zone", "Fresnel zone", "Fraunhofer zone"],
+    "answer": 2
+  },
+  {
+    "prompt": "What states that waves are the result of the interference of many wavelets produced at the face of the transducer?",
+    "choices": ["Curie’s principal", "Snell’s law", "Bernoulli’s law", "Huygen’s principal"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is the resolution in the third dimension of the beam?",
+    "choices": ["Lateral resolution", "Elevational resolution", "Contrast resolution", "Longitudinal resolution"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is true concerning the frequency and the near zone length?",
+    "choices": ["The higher the frequency ,the longer the near zone length", "The lower the frequency, the longer the near zone length", "Frequency and near zone length are not related", "Frequency and near zone length cannot be adjusted"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is defined as changing the timing of the shocking of the elements in order to shape and steer the beam?",
+    "choices": ["Angulation", "Focusing", "Phasing", "Bundling"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which type of transducers are no longer used?",
+    "choices": ["Continuous wave transducer", "Curved sequenced array transducer", "Linear sequenced array transducer", "Annular array transducer"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following transducer is not used for imaging?",
+    "choices": ["Continuous wave transducer", "Curved sequenced array transducer", "Linear sequenced array transducer", "Annular array transducer"],
+    "answer": 0
+  }
+]
