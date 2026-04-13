@@ -376,5 +376,35 @@
       "35 %"
     ],
     "answer": 2
+  },
+  {
+    "prompt": "Which of the following does not contribute to the process of attenuation?",
+    "choices": ["Imaging depth", "Reflection", "Conversion of sound to heat", "Propagation speed"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is not necessary for reflection to occur at a boundary between 2 media?",
+    "choices": ["Large boundary", "Propagation speed", "Elasticity", "Intensity"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will be the value of the IRC if the incident intensity is 50w/cm2, ITC is 0.8?",
+    "choices": ["30%", "30w/cm2", "20w/cm2", "35%"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following increases as the amplitude decreases?",
+    "choices": ["Frequency", "Maximum imaging depth", "Attenuation"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the relationship between PRF and imaging depth?:",
+    "choices": ["Direct", "Inverse"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which type of transducer has a greater bandwidt",
+    "choices": ["Continuous wave Transducer", "Pulse wave transducer"],
+    "answer": 1
   }
 ]
