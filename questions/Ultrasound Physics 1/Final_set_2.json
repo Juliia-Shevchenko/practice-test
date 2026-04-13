@@ -356,7 +356,7 @@
       "7Mhz, 3mm",
       "5Mhz, 2mm"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "prompt": "Which of the following will have the best range resolution?",
@@ -402,8 +402,9 @@
     "choices": [
       "Density",
       "Pressure",
-      "Inertia"
+      "Inertia",
+      "Stiffness"
     ],
-    "answer": 0
+    "answer": 3
   }
 ]
