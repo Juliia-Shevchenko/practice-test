@@ -137,9 +137,10 @@
     "choices": [
       "SPPA",
       "SPTP",
-      "SATP"
+      "SATP",
+      "SATA"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "prompt": "A sound beam with an Intensity of 50 Watts/cm2 strikes a boundary and 70 % of the wave's intensity is reflected. How much is transmitted?",
