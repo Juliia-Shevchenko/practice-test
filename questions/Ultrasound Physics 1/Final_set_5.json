@@ -82,7 +82,7 @@
   {
     "prompt": "Which of the following is true of the diameter of the sound beam in the fresnel zone?",
     "choices": ["It increase", "It decrease", "It does not change", "It is unpredictable"],
-    "answer": 0
+    "answer": 1
   },
   {
     "prompt": "Which resolution is better in clinical imaging?",
