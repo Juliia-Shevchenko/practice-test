@@ -1,0 +1,211 @@
+[
+  {
+    "prompt": "Which of the following transducer is also referred to as a sector transducer?",
+    "choices": ["Linear sequential array", "Linear phased array", "Continuous wave transducer", "Curved sequential transducer"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following shortens the length of the pulse by decreasing the number of cycles in the pulse?",
+    "choices": ["Matching material", "Piezoelectric element", "Backing material", "Tungsten"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following produce a pie shaped image?",
+    "choices": ["Linear sequenced array", "Linear phased array", "Vector array", "Curved phased array"],
+    "answer": 1
+  },
+  {
+    "prompt": "The portion of the transducer that comes in contact with the patient is",
+    "choices": ["Backing material", "Foot print", "Wire", "Damping material"],
+    "answer": 1
+  },
+  {
+    "prompt": "What does heat sterilization do to an ultrasound transducer?",
+    "choices": ["Gives it a better axial resolution", "Improves lateral resolution of the transducer", "Kills the bacteria and viruses", "Kills pathogen and destroy transducer"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is defined as the minimum distance two reflectors can be parallel to the beam and still appear on the screen as two dots?",
+    "choices": ["Range resolution", "Angular resolution", "Contrast resolution", "Transverse resolution"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following describes the result of destructive interference?",
+    "choices": ["The resulting wave is much larger than the original wave", "The resulting wave is little larger than the original wave", "The resulting wave is smaller than the original wave", "Destructive interference does not occur with diagnostic imaging"],
+    "answer": 2
+  },
+  {
+    "prompt": "To produce a transducer with a high frequency one should",
+    "choices": ["Use a thinner pzt", "Use a thicker pzt", "Use more damping", "Use less damping"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is not a characteristic of an unfocused single element transducer?",
+    "choices": [
+      "At the face of the transducer the beam diameter is equal to the element diameter",
+      "At a distance of one near zone length the beam diameter is equal to one half of the diameter of the element",
+      "At a distance of two near zone length the beam diameter again equals the element diameter",
+      "At the face of the transducer the beam diameter is twice the size of active element thickness"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following would be best utilize for imaging of deep structures in the abdomen?",
+    "choices": ["Linear phased array", "Linear sequenced array", "Continuous wave array", "Curvilinear array"],
+    "answer": 3
+  },
+  {
+    "prompt": "In which of these media will sound travel the slowest",
+    "choices": [
+      "High Density, Low stiffness",
+      "Low Density, Low stiffness",
+      "High Density, Low elasticity",
+      "High Density, High Stiffness",
+      "Low Density, High Stiffness"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of these biologic tissues will sound waves propagate most quickly?",
+    "choices": ["Blood", "Fat", "Lung", "Amniotic fluid", "Bone"],
+    "answer": 4
+  },
+  {
+    "prompt": "A sound wave’s frequency is 10 MHz. The wave is traveling in soft tissue. What is wavelength?",
+    "choices": ["0.77mm", "10MHz", "15.4mm", "1.54 mm", "0.15 mm"],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of these does not belong with the other",
+    "choices": [
+      "High PRF",
+      "Short pulse duration",
+      "Short pulse repetition period",
+      "Shallow imaging",
+      "High duty factor"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of these choices has the greatest effect upon the depth of view",
+    "choices": [
+      "Spatial pulse length",
+      "Acoustic impedance",
+      "Pulse repetition period",
+      "Pulse duration",
+      "Transducer output"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "An interaction of echoes that leads to reinforcement rather than to partial or total cancellation is known as",
+    "choices": [
+      "Constructive interference",
+      "Destructive interference",
+      "Refraction",
+      "Autocorrelation",
+      "Rarefaction"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the frequency is 1 MHz, the period is",
+    "choices": ["1,000,000 s", "100 s", "0.01 S", "0.000001 s"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which type of interference results in a larger sound wave?",
+    "choices": ["Constructive interference", "Destructive interference", "True interference", "False interference"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following describes the result of destructive interference?",
+    "choices": [
+      "The resulting wave is much larger than the original wave",
+      "The resulting wave is a little larger than the original wave",
+      "The resulting wave is smaller than the original wave",
+      "Destructive interference does not occur with diagnostic imaging"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The typical range of frequency for diagnostic ultrasound image is:",
+    "choices": ["20 to 20000 HZ", "2 to 20 MHZ", "10 to 20 MHZ", "12 to 100 MHZ"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following best describes the features of the medium that affect the sound?",
+    "choices": [
+      "PRP of the sound wave and density of the medium",
+      "The density of the medium and power of the sound beam",
+      "Stiffness of the medium and elasticity of the medium",
+      "The elasticity of the medium and frequency of the sound beam",
+      "The density of the medium and stiffness of the medium"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of these biologic tissues will sound waves propagate most quickly?",
+    "choices": ["Blood", "Tendon", "Amniotic fluid", "Lung", "Fat"],
+    "answer": 1
+  },
+  {
+    "prompt": "List these metric terms in decreasing order:",
+    "choices": [
+      "Nano, centi, giga ,kilo ,hecto ,micro",
+      "Centi ,Giga ,Nano, Kilo, Micro ,Hecto",
+      "Giga, Kilo, Hecto, Centi, Micro, Nano"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following doesn’t change in the medium as the sound wave propagates in the medium?",
+    "choices": ["Period", "Pressure", "Density", "Measure of particle motion"],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following are true about sound waves except:",
+    "choices": [
+      "They are pressure waves",
+      "They are transverse",
+      "They carry energy from place to place",
+      "They generally travel in a straight line"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Ultrasound is defined as a sound with a frequency of __________.",
+    "choices": [
+      "Greater than 20,000 kHz",
+      "Greater than 0.02 MHz",
+      "Greater than 10 MHz",
+      "Less than 1 kHz"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The final amplitude of an acoustic wave is reduced to one-half of its original value. The final power is _________ the original power.",
+    "choices": ["The same", "One half", "Double", "One fourth"],
+    "answer": 3
+  },
+  {
+    "prompt": "A sound wave that registers as 30 Hz is considered",
+    "choices": ["Ultrasonic", "Subsonic", "Audible", "Infrasonic", "Supersonic"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following does not affect speed through a medium?",
+    "choices": ["Stiffness", "Density", "Compressibility", "Transmitted frequency", "Elasticity"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following correctly describes sound propagation in a medium?",
+    "choices": [
+      "A molecule travels from one end of medium to another",
+      "A molecule move back and forth but does not move to the end of medium",
+      "A molecule does not move at all",
+      "Each molecule expands and contracts to propagate sound wave"
+    ],
+    "answer": 1
+  }
+]

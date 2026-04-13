@@ -1,0 +1,212 @@
+[
+  {
+    "prompt": "Waves that reach the same location at the same time combine together, this event is known as",
+    "choices": ["Constructive interference", "Interference", "Rarefaction", "Longitudinal interaction"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following sound wave is ultrasonic and most useful in diagnostic ultrasound imaging?",
+    "choices": ["300 KHZ", "6000 HZ", "25 KHZ", "5 MHZ", "50 MHZ"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is frequency of a wave with 1 micro second period?",
+    "choices": ["10 HZ", "1 MHZ", "0.1 KHZ", "0.1 MHZ"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is term for concentration of matter?",
+    "choices": ["Weight", "Energy", "Mass", "Density"],
+    "answer": 3
+  },
+  {
+    "prompt": "As ultrasound penetrates tissue:",
+    "choices": [
+      "The Intensity increases and the frequency is constant",
+      "The Intensity decreases and the frequency is constant",
+      "The Intensity is constant and the frequency decreases",
+      "The Intensity is constant and the frequency decreases linearly",
+      "The amplitude and the frequency decrease linearly"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The effect of the biologic tissue upon sound wave is _____",
+    "choices": ["Acoustic variables", "Acoustic parameters", "Rarefaction", "Acoustic propagation properties"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which parameter is described by letter A & Letter B?",
+    "image": "images/Physics/Final_7_Q27.jpg",
+    "choices": ["Amplitude, Wavelength", "Peak to peak amplitude, Frequency", "Power, Period", "Intensity, Wavelength"],
+    "answer": 0
+  },
+  {
+    "prompt": "When an acoustic wave travels through a medium, the tissue molecules change concentration. What is the lowest level of concentration called?",
+    "choices": ["Compression", "Compactness", "Refraction", "Rarefaction", "Excitation"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the propagation speed of a 5 Megahertz sound wave in soft tissue?",
+    "choices": ["2.5 meters per sec", "1,540 km/sec", "1.54 m/s", "1.54 mm/micro sec"],
+    "answer": 3
+  },
+  {
+    "prompt": "As a general rule which of the following media are in decreasing order of propagation speed for sound wave?",
+    "choices": ["Bone, lung, soft tissue", "Soft tissue, lung, bone", "Lung, soft tissue, bone", "Bone, soft tissue, lung"],
+    "answer": 3
+  },
+  {
+    "prompt": "When you image sound reflected from a large, smooth interface, you are observing results of:",
+    "choices": ["Rayleigh scattering", "Diffraction", "Specular reflection", "Diffusion", "Refraction"],
+    "answer": 2
+  },
+  {
+    "prompt": "During a sonographic examination of a large vessel, a 45° beam-to-vessel angle would be called:",
+    "choices": ["Normal incidence", "Oblique incidence", "Perpendicular incidence", "Snell's incidence", "None of the above"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following statements regarding the effect of frequency on Rayleigh scattering is TRUE?",
+    "choices": [
+      "The amount of scattering is not affected by frequency.",
+      "Scattering intensity doubles if frequency is doubled.",
+      "Doubling the frequency results in halving the scattering intensity.",
+      "Doubling the frequency results in quartering the scattering intensity.",
+      "Scattering intensity is proportional to frequency raised to the fourth power."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "An echo from which one of the following sound reflectors is most dependent on the angle of incidence?",
+    "choices": ["Rayleigh scatterer", "Diffuse reflector", "Specular reflector", "Acoustic scatterer", "Nonspecular reflector"],
+    "answer": 2
+  },
+  {
+    "prompt": "What determines acoustic impedance?",
+    "choices": [
+      "Frequency and propagation speed",
+      "Frequency and interface size",
+      "Density and propagation speed of the medium",
+      "Angle of incidence and media propagation speed",
+      "Frequency and media density"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following describes diffuse reflection?",
+    "choices": [
+      "The reflected beam is scattered in various directions.",
+      "The reflected frequency is altered by the Doppler effect.",
+      "The reflected beam is amplified by the focusing effect of scatterers.",
+      "The reflected beam is weakened by the large acoustic impedance mismatch at the tissue interface.",
+      "There is no reflection at a tissue interface because of a disorganized transmit beam."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "According to Snell's law, the angle of transmission is related to the incident beam angle and:",
+    "choices": [
+      "The amount of acoustic impedance mismatch at an interface",
+      "The change in frequency that occurs at an interface",
+      "One-half the angle of incidence",
+      "The relative speeds of sound in the two media",
+      "The percentage of diffraction distal to the interface"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following interactions of sound and tissue decreases the intensity of the transmitted beam?",
+    "choices": ["Absorption", "Reflection", "Scattering", "Conversion of sound to heat", "All of the above"],
+    "answer": 4
+  },
+  {
+    "prompt": "What is the relationship of frequency to absorption?",
+    "choices": [
+      "If frequency is halved, absorption is doubled.",
+      "If frequency is doubled, absorption is doubled.",
+      "If frequency is doubled, absorption is halved.",
+      "If frequency is halved, absorption is quartered.",
+      "The rate of sound absorption is not frequency-dependent."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "You are imaging a structure containing two media having the same acoustic impedance. What will occur at the boundary of the two structures?",
+    "choices": [
+      "All of the sound will be transmitted.",
+      "All of the sound will be reflected.",
+      "Some of the sound will be refracted",
+      "Most of the sound will be absorbed at the media boundary."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the purpose of the gel coupling between the transducer and the skin?",
+    "choices": [
+      "To reduce heating of the epidermis caused by sound absorption and friction",
+      "To soften the skin and soothe the patient",
+      "To provide a medium for sound transmission, since ultrasound does not propagate through air",
+      "To reduce the impedance differences between the transducer and the skin",
+      "To lessen refraction of the sound at the skin surface and improve sound transmission"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The unit of impedance is the:",
+    "choices": ["Joule", "Rayls", "Watts/cm2", "Newton", "Watts/cm"],
+    "answer": 1
+  },
+  {
+    "prompt": "With absorption, acoustic energy is converted to:",
+    "choices": ["Heat", "Microbubbles", "Kinetic energy", "Decibels", "Potential energy"],
+    "answer": 0
+  },
+  {
+    "prompt": "The intensity transmission coefficient at the interface between two structures equals 1/100. What is the intensity reflection coefficient?",
+    "choices": ["0/100", "99/100", "1/100", "100/100", "49/100"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is an example of a Rayleigh scatterer?",
+    "choices": ["Renal capsule", "Arterial wall", "Red blood cell", "Bowel gas", "Femur"],
+    "answer": 2
+  },
+  {
+    "prompt": "In order to display a structure on your sonographic image, the sound beam must be reflected at the interface. What is required for sound reflection at the interface of two structures?",
+    "choices": [
+      "Oblique incidence at the interface boundary",
+      "Temperature differences between the two media",
+      "A difference in the acoustic impedance of the media",
+      "Different media diameters",
+      "Different attenuation coefficients"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "An example of a specular reflector is:",
+    "choices": ["Pericardium", "Liver parenchyma", "Red blood cells", "Ascites", "Hematoma"],
+    "answer": 0
+  },
+  {
+    "prompt": "Snell's law describes:",
+    "choices": [
+      "The percentage of reflection at an interface with normal incidence and different densities",
+      "The angle of sound transmission at an interface between media having different propagation speeds",
+      "The amount of attenuation of sound in tissue with depth",
+      "The amount of backscatter from a diffuse reflector",
+      "The angle of sound reflection at an interface with oblique incidence and non-specular reflection"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "You may observe sound attenuation by all of the following EXCEPT:",
+    "choices": ["Reflection", "Scattering", "Conversion of sound to heat", "Absorption", "Compression"],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of these intensities is the Largest?",
+    "choices": ["SATP", "SPTP", "SATA", "SPPA"],
+    "answer": 1
+  }
+]
