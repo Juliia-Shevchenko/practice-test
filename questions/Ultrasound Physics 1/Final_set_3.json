@@ -377,7 +377,7 @@
   {
     "prompt": "Which of the following is not necessary for reflection to occur at a boundary between 2 media?",
     "choices": ["Large boundary", "Propagation speed", "Elasticity", "Intensity"],
-    "answer": 0
+    "answer": 3
   },
   {
     "prompt": "Which of the following will be the value of the IRC if the incident intensity is 50w/cm2, ITC is 0.8?",
