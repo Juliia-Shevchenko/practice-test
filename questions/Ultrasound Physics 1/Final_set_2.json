@@ -325,7 +325,7 @@
       "2 echoes return",
       "Cannot be determined."
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "prompt": "If the PZT's diameter is 10mm and if the near zone length is 10cm, what would be the transverse resolution at 2x near zone length?",
