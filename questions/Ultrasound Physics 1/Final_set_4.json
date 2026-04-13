@@ -87,7 +87,7 @@
   {
     "prompt": "What is the total amount of attenuation that occurs if a 6 MHZ sound beam travels through 4 cm of soft tissue?",
     "choices": ["24 DB", "12 DB", "6 DB", "None of the above"],
-    "answer": 0
+    "answer": 1
   },
   {
     "prompt": "As imaging depth increase PRP:",
