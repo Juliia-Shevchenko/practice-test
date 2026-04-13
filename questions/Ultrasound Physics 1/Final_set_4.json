@@ -161,7 +161,7 @@
   },
   {
     "prompt": "If an angle of incidence is 40°, what is the angle of transmission at the interface if medium 1 has a propagation speed of 1320 m/s and medium 2 has a propagation speed of 1700 m/s?",
-    "choices": ["<40 degrees", ">40 degrees", "40 degrees", "Cannot tell the angle of transmission"],
+    "choices": ["<40 degrees", "greater than 40 degrees", "40 degrees", "Cannot tell the angle of transmission"],
     "answer": 1
   },
   {
