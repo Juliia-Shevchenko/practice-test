@@ -1,110 +1,123 @@
 [
   {
-    "prompt": "Area of high pressure and density is referred to as:",
-    "choices": [
-      "Rarefaction",
-      "Condensation",
-      "Refraction"
-    ],
+    "prompt": "Which of the following is described as the ability of an object to resist compression and relates to the hardness of a medium?",
+    "choices": ["Stiffness", "Density", "Pressure", "Inertia"],
+    "answer": 0
+  },
+  {
+    "prompt": "An increase in the PRF would lead to",
+    "choices": ["An increase in the duty factor", "An increase in pulse duration", "An increase in the number of cycles", "A decrease in resolution"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following would have the highest propagation speed?",
+    "choices": ["Air", "Bone", "Soft tissue", "Water"],
     "answer": 1
   },
   {
-    "prompt": "Which of the following is the range of frequencies present within the beam?",
-    "choices": [
-      "Quality factor",
-      "Bandwidth",
-      "Array",
-      "Resonant frequency"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "The percentage of time that the ultrasound system is producing pulses of ultrasound describes the:",
-    "choices": [
-      "PRP",
-      "Pulse duration",
-      "Duty factor",
-      "PRF"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which of the following is the propagation speed of soft tissue?",
-    "choices": [
-      "1450m/sec",
-      "1540 km/sec",
-      "1540 m/sec",
-      "1560 mm/msec"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which of the following correctly describes an imaging transducer except",
-    "choices": [
-      "High sensitivity",
-      "Low Q factor",
-      "Wide bandwidth",
-      "Damped"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "If intensity remains the same while the power is quadrupled, what happens to the beam area?",
-    "choices": [
-      "Quadrupled",
-      "Doubled",
-      "Halved",
-      "Unchanged"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Snell's law describes",
-    "choices": [
-      "The angle of transmission at an interface between media having different speed",
-      "The amount of attenuation of sound in tissue with depth",
-      "The amount of backscatter from a diffuse reflector"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What is the relationship of frequency to absorption?",
-    "choices": [
-      "If frequency is doubled, absorption is doubled",
-      "If frequency is doubled, absorption is halved",
-      "If frequency is halved, absorption is quartered",
-      "The rate of sound absorption is not frequency dependent"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "The typical range of frequency for diagnostic ultrasound image is:",
-    "choices": [
-      "2 to 15 MHZ",
-      "10 to 20 MHZ",
-      "12 to 100 MHZ"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "If frequency is 1 MHz, the period is",
-    "choices": [
-      "1,000,000 s",
-      "100 s",
-      "0.01 S",
-      "0.000001 s"
-    ],
+    "prompt": "Which of the following would have the lowest propagation speed?",
+    "choices": ["Water", "Soft tissue", "Bone", "Lung tissue"],
     "answer": 3
   },
   {
-    "prompt": "Which of the following is defined as the number of cycles emitted in 1 second?",
+    "prompt": "As imaging depth increase the PRF must",
+    "choices": ["Not change", "Increase", "Decrease", "PRF does not relate to imaging depth"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following describes the amount of refraction that occurs at an interface?",
+    "choices": ["Bernoulli’s law", "Poiseulli’s law", "Law of refraction", "Snell’s law"],
+    "answer": 3
+  },
+  {
+    "prompt": "Pressure is typically expressed in ;",
+    "choices": ["Frequency", "Pascal", "Decibel", "Kilograms per centimeter cube"],
+    "answer": 1
+  },
+  {
+    "prompt": "The typical range of frequency for diagnostic ultrasound image is:",
+    "choices": ["20 to 20000 HZ", "1 to 20 MHZ", "10 to 20 MHZ", "12 to 100 MHZ"],
+    "answer": 1
+  },
+  {
+    "prompt": "The attenuation coefficient in soft tissue is equal to :",
+    "choices": ["One half of the operating frequency", "Double the operating frequency", "Frequency times path length", "The total decibel"],
+    "answer": 0
+  },
+  {
+    "prompt": "Micro denotes:",
+    "choices": ["Millionth", "Hundredth", "Million", "Billion"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is described as the distance over which one cycle occurs?",
+    "choices": ["Pulse duration", "Duty factor", "Period", "Wavelength"],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following are true of stiffness except:",
     "choices": [
-      "Period",
-      "Frequency",
-      "Wavelength",
-      "Power"
+      "It is defined as the ability of an object to resist compression",
+      "Stiffness and propagation speed are indirectly associated",
+      "Increasing stiffness increase propagation speed",
+      "Stiffness may also be referred to as bulk modulus"
     ],
     "answer": 1
+  },
+  {
+    "prompt": "Area of high pressure and density is referred to as:",
+    "choices": ["Compression", "Rarefaction", "Condensation", "Refraction"],
+    "answer": 0
+  },
+  {
+    "prompt": "Spatial pulse length can be calculated as:",
+    "choices": ["Number of cycles x frequency", "Period/frequency", "Number of cycles x wavelength", "Number of cycles/wavelength"],
+    "answer": 2
+  },
+  {
+    "prompt": "Density is typically measured in:",
+    "choices": ["Kg/cm cube", "Millimeters", "Watts/cm square", "Pascals"],
+    "answer": 0
+  },
+  {
+    "prompt": "As a sound wave travels through the human body, the intensity of the sound wave decrease as a result of",
+    "choices": ["Attenuation", "Absorption", "Scattering", "All of the above"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the total amount of attenuation that occurs if a 6 MHZ sound beam travels through 4 cm of soft tissue?",
+    "choices": ["24 DB", "12 DB", "6 DB", "None of the above"],
+    "answer": 0
+  },
+  {
+    "prompt": "As imaging depth increase PRP:",
+    "choices": ["Remains constant", "Increase", "Decrease", "Doubles"],
+    "answer": 1
+  },
+  {
+    "prompt": "If PRF increases then the duty factor",
+    "choices": ["Remains same", "Increase", "Decrease", "Doubles"],
+    "answer": 1
+  },
+  {
+    "prompt": "The percentage of time that the ultrasound system is producing pulses of ultrasound describes the :",
+    "choices": ["PRP", "Pulse duration", "Duty factor", "PRF"],
+    "answer": 2
+  },
+  {
+    "prompt": "Density and propagation speed are:",
+    "choices": ["Inversely related", "Directly related", "Directly proportional", "Unrelated"],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are true of power except:",
+    "choices": [
+      "As amplitude increase power remains same",
+      "Power is proportional to amplitude squared",
+      "Intensity is proportional to power",
+      "Power is measured in milliwatts"
+    ],
+    "answer": 0
   },
   {
     "prompt": "All of the following are true of wavelength except:",
@@ -117,13 +130,88 @@
     "answer": 1
   },
   {
-    "prompt": "Spatial pulse length can be calculated as:",
-    "choices": [
-      "Number of cycles x frequency",
-      "Period/frequency",
-      "Number of cycles x wavelength",
-      "Number of cycles/wavelength"
-    ],
+    "prompt": "Which of the following is determined by the sound source and medium?",
+    "choices": ["Propagation speed", "Frequency", "Period", "Wavelength"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is defined as the number of ultrasound pulses emitted in 1 second?",
+    "choices": ["PRP", "Duty factor", "PRF", "Spatial pulse length"],
     "answer": 2
+  },
+  {
+    "prompt": "Which of the following is defined as active time only?",
+    "choices": ["Duty factor", "PRF", "Period", "Pulse duration"],
+    "answer": 3
+  },
+  {
+    "prompt": "The inertia of the medium describes its:",
+    "choices": ["Attenuation characteristic", "Stiffness", "Density", "Elasticity"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is determined by sound source only?",
+    "choices": ["Frequency", "Wavelength", "Spatial pulse length", "Propagation speed"],
+    "answer": 0
+  },
+  {
+    "prompt": "The prefix “centi“ denotes",
+    "choices": ["Thousandths", "Hundredths", "Millions", "Hundreds"],
+    "answer": 1
+  },
+  {
+    "prompt": "If an angle of incidence is 40°, what is the angle of transmission at the interface if medium 1 has a propagation speed of 1320 m/s and medium 2 has a propagation speed of 1700 m/s?",
+    "choices": ["<40 degrees", ">40 degrees", "40 degrees", "Cannot tell the angle of transmission"],
+    "answer": 1
+  },
+  {
+    "prompt": "The change in the direction of the original sound wave that occurs when sound interacts with two different tissue types that have a different propagation speed is referred to as:",
+    "choices": ["Wavelength", "Scattering", "Refraction", "Absorption"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is an appropriate unit of measurement for propagation speed?",
+    "choices": ["Millimeters per microsecond (mm/us)", "Watts per centimeter squared (W/cm^2)", "Microseconds (us)", "Kilohertz (kHz)"],
+    "answer": 0
+  },
+  {
+    "prompt": "The major component of attenuation is:",
+    "choices": ["Scatter", "Absorption", "Transmission", "Refraction"],
+    "answer": 1
+  },
+  {
+    "prompt": "In clinical imagining, the wavelength measures between:",
+    "choices": ["1 and 10 Hz", "1540 and 2000 m/s", "0 and 1", "0.1 to 0.8 mm"],
+    "answer": 3
+  },
+  {
+    "prompt": "The duty factor for continuous wave ultrasound is:",
+    "choices": ["<99%", "100%", ">20,000 Hz", "8 Pa"],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following relate to the strength of the sound wave except",
+    "choices": ["Amplitude", "Wavelength", "Intensity", "Power"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the change in intensity if the power decreases by half?",
+    "choices": ["Intensity doubles", "Intensity is halved", "Intensity is one fourth", "Intensity does not change"],
+    "answer": 1
+  },
+  {
+    "prompt": "Damping of the sound beam:",
+    "choices": ["Reduces the spatial pulse length", "Increases the spatial pulse length", "Increases the pulse duration", "Has no impact on spatial pulse length or pulse duration"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is defined as the ability of the ultrasound system to image structures that are positioned parallel to the sound beam as separate structures?",
+    "choices": ["Transverse resolution", "Parallel resolution", "Axial resolution", "Coronal resolution"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is defined as the beginning of one pulse to the beginning of the next pulse, and therefore includes both the “on” and “off” time?",
+    "choices": ["Pulse repetition period", "Pulse duration", "Duty factor", "Pulse repetition frequency"],
+    "answer": 0
   }
 ]
