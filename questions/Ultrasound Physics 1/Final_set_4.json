@@ -107,7 +107,7 @@
   {
     "prompt": "Density and propagation speed are:",
     "choices": ["Inversely related", "Directly related", "Directly proportional", "Unrelated"],
-    "answer": 1
+    "answer": 0
   },
   {
     "prompt": "All of the following are true of power except:",
