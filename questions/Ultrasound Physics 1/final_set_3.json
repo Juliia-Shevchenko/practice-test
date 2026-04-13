@@ -1,14 +1,5 @@
 [
   {
-    "prompt": "Which of the following is described as the ability of an object to resist compression and relates to the hardness of a medium?",
-    "choices": [
-      "Density",
-      "Pressure",
-      "Inertia"
-    ],
-    "answer": 0
-  },
-  {
     "prompt": "Which of the following would have the highest propagation speed?",
     "choices": [
       "Bone",
