@@ -106,7 +106,7 @@
   {
     "prompt": "If an angle of incidence is 50°, what is the angle of transmission at the interface if medium 1 has a propagation speed of 1560 m/s and medium 2 has a propagation speed of 1900 m/s?",
     "choices": [
-      ">50 degrees",
+      "More than 50 degrees",
       "50 degrees",
       "Cannot tell the angle of transmission"
     ],
