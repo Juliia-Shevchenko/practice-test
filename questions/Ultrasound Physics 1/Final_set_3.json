@@ -245,7 +245,7 @@
       "Specular reflection",
       "Diffuse reflection"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "prompt": "What would be the total attenuation of a 5MHz sound wave in soft tissue at 10cm depth?",
