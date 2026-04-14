@@ -191,7 +191,7 @@
   {
     "prompt": "A sound wave that registers as 30 Hz is considered",
     "choices": ["Ultrasonic", "Subsonic", "Audible", "Infrasonic", "Supersonic"],
-    "answer": 3
+    "answer": 2
   },
   {
     "prompt": "Which of the following does not affect speed through a medium?",
