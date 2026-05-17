@@ -1,0 +1,323 @@
+[
+  {
+    "prompt": "Which of the following forms of resolution improve when frame rate increases?",
+    "choices": [
+      "lateral",
+      "longitudinal",
+      "temporal",
+      "spatial resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is consistent with improved temporal resolution?",
+    "choices": [
+      "color Doppler",
+      "more gray shades",
+      "more detail",
+      "higher frame rate"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following decrease temporal resolution except:",
+    "choices": [
+      "lower frame rate",
+      "deeper imaging",
+      "multi-focus",
+      "narrower sector"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A sonographer adjusts an ultrasound scan to double the depth of view from 5 cm to 10 cm. What happens to the frame rate?",
+    "choices": [
+      "it is halved",
+      "it doubles",
+      "it increases from 5 to 10 Hz",
+      "it is unchanged"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A sonographer adjusts an ultrasound scan to double the depth of view from 5 cm to 10 cm. If the frame rate remains the same, which one of the following also occurs?",
+    "choices": [
+      "increased line density",
+      "wider sector",
+      "multi-focusing turned on",
+      "narrower sector"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A sonographer adjusts an ultrasound machine to change the sector size from 90 to 45 degrees. Nothing else changes. What happens to the frame rate?",
+    "choices": [
+      "it is doubled",
+      "it remains unchanged",
+      "it is halved",
+      "it is tripled"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A sonographer adjusts an ultrasound system to change the sector size from 90 to 45 degrees. The frame rate was unchanged. What else must have happened?",
+    "choices": [
+      "temporal resolution was doubled",
+      "sector size was doubled",
+      "line density was doubled",
+      "imaging depth was halved"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A sonographer, using a phased array ultrasound system, turns off the multi-focus feature. What is the most likely consequence of this action?",
+    "choices": [
+      "frame rate decreases",
+      "temporal resolution degrades",
+      "imaging depth increases",
+      "temporal resolution improves"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A sonographer increases the line density from 1 line per degree of sector to 3 lines per degree of sector. What is the most likely consequence of this action?",
+    "choices": [
+      "frame rate increases",
+      "temporal resolution decreases",
+      "imaging quality decreases",
+      "temporal resolution increases"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A sonographer reduces the sector angle from 90 degrees to 30 degrees. At the same time, the ultrasound system automatically increases the line density from 1 line per degree to 2 lines per degree. No other changes are made. What will happen to the frame rate?",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains unchanged"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A sonographer reduces the sector angle from 90 degrees to 30 degrees. At the same time, the ultrasound system automatically increases the line density from 1 line per degree to 3 lines per degree. No other changes are made. What will happen to temporal resolution?",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains unchanged"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is most important in determining the frame rate of a system?",
+    "choices": [
+      "speed of sound in the medium",
+      "dynamic range of the receiver",
+      "transducer frequency",
+      "transmitter output"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is most important in determining the frame rate of a system?",
+    "choices": [
+      "depth of view",
+      "dynamic range of the receiver",
+      "transducer frequency",
+      "transmitter output"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the frame rate if each image of the ultrasound system is created in 0.02 sec (1/50 sec)?",
+    "choices": [
+      "20 Hz",
+      "100 Hz",
+      "50 Hz",
+      "15 Hz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the time needed to make a single image if the frame rate of an ultrasound system is 20 Hz?",
+    "choices": [
+      "1 s",
+      "0.02 s",
+      "0.05 s",
+      "15 Hz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The critical factor in determining frame rate, line density, and imaging depth is the transducer style.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The number of lines per frame and the frame rate determine the pulse frequency.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The number of lines per frame and the frame rate determine the pulse repetition frequency.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the imaging depth of a scan is 15 cm and there are 100 lines in the image, then the number of pulses making up the scan is 1500.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the imaging depth of a scan is 15 cm and there are 100 lines in the image, then the number of pulses making up the scan is 100.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If 100 scan lines make up an image and the frame rate is 30 per second, then the transducer's frequency is 3,000 Hz.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If 100 scan lines make up an image and the frame rate is 30 per second, then the system's pulse repetition frequency is 3,000 Hz.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "When the frame rate is 30 Hz, how long does it take to create a frame?",
+    "choices": [
+      "30 sec",
+      "3 sec",
+      "0.3 sec",
+      "1/30 sec",
+      "1/3 sec"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Under certain conditions, an ultrasound system creates each image in 0.01 seconds. What is the frame rate?",
+    "choices": [
+      "1 Hz",
+      "10 sec",
+      "100 Hz",
+      "200 Hz",
+      "0.02 Hz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the fundamental limitation of temporal resolution?",
+    "choices": [
+      "imaging depth",
+      "speed of sound in the medium",
+      "line density",
+      "sector size"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will improve a systems temporal resolution?",
+    "choices": ["increased sector angle", "increased line density", "increased PRF", "increased Frequency"],
+    "answer": 2
+  },
+  {
+    "prompt": "An ultrasound system with a longer pulse duration will generally have better temporal resolution.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "The length of a pulse does not directly influence the temporal resolution.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Two imaging systems produce acoustic pulses; one pulse is 0.4 usec long and the other is 0.2 usec long. Which is most likely to provide the best temporal resolution?",
+    "choices": ["0.4 usec system", "0.2 usec system", "they are the same", "cannot be determined"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which two factors determine temporal resolution?",
+    "choices": ["speed of sound and depth of view", "pixel size and sector size", "focal zones and sector depth", "propagation speed and frame rate"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which two controls determine a system's temporal resolution?",
+    "choices": ["frame rate and sector size", "focal zones and sector depth", "propagation speed and frame rate", "depth of view and pulses per image"],
+    "answer": 3
+  },
+  {
+    "prompt": "An ultrasound system with a shorter pulse repetition period will have better temporal resolution than a system with a longer PRP.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the primary disadvantage of multiple focal zones along each scan line of a two-dimensional image?",
+    "choices": ["improved temporal resolution", "decreased temporal resolution", "improved lateral resolution", "improved longitudinal resolution"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the primary advantage of multiple focal zones along each scan line of a two dimensional image?",
+    "choices": ["improved temporal resolution", "decreased temporal resolution", "improved lateral resolution", "improved longitudinal resolution"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which choice will result in increased frame rate and temporal resolution?",
+    "choices": ["decreased propagation speed", "decreased sector size", "decreased lateral resolution", "decreased PRF"],
+    "answer": 1
+  },
+  {
+    "prompt": "With sector scanning, images with greater detail are created when the number of acoustic pulses per degree of sector is increased.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "An ultrasound system with a 4.0 MHz transducer is used to image structures as deep as 15 cm. Twenty images are produced each second, each requiring 100 acoustic pulses. What is the PRF of the system?",
+    "choices": ["1,500 Hz", "300 Hz", "2,000 Hz", "4 MHz"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following sector imaging systems will have the best image detail if all other parameters are identical?",
+    "choices": ["a 90 degree sector with 100 pulses/image", "an 80 degree sector with 40 pulses/image", "a 70 degree sector with 84 pulses/image", "a 60 degree sector with 60 pulses/image"],
+    "answer": 2
+  },
+  {
+    "prompt": "Of the following, which imaging modality has the poorest temporal resolution?",
+    "choices": ["two-dimensional, real-time", "A-mode", "color flow imaging", "M-mode"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which ultrasound imaging modality has the best temporal resolution?",
+    "choices": ["B-scanning", "duplex imaging", "color flow imaging", "M-mode"],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following reduce temporal resolution by increasing the number of pulses per image except:",
+    "choices": ["increasing the number of foci", "increasing line density", "increasing field of view", "increasing depth of view"],
+    "answer": 3
+  },
+  {
+    "prompt": "A sonographer reduced the sector size from 90 degrees to 30 degrees. Frame rate, however, did not change. What else happened?",
+    "choices": ["imaging depth decreased", "pulse duration increased", "multi-focus was turned on", "PRF was increased"],
+    "answer": 2
+  }
+]

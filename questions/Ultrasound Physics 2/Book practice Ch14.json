@@ -1,0 +1,263 @@
+[
+  {
+    "prompt": "All of the following are components of an ultrasound system except",
+    "choices": [
+      "transducer",
+      "alternator",
+      "display",
+      "pulser",
+      "synchronizer",
+      "receiver"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "This type of pulser generates a constant electrical signal in the form of a sine wave:",
+    "choices": [
+      "pulsed wave, array",
+      "continuous wave",
+      "pulsed wave, single crystal"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "This type of pulser generates a single electrical spike, which ultimately creates a single sound pulse:",
+    "choices": [
+      "pulsed wave, phased array",
+      "continuous wave",
+      "pulsed wave, single crystal"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "This type of pulser generates numerous electrical spikes, which ultimately create a single sound pulse:",
+    "choices": [
+      "pulsed wave, phased array",
+      "continuous wave",
+      "pulsed wave, single crystal"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The acoustic power of a sound beam emitted from a transducer is determined by the _____ of the pulser's signal.",
+    "choices": [
+      "pulse repetition frequency",
+      "frequency",
+      "voltage",
+      "rectification"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following are functions of the receiver except",
+    "choices": [
+      "demodulation",
+      "suppression",
+      "amplification",
+      "attenuation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of these functions the ultrasound system performs first",
+    "choices": [
+      "reject",
+      "demodulation",
+      "amplification",
+      "compression",
+      "compensation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Amplification processes all reflected signals in a similar manner.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Compensation processes all reflected signals in a similar manner.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following choices is best when the image on your ultrasound system displays reflectors only in a region far from the transducer but no reflectors in a region close to the transducer?",
+    "choices": [
+      "adjust the system\u2019s compensation",
+      "use a higher frequency transducer",
+      "decrease the output power",
+      "adjust the reject level"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following choices is best when the image on your ultrasound system is saturated (too bright everywhere)?",
+    "choices": [
+      "decrease the amplification or gain",
+      "use a higher frequency transducer",
+      "decrease the output power",
+      "adjust the reject level"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following choices is best when the image on your ultrasound system displays only reflectors in a region close to the transducer but no reflectors that are deep?",
+    "choices": [
+      "adjust the system\u2019s compensation",
+      "use a higher frequency transducer",
+      "increase the output power",
+      "adjust the reject level"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is not considered a component of an ultrasound system?",
+    "choices": ["master synchronizer", "pulser", "receiver", "image intensifier"],
+    "answer": 3
+  },
+  {
+    "prompt": "The pulser of a mechanical transducer is typically more complex than the pulser of a phased array transducer.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is a typical pulser output voltage that excites a piezoelectric crystal?",
+    "choices": ["0.1 volts", "500 millivolts", "40 volts", "10 microvolts"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the typical voltage of the signal that is the input to the receiver of an ultrasound system?",
+    "choices": ["0.1 volts", "500 mvolts", "250 volts", "10 uvolts"],
+    "answer": 3
+  },
+  {
+    "prompt": "The output of an ultrasound pulser determines the ____ of the acoustic pulse.",
+    "choices": ["imaging depth", "intensity", "duration", "pulse repetition period"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which one of the following does not belong in the group below?",
+    "choices": ["receiver gain", "energy output", "pulser power", "acoustic power", "transmitter output", "output gain"],
+    "answer": 0
+  },
+  {
+    "prompt": "The sonographer can alter the pulser power.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following actions will improve the signal-to-noise ratio?",
+    "choices": ["increase dynamic range", "increase receiver gain", "increase output power", "increase time-gain compensation"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of these functions are performed by the receiver of an ultrasound system?",
+    "choices": ["amplification", "threshold", "compensation", "demodulation", "all of the above"],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following tasks is not performed by the receiver of an ultrasound system?",
+    "choices": ["rectification", "smoothing", "compression", "degaussing"],
+    "answer": 3
+  },
+  {
+    "prompt": "The sonographer can adjust receiver gain.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "The signal-to-noise ratio remains unchanged when a sonographer adjusts receiver gain.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "The sonographer can make an image of uniform brightness by adjusting both output power and receiver gain.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a typical value for the amplification of a signal by the receiver?",
+    "choices": ["50 to 100 watts", "-50 to -100 dB", "50 to 100 dB", "5 to 25 W/cm^2"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the process of adjusting for path length related attenuation called?",
+    "choices": ["compression", "compensation", "time-gain compensation", "reconfirmation"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which receiver function creates an image of comparable brightness from top to bottom?",
+    "choices": ["receiver gain", "output power", "swept-gain compensation"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which transducer system is most likely to have the longest delay in its TGC curve?",
+    "choices": ["a 5 MHz linear array", "a 2.5 MHz annular array", "a 7.5 MHz mechanical transducer", "a 5 MHz annular array"],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are used to describe compensation except:",
+    "choices": ["swept gain", "depth gain", "time gain", "amplitude gain"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which term best describes the region of minimum amplification on a standard TGC curve?",
+    "choices": ["far field", "focus only", "area close to the transducer", "focal zone"],
+    "answer": 2
+  },
+  {
+    "prompt": "What does the far gain of a depth gain compensation curve represent?",
+    "choices": ["median amplification related to compensation", "maximum amplification related to compensation", "minimum amplification related to compensation", "maximum attenuation related to compensation"],
+    "answer": 1
+  },
+  {
+    "prompt": "At which imaging depth is the slope of the TGC curve most effective?",
+    "choices": ["the region very close to the transducer", "the far zone", "the focal zone"],
+    "answer": 2
+  },
+  {
+    "prompt": "The lower the frequency of the ultrasound beam, the shallower the delay of TGC curve.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "Typically, the sonographer can adjust the compression function of a receiver.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "The process of demodulation incorporates which of the following tasks?",
+    "choices": ["smoothing", "amplification", "rectification", "decompression"],
+    "answer": [0, 2]
+  },
+  {
+    "prompt": "Which of the following best describes the demodulation process?",
+    "choices": ["changing the gray scale of an image", "changing the frequency of a signal", "changing the form of a sound pulse", "changing an electrical signal's form"],
+    "answer": 3
+  },
+  {
+    "prompt": "The primary purpose of demodulation is the preparation of the electrical signal for display on a television monitor.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "Typically, the sonographer can control the demodulation process performed by a receiver.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "The process of eliminating low amplitude signals from further processing is called all of the following except:",
+    "choices": ["reject", "subordination", "threshold", "suppression"],
+    "answer": 1
+  },
+  {
+    "prompt": "Typically, the sonographer can adjust the threshold level.",
+    "choices": ["True", "False"],
+    "answer": 0
+  }
+]
