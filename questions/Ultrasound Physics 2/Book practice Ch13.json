@@ -156,7 +156,7 @@
     "answer": 1
   },
   {
-    "prompt": "The number of lines per frame and the frame rate determine the pulse frequency.",
+    "prompt": "The number of lines per frame and the frame rate determine frequency.",
     "choices": [
       "True",
       "False"
