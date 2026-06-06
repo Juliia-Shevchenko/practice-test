@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "Which electronic component is required for gray scale imaging?",
+    "choices": ["VCR", "non-interlaced display", "computer memory", "scan converter"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following scan converters will provide the best spatial resolution?",
+    "choices": ["256 x 256 pixels", "512 x 512 pixels", "128 x 128 pixels", "1000 x 1000 pixels"],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of these statements regarding a bit of computer memory is false?",
+    "choices": ["It is the smallest element of an image.", "It is bistable.", "Eight bits combine to make a byte.", "It is a component of a digital scan converter."],
+    "answer": 0
+  },
+  {
+    "prompt": "How many gray shades can be represented by a group of 4 bits?",
+    "choices": ["4 shades", "8 shades", "16 shades", "256 shades"],
+    "answer": 2
+  },
+  {
+    "prompt": "How many gray shades can be represented by a group of 2 bits?",
+    "choices": ["2 shades", "4 shades", "8 shades", "16 shades"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the number of shades that can be represented by 3 bits?",
+    "choices": ["4", "6", "8", "16"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the number of shades that can be represented by 8 bits?",
+    "choices": ["64", "128", "256", "1024"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the number of shades that can be represented by 10 bits?",
+    "choices": ["256", "512", "1024", "2048"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the number of shades that can be represented by n bits?",
+    "choices": ["n different gray shades", "2n different gray shades", "2^n different gray shades", "n^2 different gray shades"],
+    "answer": 2
+  },
+  {
+    "prompt": "How many bits are needed to store 10 shades of gray?",
+    "choices": ["2 bits", "3 bits", "4 bits", "5 bits"],
+    "answer": 2
+  },
+  {
+    "prompt": "How many bits are needed to store 11 shades of gray?",
+    "choices": ["2 bits", "3 bits", "4 bits", "5 bits"],
+    "answer": 2
+  },
+  {
+    "prompt": "How many bits are needed to store 15 shades of gray?",
+    "choices": ["2 bits", "3 bits", "4 bits", "5 bits"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following statements regarding a pixel is false?",
+    "choices": ["It is the smallest part of a digital image.", "A collection of bits, assigned to each pixel, stores the shade of gray.", "It displays up to 3 gray shades simultaneously.", "Image quality is improved when the number of pixels is high."],
+    "answer": 2
+  },
+  {
+    "prompt": "Is modifying a frozen image usually preprocessing or postprocessing?",
+    "choices": ["preprocessing", "postprocessing"],
+    "answer": 1
+  },
+  {
+    "prompt": "Is read zoom usually preprocessing or postprocessing?",
+    "choices": ["preprocessing", "postprocessing"],
+    "answer": 1
+  },
+  {
+    "prompt": "Is write zoom usually preprocessing or postprocessing?",
+    "choices": ["preprocessing", "postprocessing"],
+    "answer": 0
+  },
+  {
+    "prompt": "Is adjusting the brightness on the monitor usually preprocessing or postprocessing?",
+    "choices": ["preprocessing", "postprocessing"],
+    "answer": 1
+  },
+  {
+    "prompt": "Is increasing the receiver gain usually preprocessing or postprocessing?",
+    "choices": ["preprocessing", "postprocessing"],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the primary disadvantage of video tape and computer disc methods of image archiving?",
+    "choices": ["these methods are very costly", "the information is vulnerable to erasure when exposed to strong magnetic fields", "only low resolution images are stored", "only black and white images are stored"],
+    "answer": 1
+  },
+  {
+    "prompt": "Where does coded excitation take place?",
+    "choices": ["in the transducer", "in the receiver", "in the pulser", "in the PACS system"],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is not true about spatial compounding?",
+    "choices": ["data is collected from different viewing angles", "frame rates are reduced", "shadowing artifact can be eliminated", "can be performed with a mechanical transducer"],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following are advantages of PACS systems except:",
+    "choices": ["data will not deteriorate over time", "images can be delivered to distant locations on the imaging network", "older, archived studies and reports can be reviewed easily", "images have higher resolution than what appears on the system's display"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is DICOM?",
+    "choices": ["standards for transducer design", "standards for patient exposure", "protocols for two-dimensional imaging", "protocols for medical image data"],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the primary storage device on a PACS system?",
+    "choices": ["magneto-optical storage", "hard disc drives", "solid state memory", "compact discs"],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following technologies uses long sound pulses to create an image?",
+    "choices": ["coded excitation", "harmonics", "pulse inversion", "rendering"],
+    "answer": 0
+  },
+  {
+    "prompt": "With frequency compounding, how many pulses are transmitted down each scan line?",
+    "choices": ["1", "2", "4", "cannot be determined"],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following techniques is used to create image data where none really exists?",
+    "choices": ["edge enhancement", "temporal compounding", "fill-in interpolation", "spatial compounding"],
+    "answer": 2
+  },
+  {
+    "prompt": "In modern elastography, how are the tissues deformed?",
+    "choices": ["by pressing the transducer into the skin", "with the use of a second probe", "automatically", "as a result of respiration"],
+    "answer": 2
+  }
+]
