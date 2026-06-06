@@ -1,0 +1,204 @@
+[
+  {
+    "prompt": "Which of the following components translates the information from the spoke format into video format?",
+    "choices": [
+      "Transducer",
+      "Scan converter",
+      "Receiver",
+      "Switch",
+      "Master synchronizer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will be the advantage of using an analog scan converter?",
+    "choices": [
+      "Image detail",
+      "Instability",
+      "Image flicker",
+      "Image fade",
+      "Deterioration"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is not an advantage of digital scan converter?",
+    "choices": [
+      "Durability",
+      "Deterioration",
+      "Speed",
+      "Accuracy",
+      "Uniformity"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is Preprocessing?",
+    "choices": [
+      "Contrast variation",
+      "3-D rendering",
+      "Black/white inversion",
+      "Persistence",
+      "Read magnification"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is NOT correct for write magnification?",
+    "choices": [
+      "Preprocessing",
+      "Same number of pixels as in the original ROI",
+      "Identical pixel size",
+      "Improved spatial resolution",
+      "May improve temporal resolution"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In which of the following are frames from different angles combined to form a single image?",
+    "choices": [
+      "Frequency compounding",
+      "Edge enhancement",
+      "Spatial compounding",
+      "Temporal compounding"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is a synonym for Persistence?",
+    "choices": [
+      "Frequency compounding",
+      "Edge enhancement",
+      "Spatial compounding",
+      "Temporal compounding"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is not a disadvantage of analog scan converter?",
+    "choices": [
+      "Image fade",
+      "Image flicker",
+      "Spatial resolution",
+      "Instability",
+      "Image deterioration"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is the smallest building block of a digital picture?",
+    "choices": [
+      "Bit",
+      "Pixel",
+      "Byte",
+      "Word"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a group of 8 bits?",
+    "choices": [
+      "Bit",
+      "Pixel",
+      "Byte",
+      "Word"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will improve by increasing number of bits per pixel?",
+    "choices": [
+      "Spatial resolution",
+      "Contrast resolution",
+      "Temporal resolution",
+      "Axial resolution",
+      "Lateral resolution"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "How many bits are necessary to produce 32 shades of gray?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "____ is a method of constructing new simulated data points to fill in gaps.",
+    "choices": [
+      "Spatial compounding",
+      "Temporal compounding",
+      "Coded excitation",
+      "Fill-in interpolation",
+      "Edge enhancement"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following doesn’t belong to the group?",
+    "choices": [
+      "Identical pixel size",
+      "Preprocessing",
+      "Write magnification",
+      "Same number of pixels as in the original ROI",
+      "Acquires new data"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following has the largest dynamic range?",
+    "choices": [
+      "transducer",
+      "receiver",
+      "scan converter",
+      "display",
+      "archive"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following has the smallest dynamic range?",
+    "choices": [
+      "transducer",
+      "receiver",
+      "scan converter",
+      "display",
+      "archive"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A signal has been compressed from 110 dB to 80 dB. What is the amount of compression?",
+    "choices": [
+      "190 dB",
+      "110 dB",
+      "30 dB",
+      "80 dB"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "An uncompressed signal has a dynamic range of 85 dB. The signal undergoes 30 dB of compression. What is the dynamic range of the compressed signal?",
+    "choices": [
+      "55 dB",
+      "115 dB",
+      "45 dB",
+      "30 dB"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "After compression, a signal within the ultrasound system has a dynamic range of 80 dB. The original signal was compressed by 40 dB. What is the dynamic range of the original, uncompressed signal?",
+    "choices": [
+      "80 dB",
+      "120 dB",
+      "40 dB",
+      "30 dB"
+    ],
+    "answer": 1
+  }
+]

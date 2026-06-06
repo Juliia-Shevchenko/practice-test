@@ -1,0 +1,72 @@
+[
+  {
+    "prompt": "Sound with a frequency of 4 MHz is created by a transducer. What is the fundamental frequency?",
+    "choices": [
+      "4 MHz",
+      "8 MHz",
+      "2 MHz",
+      "cannot be determined with the information provided"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Sound with a frequency of 4 MHz is created by a transducer. What is the harmonic frequency?",
+    "choices": [
+      "4 MHz",
+      "8 MHz",
+      "2 MHz",
+      "cannot be determined with the information provided"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following creates harmonics?",
+    "choices": [
+      "reflection",
+      "transmission",
+      "linear behavior",
+      "nonlinear behavior"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Where are harmonics created?",
+    "choices": [
+      "in the pulser",
+      "in the transducer",
+      "in the tissues",
+      "in the receiver"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What nonlinear behavior creates tissue harmonics?",
+    "choices": [
+      "microbubbles expand to a greater extent than they compress",
+      "sound reflects off boundaries with different impedances",
+      "sound travels faster in compressions and slower in rarefactions",
+      "microbubbles compress to a greater extent than they expand"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What nonlinear behavior creates contrast harmonics?",
+    "choices": [
+      "microbubbles expand to a greater extent than they compress",
+      "sound reflects off boundaries with different impedances",
+      "sound travels faster in compressions and slower in rarefactions",
+      "microbubbles compress to a greater extent than they expand"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is associated with the highest mechanical index?",
+    "choices": [
+      "low frequency, extreme peak rarefactional pressure",
+      "high frequency, extreme peak rarefactional pressure",
+      "low frequency, extreme peak compression pressure",
+      "high frequency, extreme peak compression pressure"
+    ],
+    "answer": 0
+  }
+]

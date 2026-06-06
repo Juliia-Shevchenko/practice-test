@@ -1,0 +1,286 @@
+[
+  {
+    "prompt": "A video display that is limited to black and white only with no shades of gray is called ____.",
+    "choices": [
+      "binary",
+      "bistable",
+      "monochrome",
+      "inchworm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the approximate number of frames that must be presented each second for the human eye to perceive the display without flickering?",
+    "choices": [
+      "2",
+      "30",
+      "100",
+      "500"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What was the original purpose for ultrasound system's analog scan converter?",
+    "choices": [
+      "to increase the dynamic range of ultrasound systems",
+      "to make real-time imaging possible",
+      "to increase the sensitivity of ultrasound systems",
+      "to allow for gray scale imaging"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is best described as an analog number?",
+    "choices": [
+      "the weight of a person",
+      "the number of people in a room",
+      "the number of stars in the sky",
+      "the number of tires on a car"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? A digital representation of a number can achieve only specific fixed values.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Digital scan converters do not use computer technology to process electronic data into images.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two digital scan converters are undergoing evaluation. Both produce images of the same size. System A has 1,000,000 pixels with 10 bits assigned to each. System B has 250,000 pixels with 12 bits assigned to each. Which system is more likely to have the capability to display very small details in an image?",
+    "choices": [
+      "System A",
+      "System B",
+      "both are the same",
+      "cannot be determined"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two digital scan converters are undergoing evaluation. System A has 1,000,000 pixels, with 4 bits assigned to each. System B has 250,000 pixels with 12 bits assigned to each. Which system is more likely to display images with very subtle differences in gray scale?",
+    "choices": [
+      "System A",
+      "System B",
+      "both are the same",
+      "cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A byte is composed of _____ bits. A word is composed of _____ bytes.",
+    "choices": [
+      "2, 2",
+      "8, 2",
+      "16, 16",
+      "8, 16"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? The greater the number of bits assigned to each pixel of a digital image, the greater the spatial resolution of the image is.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What happens to an image when the number of bits allocated to each pixel increases?",
+    "choices": [
+      "spatial detail improves",
+      "frame rate increases",
+      "field of view expands",
+      "more shades of gray"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the maximum number of shades of gray that are represented with 4 bits?",
+    "choices": [
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "With 6 bits, what is the largest number of different shades of gray that can be stored?",
+    "choices": [
+      "8",
+      "16",
+      "64",
+      "256"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How many bits are required to display 10 different shades of gray? 14 shades? 15 shades?",
+    "choices": [
+      "4 bits, 5 bits, 6 bits",
+      "10 bits, 14 bits, 15 bits",
+      "4 bits, 4 bits, 2 bits",
+      "4 bits, 4 bits, 4 bits"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the number of binary digits required to store 29 levels of gray?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? For digital image information to be displayed on a conventional television screen, the data must be processed by a digital-to-analog converter.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Preprocessing of image data occurs after the data has been stored in the scan converter.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Post-processing of image data occurs after data has been stored in the scan converter.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following are true of read zoom except:",
+    "choices": [
+      "pre-processing function of a receiver",
+      "same number of pixels are in the original ROI and the zoomed image",
+      "on the screen, the pixels in the zoomed image are larger than those in the ROI",
+      "the same number of ultrasound pulses are used to create the original ROI and the zoomed image"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following are true of write zoom except:",
+    "choices": [
+      "pre-processing function of a receiver",
+      "same number of pixels are in the original ROI and the zoomed image",
+      "the pixel size in the zoomed image and the ROI are the same",
+      "in comparison to the zoomed image, fewer ultrasound pulses are used to create the original ROI"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? The assignment of different shades of gray to the digital numbers stored in the scan converter acts to improve the diagnostic value of an ultrasound exam.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The relationship between the largest and the smallest signal amplitudes processed by a component of an ultrasound system is called the _____ and has units of ____.",
+    "choices": [
+      "decibels, watts",
+      "intensity, W/cm^2",
+      "dynamic range, dB",
+      "proportionality, dB"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of these components typically has the greatest dynamic range?",
+    "choices": [
+      "display",
+      "pulser",
+      "amplifier",
+      "demodulator"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following components typically has the lowest dynamic range?",
+    "choices": [
+      "display",
+      "pulser",
+      "amplifier",
+      "demodulator"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Why is it necessary for the receiver to perform compression on the electrical signals that it processes?",
+    "choices": [
+      "the dynamic range of the system's electronics is less than the dynamic range of the received sound reflection",
+      "the display's dynamic range exceeds the transducer's dynamic range",
+      "the dynamic range of the receiver is less than the dynamic range of the image processor",
+      "the dynamic range of the display exceeds the dynamic range of all other components of the ultrasound system"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A signal with a 120 dB dynamic range is compressed by 40 dB. What is the dynamic range of the compressed signal?",
+    "choices": [
+      "40 dB",
+      "120 dB",
+      "3 dB",
+      "80 dB"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A signal with a 120 dB dynamic range was previously compressed by 40 dB. What is the dynamic range of the original, uncompressed signal?",
+    "choices": [
+      "160 dB",
+      "120 dB",
+      "3 dB",
+      "80 dB"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which display is limited to a single pair of brightness or display levels?",
+    "choices": [
+      "CRT",
+      "binary",
+      "bistable",
+      "grayscale"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following are consistent with an image containing black and white only with no shades of gray except:",
+    "choices": [
+      "bistable",
+      "high contrast",
+      "wide dynamic range"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following terms is not associated with a wide dynamic range image?",
+    "choices": [
+      "low contrast",
+      "many shades of gray",
+      "bistable"
+    ],
+    "answer": 2
+  }
+]
