@@ -66,6 +66,64 @@
     "answer": 0
   },
   {
+    "prompt": "What happens to a digital image when the pixel density increases?",
+    "choices": [
+      "spatial detail improves",
+      "temporal resolution increases",
+      "the field of view expands",
+      "there are more shades of gray"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two digital scan converters are undergoing evaluation. System A has 1,000,000 pixels and the picture size is 100 square inches. System B has an image size of 10 square inches composed of 250,000 pixels. Which image is more likely to display very small details?",
+    "choices": [
+      "System A",
+      "System B",
+      "both are the same",
+      "cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the smallest part of a digital picture called?",
+    "choices": [
+      "bit",
+      "byte",
+      "pixel",
+      "fractel"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? The greater the number of bits assigned to each pixel of a digital image, the greater the number of shades of gray the image has.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the smallest amount of digital storage called?",
+    "choices": [
+      "bit",
+      "byte",
+      "pixel",
+      "fractel"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of these is a binary number?",
+    "choices": [
+      "122112211",
+      "10000000",
+      "98765432",
+      "01010102"
+    ],
+    "answer": 1
+  },
+  {
     "prompt": "Two digital scan converters are undergoing evaluation. System A has 1,000,000 pixels, with 4 bits assigned to each. System B has 250,000 pixels with 12 bits assigned to each. Which system is more likely to display images with very subtle differences in gray scale?",
     "choices": [
       "System A",
