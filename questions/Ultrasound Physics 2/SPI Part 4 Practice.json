@@ -1,0 +1,882 @@
+[
+  {
+    "prompt": "What system control should you adjust to compensate for sound attenuation with increasing depth?",
+    "choices": [
+      "Dynamic range",
+      "TGC",
+      "Transmit power",
+      "Overall receiver gain",
+      "Focus position"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What system control determines the amount of amplification that occurs in the receiver?",
+    "choices": [
+      "Gain",
+      "Acoustic power output",
+      "Rectification",
+      "Pulse repetition frequency",
+      "Dynamic range"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "When you adjust the output power control, you affect the following system component:",
+    "choices": [
+      "Pulser",
+      "Beam former",
+      "Scan converter",
+      "Memory",
+      "Receiver"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What system control do you adjust to equalize the differences in echo amplitudes received from similar structures situated at different depths?",
+    "choices": [
+      "Dynamic range or compression",
+      "Rectification",
+      "Time gain compensation",
+      "Pulse repetition frequency",
+      "Rejection"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Electronic noise is reduced in the ultrasound system by this method:",
+    "choices": [
+      "Demodulation",
+      "Compensation",
+      "Rectification",
+      "Amplification",
+      "Rejection"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "You have chosen to enlarge an ultrasound image with a read magnification. Which of the following is NOT related to read magnification?",
+    "choices": [
+      "Preprocessing",
+      "Increased pixel size",
+      "Performance on a frozen image",
+      "Resolution loss",
+      "B and D only"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What term below describes the rate at which the transmitter applies electronic voltage pulses to the transducer?",
+    "choices": [
+      "Period",
+      "Pulse repetition frequency",
+      "Depth gain compensation",
+      "Demodulation",
+      "Apodization"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Pulsing of the transmitted sound wave is necessary for real-time imaging because:",
+    "choices": [
+      "The transducer becomes too hot to handle if continuous sound waves are emitted.",
+      "The crystal in the transducer will break under the stress of continuous emissions.",
+      "The depth of the interface from which the echo originated can be determined.",
+      "Lateral resolution is improved by pulsed transmission.",
+      "Temporal resolution is improved by pulsed transmission."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What receiver function is responsible for decreasing the difference between the smallest and largest received signal amplitudes?",
+    "choices": [
+      "Amplification",
+      "Compensation",
+      "Compression",
+      "Demodulation",
+      "Rejection"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What receiver function listed below is NOT operator-adjustable?",
+    "choices": [
+      "Amplification",
+      "Compensation",
+      "Demodulation",
+      "Rejection",
+      "A and D"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "While performing a sonographic examination, you have performed both preprocessing and postprocessing functions. Which of the following functions is postprocessing?",
+    "choices": [
+      "Write-zoom magnification",
+      "Frequency change",
+      "Gray-scale map assignment",
+      "Scan line density",
+      "Acoustic power output"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following would be most helpful to enhance the contrast difference between tissues having subtle variations in echogenicity?",
+    "choices": [
+      "Decreasing the acoustic power output",
+      "Decreasing the scan line density",
+      "Performing a read-zoom magnification over the area of interest",
+      "Changing the gray-scale map assignment",
+      "Increasing the overall receiver gain"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What part of the sonographic instrument is responsible for apodization, beam steering, focusing, and aperture control?",
+    "choices": [
+      "Beam former",
+      "Receiver",
+      "Memory",
+      "Pulser",
+      "Scan converter"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What control should you adjust to better compensate for the attenuation of sound as it propagates through tissue?",
+    "choices": [
+      "Dynamic range",
+      "Time gain compensation",
+      "Acoustic power output",
+      "Rejection",
+      "Focusing"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which control would you adjust to increase the intensity of the transmitted pulse?",
+    "choices": [
+      "Receiver gain",
+      "Depth of scanning",
+      "Output power",
+      "Time gain compensation",
+      "Dynamic range"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which control would you adjust to alter the dynamic range of the displayed echoes?",
+    "choices": [
+      "Compression",
+      "Transmit power",
+      "Scanning depth",
+      "Time gain compensation",
+      "Focusing"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "You are performing a sonographic examination and select the tissue harmonics operating mode. What advantage will you obtain over conventional imaging?",
+    "choices": [
+      "Improved contrast resolution",
+      "Improved penetration",
+      "Improved temporal resolution",
+      "Improved signal-to-noise ratio",
+      "Increased bandwidth"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "You have decreased the scan line density. What technique will be employed to fill in the empty data between the scan lines?",
+    "choices": [
+      "Interpolation",
+      "Rejection",
+      "Compression",
+      "Autocorrelation",
+      "Demodulation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is a typical frame rate for B-mode real-time imaging?",
+    "choices": [
+      "1-9 kHz",
+      "10-50 Hz",
+      "100-200 MHz",
+      "200-300 Hz",
+      "0.05-0.9 Hz"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "You have increased the output power by 10 dB. The signal intensity has:",
+    "choices": [
+      "Doubled",
+      "Tripled",
+      "Quadrupled",
+      "Increased by a factor of 10",
+      "Increased by a factor of 100"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "What is the purpose of the preamplification of the incoming signal that occurs in the transducer assembly?",
+    "choices": [
+      "To decrease the dynamic range of the signal",
+      "To increase echo voltages before noise is induced through the cable",
+      "To reduce sensitivity to side lobes",
+      "To reduce acoustic impedance mismatch between the tissue and the transducer",
+      "To compensate for attenuation of the beam with depth"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What function of the receiver converts electric signals from radiofrequency to video form?",
+    "choices": [
+      "Amplification",
+      "Compensation",
+      "Compression",
+      "Demodulation",
+      "Rejection"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What component of the ultrasound system converts the electric energy provided by the pulser into acoustic pulses transmitted into the patient?",
+    "choices": [
+      "Receiver",
+      "Scan converter",
+      "Memory",
+      "Display",
+      "Transducer"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "The incoming raw echo signals must be compressed into a smaller dynamic range because:",
+    "choices": [
+      "A wide dynamic range results in increased display of electronic noise.",
+      "A wide dynamic range does not allow differentiation between echoes arriving from different depths.",
+      "The display cannot accommodate the wide dynamic range of the incoming signals.",
+      "The existing wide dynamic range significantly slows the frame rate.",
+      "A wide dynamic range compromises spatial resolution."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is NOT a function of the receiver?",
+    "choices": [
+      "Amplification",
+      "RF to video conversion",
+      "Demodulation",
+      "Dynamic aperture",
+      "Compression"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What system function is limited by the speed of sound in tissue?",
+    "choices": [
+      "Demodulation",
+      "Pulse repetition frequency",
+      "Voltage amplitude",
+      "Rectification",
+      "Time gain compensation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What control should you adjust to modify the image if the attenuation coefficient of the tissue is very high?",
+    "choices": [
+      "Dynamic range",
+      "Rejection",
+      "Threshold",
+      "Compensation",
+      "Compression"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "You made changes to the following controls during an exam. Which adjustment increased the duty factor?",
+    "choices": [
+      "Increasing receiver gain",
+      "Increasing output power",
+      "Increasing pulse repetition frequency",
+      "Increasing scanning time",
+      "Increasing time gain compensation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the advantage of using write-zoom instead of read-zoom magnification?",
+    "choices": [
+      "Write zoom always provides a higher frame rate than read zoom.",
+      "Write zoom allows you to select a location in the image, whereas read zoom must be applied to only the center of the image.",
+      "Write zoom reduces the display of electronic noise and side lobes because it is performed in the memory component of the instrument.",
+      "Write zoom provides greater dynamic range than read zoom.",
+      "Write zoom provides better spatial resolution than read zoom."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "How is reflector depth determined with pulse-echo ultrasound?",
+    "choices": [
+      "Echo amplitude",
+      "Echo dynamic range",
+      "Echo frequency",
+      "Echo arrival time",
+      "Echo phase"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What effect will you detect in the image if you increase the threshold control?",
+    "choices": [
+      "Increased image brightness",
+      "Decreased image brightness",
+      "Decreased appearance of weak echo signals",
+      "Increased appearance of strong echo signals",
+      "Decreased appearance of strong echo signals"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What can you do to improve the temporal resolution while scanning?",
+    "choices": [
+      "Increase the number of focal zones",
+      "Increase the depth",
+      "Increase the sector width",
+      "Decrease the acoustic scan line density",
+      "Decrease the acoustic power output"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The number of images displayed per second in real-time imaging is termed the:",
+    "choices": [
+      "Pulse repetition frequency",
+      "Pulse repetition period",
+      "Frame rate",
+      "Pulse duration",
+      "Pulse length"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which scanning mode does NOT rely on the principle of echo ranging to determine interface location?",
+    "choices": [
+      "M-mode",
+      "Pulsed-wave Doppler",
+      "Static B-mode",
+      "Transmission",
+      "A-mode"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which display mode may be used to calculate distance measurements?",
+    "choices": [
+      "A-mode",
+      "B-mode",
+      "M-mode",
+      "B and C only",
+      "A, B, and C"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following best describes M-mode?",
+    "choices": [
+      "Presentation of reflector amplitudes along multiple lines of sight",
+      "Two-dimensional gray-scale image",
+      "Movement of a single structure along multiple lines of sight",
+      "Depth of reflectors along a single line of sight vs. time",
+      "Frequency shift of moving reflectors along a single line of sight"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which is an assumption of sonographic imaging that determines how detected echoes are mapped in the image?",
+    "choices": [
+      "Sound waves travel along curved paths.",
+      "Velocity is a constant 333 m/s.",
+      "Echoes originate from the most recently transmitted pulse.",
+      "Large structures yield a high brightness level on the display.",
+      "Media with varying propagation speeds alter the travel time of the sound pulse."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What physical concept allows us to determine the location of an interface by measuring the elapsed time between the transmitted pulsed ultrasound wave and the detected echo from that interface?",
+    "choices": [
+      "Huygens' principle",
+      "Echo ranging",
+      "Snell's law",
+      "Doppler effect",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The elapsed time between the transmitted pulse and the detected echo is 26 microseconds. How far is the interface from the transducer?",
+    "choices": [
+      "1 cm",
+      "2 cm",
+      "3 cm",
+      "4 cm",
+      "5 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "During a sonographic exam, you adjusted the following controls. Which one was most likely to have affected the frame rate?",
+    "choices": [
+      "Amplification",
+      "Transmit power",
+      "Scan depth",
+      "Time gain compensation",
+      "Compression"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following does NOT affect the time required to create one image frame?",
+    "choices": [
+      "Number of transmit focal zones",
+      "Number of acoustic scan lines",
+      "Image depth setting",
+      "Speed of sound in tissue",
+      "Transducer aperture"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Increasing the number of acoustic scan lines in one frame improves which of the following?",
+    "choices": [
+      "Temporal resolution",
+      "Axial resolution",
+      "Elevational resolution",
+      "Lateral resolution",
+      "Contrast resolution"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "You have decreased the image sector width. Which of the following will most likely change as a result of this adjustment?",
+    "choices": [
+      "Frame rate",
+      "Axial resolution",
+      "Elevational resolution",
+      "Dynamic range",
+      "Bandwidth"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following ultrasound examinations would require the highest frame rate?",
+    "choices": [
+      "Small parts",
+      "Abdominal",
+      "Pelvic",
+      "Vascular",
+      "Cardiac"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following adjustments would NOT decrease frame rate?",
+    "choices": [
+      "Increasing the number of transmit focal zones",
+      "Increasing scanning depth",
+      "Increasing the receiver gain",
+      "Increasing scan line density",
+      "Increasing sector width"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When you increase the scanning depth, which of the following is automatically decreased by the system to avoid range ambiguity?",
+    "choices": [
+      "Number of focal zones",
+      "Sector width",
+      "Pulse repetition frequency",
+      "Pulse repetition period",
+      "Pulse duration"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "You are scanning an interface with a high acoustic impedance mismatch. How will this be displayed on the B-mode image?",
+    "choices": [
+      "A tall spike",
+      "A small spike",
+      "A bright dot",
+      "A dark dot",
+      "The height of the spike or brightness of the dot is not affected by acoustic impedance mismatch."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The 'A' in A-mode stands for:",
+    "choices": [
+      "Average",
+      "Attenuation",
+      "Aperture",
+      "Amplitude",
+      "Acoustic"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The 'M' in M-mode stands for:",
+    "choices": [
+      "Motion",
+      "Magnetic",
+      "Megahertz",
+      "Manual",
+      "Maximum"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What component is necessary for a real-time B-mode scanner but is not present in an A-mode scanner?",
+    "choices": [
+      "Clock",
+      "Transmitter",
+      "Transducer",
+      "Scan converter",
+      "Receiver"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What system control converts the numbers stored in memory to proportional voltages that control the brightness on a CRT monitor?",
+    "choices": [
+      "Analog-to-digital converter",
+      "Digital-to-analog converter",
+      "Cathode ray tube",
+      "Receiver",
+      "Pulser"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A digital scan converter is another name for what system component?",
+    "choices": [
+      "Pulser",
+      "Receiver",
+      "Image memory",
+      "Analog-to-digital converter",
+      "Beam former"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What control allows the user to freeze and then scroll back through the most recently acquired image frames?",
+    "choices": [
+      "Cineloop",
+      "Read zoom",
+      "Write zoom",
+      "Archive",
+      "Preprocessing"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A group of 8 bits is called:",
+    "choices": [
+      "Binary",
+      "Kilobyte",
+      "Pixel",
+      "Byte",
+      "Matrix"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Where are images stored in the ultrasound system?",
+    "choices": [
+      "Pulser",
+      "Receiver",
+      "Beam former",
+      "Display",
+      "Scan converter"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "What is the maximum number of shades of gray in an 8-bit digital scan converter?",
+    "choices": [
+      "16",
+      "32",
+      "64",
+      "128",
+      "256"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "The spatial resolution of the scan converter is determined by:",
+    "choices": [
+      "Number of pixels in the scan converter matrix",
+      "Number of bits per pixel",
+      "The postprocessing settings",
+      "Brightness and contrast settings of the monitor",
+      "Interpolation scheme"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What system component is most responsible for transmit focusing?",
+    "choices": [
+      "Receiver",
+      "Monitor",
+      "Beam former",
+      "Preprocessing",
+      "System clock"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How many levels of information can a single bit represent?",
+    "choices": [
+      "One",
+      "Two",
+      "Four",
+      "Eight",
+      "Sixteen"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The picture elements in a scan converter matrix are termed:",
+    "choices": [
+      "Decimals",
+      "Binary numerals",
+      "Bits",
+      "Pixels",
+      "Bytes"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Digital-to-analog conversion of the ultrasound signal must occur at what part of the imaging process?",
+    "choices": [
+      "Between the transducer and the receiver",
+      "Between the beam former and the transducer",
+      "Between the receiver and the scan converter",
+      "Between the scan converter and the display",
+      "Digital-to-analog conversion does not occur in the ultrasound system."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In the scan converter, interpolation is performed to:",
+    "choices": [
+      "Amplify the reflected signal in comparison to the background noise",
+      "Decrease the dynamic range to a level that can be handled by the monitor",
+      "Amplify weak echo signals from deep structures to compensate for beam attenuation",
+      "Fill in the empty pixels that occur between acoustic scan lines",
+      "Increase the number of shades of gray in the resultant image"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Without interpolation, which of the following would best describe the resultant B-mode image?",
+    "choices": [
+      "Very weak echoes in the far field compared to the near field",
+      "Poor differentiation between the ultrasound signal and the noise floor",
+      "Saturation of the white shades on the ultrasound monitor",
+      "A series of scan lines with blank data between the lines",
+      "A bistable image"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What three colors are used on a color monitor to produce the range of available colors?",
+    "choices": [
+      "Red, purple, yellow",
+      "Yellow, green, blue",
+      "Blue, yellow, red",
+      "Red, green, blue",
+      "Blue, white, red"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "When you 'freeze' the ultrasound image, where is the echo information stored?",
+    "choices": [
+      "Transducer",
+      "Scan converter",
+      "Cable",
+      "Beam former",
+      "Receiver"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What type of resolution is determined by the number of pixels in the scan converter?",
+    "choices": [
+      "Temporal",
+      "Contrast",
+      "Spatial",
+      "Elevational",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is associated with improper adjustment of the brightness and contrast on the video monitor?",
+    "choices": [
+      "The spatial resolution of the resultant image will be degraded.",
+      "The operator will likely overgain or undergain the image.",
+      "The temporal resolution will be reduced.",
+      "The flicker rate of the video monitor will be increased.",
+      "The penetration of the transducer will be reduced."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What can you improve by changing the gray-scale map assignment?",
+    "choices": [
+      "Contrast resolution",
+      "Temporal resolution",
+      "Spatial resolution",
+      "Frame rate",
+      "Axial resolution"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following controls most directly affects patient exposure?",
+    "choices": [
+      "Receiver overall gain",
+      "TGC",
+      "Dynamic range",
+      "Reject",
+      "Output power"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following adjustments would increase the duty factor?",
+    "choices": [
+      "Increasing receiver gain",
+      "Increasing output power",
+      "Increasing pulse repetition frequency",
+      "Increasing scanning time",
+      "Increasing time gain compensation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following best describes the relationship between frame rate and temporal resolution?",
+    "choices": [
+      "Higher frame rate improves temporal resolution",
+      "Lower frame rate improves temporal resolution",
+      "Frame rate does not affect temporal resolution",
+      "Temporal resolution depends only on axial resolution",
+      "Temporal resolution depends only on lateral resolution"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve contrast resolution?",
+    "choices": [
+      "Increasing the number of bits per pixel",
+      "Increasing the number of pixels per frame",
+      "Increasing the number of scan lines per frame",
+      "Increasing the number of focal zones",
+      "Increasing the pulse repetition frequency"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following controls would you adjust to reduce low-level echoes from the image?",
+    "choices": [
+      "Reject",
+      "Gain",
+      "Compression",
+      "Dynamic range",
+      "Persistence"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve spatial resolution?",
+    "choices": [
+      "Increasing the number of pixels per frame",
+      "Increasing the number of bits per pixel",
+      "Increasing the number of scan lines per frame",
+      "Increasing the number of focal zones",
+      "Increasing the pulse repetition frequency"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve axial resolution?",
+    "choices": [
+      "Increasing frequency",
+      "Increasing depth",
+      "Increasing dynamic range",
+      "Increasing persistence",
+      "Increasing frame rate"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve lateral resolution?",
+    "choices": [
+      "Increasing the number of focal zones",
+      "Increasing the number of pixels per frame",
+      "Increasing the number of bits per pixel",
+      "Increasing the number of scan lines per frame",
+      "Increasing the pulse repetition frequency"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve elevational resolution?",
+    "choices": [
+      "Using a smaller aperture",
+      "Using a larger aperture",
+      "Using a higher frequency transducer",
+      "Using a lower frequency transducer",
+      "Increasing the number of focal zones"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve temporal resolution?",
+    "choices": [
+      "Decreasing the number of focal zones",
+      "Increasing the number of focal zones",
+      "Increasing the number of scan lines per frame",
+      "Increasing the number of pixels per frame",
+      "Increasing the number of bits per pixel"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve contrast resolution?",
+    "choices": [
+      "Increasing the number of bits per pixel",
+      "Increasing the number of pixels per frame",
+      "Increasing the number of scan lines per frame",
+      "Increasing the number of focal zones",
+      "Increasing the pulse repetition frequency"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following adjustments would most likely improve spatial resolution?",
+    "choices": [
+      "Increasing the number of pixels per frame",
+      "Increasing the number of bits per pixel",
+      "Increasing the number of scan lines per frame",
+      "Increasing the number of focal zones",
+      "Increasing the pulse repetition frequency"
+    ],
+    "answer": 0
+  }
+]
