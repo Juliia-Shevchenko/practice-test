@@ -1,0 +1,1002 @@
+[
+  {
+    "prompt": "Tardus parvus indicates which of the following?",
+    "choices": [
+      "Severe outflow disease",
+      "Severe inflow disease",
+      "Downstream arteriolar dilatation",
+      "Showering emboli"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The venous system contains what percent of all of the blood in the body?",
+    "choices": [
+      "20% to 30%",
+      "50%",
+      "60% to 70%",
+      "99%"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "With inspiration, which of the following is true?",
+    "choices": [
+      "Abdominal pressure increases and intrathoracic pressure decreases",
+      "Abdominal pressure decreases and intrathoracic pressure increases",
+      "Abdominal pressure increases and intrathoracic pressure increases",
+      "Abdominal pressure decreases and intrathoracic pressure decreases"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "As the blood vessel decreases in size, which of the following is true?",
+    "choices": [
+      "There is an increase in velocity and an increase in pressure",
+      "There is a decrease in velocity and a decrease in pressure",
+      "There is an increase in velocity and a decrease in pressure",
+      "There is a decrease in velocity and an increase in pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is true in the presence of a nonhemodynamically significant stenosis?",
+    "choices": [
+      "There is a corresponding pressure increase at the point of stenosis",
+      "There is a corresponding pressure decrease distal to the point of stenosis",
+      "There is a corresponding pressure increase proximal to the point of stenosis",
+      "There is a corresponding pressure decrease at the point of stenosis"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Monophasic flow in a resting lower extremity artery",
+    "choices": [
+      "Is indicative of normal flow",
+      "Is indicative of moderate to severe disease",
+      "Is normal if the patient is >60 years of age",
+      "Is normal with ABIs of 0.9 or greater"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will increase the hemodynamic resistance?",
+    "choices": [
+      "Decrease the viscosity of the blood",
+      "Increase volumetric flow rate",
+      "Decrease the vessel length",
+      "Increase vessel length"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "With laminar flow in a straight vessel, what part of the flow is said to be the fastest?",
+    "choices": [
+      "The center of the stream",
+      "At the boundary layer",
+      "Velocities are the same across the stream",
+      "Toward the edges"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In the venous circulation, which of the following is the only variable of hydrostatic pressure?",
+    "choices": [
+      "Height",
+      "Gravity",
+      "Density",
+      "Viscosity"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following occurs with deep inspiration?",
+    "choices": [
+      "There is an increase in blood flow from the lower extremities to the right heart",
+      "There is an increase in blood flow from the upper extremities and head to the right heart",
+      "There is a decrease in subdiaphragmatic pressures",
+      "There is an increase in pressure in the thorax"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A delay in the systolic upstroke is termed",
+    "choices": [
+      "Monophasic flow",
+      "Laminar flow",
+      "Turbulence",
+      "Tardus parvus"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "According to Poiseuille’s law, an increase in the pressure difference causes",
+    "choices": [
+      "A decrease in flow",
+      "An increase in viscosity",
+      "An increase in flow",
+      "An increase in resistance"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will have the greatest impact on resistance in a vessel?",
+    "choices": [
+      "Viscosity",
+      "Pressure difference",
+      "Vessel length",
+      "Vessel radius"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "If the radius of a blood vessel is halved, what is the corresponding change in flow?",
+    "choices": [
+      "The flow is one-fourth of what it was before the narrowing",
+      "The flow is one-half of what it was before the narrowing",
+      "Blood flow is decreased by a factor of 16",
+      "Blood flow is decreased by a factor of 20"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What effect does increasing vessel length have on flow?",
+    "choices": [
+      "The longer the vessel, the more flow there is",
+      "The longer the vessel, the lower the flow",
+      "The longer the vessel, the fewer the frictional losses",
+      "The longer the vessel, the less resistance there is"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "According to Bernoulli,",
+    "choices": [
+      "There is no relationship between pressure and velocity",
+      "Velocity increases as pressure increases",
+      "Pressure and velocity are inversely related to each other",
+      "Velocity and pressure are directly related to each other"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What type of flow is commonly seen at the entrance of large vessels?",
+    "choices": [
+      "Laminar",
+      "Parabolic",
+      "Chaotic",
+      "Plug"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Figure 1–34 waveform exhibits characteristics consistent with",
+    "choices": [
+      "A distal low-resistance bed",
+      "A distal high-resistance bed",
+      "A multiphasic waveform",
+      "Turbulent flow"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the type of flow most commonly seen in vessels in the body?",
+    "choices": [
+      "Laminar",
+      "Turbulent",
+      "Plug",
+      "Stenotic"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "When tardus parvus is present, it indicates",
+    "choices": [
+      "Mild disease more distally",
+      "Normal flow",
+      "Disease proximal to the point of sampling",
+      "Severe disease distal to the point of sampling"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following increases as vessel area decreases?",
+    "choices": [
+      "Pressure",
+      "Velocity",
+      "Flow",
+      "Cardiac output"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The stationary red blood cells along the vessel walls are called the",
+    "choices": [
+      "Viscosity layer",
+      "Boundary layer",
+      "Friction layer",
+      "Cellular layer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Distal to a nonhemodynamically significant stenosis,",
+    "choices": [
+      "The velocity decreases and the pressure increases",
+      "The velocity and pressure decrease",
+      "There is a pressure drop",
+      "The velocity increases and the pressure decreases"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Ohm’s law is analogous to Poiseuille’s law, where current is represented by",
+    "choices": [
+      "Flow",
+      "Resistance",
+      "Pressure difference",
+      "Gravity"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Increasing resistance has what effect on flow?",
+    "choices": [
+      "Flow is increased with an increase in resistance",
+      "Flow is decreased with an increase in resistance",
+      "Flow and resistance are unrelated",
+      "There are too many other variables to tell"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In which blood vessels do nutrient and waste exchange occur?",
+    "choices": [
+      "Arterioles",
+      "Capillaries",
+      "Venules",
+      "Arteries"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is true about hydrostatic pressure?",
+    "choices": [
+      "In a supine patient the hydrostatic pressure is greater at the ankles than at the heart",
+      "In a standing patient, with arm raised over head, the arm has a positive hydrostatic pressure",
+      "In a completely supine patient, the hydrostatic pressure is zero across all levels",
+      "In a standing patient, the hydrostatic pressure at the heart is 100 mm Hg"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following can be predicted by Poiseuille’s law?",
+    "choices": [
+      "Volume flow in a tube",
+      "Flow velocities in a tube",
+      "Pulsatility in arteries",
+      "Turbulence distal to a stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A 50%reduction in the radius of a blood vessel results in what factor of energy loss?",
+    "choices": [
+      "2×",
+      "5×",
+      "16×",
+      "25×"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A 50%reduction in diameter is equal to what percent reduction in area?",
+    "choices": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Why is blood slowest in the capillaries?",
+    "choices": [
+      "To permit maximum exchange of nutrients and wastes",
+      "To be slow enough to enter the venules",
+      "Due to increased right heart pressures",
+      "Due to decreased left heart pressures"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Spectral broadening is",
+    "choices": [
+      "An abnormal flow pattern",
+      "Common in tortuous vessels",
+      "Unusual in the carotid bulb",
+      "Never seen with CW Doppler"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is representative of normal lower extremity peripheral venous flow?",
+    "choices": [
+      "Pulsatile flow",
+      "Respiratory phasicity",
+      "High transmural pressure",
+      "Nonspontaneous flow"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Red blood cells increase scatter by 16 times if the frequency is doubled because they are",
+    "choices": [
+      "Weak reflectors",
+      "Raynaud’s scatterers",
+      "Rayleigh scatterers",
+      "Specular reflectors"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In order to eliminate mirror image artifact, which of the following techniques can be employed?",
+    "choices": [
+      "Increase angle closer to 90 degrees",
+      "Increase color or spectral gain",
+      "Increase acoustic power",
+      "Reduce angle to flow"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The spectral waveform is too dark. Which of the following would be the best method to improve the image?",
+    "choices": [
+      "Increase the output power",
+      "Increase the spectral gain",
+      "Decrease the spectral gain",
+      "Increase the PRF"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A sonographer switches to a higher frequency transducer. What effect will that have on aliasing?",
+    "choices": [
+      "Increased risk of aliasing",
+      "Decreased risk of aliasing",
+      "Aliasing will definitely not occur",
+      "Transducer frequency does not affect aliasing"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will reduce the risk of aliasing?",
+    "choices": [
+      "Increase the depth",
+      "Decrease the PRF",
+      "Increase the Doppler angle",
+      "Lower the scale control"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following are components of the Doppler shift equation except for",
+    "choices": [
+      "Frequency",
+      "Spatial pulse length",
+      "Doppler angle",
+      "Propagation speed"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a processing technique used to formulate the spectral waveform?",
+    "choices": [
+      "Fast Fourier transform",
+      "Autocorrelation",
+      "Zero crossing detection",
+      "Phase waveform processing"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will occur with an increase in the ensemble length?",
+    "choices": [
+      "There will be more sensitivity to slow flow",
+      "The mean velocities will be less accurate",
+      "There will be less acoustic exposure to the patient",
+      "The temporal resolution will be improved"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Aliasing occurs for which of the following reasons?",
+    "choices": [
+      "The velocities are too low",
+      "The PRF is too high",
+      "The sampling rate is too slow",
+      "The sampling rate is too high"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Increasing the pulse repetition frequency",
+    "choices": [
+      "Decreases the number of cycles in a pulse",
+      "Decreases the number of pulses per second",
+      "Increases the imaging depth",
+      "Increases the measurable frequency shift"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Power Doppler uses",
+    "choices": [
+      "Frequency shift information to generate directional information",
+      "Frequency shift information to generate velocity information",
+      "Amplitude information to generate a signal",
+      "Amplitude information to generate velocity and direction information"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What effect does increasing the packet size have on color Doppler?",
+    "choices": [
+      "Ability to examine faster flow",
+      "More accurate mean velocities",
+      "More accurate maximum velocities",
+      "Improves frame rate"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following does not provide direction of flow information?",
+    "choices": [
+      "Spectral Doppler",
+      "Color Doppler",
+      "Power Doppler",
+      "CW Doppler"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "With CW Doppler, how many transducer elements are needed at a minimum?",
+    "choices": [
+      "One",
+      "Two",
+      "Four",
+      "There is no minimum"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the biggest advantage of pulsed-wave Doppler?",
+    "choices": [
+      "Ability to select sample depth",
+      "There are no effective velocity limits",
+      "There are no depth limits",
+      "Lower acoustic output"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A sonographer is performing a renal arterial Doppler study. The sonographer wishes to more accurately measure acceleration time. Which control needs to be adjusted so the waveform can be stretched out to permit a more accurate measurement?",
+    "choices": [
+      "Doppler gate",
+      "Scale",
+      "Wall filter",
+      "Sweep speed"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following causes the most acoustic energy exposure to the patient?",
+    "choices": [
+      "Spectral Doppler",
+      "Color Doppler",
+      "Gray-scale imaging",
+      "M-mode"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following Doppler modes does not use the Doppler frequency shift information to generate the signal?",
+    "choices": [
+      "Spectral Doppler",
+      "Color Doppler",
+      "CW Doppler",
+      "Power Doppler"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Why is it important for the spectral Doppler gain to be adjusted appropriately?",
+    "choices": [
+      "If the gain is too low the velocities will be over-measured",
+      "If the gain is too low the risk of aliasing is increased",
+      "If the gain is not adjusted properly the velocities may be measured inaccurately",
+      "If the gain is too high the velocities will be under-measured"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is true about color Doppler?",
+    "choices": [
+      "It is a continuous wave technique",
+      "It is subject to aliasing",
+      "It is commonly used because of the improvement in frame rate",
+      "It can accurately measure peak systolic and end diastolic velocities"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In order to decrease the Doppler shift, which of the following must be increased?",
+    "choices": [
+      "Doppler angle",
+      "Transducer frequency",
+      "Velocity of blood",
+      "Packet size"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The transmitted frequency is 5.0 MHz. The received frequency is 5.0 MHz. Which of the following is true?",
+    "choices": [
+      "The reflector is moving toward the transducer",
+      "The reflector is moving away from the transducer",
+      "The reflector is moving parallel to the beam",
+      "The reflector is not moving with respect to the transducer"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In the equation to calculate the Doppler shift, what does “c” in the equation represent?",
+    "choices": [
+      "Frequency shift",
+      "Propagation speed",
+      "Velocity of blood",
+      "Transducer frequency"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the frequency of the transducer is increased, what happens to the Doppler shift?",
+    "choices": [
+      "The Doppler shift increases",
+      "The Doppler shift decreases",
+      "The Doppler shift stays the same",
+      "It depends on the direction of flow"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "At which angle will the Doppler shift be at a maximum?",
+    "choices": [
+      "0 degrees",
+      "90 degrees",
+      "60 degrees",
+      "15 degrees"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "At which Doppler angle will the Doppler shift be at its lowest?",
+    "choices": [
+      "0 degrees",
+      "90 degrees",
+      "60 degrees",
+      "15 degrees"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What angle to flow is the most accurate?",
+    "choices": [
+      "0 degrees",
+      "90 degrees",
+      "60 degrees",
+      "15 degrees"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is considered to be the largest angle permissible in order to avoid a large measurement error?",
+    "choices": [
+      "0 degrees",
+      "90 degrees",
+      "60 degrees",
+      "45 degrees"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following describes the relationship between velocity and pressure?",
+    "choices": [
+      "Doppler effect",
+      "Bernoulli Principle",
+      "Poiseuille’s Law",
+      "Spectral effect"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What will occur if the sample volume is large relative to the size of the vessel?",
+    "choices": [
+      "Aliasing",
+      "Loss of diastolic flow information",
+      "Inaccurate peak systolic measurement",
+      "Spectral broadening"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Color pixels are seen outside of the vessel walls. What control should be adjusted to eliminate this artifact?",
+    "choices": [
+      "Decrease the gate size",
+      "Decrease the color gain",
+      "Decrease the PRF",
+      "Increase the PRF"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The PRFis 2,500 Hz. Above what Doppler shift will aliasing occur?",
+    "choices": [
+      "1,250 Hz",
+      "1,500 Hz",
+      "2,500 Hz",
+      "5,000 Hz"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the most optimal angle for 2D, gray scale imaging?",
+    "choices": [
+      "0 degrees",
+      "90 degrees",
+      "60 degrees",
+      "15 degrees"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A red blood cell is moving toward a stationary transducer. What can be said about the frequency of the reflected sound compared to the frequency of the incident sound?",
+    "choices": [
+      "It is not possible for the machine to measure incident frequency",
+      "The frequencies will be identical",
+      "The incident frequency will be greater than the reflected frequency",
+      "The reflected frequency will be greater than the incident frequency"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the Doppler shift when a reflector is not moving compared to the stationary observer?",
+    "choices": [
+      "The Doppler shift is zero",
+      "The Doppler shift is very high",
+      "The Doppler shift cannot be calculated",
+      "The Doppler shift is negative"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the Doppler shift when the transducer is 90 degrees to the direction of flow?",
+    "choices": [
+      "It is zero",
+      "It is at a maximum",
+      "It is most accurate",
+      "It is very high"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A negative Doppler shift occurs when",
+    "choices": [
+      "Both reflector and observer are stationary",
+      "The velocity of the reflector is negative",
+      "A reflector is moving away from a stationary observer",
+      "A reflector is moving toward a stationary observer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Aliasing occurs because the sampling rate is too ______",
+    "choices": [
+      "Fast",
+      "Slow",
+      "High",
+      "Expensive"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The higher the Doppler angle the _______ the degree of measurement error.",
+    "choices": [
+      "Greater",
+      "Less",
+      "Harder to calculate",
+      "Harder to reproduce"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "For venous flow, a _______ setting should be used to look for slower flow.",
+    "choices": [
+      "Lower gain",
+      "Lower scale",
+      "Higher scale",
+      "Lower persistence"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In one type of Doppler, mean velocity and direction of flow are displayed as a color. What type of Doppler technique is this?",
+    "choices": [
+      "Power Doppler",
+      "Spectral Doppler",
+      "Amplitude Doppler",
+      "Color Doppler"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "When must angle correction be used in spectral Doppler?",
+    "choices": [
+      "At all times",
+      "Any time continuous-wave Doppler is used",
+      "Whenever arterial flow is measured",
+      "When velocity information is needed"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is representative of the pulsatility index?",
+    "choices": [
+      "Peak systolic velocity minus end diastolic velocity divided by the end diastolic velocity",
+      "Peak systolic velocity minus end diastolic velocity divided by the peak systolic velocity",
+      "Peak systolic velocity minus end diastolic velocity divided by the mean velocity",
+      "Peak systolic velocity times end diastolic velocity minus the peak systolic velocity"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "You are imaging a carotid artery and aliasing is noted. Which of the following techniques would best eliminate the aliasing?",
+    "choices": [
+      "Increasing the operating frequency",
+      "Increasing the scale",
+      "Increasing the gain",
+      "Lowering the baseline"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following has no influence on aliasing?",
+    "choices": [
+      "Gain",
+      "Pulse repetition frequency",
+      "Operating frequency",
+      "Angle of flow"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is directly related to the amplitude of the Doppler shift?",
+    "choices": [
+      "The Doppler angle",
+      "The operating frequency",
+      "The velocity of flow",
+      "The number of red blood cells present"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following has no effect on the Doppler shift?",
+    "choices": [
+      "Operating frequency",
+      "Pulse repetition frequency",
+      "Propagation speed",
+      "Velocity of the blood"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The frequency of the transducer is increased while performing a carotid ultrasound. What will be the effect on the Doppler frequency shift?",
+    "choices": [
+      "It increases",
+      "It decreases",
+      "It does not change",
+      "It depends on the PRF"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Aliasing is present while performing a pulsed-wave lower extremity arterial examination. Which of the following is needed in order to eliminate the aliasing?",
+    "choices": [
+      "Increase the Doppler shift",
+      "Decrease the PRF",
+      "Decrease the PRP",
+      "Decrease the scale"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Compared to a higher frequency transducer, a lower frequency transducer",
+    "choices": [
+      "Increases the risk of aliasing",
+      "Decreases the risk of aliasing",
+      "Improves the spatial resolution of the image",
+      "Increases the velocities"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the blood pressure represents the potential energy in the system, what represents the kinetic energy?",
+    "choices": [
+      "Velocity of the blood",
+      "Pressure in a stenosis",
+      "Radius of the vessel",
+      "Flow volume"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "PW Doppler is used for transcranial Doppler studies because",
+    "choices": [
+      "CW is too sensitive",
+      "CW does not permit selection of sample volume depth",
+      "CW cannot accurately measure high velocities",
+      "CW has too many artifacts associated with it"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Bernoulli’s principle describes",
+    "choices": [
+      "Flow volume as it relates to resistance",
+      "Frictional losses from vessel length and viscosity",
+      "Inverse relationship between velocity and pressure",
+      "Direct relationship between velocity and pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A vessel that is feeding a low-resistance bed will likely have which type of flow?",
+    "choices": [
+      "Tardus parvus",
+      "Monophasic",
+      "Multiphasic",
+      "Diastolic flow reversal"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Flow that has low-velocity systolic “thumps” with no diastolic flow is indicative of which of the following?",
+    "choices": [
+      "Normal arterial flow",
+      "Proximal stenosis",
+      "Distal obstruction or edema",
+      "Distal arteriovenous fistula"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which setting can be adjusted to permit color Doppler twinkling artifact as an aide in identifying small calcifications?",
+    "choices": [
+      "Scale",
+      "Frequency",
+      "Priority",
+      "Persistence"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which artifact is seen in Figure 1–35?",
+    "choices": [
+      "Ghost image",
+      "Reverberation",
+      "Electronic noise",
+      "Mirror-image"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In Figure 1–36 an artifact is present near the baseline. This artifact is called",
+    "choices": [
+      "Blooming",
+      "Aliasing",
+      "Mirror-image",
+      "Clutter"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The y-axis of the spectral waveform may represent all of the following EXCEPT",
+    "choices": [
+      "Frequency shift",
+      "Velocity",
+      "Doppler shift",
+      "Time"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In this image (Fig. 1–37) the gate is relatively large compared to the size of the vessel. Therefore, the spectral waveform is exhibiting",
+    "choices": [
+      "Mirror image artifact",
+      "Spectral broadening",
+      "Clutter",
+      "Aliasing"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the Doppler shift is said to be negative, what does that mean regarding flow?",
+    "choices": [
+      "Flow is traveling away from the transducer",
+      "Flow is in the venous system",
+      "Flow is retrograde",
+      "Flow has a poor attitude"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If there is no Doppler shift, which of the following is true?",
+    "choices": [
+      "The vessel is occluded",
+      "90-degree angle of incidence",
+      "Spectral gain is too low",
+      "More than one of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following, if increased, will NOT increase the amount of flow?",
+    "choices": [
+      "Pressure gradient",
+      "Length of vessel",
+      "Radius of vessel",
+      "Area of vessel"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a constant and does not change in a nonhemodynamically significant stenosis?",
+    "choices": [
+      "Area",
+      "Velocity",
+      "Flow",
+      "Pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The Doppler shift is in which range of sound?",
+    "choices": [
+      "Audible sound",
+      "Infrasound",
+      "Ultrasound",
+      "Medical diagnostic ultrasound"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Figure 1–38 has spectral broadening. What might be one way to eliminate the spectral broadening in this image?",
+    "choices": [
+      "Open spectral gate wider",
+      "Decrease the spectral gain",
+      "Elevate the baseline",
+      "Increase the PRF"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "In Figure 1–39 there is a blue vessel. Based on the information given, this is",
+    "choices": [
+      "A vein",
+      "An artery",
+      "Flow toward the transducer",
+      "Flow away from the transducer"
+    ],
+    "answer": 2
+  }
+]

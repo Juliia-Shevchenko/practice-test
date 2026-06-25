@@ -1,0 +1,746 @@
+[
+  {
+    "prompt": "All of the following may represent vertebrobasilar symptoms EXCEPT",
+    "choices": [
+      "Bilateral paresthesia",
+      "Vertigo",
+      "Ataxia",
+      "Amaurosis fugax"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A stroke can be defined as",
+    "choices": [
+      "A neurological event with symptoms lasting less than 24 hours",
+      "A neurological event with symptoms lasting longer than 24 hours",
+      "A neurological event caused by increased blood flow to the brain",
+      "A neurological event occurring with no symptoms"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following would NOT produce increased velocities within a vessel?",
+    "choices": [
+      "Narrowing of a normal stented internal carotid artery",
+      "Enlarged segment of the vessel at the level of the carotid bulb",
+      "Intraluminal 50% to 69% diameter stenosis within the internal carotid artery",
+      "Intraluminal 70% to 99% diameter stenosis within the internal carotid artery"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following may represent internal carotid artery symptoms EXCEPT",
+    "choices": [
+      "Contralateral hemiparesis",
+      "Aphasia",
+      "Amaurosis fugax",
+      "Ataxia"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is considered the number one cause of stroke?",
+    "choices": [
+      "Hypertension",
+      "Smoking",
+      "Diabetes mellitus",
+      "Hyperlipidemia"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The first branch off the internal carotid artery is the",
+    "choices": [
+      "Ophthalmic artery",
+      "Superior thyroidal",
+      "Supraorbital artery",
+      "ICA does not have branches"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A transient ischemic attack",
+    "choices": [
+      "Resolves within 24 hours",
+      "Does not resolve within 24 hours",
+      "Typically lasts longer than 1 hour",
+      "Resolves within 72 hours"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The optimal Doppler angle for the extracranial cerebrovascular arteries is which of the following?",
+    "choices": [
+      "0-degree angle to the artery walls",
+      "60- to 80-degree angle to the artery walls",
+      "25- to 45-degree angle to the artery walls",
+      "45- to 60-degree angle to the artery walls"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The first branch of the thoracic aortic arch is the",
+    "choices": [
+      "Right common carotid artery",
+      "Left common carotid artery",
+      "Brachiocephalic artery",
+      "Left subclavian artery"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A normal internal carotid artery",
+    "choices": [
+      "Has a high-resistant spectral waveform",
+      "Has a low-resistant spectral waveform",
+      "Is the main source of blood supply to the middle and anterior portions of the brain",
+      "Both B and C"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "There is a significant amount of shadowing plaque overlying the proximal internal carotid artery. What is the best approach to overcome this?",
+    "choices": [
+      "Use a more posterior approach",
+      "Turn the acoustic power up",
+      "Use power Doppler instead of color Doppler",
+      "Nothing\u2014plaque is like bone and attenuates sound"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A normal external carotid artery",
+    "choices": [
+      "Has less diastolic flow compared to the ICA",
+      "Has more diastolic flow compared to the ICA",
+      "Is the main source of blood supply to the posterior aspect of the brain",
+      "Both A and C"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What type of waveform would you most likely expect to see in the distal internal carotid artery with a focal 80%to 99%stenosis at the proximal internal carotid artery?",
+    "choices": [
+      "Triphasic waveform",
+      "Tardus-parvus waveform",
+      "Normal waveform",
+      "Poststenotic turbulent waveform"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following describes plaque that is uniform and mostly composed of lipids?",
+    "choices": [
+      "Homogeneous plaque",
+      "Heterogeneous plaque",
+      "Ulcerated plaque",
+      "Hemorrhagic plaque"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The innominate artery gives rise to which two arteries?",
+    "choices": [
+      "Left common carotid and left subclavian arteries",
+      "Right common carotid and right subclavian arteries",
+      "Left and right common carotid arteries",
+      "Left and right subclavian arteries"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following lesions is most likely to cause a subclavian steal syndrome?",
+    "choices": [
+      "Innominate artery stenosis",
+      "Left proximal subclavian artery stenosis",
+      "Left distal subclavian artery stenosis",
+      "Both A and B"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In the cerebrovascular system, atherosclerosis occurs most commonly in the",
+    "choices": [
+      "Proximal area of a bifurcation",
+      "Middle cerebral artery",
+      "Proximal common carotid artery",
+      "Brachiocephalic artery"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The most common cause of ischemic stroke is",
+    "choices": [
+      "Occlusion of a carotid artery",
+      "Emboli",
+      "Hemorrhage",
+      "Dissection of the carotid artery"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A 75-year-old man is scheduled for a carotid duplex and presents with symptoms of complete loss of mobility in the left arm. In which vessel would you most likely find disease?",
+    "choices": [
+      "Left internal carotid artery",
+      "Left common carotid artery",
+      "Right internal carotid artery",
+      "Right vertebral artery"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The term paresthesia refers to",
+    "choices": [
+      "Vertigo",
+      "Inability to speak",
+      "Loss of muscular control",
+      "Tingling sensation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A patient arrives in your laboratory for a carotid duplex examination. Your findings are that the patient has a markedly dampened waveform in the right common carotid artery with a PSV of 24 cm/s with an EDV of 14 cm/s. The left common carotid artery had a normal waveform with a PSV of 126 cm/s with an EDV of 30 cm/s. The right vertebral artery had retrograde flow and the left vertebral artery had antegrade flow. Based on all the information what is the most likely diagnosis?",
+    "choices": [
+      "There is a stenosis of the left common carotid artery",
+      "There is a stenosis of the right brachiocephalic artery",
+      "There is a stenosis of the right proximal common carotid artery",
+      "There is a stenosis of the right proximal subclavian artery"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If a patient is experiencing vertigo, which vessel is most likely the cause of the symptoms?",
+    "choices": [
+      "Common carotid artery",
+      "Internal carotid artery",
+      "External carotid artery",
+      "Vertebral artery"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A typical waveform in a common carotid artery with an ipsilateral internal carotid artery occlusion may have",
+    "choices": [
+      "Increased peak systolic velocity",
+      "Decreased or no diastolic flow",
+      "Increased diastolic velocity",
+      "A low-resistance waveform"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A patient undergoes carotid endarterectomy. Within the first year following the surgery a carotid duplex is performed because of symptoms on the contralateral side. The follow-up carotid duplex shows that the operated ICA is significantly narrowed. The most likely cause is",
+    "choices": [
+      "Atherosclerotic plaque recurrence",
+      "Carotid dissection",
+      "Embolism",
+      "Neointimal hyperplasia"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A normal vertebral artery should have what type of flow?",
+    "choices": [
+      "Caudal",
+      "Cephalic",
+      "Low resistant",
+      "Both B and C"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The vertebral artery in Figure 2\u201343 has what type of flow?",
+    "choices": [
+      "Retrograde",
+      "Antegrade",
+      "Alternating",
+      "Hesitating"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The plaque seen in Figure 2\u201344 can be characterized as which of the following?",
+    "choices": [
+      "Heterogenous",
+      "Homogeneous",
+      "Smooth",
+      "Irregular",
+      "Both A and D",
+      "Both B and C"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "The waveform in Figure 2\u201345 was obtained from the right CCA. Based just on this waveform what might it suggest?",
+    "choices": [
+      "There is a possibility of a proximal CCA obstruction",
+      "There is a possibility of a distal ACA obstruction",
+      "There is a possibility of a brachial artery obstruction",
+      "There is an ICA occlusion"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The waveform in Figure 2\u201346 was obtained from a patient\u2019s right vertebral artery. Based just on this finding what might this suggest?",
+    "choices": [
+      "Distal subclavian artery stenosis",
+      "Proximal subclavian artery stenosis",
+      "Proximal common carotid artery stenosis",
+      "Basilar artery occlusion"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With laminar flow, the velocity of blood is",
+    "choices": [
+      "Highest at the vessel wall",
+      "Highest at the center of the vessel",
+      "Lowest at the center of the vessel",
+      "Lowest at the vessel wall",
+      "Both A and C",
+      "Both B and D"
+    ],
+    "answer": 5
+  },
+  {
+    "prompt": "The first branch off the external carotid artery is which of the following?",
+    "choices": [
+      "Facial artery",
+      "Superior thyroid artery",
+      "Ascending pharyngeal artery",
+      "Superficial temporal artery"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which artery originated directly from the thoracic aortic arch?",
+    "choices": [
+      "Right common carotid artery",
+      "Right subclavian artery",
+      "Left common carotid artery",
+      "Left vertebral artery"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Causes of turbulent flow, other than stenosis, in the carotid arteries include all of the following EXCEPT",
+    "choices": [
+      "Tortuous internal carotid artery",
+      "Laminar flow",
+      "Kinking of the internal carotid artery",
+      "Dilatation at region of bifurcation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A patient having a carotid duplex examination has the following velocities obtained. What is your diagnosis?",
+    "choices": [
+      "Normal",
+      "Less than 50% stenosis",
+      "50% to 69% stenosis",
+      "Greater than 70% stenosis"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A nonlocalized symptom resulting in complete loss of consciousness is known as",
+    "choices": [
+      "Syncope",
+      "Dizziness",
+      "Vertigo",
+      "Ataxia"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The waveform in Figure 2\u201347 was obtained from the right common carotid artery. This type of waveform suggests",
+    "choices": [
+      "Occlusion of the right internal carotid artery",
+      "Normal flow through the CCA",
+      "Occlusion of the proximal CCA",
+      "Occlusion of the ECA"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The waveform in Figure 2\u201349",
+    "choices": [
+      "Has poststenotic waveform characteristics",
+      "Has a laminar flow pattern",
+      "Was obtained just proximal to a stenosis",
+      "Has no spectral broadening"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "An 80-year-old male arrives in the emergency department with a sudden onset of left hemiparalysis. Based on the pulse-wave sampling of the right ICA in Figure 2\u201350 what are your findings?",
+    "choices": [
+      "50% diameter stenosis of the right ICA",
+      "50% to 69% diameter stenosis of the right ICA",
+      "70% diameter stenosis of the right ICA",
+      "Normal right ICA"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What was the pivotal trial that took place related to the care of patients with symptomatic cerebrovascular disease and looked at the benefits of carotid endarterectomy treatment?",
+    "choices": [
+      "Asymptomatic Carotid Atherosclerosis Study",
+      "North America Symptomatic Carotid Endarterectomy Trial",
+      "Strandness Symptomatic Endarterectomy Trial",
+      "North America Asymptomatic Carotid Endarterectomy Trial"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is a classic finding associated with subclavian steal syndrome?",
+    "choices": [
+      "Retrograde flow in the contralateral vertebral artery",
+      "Decreased flow in the contralateral vertebral artery",
+      "Increased bilateral brachial arterial pressures",
+      "15 to 20 mm Hg decrease in pressure of the ipsilateral arm"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A carotid stenosis identified by angiography can be calculated as either percent diameter reduction or a percent area reduction. A percent area reduction of 75%is symmetrical to what percent diameter reduction?",
+    "choices": [
+      "25%",
+      "75%",
+      "50%",
+      "90%"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the most reliable method to differentiate between the internal carotid artery and the external carotid artery with carotid duplex?",
+    "choices": [
+      "ICA is typically larger than the ECA",
+      "ICA is typically more lateral to the ECA",
+      "ICA has a more low-resistant waveform compared to the ECA",
+      "ICA will not have oscillations with temporal tap maneuver"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the pathology identified in the cervical angiographic image in Figure 2\u201351?",
+    "choices": [
+      "Arteriovenous malformation",
+      "Hemodynamically significant stenosis of the ICA",
+      "Fibromuscular dysplasia",
+      "Carotid aneurysm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the pathology identified in the carotid duplex image in Figure 2\u201352?",
+    "choices": [
+      "Hemodynamically significant stenosis of the ICA",
+      "Carotid body tumor",
+      "Total occlusion of the ICA",
+      "Carotid dissection"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The following color Doppler image was obtained on a 60-year-old man who underwent a right carotid endarterectomy 1 year ago. What would be your impression based just on the information obtained from the image in Figure 2\u201353?",
+    "choices": [
+      "Restenosis due to the progression of atherosclerosis",
+      "Restenosis due to neointimal hyperplasia",
+      "Normal ICA status post endarterectomy",
+      "Dissection of the ICA status post endarterectomy"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What pathology is inferred by the carotid duplex image in Figure 2\u201354?",
+    "choices": [
+      "Hemodynamically significant stenosis of the ICA",
+      "Arteriovenous malformation",
+      "Findings consistent with a normal ICA",
+      "Total occlusion of the ICA"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The pressure gradient across a stenotic segment as it increases from a 50%narrowing to a 90%narrowing",
+    "choices": [
+      "Decreases",
+      "Does not change",
+      "Is unaffected",
+      "Increases"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A rare event where a venous clot passes through a patent septal defect in heart and embolizes to the brain causing a stroke is known as",
+    "choices": [
+      "Arterio-venous fistula",
+      "Subarachnoid hemorrhage",
+      "Paradoxical embolism",
+      "Fibromuscular dysplasia"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A neurological symptom that is described as \u201ca shade lowering down over the eye\u201d often caused by emboli through the ophthalmic artery from the ipsilateral ICA is known as",
+    "choices": [
+      "Hemiparalysis",
+      "Hemianopia",
+      "Diplopia",
+      "Amaurosis fugax"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What percentage of blood flow from the common carotid artery is received by the internal carotid artery?",
+    "choices": [
+      "20% to 30%",
+      "50% to 60%",
+      "70% to 80%",
+      "10% to 15%"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The arteries that originate from the proximal portions of the subclavian arteries and course along the posterior aspect of both sides of the neck through the foramen of the transverse processes of the cervical spine are known as the",
+    "choices": [
+      "Vertebral arteries",
+      "Cervical arteries",
+      "External carotid arteries",
+      "Posterior cerebral arteries"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A neurological event lasting longer than 24 hours but where the damage to the brain tissue is completely resolved is known as",
+    "choices": [
+      "Transient ischemic attack",
+      "Cerebrovascular accident",
+      "Stroke in evolution",
+      "Reversible ischemic neurological deficit"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A normal spectral Doppler waveform of a common carotid artery should include all of the following characteristics EXCEPT",
+    "choices": [
+      "Clear spectral window",
+      "Laminar flow pattern",
+      "Little to no diastolic flow",
+      "Rapid rise to peak systolic"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A 57-year-old male was sent to your laboratory with symptoms of difficulty swallowing. What would be your findings based on the information obtained from the transverse image in Figure 2\u201355?",
+    "choices": [
+      "Fibromuscular dysplasia",
+      "Carotid artery aneurysm",
+      "Carotid body tumor",
+      "Carotid artery pseudoaneurysm"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A 28-year-old female was in a motor vehicle accident and taken to the emergency department by ambulance. She presents to your laboratory for a carotid duplex with symptoms of aphasia. What would be your findings based on the information obtained from the image in Figure 2\u201356?",
+    "choices": [
+      "Fibromuscular dysplasia",
+      "Intraplaque hemorrhage",
+      "Carotid dissection",
+      "Intimal hyperplasia"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The color Doppler image in Figure 2\u201357 represents",
+    "choices": [
+      "Abnormally turbulent blood flow within the carotid bulb",
+      "Normal flow pattern for the carotid bulb",
+      "Abnormal flow reversal in carotid bulb",
+      "Stenosis in carotid bulb"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The easiest way to determine ECA from ICA in the color Doppler image in Figure 2\u201358 is",
+    "choices": [
+      "Size",
+      "Location",
+      "Pulsatility",
+      "Branches"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A noise that is produced by the vibrations of the surrounding tissues as the result of turbulence in the artery that is commonly heard with a hemodynamically significant stenosis is known as",
+    "choices": [
+      "An oscillation",
+      "A bruit",
+      "Aliasing",
+      "Plethysmography"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are considered lateralizing symptoms EXCEPT",
+    "choices": [
+      "Dysphasia",
+      "Hemiparalysis",
+      "Vertigo",
+      "Amaurosis fugax"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following can be used during a duplex examination of the carotid arteries to determine the percent diameter stenosis within the proximal ICA?",
+    "choices": [
+      "Peak systolic velocity",
+      "Mean average velocity",
+      "Resistive index",
+      "ICA/ECA ratio"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The type of flow pattern that exists in most of the normal carotid arteries is",
+    "choices": [
+      "Turbulent",
+      "Laminar",
+      "Plug",
+      "Helical"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Aliasing with color Doppler in a normal vessel is most likely to occur in the carotid arteries with all of the following EXCEPT",
+    "choices": [
+      "Tortuous vessels",
+      "A hemodynamically significant stenosis",
+      "Low PRF settings",
+      "High PRF settings"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The vertebral arteries join to form which vessel intracranially?",
+    "choices": [
+      "Posterior cerebral artery",
+      "Carotid siphon",
+      "Basilar artery",
+      "Posterior communicating artery"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A patient underwent a CT angiogram of the carotid arteries that showed a greater than 70% right ICA stenosis. A comparative duplex was performed which agreed with the CTA findings. Which of the following diagnostic parameter measurements were most likely obtained from the duplex study?",
+    "choices": [
+      "PSV 125 cm/s, EDV 40 cm/s, ICA/CCA ratio 2.0",
+      "PSV 229 cm/s, EDV 82 cm/s, ICA/CCA ratio 3.0",
+      "PSV 317 cm/s, EDV 142 cm/s, ICA/CCA ratio 4.2",
+      "PSV 193 cm/s, EDV 74 cm/s, ICA/CCA ratio 3.5"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "During a routine carotid duplex examination with an indication of carotid bruit there is an incidental finding of subclavian steal syndrome on the left side. What symptoms will this patient most likely be experiencing?",
+    "choices": [
+      "Dizziness",
+      "Left hemiparalysis",
+      "Vertigo",
+      "The patient will most likely be asymptomatic"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The flow within a normal internal carotid artery will have which of the following characteristics?",
+    "choices": [
+      "Flow consistent with a low-resistant vascular bed",
+      "Multiphasic flow pattern",
+      "Low to no diastolic flow",
+      "Turbulent flow"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A 50-year-old female with a history of atrial fibrillation and hypertension was experiencing symptoms consistent with a transient ischemic attack (TIA). Based on the duplex findings in Figure 2\u201359 what is most likely the cause of her symptoms?",
+    "choices": [
+      "The duplex demonstrates a hemodynamically significant stenosis",
+      "The duplex demonstrates normal flow suggesting another cause such as a thromboembolic event",
+      "The duplex scan demonstrates reduced diastolic flow suggesting distal disease",
+      "The duplex demonstrates a delayed acceleration time suggesting proximal disease"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A patient with symptoms of right facial numbness that lasted 12 hours would be consistent with what classification?",
+    "choices": [
+      "Cerebrovascular accident (CVA)",
+      "Reversible ischemic neurological deficit (RIND)",
+      "Stroke in evolution",
+      "Transient ischemic attack (TIA)"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following are branches of the external carotid artery EXCEPT",
+    "choices": [
+      "Basilar artery",
+      "Superior thyroid artery",
+      "Ascending pharyngeal artery",
+      "Occipital artery"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the nonatherosclerotic disease process affecting the median layer of arteries that is caused by the abnormal cellular development and is often diagnosed with angiography due to its classic appearance as a string of beads?",
+    "choices": [
+      "Neointimal hyperplasia",
+      "Myointimal hyperplasia",
+      "Vasospasm",
+      "Fibromuscular dysplasia"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following conditions increase your risk of stroke EXCEPT",
+    "choices": [
+      "Hypotension",
+      "Hyperlipidemia",
+      "Obesity",
+      "Diabetes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following are lateralizing symptoms caused by a disturbance of blood flow to the contralateral hemisphere EXCEPT",
+    "choices": [
+      "Hemiparalysis",
+      "Amaurosis fugax",
+      "Hemiparesthesia",
+      "Aphasia"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A standard protocol for a carotid duplex should include which of the following?",
+    "choices": [
+      "Transverse 2D gray scale images of CCA and bifurcation",
+      "Longitudinal 2D gray scale images of CCA, ICA, and ECA",
+      "Color and PW spectral waveforms of CCA, ICA, ECA, subclavian, and vertebral arteries",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following are true regarding the color Doppler image in Figure 2\u201361 EXCEPT",
+    "choices": [
+      "Aliasing is present",
+      "It represents turbulent blood flow",
+      "This aliasing is most likely due to a narrowing of the blood vessel",
+      "This aliasing is most likely due to tortuosity"
+    ],
+    "answer": 2
+  }
+]
