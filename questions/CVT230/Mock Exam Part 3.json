@@ -1,0 +1,302 @@
+[
+  {
+    "prompt": "Which of the following parameters can be used to identify an intracranial artery during a TCD examination?",
+    "choices": [
+      "Peak systolic velocity",
+      "Direction of blood flow at insonation depth",
+      "Waveform shape",
+      "Vessel diameter"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What direction is the blood flow in the ophthalmic artery when it is being used as a collateral pathway from the external carotid artery to the internal carotid artery?",
+    "choices": [
+      "Toward",
+      "Away from",
+      "Bidirectional",
+      "Alternating"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which numbers for the middle cerebral artery are consistent with severe vasospasm?",
+    "choices": [
+      "Mean Vel: > 180 cm/s and MCA/ICA: 3.0",
+      "Mean Vel: > 180 cm/s and MCA/ICA: 4.0",
+      "Mean Vel: > 200 cm/s and MCA/ICA: 3.0",
+      "Mean Vel: > 200 cm/s and MCA/ICA: 6.0"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "While performing a TCD examination through the temporal windows on a patient with rightsided paralysis you obtain normal velocities throughout the left anterior cerebral artery and left posterior cerebral artery and are unable to obtain a good signal from the left middle cerebral artery. What is the most likely diagnosis?",
+    "choices": [
+      "The patient has a focal stenosis of the left anterior cerebral artery",
+      "The patient has collateral flow through the left anterior cerebral artery",
+      "The patient has a left middle cerebral artery occlusion",
+      "The patient does not have a good left temporal window"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A focal increase in the mean velocity from 65 to 185 cm/s at a depth of 50 mm insonating through the transtemporal window is obtained. What is the most likely diagnosis?",
+    "choices": [
+      "Hemodynamically significant stenosis of the anterior cerebral artery",
+      "Severe vasospasm of the anterior cerebral artery",
+      "Severe vasospasm of the middle cerebral artery",
+      "Hemodynamically significant stenosis of the middle cerebral artery"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following vessels can be insonated through the suboccipital window?",
+    "choices": [
+      "Middle cerebral artery",
+      "Posterior communicating artery",
+      "Basilar artery",
+      "Posterior cerebral artery"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The largest intracranial branch originating from the internal carotid artery is the",
+    "choices": [
+      "Middle cerebral artery",
+      "Ophthalmic artery",
+      "Anterior cerebral artery",
+      "Posterior cerebral artery"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The basilar artery gives rise to which of the following arteries?",
+    "choices": [
+      "Posterior communicating artery",
+      "Vertebral arteries",
+      "Internal carotid arteries",
+      "Posterior cerebral arteries"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "With the TCD probe placed on the transtemporal window angled posteriorly at a depth of 67 mm a waveform is obtained with a flow direction that is away from the probe with a mean flow velocity of 36 cm/s. Which vessel is most likely being insonated?",
+    "choices": [
+      "M2 segment of the MCA",
+      "P1 segment of the PCA",
+      "P2 segment of the PCA",
+      "M3 segment of the MCA"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The normal TCD waveform in Figure 3\u201327 was obtained from the transorbital approach. Which vessel is most likely being insonated? FIGURE 3\u201327.",
+    "choices": [
+      "Middle cerebral artery",
+      "Anterior cerebral artery",
+      "Ophthalmic artery",
+      "Carotid siphon"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The normal waveform shown in Figure 3\u201329 was obtained through the suboccipital window at a depth of 65 mm during a TCD examination. What is this vessel\u2019s identity? FIGURE 3\u201329.",
+    "choices": [
+      "Middle cerebral artery",
+      "Basilar artery",
+      "Vertebral artery",
+      "Carotid siphon"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The angle of insonance during a TCD examination is assumed to be",
+    "choices": [
+      "60 degrees",
+      "90 degrees",
+      "45 degrees",
+      "0 degree"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following transcranial windows is used to obtain the extracranial ICA used to calculate the MCA/ICA ratio in patients with suspected vasospasm?",
+    "choices": [
+      "Submandibular window",
+      "Transtemporal window",
+      "Suboccipital window",
+      "Transorbital window"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which is the following is a sign of collateral flow through the anterior communicating artery that can exist when there is significant extracranial cerebrovascular disease?",
+    "choices": [
+      "Reversed flow within the ACA on the ipsilateral side of the disease",
+      "Increased velocities within the MCA on the ipsilateral side of the disease",
+      "Decreased velocities within the ACA on the contralateral side of the disease",
+      "Reversal of flow in the MCAs bilaterally"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The waveform seen in Figure 3\u201330 was obtained through the right transorbital approach at a depth of 42 mm in a patient with a known right extracranial internal carotid artery occlusion. What vessel is most likely being insonated and what does the waveform indicate? FIGURE 3\u201330.",
+    "choices": [
+      "Carotid siphon with normal flow dynamics",
+      "Ophthalmic artery with normal flow dynamics",
+      "Ophthalmic artery with retrograde low-resistance collateral flow",
+      "Carotid siphon with retrograde low-resistance collateral flow"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Hyperemia is a typical response to patients being treated post subarachnoid hemorrhage that results in which of the following?",
+    "choices": [
+      "Lower cerebral artery velocities",
+      "Higher cerebral artery velocities",
+      "No change to the cerebral artery velocities",
+      "No flow within the cerebral arteries"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Vasospasm is a common condition that occurs in patients with subarachnoid hemorrhage that typically occurs during which time period?",
+    "choices": [
+      "1 to 3 days following the subarachnoid hemorrhage",
+      "4 to 7 days following the subarachnoid hemorrhage",
+      "7 to 14 days following the subarachnoid hemorrhage",
+      "14 to 25 days following the subarachnoid hemorrhage"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The posterior cerebral circulation is composed of which of the following vessels?",
+    "choices": [
+      "Posterior cerebral arteries",
+      "Middle cerebral arteries",
+      "Anterior communicating artery",
+      "Terminal ICA"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The internal carotid artery bifurcates intracranially into which two vessels?",
+    "choices": [
+      "Middle and anterior cerebral arteries",
+      "Middle and posterior cerebral arteries",
+      "Anterior and posterior cerebral arteries",
+      "Anterior and posterior communicating arteries"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following transducers can be used to perform transcranial examinations?",
+    "choices": [
+      "High-frequency pulsed-wave transducer",
+      "Low-frequency pulsed-wave transducer",
+      "Low-frequency continuous wave transducer",
+      "High-frequency linear array transducer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With the TCD probe placed on the suboccipital window a vessel is insonated at a depth of 90 mm with an average mean flow velocity of 50 cm/s. Which vessel does this most likely represent?",
+    "choices": [
+      "Basilar artery",
+      "Vertebral artery",
+      "Posterior cerebral artery",
+      "Posterior communicating artery"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The most reliable way to distinguish the difference between hyperemia and vasospasm is with the use of which parameter?",
+    "choices": [
+      "Peak systolic velocity",
+      "Time-average mean velocity",
+      "MCA/ICA ratio",
+      "End-diastolic velocity"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is TRUE about blind transcranial Doppler examinations?",
+    "choices": [
+      "All patients have visibility through the transtemporal window",
+      "The suboccipital window allows visualization of the PCAs",
+      "It may be possible to obtain flow information from the contralateral transtemporal window",
+      "High acoustic power levels should be used when insonating the ophthalmic arteries due to the"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The MCA/ICA ratio that identifies the presence of vasospasm rather than just hyperemia is",
+    "choices": [
+      "MCA/ICA ratio > 6",
+      "MCA/ICA ratio > 2",
+      "MCA/ICA ratio > 4",
+      "MCA/ICA ratio > 3"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "During a TCD examination all of the below findings are consistent with a hemodynamically significant stenosis EXCEPT",
+    "choices": [
+      "A focal increase in velocity",
+      "Global increase in mean flow velocity",
+      "Velocity drop distal to elevated velocity",
+      "Localized turbulence"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The waveform in Figure 3\u201331 was obtained through the transtemporal window at a depth of 62 mm. What is most likely the identification of this area? FIGURE 3\u201331.",
+    "choices": [
+      "Middle cerebral artery",
+      "Anterior cerebral artery",
+      "Terminal internal carotid artery",
+      "Middle cerebral artery/anterior cerebral artery bifurcation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The waveforms of the MCA in Figure 3\u201332 were obtained through the transtemporal window at a depth of 55 mm and 60 mm. What do these findings suggest? FIGURE 3\u201332.",
+    "choices": [
+      "Normal flow dynamics of the MCA",
+      "Mild vasospasm of the MCA",
+      "Hemodynamically significant stenosis of the MCA",
+      "Moderate vasospasm of the MCA"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The waveform in Figure 3\u201333 was obtained through the transtemporal window with the probe angled anteriorly at a depth of 65 mm. What does this finding suggest? FIGURE 3\u201333.",
+    "choices": [
+      "Reversed flow within the ACA",
+      "Reversed flow within the MCA",
+      "Normal flow dynamic of the ACA",
+      "Hemodynamically significant stenosis of the MCA"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A patient with a left internal carotid artery occlusion returns to your laboratory for a TCD examination that is unremarkable with the exception of an elevated time-average mean velocity of 105 cm/s within the left posterior cerebral artery. What do these findings most likely suggest?",
+    "choices": [
+      "A hemodynamically significant stenosis of the left posterior cerebral artery",
+      "Collateral flow from the external carotid artery to the internal carotid artery",
+      "Collateral crossover flow from the right cerebral hemisphere",
+      "Collateral flow through the posterior communicating artery"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which cerebral artery has the highest incidence of occlusion resulting in a cerebrovascular accident?",
+    "choices": [
+      "Middle cerebral artery",
+      "Anterior cerebral artery",
+      "Posterior cerebral artery",
+      "Basilar artery"
+    ],
+    "answer": 0
+  }
+]
