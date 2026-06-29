@@ -60,6 +60,36 @@
     "answer": 0
   },
   {
+    "prompt": "Arterial blood pressure measured in a supine patient's arm is 140 mmHg. What is the hydrostatic pressure at all locations within the arterial circulation of a supine patient?",
+    "choices": [
+      "0 mmHg at all locations",
+      "Positive below the heart and negative above the heart",
+      "140 mmHg at all locations",
+      "Depends on the distance from the heart"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Arterial blood pressure measured in a supine patient's arm is 140 mmHg. What is the arterial pressure at the knee of the supine patient?",
+    "choices": [
+      "0 mmHg",
+      "40 mmHg",
+      "140 mmHg",
+      "240 mmHg"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Arterial blood pressure measured in a supine patient's arm is 140 mmHg. What is the arterial pressure in the carotid artery of the neck of the supine patient?",
+    "choices": [
+      "0 mmHg",
+      "40 mmHg",
+      "100 mmHg",
+      "140 mmHg"
+    ],
+    "answer": 3
+  }
+  {
     "prompt": "Normally, what happens to venous flow in the legs during inspiration?",
     "choices": [
       "increases",
