@@ -1,0 +1,81 @@
+[
+  {
+    "prompt": "What is the hydrostatic pressure at all locations within the arterial circulation?",
+    "choices": [
+      "0 mmHg everywhere in the arterial circulation.",
+      "Depends on vessel location: 0 mmHg at heart level, positive below heart level (~50 mmHg at waist to ~100 mmHg at ankle), and negative above heart level.",
+      "140 mmHg everywhere in the arterial circulation.",
+      "Positive above heart level and negative below heart level."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the arterial pressure measured in the toe of the upright patient?",
+    "choices": [
+      "140 mmHg",
+      "190 mmHg",
+      "215 mmHg",
+      "240 mmHg"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the arterial pressure measured at this patient's knee?",
+    "choices": [
+      "190 mmHg",
+      "215 mmHg",
+      "140 mmHg",
+      "240 mmHg"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the arterial pressure measured at the standing patient's waist?",
+    "choices": [
+      "140 mmHg",
+      "190 mmHg",
+      "215 mmHg",
+      "240 mmHg"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the arterial pressure measured at the standing patient's upper arm?",
+    "choices": [
+      "90 mmHg",
+      "140 mmHg",
+      "190 mmHg",
+      "240 mmHg"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the arterial pressure measured at the finger when the patient fully extends an arm toward the sky?",
+    "choices": [
+      "90 mmHg",
+      "140 mmHg",
+      "190 mmHg",
+      "240 mmHg"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Normally, what happens to venous flow in the legs during inspiration?",
+    "choices": [
+      "increases",
+      "decreases",
+      "no change"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following occur during expiration except:",
+    "choices": [
+      "venous return to the heart decreases",
+      "venous flow in the legs increases",
+      "abdominal pressure increases",
+      "the diaphragm rises into the thoracic cavity"
+    ],
+    "answer": 2
+  }
+]

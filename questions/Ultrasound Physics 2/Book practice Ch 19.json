@@ -1,0 +1,360 @@
+[
+  {
+    "prompt": "Which one of the following is true about color map 1?",
+    "choices": [
+      "Red indicates flow toward the transducer.",
+      "Red indicates flow away from the transducer.",
+      "Blue indicates turbulent flow.",
+      "Blue indicates laminar flow away from the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which one of the following is true about color map 1?",
+    "choices": [
+      "Blue indicates flow toward the transducer.",
+      "Red indicates flow away from the transducer.",
+      "Blue indicates turbulent flow.",
+      "Blue indicates laminar flow away from the transducer.",
+      "Blue indicates flow away from the transducer."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following is true about color map 2?",
+    "choices": [
+      "Blue indicates flow toward the transducer.",
+      "Blue indicates flow away from the transducer.",
+      "Light blue indicates turbulent flow.",
+      "Dark blue indicates laminar flow away from the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is true about color map 2?",
+    "choices": [
+      "Green indicates higher velocity flow toward the transducer.",
+      "Red indicates flow away from the transducer.",
+      "Green indicates higher volume flow toward the transducer.",
+      "Blue indicates laminar flow away from the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which statement is true about color map 1?",
+    "choices": [
+      "Red and yellow indicate flow toward the transducer.",
+      "Red indicates flow away from the transducer.",
+      "Blue indicates turbulent flow.",
+      "Green indicates laminar flow away from the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which statement is true about color map 1?",
+    "choices": [
+      "Red and yellow indicate flow away from the transducer.",
+      "Red indicates flow away from the transducer.",
+      "Blue indicates turbulent flow.",
+      "Green indicates turbulent flow away from the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which statement is the best reason why color map 1 is a variance mode map?",
+    "choices": [
+      "Red indicates flow toward the transducer.",
+      "Blue indicates flow away from the transducer.",
+      "Blue and green indicate flow away from the transducer.",
+      "Yellow indicates flow away from the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which statement is true about color map 2?",
+    "choices": [
+      "Light blue indicates flow toward the transducer.",
+      "Red indicates flow away from the transducer.",
+      "Dark blue indicates turbulent flow.",
+      "Dark blue indicates laminar flow away from the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which statement is true about color map 2?",
+    "choices": [
+      "Red indicates turbulent flow toward the transducer.",
+      "Red indicates flow away from the transducer.",
+      "Light blue indicates turbulent flow.",
+      "Light blue indicates laminar flow toward the transducer.",
+      "Red indicates turbulent flow."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "In Fig. 19.34, in which direction does blood flow through the top vessel?",
+    "choices": [
+      "left to right",
+      "right to left",
+      "left to right, then right to left",
+      "right to left, then left to right"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In Fig. 19.34, what does the black area (yellow arrow) in the center of both vessels represent?",
+    "choices": [
+      "no flow",
+      "a dissection",
+      "a clot",
+      "zero Doppler shift",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In Fig. 19.35, in which direction is blood flowing through the vessel?",
+    "choices": [
+      "left to right",
+      "right to left",
+      "left to right, then right to left",
+      "right to left, then left to right"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The Doppler effect is presented as a _____ when the source and the receiver are _____.",
+    "choices": [
+      "Frequency shift, in motion relative to each other.",
+      "Velocity change, stationary.",
+      "Frequency increase, moving together at the same speed.",
+      "Amplitude change, moving apart."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Starting from the same point, the sound source is moving toward the east at 12 miles/hour and the receiver is moving toward the west at 10 miles/hour. The Doppler shift is ____ [+ or -].",
+    "choices": [
+      "Positive",
+      "Negative"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Starting from the same point, the receiver is moving toward the west at 12 miles/hour and the source is moving toward the west at 10 miles/hour. The Doppler shift is ____ [+ or -].",
+    "choices": [
+      "Positive",
+      "Negative"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Doppler shift produces information about _____.",
+    "choices": [
+      "Frequency",
+      "Velocity",
+      "Pressure",
+      "Acceleration"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "At what angle between the sound beam and the direction of motion will the Doppler shift be the highest?",
+    "choices": [
+      "0\u00b0 or 180\u00b0",
+      "45\u00b0",
+      "60\u00b0",
+      "90\u00b0"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "At what angle between the sound beam and the direction of motion will the Doppler shift be closest to zero?",
+    "choices": [
+      "0\u00b0",
+      "45\u00b0",
+      "60\u00b0",
+      "90\u00b0"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the difference between speed and velocity?",
+    "choices": [
+      "Speed has only magnitude; velocity has magnitude and direction.",
+      "Velocity has only magnitude; speed has magnitude and direction.",
+      "They are the same.",
+      "Speed is always greater than velocity."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the current method of processing Doppler signals?",
+    "choices": [
+      "Fast Fourier Transform (FFT) for pulsed and CW spectral analysis, and autocorrelation for color flow Doppler.",
+      "Autocorrelation for all Doppler modes.",
+      "Fast Fourier Transform (FFT) only.",
+      "Time-domain averaging."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the typical range of Doppler shift found in diagnostic imaging examinations?",
+    "choices": [
+      "20 Hz to 20 kHz",
+      "2 Hz to 2 kHz",
+      "20 kHz to 2 MHz",
+      "200 Hz to 200 kHz"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The phenomenon where high velocities appear in the opposite direction is called _____.",
+    "choices": [
+      "Refraction",
+      "Aliasing",
+      "Attenuation",
+      "Variance"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The frequency at which aliasing occurs is called _____.",
+    "choices": [
+      "Nyquist limit",
+      "Pulse repetition frequency",
+      "Sample volume",
+      "Doppler shift"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The area of interrogation in a pulsed Doppler exam is called _____.",
+    "choices": [
+      "Gate",
+      "Sample volume",
+      "Nyquist limit",
+      "Doppler angle"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. The higher the emitted frequency, the more likely a pulsed wave signal is to alias.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False. Shallower sample volumes result in more aliasing.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. Only pulsed wave Doppler exams have a sample volume.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "An 8 MHz transducer with a pulse repetition frequency of 5,000 Hz is imaging to a depth of 7 cm. What is the Nyquist frequency?",
+    "choices": [
+      "4 MHz",
+      "3.5 Hz",
+      "2.2 kHz",
+      "2.5 dB",
+      "5 kHz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "An 8 MHz transducer with a pulse repetition frequency of 5,000 Hz measures a Doppler shift of 7 kHz. The study is repeated with a 4 MHz transducer. What Doppler shift will be measured?",
+    "choices": [
+      "4 MHz",
+      "3.5 Hz",
+      "4 kHz",
+      "3.5 dB",
+      "3,500 Hz"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "True or False. A successful Doppler exam cannot be performed on a severely anemic patient.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which technique is used to perform spectral analysis on color Doppler data?",
+    "choices": [
+      "autocorrelation",
+      "demodulation",
+      "Fast Fourier Transform",
+      "pulse inversion"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which technique is used to perform spectral analysis on pulsed Doppler data?",
+    "choices": [
+      "autocorrelation",
+      "demodulation",
+      "Fast Fourier Transform",
+      "pulse inversion"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following terms is synonymous with spectral broadening?",
+    "choices": [
+      "plug flow",
+      "parabolic flow",
+      "laminar flow",
+      "turbulent flow"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is an advantage of a large packet size?",
+    "choices": [
+      "less aliasing",
+      "increased frame rate",
+      "improved lateral resolution",
+      "increased Doppler accuracy"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Why are dedicated continuous wave Doppler transducers so sensitive?",
+    "choices": [
+      "absence of the matching layer",
+      "increased electrical conductance",
+      "absence of backing material",
+      "inclusion of demodulator"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False. The lumen of a horizontal vessel evaluated with a color Doppler, sector shaped image contains a single color.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  }
+]

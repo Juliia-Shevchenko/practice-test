@@ -1,0 +1,203 @@
+[
+  {
+    "prompt": "Which of the following is true when the diaphragm descends in the respiratory cycle?",
+    "choices": [
+      "Venous return to the heart increases",
+      "Venous return to the heart decreases",
+      "Venous flow in the legs increases",
+      "Abdominal pressure decreases"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The flow increases when",
+    "choices": [
+      "Vessel radius increases",
+      "Vessel radius decreases",
+      "Pressure gradient decreases"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following will increase the pressure gradient?",
+    "choices": [
+      "Flow decreases",
+      "Vessel diameter increases",
+      "Vessel diameter decreases"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "If the circulatory pressure of a supine individual is 120 mmHg, what will be the hydrostatic pressure at the ankle?",
+    "choices": [
+      "120 mmHg",
+      "0 mmHg",
+      "220 mmHg",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will not cause inertial energy loss?",
+    "choices": [
+      "Steady flow",
+      "Phasic flow",
+      "Pulsatile flow",
+      "Flow through a stenotic vessel"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the circulatory pressure of a standing individual is 130 mmHg, what would be the measured pressure at the toes?",
+    "choices": [
+      "130 mmHg",
+      "230 mmHg",
+      "180 mmHg",
+      "0 mmHg",
+      "100 mmHg"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following will not cause an energy loss?",
+    "choices": [
+      "Inertial energy loss",
+      "Frictional energy loss",
+      "Potential energy loss",
+      "Viscosity energy loss"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is not true about stenosis?",
+    "choices": [
+      "Turbulence upstream from the stenosis",
+      "Change in flow direction",
+      "Loss of pulsatility",
+      "Pressure gradient across stenosis",
+      "Increase velocity as vessel narrows"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following describes the relationship of velocity and pressure?",
+    "choices": [
+      "Reynolds principle",
+      "Rayleigh principle",
+      "Bernoulli's principle",
+      "Ohm's principle",
+      "Huygen's principle"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following helps us compare the electrical system and fluid system?",
+    "choices": [
+      "Reynolds law",
+      "Rayleigh law",
+      "Bernoulli's law",
+      "Ohm's law",
+      "Huygen's law"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "As a compensatory response to the increased flow in veins, the shape of the veins will become ____ to minimize increase in pressure",
+    "choices": [
+      "Hourglass",
+      "Oval",
+      "Flat"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The velocity of blood will ____ as the blood flows out of a stenosis",
+    "choices": [
+      "Increases",
+      "Decreases",
+      "Will remain unchanged"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the term for vibrations associated with turbulent blood flow?",
+    "choices": [
+      "Reynold",
+      "Murmur",
+      "Thrill",
+      "Bruit"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following Reynolds number matches with laminar flow?",
+    "choices": [
+      "1200",
+      "2500",
+      "1800",
+      "3000"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is true when the diaphragm ascends in the respiratory cycle?",
+    "choices": [
+      "Venous return to the heart increases",
+      "Venous return to the heart decreases",
+      "Venous flow in the legs decreases",
+      "Abdominal pressure increases"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What happens to venous return to the heart when an individual inhales?",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains same"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following doesn't belong to the group?",
+    "choices": [
+      "Increased intra-abdominal pressure",
+      "Diaphragm descent",
+      "Venous flow in the lower limbs increases",
+      "Inhalation",
+      "Venous return to the heart increases"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following doesn't belong to the group?",
+    "choices": [
+      "Decreased intra-abdominal pressure",
+      "Diaphragm ascends",
+      "Venous flow in the lower limb increases",
+      "Exhalation",
+      "Venous return to the heart increases"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "What is the arterial pressure measured in the knee in an upright patient if the blood pressure is 130 mmHg?",
+    "choices": [
+      "75 mmHg",
+      "230 mmHg",
+      "205 mmHg",
+      "220 mmHg"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the hydrostatic pressure in the knee in a supine patient if the blood pressure is 130 mmHg?",
+    "choices": [
+      "0 mmHg",
+      "30 mmHg",
+      "75 mmHg",
+      "205 mmHg"
+    ],
+    "answer": 0
+  }
+]

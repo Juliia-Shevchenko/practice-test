@@ -1,0 +1,292 @@
+[
+  {
+    "prompt": "A 5 MHz sound wave is transmitted into the body and the frequency of the reflected sound wave is higher than the transmitted sound wave. Which is true?",
+    "choices": [
+      "RBCs are moving towards the sound source",
+      "RBCs are moving away from the sound source"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the blood velocity measured at 0\u00b0 incident angle at 4 m/s is now measured with a 60\u00b0 angle, what would be the measured blood velocity?",
+    "choices": [
+      "8 m/s",
+      "1 m/s",
+      "3.14 m/s",
+      "2 m/s"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which is true when the sonographer increases the incident angle from 30\u00b0 to 45\u00b0?",
+    "choices": [
+      "Doppler shift would have increased",
+      "Doppler shift would have decreased",
+      "No Doppler shift would occur",
+      "Doppler shift would remain the same"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the transmitted sound wave's frequency is higher than the received sound frequency, which is true?",
+    "choices": [
+      "RBC is going towards transducer",
+      "RBC is going away from transducer"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the Doppler shift produced by a 5 MHz transducer is 3 kHz and PRF is 2000 Hz, what is the Nyquist limit?",
+    "choices": [
+      "1 Hz",
+      "1.5 kHz",
+      "1.0 kHz",
+      "0.5 kHz",
+      "200 Hz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which doesn't belong to the group?",
+    "choices": [
+      "Continuous wave transducer",
+      "High sensitivity",
+      "2D imaging",
+      "Narrow bandwidth",
+      "No backing material"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "_____ is a commonly used signal processing technique for bidirectional Doppler.",
+    "choices": [
+      "Doppler shift transmitter",
+      "phasing",
+      "Fast Fourier Transform",
+      "phase quadrature",
+      "autocorrelation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following will reduce aliasing?",
+    "choices": [
+      "Higher frequency transducer",
+      "High velocity blood flow",
+      "Shallower sample volume depth",
+      "Wider sample volume size"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following will increase the amount of Doppler frequency shift?",
+    "choices": [
+      "Increased incident angle",
+      "Increased frequency",
+      "Decreased blood velocity",
+      "Sample volume"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following will decrease the amount of Doppler frequency shift?",
+    "choices": [
+      "Increased insonation angle",
+      "Increased frequency",
+      "Increased blood velocity",
+      "Sample volume"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the Doppler shift frequency is 5 kHz with a 5 MHz transducer, what will it be with a 2.5 MHz transducer?",
+    "choices": [
+      "2.5 MHz",
+      "10 MHz",
+      "10 kHz",
+      "2.5 kHz"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What would happen to the Doppler shift if the velocity of blood is halved?",
+    "choices": [
+      "Halved",
+      "Quadrupled",
+      "Quartered",
+      "Doubled"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "For an 8 MHz transducer, if the Doppler shift is 5 kHz at 4 m/s, what would it be at 2 m/s?",
+    "choices": [
+      "4 MHz",
+      "2500 Hz",
+      "4 kHz",
+      "2 kHz"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "If the received frequency is less than the transmitted frequency, this is considered a:",
+    "choices": [
+      "Positive Doppler shift",
+      "Negative Doppler shift",
+      "No Doppler shift"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which provides a peak velocity measurement?",
+    "choices": [
+      "Power Doppler",
+      "Spectral Doppler",
+      "Color Doppler",
+      "Color Angio",
+      "Energy mode"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is the most accurate?",
+    "choices": [
+      "FFT",
+      "Autocorrelation",
+      "Chirp z transform",
+      "Demodulation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Likely reason for spectral window filling in?",
+    "choices": [
+      "Aliasing",
+      "Turbulent flow",
+      "Laminar flow",
+      "High wall filter setting",
+      "High PRF setting"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which Doppler angle provides the maximum Doppler shift?",
+    "choices": [
+      "0\u00b0/180\u00b0",
+      "90\u00b0",
+      "60\u00b0/120\u00b0",
+      "30\u00b0/150\u00b0",
+      "45\u00b0"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "If the PRF is 4 kHz, which Doppler shift results in aliasing?",
+    "choices": [
+      "1 kHz",
+      "2 kHz",
+      "3 kHz",
+      "0.5 kHz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Greatest advantage of continuous wave Doppler?",
+    "choices": [
+      "Accurately measure very high velocities",
+      "Exact location cannot be determined",
+      "Range ambiguity",
+      "Range resolution"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Disadvantage of continuous wave Doppler?",
+    "choices": [
+      "High sensitivity",
+      "Range ambiguity",
+      "Color map",
+      "PZT crystals"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The advantage of pulsed Doppler is all except:",
+    "choices": [
+      "Range resolution",
+      "Range specificity",
+      "Freedom from range ambiguity artifact",
+      "Range ambiguity"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Aliasing occurs only with ___ Doppler.",
+    "choices": [
+      "CW Doppler",
+      "PW Doppler",
+      "Power Doppler"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "When blood cells are moving ___ to the sound beam, 100% of velocity is measured.",
+    "choices": [
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "When an angle exists between flow and beam, measured velocity is:",
+    "choices": [
+      "Less than true velocity",
+      "Higher than true velocity"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The percentage of true velocity measured depends on the ___ of the angle.",
+    "choices": [
+      "Cosine",
+      "Sine",
+      "Tan"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Relationship between cosine and Doppler shift?",
+    "choices": [
+      "Inverse",
+      "Not related",
+      "Direct"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When the angle is 0\u00b0 or 180\u00b0, flow is:",
+    "choices": [
+      "Parallel",
+      "Perpendicular",
+      "Oblique"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Cosine of 0\u00b0?",
+    "choices": [
+      "1",
+      "0",
+      "0.5"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Cosine 0\u00b0 indicates what direction of flow?",
+    "choices": [
+      "Towards",
+      "Away"
+    ],
+    "answer": 0
+  }
+]

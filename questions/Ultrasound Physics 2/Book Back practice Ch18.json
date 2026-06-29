@@ -1,0 +1,173 @@
+[
+  {
+    "prompt": "Which of the following flow patterns is associated with cardiac contraction?",
+    "choices": [
+      "Phasic",
+      "spontaneous",
+      "steady",
+      "pulsatile",
+      "continuous"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following terms does not belong with the others?",
+    "choices": [
+      "Phasic",
+      "spontaneous",
+      "pulsatile",
+      "venous"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is not associated with laminar flow?",
+    "choices": [
+      "layered",
+      "normal",
+      "aligned",
+      "smooth",
+      "chaotic"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Which of the following is not associated with turbulent flow?",
+    "choices": [
+      "parabolic",
+      "eddy",
+      "vortex",
+      "swirling",
+      "spectral broadening"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What is the primary reason blood moves from one location to another?",
+    "choices": [
+      "energy gradient",
+      "anemia",
+      "pressure gradient",
+      "systole",
+      "friction"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following decrease the flow energy of a fluid except:",
+    "choices": [
+      "frictional loss",
+      "viscous loss",
+      "inertial loss",
+      "velocity loss"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following causes the greatest amount of inertial energy loss?",
+    "choices": [
+      "pulsatile flow",
+      "flow through a stenosis",
+      "phasic flow",
+      "steady flow",
+      "parabolic flow"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The arterial blood pressure of a supine individual is 120 mmHg. What is the hydrostatic pressure at the subject's ankle?",
+    "choices": [
+      "100 mmHg",
+      "0 mmHg",
+      "40 mmHg",
+      "120 mmHg",
+      "-120 mmHg"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The arterial blood pressure of a supine individual is 120 mmHg. What is the hydrostatic pressure at the subject's hips?",
+    "choices": [
+      "100 mmHg",
+      "0 mmHg",
+      "40 mmHg",
+      "120 mmHg",
+      "-120 mmHg"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The arterial blood pressure of a standing individual is 120 mmHg. What is the hydrostatic pressure at the subject's ankle?",
+    "choices": [
+      "100 mmHg",
+      "0 mmHg",
+      "40 mmHg",
+      "120 mmHg",
+      "-120 mmHg"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The arterial blood pressure of a standing individual is 120 mmHg at the level of the heart. What is the measured blood pressure at the subject's ankle?",
+    "choices": [
+      "100 mmHg",
+      "0 mmHg",
+      "40 mmHg",
+      "-100 mmHg",
+      "220 mmHg"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "What happens to the diaphragm when an individual breathes in?",
+    "choices": [
+      "it ascends into the thorax",
+      "it descends into the abdomen"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What happens to venous return to the heart when an individual inhales?",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains the same"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What happens to venous flow in the legs when an individual inhales?",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains the same"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What happens to the diaphragm when an individual breathes out?",
+    "choices": [
+      "it ascends into the thorax",
+      "it descends into the abdomen"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What happens to venous return to the heart when an individual exhales?",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains the same"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What happens to venous flow in the legs when an individual exhales?",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains the same"
+    ],
+    "answer": 0
+  }
+]

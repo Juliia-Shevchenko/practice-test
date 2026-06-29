@@ -1,0 +1,282 @@
+[
+  {
+    "prompt": "The Doppler effect is observed as a change in ____ and has units of _____.",
+    "choices": ["amplitude, watts", "power, watts", "frequency, per second", "wavelength, millimeters"],
+    "answer": 2
+  },
+  {
+    "prompt": "In clinical imaging, which reflectors produce most relevant Doppler shifts?",
+    "choices": ["blood vessels", "blood plasma", "platelets", "red blood cells"],
+    "answer": 3
+  },
+  {
+    "prompt": "If red blood cells are traveling toward a transducer, the frequency emitted by the transducer is ____ the frequency reflected from the red blood cells.",
+    "choices": ["greater than", "equal to", "less than"],
+    "answer": 2
+  },
+  {
+    "prompt": "In standard Doppler, what is true about the reflected frequency produced by blood cells traveling away from the transducer?",
+    "choices": ["it is in the audible range", "it is ultrasonic", "it exceeds the transmitted frequency", "it equals the transmitted frequency"],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the range of Doppler shifts commonly measured in clinical exams?",
+    "choices": ["-10 kHz to 1 MHz", "-0.5 MHz to 0.5 MHz", "-0.02 MHz to 0.02 MHz", "none of the above"],
+    "answer": 2
+  },
+  {
+    "prompt": "When red blood cells move away from a transducer, the frequency of the wave reflected from the red blood cells is ____ the frequency emitted by the transducer.",
+    "choices": ["greater than", "less than", "equal to"],
+    "answer": 1
+  },
+  {
+    "prompt": "What information does the Doppler shift furnish concerning the blood cells that produce it?",
+    "choices": ["frequency", "speed", "velocity", "density"],
+    "answer": 2
+  },
+  {
+    "prompt": "Blood moving at a velocity of 2 m/s creates a Doppler frequency of 3,000 Hz. What will the Doppler shift be if the velocity increases to 4 m/s?",
+    "choices": ["3,000 Hz", "2 Hz", "1,500 Hz", "6,000 Hz"],
+    "answer": 3
+  },
+  {
+    "prompt": "Two ultrasound transducers are used to perform Doppler exams on the same patient. The exams are identical except that the transducer frequencies are 5 and 2.5 MHz. Which exam will measure the highest velocities?",
+    "choices": ["the 2.5 MHz exam", "the 5 MHz exam", "neither", "cannot be determined"],
+    "answer": 2
+  },
+  {
+    "prompt": "Two ultrasound transducers are used to perform Doppler exams on the same patient. The exams are identical except that the transducer frequencies are 5 and 2.5 MHz. Which exam will measure the highest Doppler shift?",
+    "choices": ["the 2.5 MHz exam", "the 5 MHz exam", "neither", "cannot be determined"],
+    "answer": 1
+  },
+  {
+    "prompt": "When using a 4 MHz transducer, a Doppler shift of 3,000 Hz is recorded. What will the Doppler shift be when a 2 MHz transducer is used?",
+    "choices": ["3,000 Hz", "2 Hz", "1,500 Hz", "6,000 Hz"],
+    "answer": 2
+  },
+  {
+    "prompt": "Doppler does not always provide a valid estimate of the speed of blood cells because the shift is related to the ____ of the angle between the direction of the beam and the direction of blood flow.",
+    "choices": ["sine", "tangent", "cosine", "cotangent"],
+    "answer": 2
+  },
+  {
+    "prompt": "Two otherwise identical Doppler studies are performed, except that the angle between flow and the sound beam is 0° in the first study and 60° in the second. The velocity measured in the first study is 2 m/s. What velocity will be measured in the second study?",
+    "choices": ["2 m/s", "4 m/s", "1 m/s", "cannot be determined"],
+    "answer": 2
+  },
+  {
+    "prompt": "What is true of the Doppler shift when the sound beam is normally incident to the velocity of the red blood cells?",
+    "choices": ["it is at maximum", "it is half of maximum", "it is absent", "it is at minimum"],
+    "answer": 2
+  },
+  {
+    "prompt": "A maximum Doppler shift is obtained when the angle between the direction of blood flow and the direction of the sound beam is _____.",
+    "choices": ["10 degrees", "90 degrees", "180 degrees", "270 degrees"],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? The appearance of negative velocities on the spectral display of a continuous wave Doppler exam always indicates that red blood cells are moving away from the transducer.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "With regard to CW Doppler: A minimum of two distinct piezoelectric crystals are in the transducer.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "With regard to CW Doppler: Problems with aliasing significantly limit its clinical utility.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "With regard to CW Doppler: Frequencies measured at the transducer are produced from many different locations along the ultrasonic beam.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "With regard to CW Doppler: The duty cycle of the continuous wave is 100%.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following are related to dedicated continuous wave Doppler transducers except:",
+    "choices": ["wide bandwidth", "high quality factor", "higher sensitivity", "range ambiguity"],
+    "answer": 0
+  },
+  {
+    "prompt": "A duplex ultrasound system displays _____ information.",
+    "choices": ["M-mode, two-dimensional image, and A-mode", "A-mode and B-mode", "two-dimensional image and Doppler", "two-dimensional image and M-mode"],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following are associated with CW Doppler transducers except:",
+    "choices": ["narrow bandwidth", "increased sensitivity", "backing material", "high Q factor"],
+    "answer": 2
+  },
+  {
+    "prompt": "The information processed by a standard duplex ultrasound system includes all of the following except:",
+    "choices": ["attenuation", "amplitude", "frequency", "time of arrival"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The appearance of negative velocities in a pulsed Doppler display always indicates that red blood cells are moving away from the transducer.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "With pulsed Doppler, what term is used to describe a very high positive Doppler shift that is displayed as a negative waveform?",
+    "choices": ["attenuation", "filtering", "demodulation", "aliasing"],
+    "answer": 3
+  },
+  {
+    "prompt": "The highest Doppler frequency without the appearance of aliasing is called the ____ and is equal to _____.",
+    "choices": ["aliasing limit, half the emitted frequency", "pulse repetition frequency, the pulse repetition frequency", "Nyquist limit, half the emitted frequency", "Nyquist limit, half the emitted PRF"],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? In a pulsed Doppler exam, the use of a higher transducer frequency increases the likelihood that aliasing will occur.",
+    "choices": ["True", "False"],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The higher the pulse repetition frequency of a Doppler exam, the more likely aliasing is to occur.",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  {
+    "prompt": "A system has three transducers with frequencies of 7.5 MHz, 5 MHz, and 3.25 MHz. Aliasing appears while using the 5.0 MHz transducer during a pulsed Doppler exam. What should the sonographer do?",
+    "choices": ["use the 3.25 MHz transducer", "use the 7.5 MHz transducer", "nothing; the other transducers do not provide solutions to the problem"],
+    "answer": 0
+  },
+  {
+    "prompt": "The frequency of a pulsed Doppler wave is 6 MHz, and the PRF is 5 kHz. What is the maximum Doppler shift that can be recorded without aliasing?",
+    "choices": [
+      "6 MHz",
+      "5 kHz",
+      "3 MHz",
+      "2.5 kHz"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "During a pulsed Doppler exam, aliasing is observed. All of the following may eliminate aliasing except:",
+    "choices": [
+      "selection of another imaging view with a shallower sample volume",
+      "selection of another transducer with a lower frequency",
+      "selection of another imaging view that provides a greater PRP",
+      "use of a continuous wave system"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? TGC cannot be used with continuous wave Doppler.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following determines the gray scale in a Doppler spectrum?",
+    "choices": [
+      "number of reflectors",
+      "velocity",
+      "frequency shift",
+      "laminar flow"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which choice relates to the presence of gray shades in a Doppler spectrum?",
+    "choices": [
+      "velocity",
+      "frequency shift",
+      "amplitude of the echo",
+      "laminar flow"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? Color flow Doppler exams tend to have lower temporal resolution than traditional two-dimensional, real-time imaging.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Color flow Doppler imaging incorporates pulsed Doppler principles and provides range resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Color flow Doppler relies on pulsed Doppler principles and is immune to aliasing artifact.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Color flow Doppler systems display anatomical data in gray scale while simultaneously displaying flow information in color.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? On a color Doppler image, red always represents flow toward the transducer, whereas blue indicates flow away from the transducer.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Absence of color on a color Doppler image always indicates a region of no blood flow.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The two most common color maps used in color flow imaging are:",
+    "choices": [
+      "variance and direct",
+      "variance and velocity",
+      "turbulence and variance",
+      "power and velocity"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Variance mode color maps may be identified by side-to-side changes in the color bar, whereas velocity mode color maps only change color vertically.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Velocity mode color Doppler and variance mode color Doppler will produce identical images when blood flow patterns are laminar.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Velocity mode color Doppler and variance mode color Doppler will produce identical images when blood flow patterns are turbulent.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  }
+]
