@@ -1,6 +1,7 @@
 [
   {
     "prompt": "Which one of the following is true about color map 1?",
+    "image": "images/Physics/Ch19-Q1-4.jpg",
     "choices": [
       "Red indicates flow toward the transducer.",
       "Red indicates flow away from the transducer.",
@@ -12,6 +13,7 @@
   },
   {
     "prompt": "Which one of the following is true about color map 1?",
+    "image": "images/Physics/Ch19-Q1-4.jpg",
     "choices": [
       "Blue indicates flow toward the transducer.",
       "Red indicates flow away from the transducer.",
@@ -23,6 +25,7 @@
   },
   {
     "prompt": "Which of the following is true about color map 2?",
+     "image": "images/Physics/Ch19-Q1-4.jpg",
     "choices": [
       "Blue indicates flow toward the transducer.",
       "Blue indicates flow away from the transducer.",
@@ -34,6 +37,7 @@
   },
   {
     "prompt": "Which of the following is true about color map 2?",
+     "image": "images/Physics/Ch19-Q1-4.jpg",
     "choices": [
       "Green indicates higher velocity flow toward the transducer.",
       "Red indicates flow away from the transducer.",
@@ -45,6 +49,7 @@
   },
   {
     "prompt": "Which statement is true about color map 1?",
+     "image": "images/Physics/Ch19-Q5-9.jpg",
     "choices": [
       "Red and yellow indicate flow toward the transducer.",
       "Red indicates flow away from the transducer.",
@@ -56,6 +61,7 @@
   },
   {
     "prompt": "Which statement is true about color map 1?",
+    "image": "images/Physics/Ch19-Q5-9.jpg",    
     "choices": [
       "Red and yellow indicate flow away from the transducer.",
       "Red indicates flow away from the transducer.",
@@ -67,6 +73,7 @@
   },
   {
     "prompt": "Which statement is the best reason why color map 1 is a variance mode map?",
+    "image": "images/Physics/Ch19-Q5-9.jpg",
     "choices": [
       "Red indicates flow toward the transducer.",
       "Blue indicates flow away from the transducer.",
@@ -78,6 +85,7 @@
   },
   {
     "prompt": "Which statement is true about color map 2?",
+    "image": "images/Physics/Ch19-Q5-9.jpg",
     "choices": [
       "Light blue indicates flow toward the transducer.",
       "Red indicates flow away from the transducer.",
@@ -89,6 +97,7 @@
   },
   {
     "prompt": "Which statement is true about color map 2?",
+    "image": "images/Physics/Ch19-Q5-9.jpg",
     "choices": [
       "Red indicates turbulent flow toward the transducer.",
       "Red indicates flow away from the transducer.",
@@ -100,6 +109,7 @@
   },
   {
     "prompt": "In Fig. 19.34, in which direction does blood flow through the top vessel?",
+    "image": "images/Physics/Ch19-Q10-11.jpg",
     "choices": [
       "left to right",
       "right to left",
@@ -110,6 +120,7 @@
   },
   {
     "prompt": "In Fig. 19.34, what does the black area (yellow arrow) in the center of both vessels represent?",
+    "image": "images/Physics/Ch19-Q10-11.jpg",
     "choices": [
       "no flow",
       "a dissection",
@@ -121,6 +132,7 @@
   },
   {
     "prompt": "In Fig. 19.35, in which direction is blood flowing through the vessel?",
+    "image": "images/Physics/Ch19-Q12.jpg",
     "choices": [
       "left to right",
       "right to left",
