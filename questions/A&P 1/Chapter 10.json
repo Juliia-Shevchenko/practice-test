@@ -1,0 +1,162 @@
+[
+	{
+		"prompt": "What cytoplasmic extensions, together with the cell body, provide the main receptive surfaces for neurons?",
+		"choices": [
+			"Neurofibrils",
+			"Chromatophilic substance (Nissl bodies)",
+			"Axons",
+			"Dendrites"
+		],
+		"answer": 3
+	},
+	{
+		"prompt": "What is a function of the nervous system?",
+		"choices": [
+			"Provides a support system for the body",
+			"Controls the movement of muscles",
+			"Contracts and generates a force to cause bodily motion",
+			"Provides nutrients and nourishment for surrounding cells"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What is the function of sensory receptors?",
+		"choices": [
+			"To send signals from the brain to muscles",
+			"To work with muscles to generate motion",
+			"To detect changes in and outside the body",
+			"To act as a pathway between the ascending and descending tracts within the spinal cord"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "What are the three general functions of the nervous system?",
+		"choices": [
+			"Sensory, motor, and predictive",
+			"Integrative, motor, and sensory",
+			"Predictive, manipulative, and integrative",
+			"Reflexive, sensory, and predictive"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "Masses of myelinated nerve fibers appear__________.",
+		"choices": [
+			"white",
+			"gray",
+			"brown",
+			"transparent"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "How many axons and/or dendrites can a neuron have?",
+		"choices": [
+			"One axon and many dendrites",
+			"One dendrite and many axons",
+			"No dendrites and many axons",
+			"No axons and many dendrites"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "What cytoplasmic structure supports the axon?",
+		"choices": [
+			"Dendrites",
+			"Nodes of Ranvier",
+			"Neurofibrils",
+			"Collaterals"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Every neuron has which of the following components?",
+		"choices": [
+			"Many axons",
+			"A cell body",
+			"Myelin",
+			"A neurilemma"
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "What is myelin?",
+		"choices": [
+			"A substance released from a neuron that travels to another neuron.",
+			"Layers of lipids and proteins that wrap around an axon.",
+			"A substance produced in response to bacterial infection.",
+			"A form of chromatophilic substance that fills Schwann cells."
+		],
+		"answer": 1
+	},
+	{
+		"prompt": "A myelinated nerve fiber is_________, whereas an unmyelinated nerve fiber is_________.",
+		"choices": [
+			"gray; white",
+			"white; black",
+			"white; gray",
+			"gray; black"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Myelin is rich in_________.",
+		"choices": [
+			"nucleic acids",
+			"carbohydrates",
+			"lipids",
+			"salts"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "Synaptic knobs are at the ends of__________.",
+		"choices": [
+			"axons",
+			"dendrites",
+			"cell bodies",
+			"neuroglia"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "Saltatory conduction__________.",
+		"choices": [
+			"occurs only if the myelin sheath is continuous",
+			"occurs only if nodes of Ranvier are lacking",
+			"is faster than conduction on an unmyelinated fiber",
+			"is slower than conduction on an unmyelinated fiber"
+		],
+		"answer": 2
+	},
+	{
+		"prompt": "The most rapid conduction of an impulse along an axon occurs on a fiber that is__________.",
+		"choices": [
+			"thick and myelinated",
+			"thick and unmyelinated",
+			"thin and myelinated",
+			"thin and unmyelinated"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "The resting cell membrane is more permeable to which ion?",
+		"choices": [
+			"Potassium",
+			"Sodium",
+			"Calcium",
+			"Magnesium"
+		],
+		"answer": 0
+	},
+	{
+		"prompt": "If a resting potential becomes more negative, the membrane is said to be__________.",
+		"choices": [
+			"depolarized",
+			"hyperpolarized",
+			"repolarized",
+			"summated"
+		],
+		"answer": 1
+	}
+]
