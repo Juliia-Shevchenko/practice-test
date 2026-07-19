@@ -80,16 +80,6 @@
     "answer": 1
   },
   {
-    "prompt": "The vein that runs along the lateral aspect of the upper extremity and joins the axillary vein just before becoming the subclavian vein is known as the:",
-    "choices": [
-      "Cephalic vein",
-      "Brachial vein",
-      "Basilic vein",
-      "Innominate vein"
-    ],
-    "answer": 0
-  },
-  {
     "prompt": "All of the following veins contain internal valves EXCEPT the:",
     "choices": [
       "Internal jugular vein",
@@ -201,6 +191,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 21.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -215,6 +206,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 22.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -229,6 +221,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 23.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -243,6 +236,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 24.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -257,6 +251,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 25.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -271,6 +266,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 26.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -285,6 +281,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 27.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -299,6 +296,7 @@
   },
   {
     "prompt": "Figure 5–56: Identify structure 28.",
+    "image": "images/Vascular/Part 4 FIGURE 5–56.jpg",
     "choices": [
       "Common femoral vein",
       "External iliac vein",
@@ -330,6 +328,136 @@
       "An obstruction distal to the right subclavian vein"
     ],
     "answer": 0
+  },
+  {
+    "prompt": "Tailed thrombus with motion seen on duplex is a finding consistent with:",
+    "choices": [
+      "Acute vein thrombosis",
+      "Chronic post-thrombotic scarring",
+      "Venous insufficiency",
+      "Pulmonary embolism"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 33.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 34.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 35.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 36.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 6
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 37.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 38.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 7
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 39.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Figure 5–57: Identify structure 40.",
+    "image": "images/Vascular/Part 4 FIGURE 5–57.jpg",
+    "choices": [
+      "Gastrocnemius veins",
+      "Posterior tibial veins",
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Soleal veins",
+      "Peroneal veins",
+      "Great saphenous vein",
+      "Anterior tibial veins"
+    ],
+    "answer": 5
   },
   {
     "prompt": "The distention of the distal veins that occurs when a patient has venous insufficiency is a result of:",
@@ -413,6 +541,7 @@
   },
   {
     "prompt": "The image in Figure 5–59 of the midcalf represents which of the following?",
+    "image": "images/Vascular/Part 4 FIGURE 5–59.jpg",
     "choices": [
       "Normal response to compression",
       "Acute deep vein thrombosis posterior tibial vein",
@@ -423,6 +552,7 @@
   },
   {
     "prompt": "The waveform in Figure 5–60 is a normal waveform for which vessel?",
+    "image": "images/Vascular/Part 4 FIGURE 5–60.jpg",
     "choices": [
       "Common femoral vein",
       "Brachial vein",
@@ -433,6 +563,7 @@
   },
   {
     "prompt": "The image in Figure 5–61 of the midthigh represents which of the following?",
+    "image": "images/Vascular/Part 4 FIGURE 5–61.jpg",
     "choices": [
       "Normal response to compression",
       "Acute deep vein thrombosis femoral vein",
@@ -443,6 +574,7 @@
   },
   {
     "prompt": "The arrow in Figure 5–62 of the lower extremity is pointing to what anatomical landmark?",
+    "image": "images/Vascular/Part 4 FIGURE 5–62.jpg",
     "choices": [
       "Gastrocnemius junction",
       "Saphenopopliteal junction",
@@ -533,6 +665,7 @@
   },
   {
     "prompt": "Figure 5–63 of the subclavian vein most likely represents:",
+    "image": "images/Vascular/Part 4 FIGURE 5–63.jpg",
     "choices": [
       "Attenuation artifact",
       "Inactive valve",
@@ -543,6 +676,7 @@
   },
   {
     "prompt": "The image in Figure 5–64 of the mid neck represents which of the following?",
+    "image": "images/Vascular/Part 4 FIGURE 5–64.jpg",
     "choices": [
       "Acute deep vein thrombosis internal jugular vein",
       "Chronic postthrombotic scarring internal jugular vein",
@@ -553,6 +687,7 @@
   },
   {
     "prompt": "The spectral Doppler venous waveform of the lower extremity in Figure 5–65 shows:",
+    "image": "images/Vascular/Part 4 FIGURE 5–65.jpg",
     "choices": [
       "Distal augmentation of flow",
       "Pulsatile flow",
@@ -613,6 +748,7 @@
   },
   {
     "prompt": "The flow in Figure 5–66 of a perforating vein identified just above the medial malleolus shows:",
+    "image": "images/Vascular/Part 4 FIGURE 5–66.jpg",
     "choices": [
       "Normal flow from the deep to the superficial system",
       "Abnormal flow from the superficial to the deep system",
@@ -623,6 +759,7 @@
   },
   {
     "prompt": "Figure 5–67: Identify the brachial vein.",
+    "image": "images/Vascular/Part 4 FIGURE 5–67.jpg",
     "choices": [
       "A",
       "B",
@@ -632,6 +769,7 @@
   },
   {
     "prompt": "Figure 5–67: Identify the basilic vein.",
+    "image": "images/Vascular/Part 4 FIGURE 5–67.jpg",
     "choices": [
       "A",
       "B",
@@ -641,6 +779,7 @@
   },
   {
     "prompt": "Figure 5–67: Identify the brachial nerve.",
+    "image": "images/Vascular/Part 4 FIGURE 5–67.jpg",
     "choices": [
       "A",
       "B",
@@ -650,6 +789,7 @@
   },
   {
     "prompt": "The image in Figure 5–68 of the posterior aspect of the proximal calf represents which of the following?",
+    "image": "images/Vascular/Part 4 FIGURE 5–68.jpg",
     "choices": [
       "Normal response to compression",
       "Acute deep vein thrombosis popliteal vein",
@@ -760,6 +900,7 @@
   },
   {
     "prompt": "This spectral Doppler venous waveform of the lower extremities in Figure 5–69 indicates:",
+    "image": "images/Vascular/Part 4 FIGURE 5–69.jpg",
     "choices": [
       "Normal venous flow",
       "Peripheral obstruction",
@@ -770,6 +911,7 @@
   },
   {
     "prompt": "This spectral Doppler venous waveform of the lower extremities in Figure 5–70 indicates:",
+    "image": "images/Vascular/Part 4 FIGURE 5–70.jpg",
     "choices": [
       "Normal venous flow with augmentation",
       "Continuous flow",
@@ -780,6 +922,7 @@
   },
   {
     "prompt": "The finding in Figure 5–71 indicates:",
+    "image": "images/Vascular/Part 4 FIGURE 5–71.jpg",
     "choices": [
       "Normal great saphenous vein",
       "Thrombosed varicose vein",
@@ -790,6 +933,7 @@
   },
   {
     "prompt": "This spectral Doppler venous waveform in Figure 5–72 of the lower extremity during a Valsalva maneuver indicates:",
+    "image": "images/Vascular/Part 4 FIGURE 5–72.jpg",
     "choices": [
       "Normal venous flow",
       "Venous reflux",
@@ -800,6 +944,7 @@
   },
   {
     "prompt": "The vein in Figure 5–73 most likely represents:",
+    "image": "images/Vascular/Part 4 FIGURE 5–73.jpg",
     "choices": [
       "Popliteal vein",
       "Brachial vein",
