@@ -1,0 +1,811 @@
+[
+  {
+    "prompt": "The following vein is a component of the superficial venous system:",
+    "choices": [
+      "Common femoral vein",
+      "Posterior tibial vein",
+      "Popliteal vein",
+      "Great saphenous vein"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "In relation to arteries and veins, which statement is true?",
+    "choices": [
+      "Only veins have internal valves",
+      "Arteries have a much higher internal pressure",
+      "Arteries and veins both have a tunica intima, media, and adventitia",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The common femoral vein becomes the external iliac vein above the level of what structure?",
+    "choices": [
+      "Adductor canal",
+      "Inguinal ligament",
+      "Profunda hiatus",
+      "Popliteal fossa"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "A normal venous spectral waveform of the lower extremities is:",
+    "choices": [
+      "Phasic",
+      "Continuous",
+      "Pulsatile",
+      "Bidirectional"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The deep vein that runs along the lateral portion of the lower leg between the tibia and fibula and joins the tibioperoneal trunk is the:",
+    "choices": [
+      "Posterior tibial vein",
+      "Anterior tibial vein",
+      "Peroneal vein",
+      "Gastrocnemius vein"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The paired posterior tibial veins in the lower leg join in the upper portion of the calf to form the:",
+    "choices": [
+      "Tibioperoneal trunk",
+      "Common peroneal trunk",
+      "Common tibial trunk",
+      "Soleal sinuses"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The innermost layer of the vein wall is known as the tunica:",
+    "choices": [
+      "Media",
+      "Adventitia",
+      "Intima",
+      "Superficial"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following best describes a normal waveform of the brachiocephalic veins?",
+    "choices": [
+      "Phasic",
+      "Pulsatile",
+      "Continuous",
+      "Oscillating"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The vein that runs along the lateral aspect of the upper extremity and joins the axillary vein just before becoming the subclavian vein is known as the:",
+    "choices": [
+      "Cephalic vein",
+      "Brachial vein",
+      "Basilic vein",
+      "Innominate vein"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "All of the following veins contain internal valves EXCEPT the:",
+    "choices": [
+      "Internal jugular vein",
+      "Brachial vein",
+      "Brachiocephalic vein",
+      "Cephalic vein"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which perforators connect to the posterior accessory great saphenous vein and typically play a significant role in regard to venous stasis ulcers?",
+    "choices": [
+      "Paratibial perforator",
+      "Perforator of femoral canal",
+      "Superficial epigastric vein",
+      "Posterior tibial perforator"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "During expiration, as abdominal pressure decreases and thoracic pressure increases:",
+    "choices": [
+      "There is no significant change in venous blood flow return",
+      "Venous blood flow return in the lower extremities increases while decreasing in the upper extremities",
+      "Venous blood flow return in the lower extremities decreases while increasing in the upper extremities",
+      "Flow is suspended in both the upper and lower extremities"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Most deep venous thrombi become established in the:",
+    "choices": [
+      "Groin",
+      "Thigh",
+      "Calf",
+      "Foot"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The condition involving an outflow obstruction of the venous system that presents with extreme swelling, cyanosis, and reduced arterial inflow is known as:",
+    "choices": [
+      "Dependent rubor",
+      "Phlegmasia alba dolens",
+      "Phlegmasia cerulea dolens",
+      "Venous insufficiency"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which location of DVT is more likely to travel to the lung as a pulmonary embolus?",
+    "choices": [
+      "Peroneal vein DVT",
+      "Common femoral vein DVT",
+      "Posterior tibial vein DVT",
+      "Gastrocnemius vein DVT"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The three predisposing conditions known as Virchow's Triad are:",
+    "choices": [
+      "Trauma, hypertension, and hypercoagulability",
+      "Trauma, sclerosis, and hypercoagulability",
+      "Thrombosis, stasis, and hypertension",
+      "Trauma, stasis, and hypercoagulability"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following are classic symptoms of deep vein thrombosis EXCEPT:",
+    "choices": [
+      "Pain",
+      "Edema",
+      "Paralysis",
+      "Redness"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When the calf-muscle pump and venous valves become inadequate at returning blood back to the heart, it leads to pooling of blood in the lower extremities. This condition is known as:",
+    "choices": [
+      "Deep vein thrombosis",
+      "Phlegmasia alba dolens",
+      "Phlegmasia cerulea dolens",
+      "Venous insufficiency"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "An ascending venogram is used to evaluate for:",
+    "choices": [
+      "Thrombosis",
+      "Venous insufficiency",
+      "Baker's cyst",
+      "Varicose veins"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "After initial treatment of deep vein thrombosis, patients are often treated with oral anticoagulation in an effort to:",
+    "choices": [
+      "Serve as a thrombolytic",
+      "Prevent chronic scarring of the vein lumen",
+      "Prevent recurrence",
+      "Prevent post-thrombotic syndrome"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 21.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 6
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 22.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 23.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 24.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 25.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 26.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 5
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 27.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Figure 5–56: Identify structure 28.",
+    "choices": [
+      "Common femoral vein",
+      "External iliac vein",
+      "Great saphenous vein",
+      "Deep femoral vein",
+      "Femoral vein",
+      "Internal iliac vein",
+      "Inferior vena cava",
+      "Popliteal vein"
+    ],
+    "answer": 7
+  },
+  {
+    "prompt": "All of the following are sonographic findings associated with chronic postthrombotic scarring EXCEPT:",
+    "choices": [
+      "Partially compressible",
+      "Hyperechoic",
+      "Recanalization lumen",
+      "Dilated vein"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "While scanning a patient's upper extremity veins you obtain a phasic spectral Doppler waveform within the right subclavian vein and a pulsatile spectral Doppler waveform within the left subclavian vein. What does this suggest?",
+    "choices": [
+      "An obstruction proximal to the left subclavian vein",
+      "An obstruction proximal to the right subclavian vein",
+      "An obstruction distal to the left subclavian vein",
+      "An obstruction distal to the right subclavian vein"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The distention of the distal veins that occurs when a patient has venous insufficiency is a result of:",
+    "choices": [
+      "Increased hydrostatic pressure",
+      "Abnormal vein walls",
+      "Pooling and stasis of blood",
+      "Both (A) and (C)"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "While performing a PPG venous examination on a patient without a tourniquet you obtain an abnormal venous refill time. In order to determine where the insufficiency is occurring you proceed to apply a tourniquet just above the knee and get a normal venous refill time. Where is the patient's insufficiency occurring?",
+    "choices": [
+      "Deep system",
+      "Great saphenous vein",
+      "Small saphenous vein",
+      "There is no insufficiency"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The venous valves are attached to which layer of the vessel walls?",
+    "choices": [
+      "Tunica intima",
+      "Tunica media",
+      "Tunica adventitia",
+      "Tunica interstitial"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A study that is positive for reflux will demonstrate a flow reversal time of:",
+    "choices": [
+      "<5 seconds",
+      ">0.05 second",
+      ">0.5 second",
+      ">0.005 seconds"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Varicosities that are a result of insufficiency that started in the deep system and extended into the superficial system by way of the perforator veins are known as:",
+    "choices": [
+      "Primary varicose veins",
+      "Secondary varicose veins",
+      "Spontaneous varicose veins",
+      "First varicose veins"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are symptoms associated with chronic venous insufficiency EXCEPT:",
+    "choices": [
+      "Varicose veins",
+      "Discoloration at the gaiter zone",
+      "Swelling",
+      "Heel ulceration"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the treatment known as sclerotherapy?",
+    "choices": [
+      "Surgical removal of superficial veins",
+      "Ablation of superficial veins by the use of radiofrequency-induced heating",
+      "Ablation of superficial veins through a series of injections with a chemical agent",
+      "Removal of superficial veins through mini surgical incisions"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Sonographic findings consistent with acute thrombosis are:",
+    "choices": [
+      "Hypoechoic, dilated, and noncompressible",
+      "Hyperechoic, dilated, and noncompressible",
+      "Hypoechoic, nondilated, and compressible",
+      "Hyperechoic, nondilated, and noncompressible"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The image in Figure 5–59 of the midcalf represents which of the following?",
+    "choices": [
+      "Normal response to compression",
+      "Acute deep vein thrombosis posterior tibial vein",
+      "Acute deep vein thrombosis peroneal vein",
+      "Acute deep vein thrombosis posterior tibial and peroneal veins"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The waveform in Figure 5–60 is a normal waveform for which vessel?",
+    "choices": [
+      "Common femoral vein",
+      "Brachial vein",
+      "Popliteal vein",
+      "Brachiocephalic vein"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The image in Figure 5–61 of the midthigh represents which of the following?",
+    "choices": [
+      "Normal response to compression",
+      "Acute deep vein thrombosis femoral vein",
+      "Chronic postthrombotic scarring femoral vein",
+      "Baker cyst"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The arrow in Figure 5–62 of the lower extremity is pointing to what anatomical landmark?",
+    "choices": [
+      "Gastrocnemius junction",
+      "Saphenopopliteal junction",
+      "Saphenofemoral junction",
+      "Inguinal ligament"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is the longest vein in the body?",
+    "choices": [
+      "Small saphenous vein",
+      "Great saphenous vein",
+      "Inferior vena cava",
+      "Femoral vein"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Varicose veins that occur when there is no DVT are called:",
+    "choices": [
+      "Primary varicose veins",
+      "Secondary varicose veins",
+      "Cardinal varicose veins",
+      "Hydrostatic varicose veins"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following veins act as a reservoir for the calf-muscle pump?",
+    "choices": [
+      "Popliteal vein",
+      "Gastrocnemius vein",
+      "Small saphenous vein",
+      "Soleal vein"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the most significant clinical concern for a patient with acute DVT?",
+    "choices": [
+      "Venous insufficiency",
+      "Pulmonary embolism",
+      "Chronic postthrombotic scarring",
+      "Superficial thrombophlebitis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following veins are paired EXCEPT the:",
+    "choices": [
+      "Posterior tibial",
+      "Anterior tibial",
+      "Peroneal",
+      "Small saphenous"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following statements about lower extremity venous duplex is always true?",
+    "choices": [
+      "If a vein fills with color flow then there is no presence of DVT",
+      "Graded compression should always be performed in the transverse plane",
+      "A continuous flow, steady waveform is indicative of a normal lower extremity venous waveform",
+      "Respiratory phasicity in the lower extremity veins is always abnormal"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is not a predisposing risk factor for DVT?",
+    "choices": [
+      "Trauma",
+      "Cancer",
+      "Pregnancy",
+      "Headache"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is TRUE regarding lower extremity venous anatomy?",
+    "choices": [
+      "The small saphenous vein typically terminates at the peroneal vein",
+      "The great saphenous vein typically terminates at the deep femoral vein",
+      "The great saphenous vein typically terminates at the common femoral vein",
+      "The great saphenous vein is part of the deep venous system"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Figure 5–63 of the subclavian vein most likely represents:",
+    "choices": [
+      "Attenuation artifact",
+      "Inactive valve",
+      "Venous dissection",
+      "Nonocclusive thrombosis"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The image in Figure 5–64 of the mid neck represents which of the following?",
+    "choices": [
+      "Acute deep vein thrombosis internal jugular vein",
+      "Chronic postthrombotic scarring internal jugular vein",
+      "Mirror artifact",
+      "Normal response to compression"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The spectral Doppler venous waveform of the lower extremity in Figure 5–65 shows:",
+    "choices": [
+      "Distal augmentation of flow",
+      "Pulsatile flow",
+      "Continuous flow",
+      "Normal respiratory phasic flow"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The inferior vena cava is formed by the union of the:",
+    "choices": [
+      "Superior vena cava and right heart",
+      "Left and right common iliac veins",
+      "External iliac vein and internal iliac vein",
+      "Portal venous system and systemic veins"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is an advantage of venous duplex over venography?",
+    "choices": [
+      "Venous duplex uses ionizing radiation",
+      "Venous duplex is noninvasive",
+      "Venous duplex uses an iodinated contrast agent",
+      "Venous angiography is painless"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Venous stasis ulcers are most commonly located:",
+    "choices": [
+      "In the proximal thigh",
+      "In the adductor canal",
+      "By the medial malleolus",
+      "In the popliteal fossa"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "A patient presents with large varicose veins that have enlarged over the past few years and are becoming increasingly painful. What is the LEAST likely examination to be done to determine the cause of his disease?",
+    "choices": [
+      "Venous duplex",
+      "Photoplethysmography testing",
+      "Ascending venogram",
+      "Descending venogram"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The normal response to venous flow during the Valsalva maneuver is:",
+    "choices": [
+      "Cessation of flow",
+      "Augmentation of flow",
+      "Reversal of flow",
+      "Increase in flow"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The flow in Figure 5–66 of a perforating vein identified just above the medial malleolus shows:",
+    "choices": [
+      "Normal flow from the deep to the superficial system",
+      "Abnormal flow from the superficial to the deep system",
+      "Normal flow from the superficial to the deep system",
+      "Abnormal flow from the deep to the superficial system"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Figure 5–67: Identify the brachial vein.",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Figure 5–67: Identify the basilic vein.",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Figure 5–67: Identify the brachial nerve.",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The image in Figure 5–68 of the posterior aspect of the proximal calf represents which of the following?",
+    "choices": [
+      "Normal response to compression",
+      "Acute deep vein thrombosis popliteal vein",
+      "Acute deep vein thrombosis gastrocnemius veins",
+      "Baker cyst"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The muscular layer of a blood vessel is the:",
+    "choices": [
+      "Tunica media",
+      "Tunica adventitia",
+      "Tunica intima",
+      "Tunica externa"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is not included in Virchow's Triad?",
+    "choices": [
+      "Hypercoagulability",
+      "Trauma",
+      "Stasis",
+      "Edema"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is the most accurate method to rule out DVT?",
+    "choices": [
+      "Graded compression",
+      "Spectral Doppler",
+      "Color Doppler",
+      "CW Doppler"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Wet ulcers in the gaiter zone are indicative of:",
+    "choices": [
+      "Deep venous thrombosis",
+      "High blood pressure",
+      "Pulmonary embolus",
+      "Venous insufficiency"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is not normally paired?",
+    "choices": [
+      "Peroneal vein",
+      "Posterior tibial vein",
+      "Anterior tibial vein",
+      "Great saphenous vein"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "A catheter-based procedure where thrombolytic agents are introduced to the vein at the area of a clot in an effort to dissolve it and reduce the chances of postthrombotic syndrome is known as:",
+    "choices": [
+      "Thrombectomy",
+      "Thrombolysis",
+      "Anticoagulation",
+      "Phlebectomy"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is NOT a potential limitation of a lower extremity venous duplex examination?",
+    "choices": [
+      "Patient body habitus",
+      "Venous access lines",
+      "Bony anatomy",
+      "Recent incision"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "During a PPG examination for the evaluation of venous reflux a normal venous refill time is:",
+    "choices": [
+      "20 seconds",
+      "10 seconds",
+      "15 seconds",
+      "5 seconds"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The majority of patients have how many perforating veins in each leg?",
+    "choices": [
+      "20",
+      "30",
+      "50",
+      "More than 100"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Proper positioning of a patient for a lower extremity duplex examination is:",
+    "choices": [
+      "Supine with leg slightly bent at the knee and internally rotated",
+      "Prone with leg slightly bent at the knee and externally rotated",
+      "Prone with leg slightly bent at the knee and internally rotated",
+      "Supine with leg slightly bent at the knee and externally rotated"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "This spectral Doppler venous waveform of the lower extremities in Figure 5–69 indicates:",
+    "choices": [
+      "Normal venous flow",
+      "Peripheral obstruction",
+      "Central obstruction",
+      "Phasic flow"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "This spectral Doppler venous waveform of the lower extremities in Figure 5–70 indicates:",
+    "choices": [
+      "Normal venous flow with augmentation",
+      "Continuous flow",
+      "Proximal obstruction",
+      "Venous reflux"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The finding in Figure 5–71 indicates:",
+    "choices": [
+      "Normal great saphenous vein",
+      "Thrombosed varicose vein",
+      "Baker's cyst",
+      "Acute deep vein thrombosis"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "This spectral Doppler venous waveform in Figure 5–72 of the lower extremity during a Valsalva maneuver indicates:",
+    "choices": [
+      "Normal venous flow",
+      "Venous reflux",
+      "Distal obstruction",
+      "Partial obstruction"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The vein in Figure 5–73 most likely represents:",
+    "choices": [
+      "Popliteal vein",
+      "Brachial vein",
+      "Cephalic vein",
+      "Deep femoral vein"
+    ],
+    "answer": 2
+  }
+]
