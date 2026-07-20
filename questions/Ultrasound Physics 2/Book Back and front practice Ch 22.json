@@ -1,0 +1,112 @@
+[
+  {
+    "prompt": "What standard is best used in a quality assurance program?",
+    "choices": [
+      "subjective",
+      "expert",
+      "objective",
+      "legislative"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "All of the following are characteristics of a tissue equivalent phantom except:",
+    "choices": [
+      "speed of sound similar to that in soft tissue",
+      "attenuation properties similar to that of soft tissue",
+      "scattering characteristics similar to that of soft tissue",
+      "density similar to that of soft tissue"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What form of resolution is evaluated by measuring the width of reflections arising from small, point targets?",
+    "choices": [
+      "lateral resolution",
+      "axial resolution",
+      "temporal resolution",
+      "elevational resolution"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What form of resolution is evaluated by visualizing closely spaced pins that are parallel to the sound beam’s main axis?",
+    "choices": [
+      "lateral resolution",
+      "axial resolution",
+      "temporal resolution",
+      "elevational resolution"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "At what interval should quality assurance evaluations be performed?",
+    "choices": [
+      "weekly",
+      "daily",
+      "routinely",
+      "periodically"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? Quality assurance evaluations of ultrasound systems should be performed weekly.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Quality assurance evaluations of ultrasound systems can only be performed by biomedical engineers or physical scientists.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Proper quality assurance programs require the assessment of every transducer used in the clinical laboratory.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following statements are true of a tissue equivalent phantom? (More than one answer may be correct.)",
+    "choices": [
+      "it has the same propagation speed as that of soft tissue",
+      "it attenuates ultrasound at a rate similar to soft tissue",
+      "embedded in it are solid masses and cystic structures",
+      "it is the device of choice for quality assurance studies"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "prompt": "All of the following may be used to evaluate Doppler systems except:",
+    "choices": [
+      "tissue equivalent phantom",
+      "moving belt phantom",
+      "vibrating string phantom",
+      "Doppler phantom"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which modes of Doppler may be assessed with a Doppler phantom?",
+    "choices": [
+      "color flow Doppler",
+      "pulsed Doppler",
+      "power mode Doppler",
+      "continuous wave Doppler",
+      "all of the above"
+    ],
+    "answer": 4
+  }
+]
