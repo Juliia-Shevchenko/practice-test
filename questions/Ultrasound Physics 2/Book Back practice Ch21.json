@@ -1,0 +1,448 @@
+[
+  {
+    "prompt": "Which situation will commonly produce reverberation artifact?",
+    "choices": [
+      "two masses that lie perpendicular to the sound beam’s main axis",
+      "two weak reflectors that lie close to each other along the axis of the beam",
+      "two strong reflectors that lie along the main axis of the beam",
+      "a single highly reflective mass"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What are the characteristics of a medium that produces comet tail artifact?",
+    "choices": [
+      "weak reflectors, closely spaced, low propagation speeds",
+      "strong reflectors, widely spaced, high propagation speeds",
+      "strong reflectors, closely spaced, low propagation speed",
+      "strong reflectors, closely spaced, high propagation speed"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What is the most likely cause of ring down artifact?",
+    "choices": [
+      "refraction",
+      "inversion",
+      "reabsorption",
+      "reflection"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Where are shadowing artifacts commonly seen on an acoustic scan?",
+    "choices": [
+      "deeper than a structure with a high impedance",
+      "shallower than a structure with a low propagation speed",
+      "deeper than a structure with a high attenuation",
+      "alongside of a structure with a low elastance"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How is shadowing artifact expressed?",
+    "choices": [
+      "positioning structures too deep on the image",
+      "locating structures in improper lateral position",
+      "placing reflections in multiple locations",
+      "reflectors being absent on the image"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of these produces shadowing?",
+    "choices": [
+      "reverberation",
+      "multipath",
+      "reflection",
+      "attenuation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What causes enhancement artifact?",
+    "choices": [
+      "sound beams bending",
+      "linear array transducer architecture",
+      "unexpectedly low acoustic attenuation",
+      "acoustic energy radiating in a direction other than the beam’s main axis"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Unexpectedly low attenuation results in which of the artifacts listed below?",
+    "choices": [
+      "refraction",
+      "attenuation",
+      "enhancement",
+      "shadowing"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "When enhancement occurs, where does it appear on the image?",
+    "choices": [
+      "in the near field",
+      "deeper than a weak attenuator",
+      "in the far field",
+      "shallower than a weak reflector"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Acoustic focusing of an ultrasound beam may create which artifact?",
+    "choices": [
+      "side lobes",
+      "refraction",
+      "speckle",
+      "enhancement"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which process causes mirror image artifact?",
+    "choices": [
+      "reflection",
+      "refraction",
+      "propagation speed error",
+      "attenuation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Where is a mirror image artifact located?",
+    "choices": [
+      "sometimes shallower on the image than in the body",
+      "always deeper on the image than in the body",
+      "sometimes the same depth on the image as in the body",
+      "never deeper on the image than in the body"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which artifact is not affected by the shape or dimensions of an ultrasound pulse?",
+    "choices": [
+      "lateral resolution",
+      "slice thickness",
+      "mirror imaging",
+      "longitudinal resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which artifact is created by sound moving through a medium with a propagation speed less than soft tissue?",
+    "choices": [
+      "vertical misregistration",
+      "horizontal misregistration",
+      "lateral resolution",
+      "ring down"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "While imaging a test object, an ultrasound system displays one image 1.8 cm deeper than another. Upon measuring the test object, it is found that it is actually 2.0 cm deeper. What conclusion can be drawn from this?",
+    "choices": [
+      "speed of sound in the test object is the same as soft tissue",
+      "speed in the test object is less than that in soft tissue",
+      "attenuation of sound in the test object is less than that in soft tissue",
+      "speed in soft tissue is less than that of the test object"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "If an ultrasound pulse travels through a large mass in the body at a speed of 1.2 mm/µs, what happens to the position of all echoes produced from reflectors shallower than the mass?",
+    "choices": [
+      "they are placed in too shallow a location on the image",
+      "they are placed in too deep a location on the image",
+      "they are likely to be placed at the correct depth"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "If a sound pulse travels through a large mass at a speed of 1.2 mm/µs, what happens to the position of echoes from reflectors deeper than the mass?",
+    "choices": [
+      "they are placed in too shallow a location on the image",
+      "they are placed in too deep a location on the image",
+      "they are likely to be placed at the correct depth"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What type of artifact causes a reflection to be placed at an incorrect depth?",
+    "choices": [
+      "lateral incertitude",
+      "shadowing",
+      "range ambiguity",
+      "indeterminate relaxation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What causes side lobe artifact?",
+    "choices": [
+      "sound beams bending",
+      "linear array transducer architecture",
+      "unexpectedly low acoustic attenuation",
+      "acoustic energy radiating in a direction other than the beam’s main axis"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Side lobe artifact usually results in all of the following except ____.",
+    "choices": [
+      "hollow structures appearing “filled in” on the image",
+      "reflectors not appearing on an image",
+      "reflectors appearing in improper locations on the image",
+      "reflectors appearing in multiple locations on the image"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Grating lobes are most common with which type of transducer technology?",
+    "choices": [
+      "annular array",
+      "continuous wave",
+      "mechanical scanners",
+      "linear arrays"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Grating lobes are produced by the same mechanism as which other artifact?",
+    "choices": [
+      "side lobes",
+      "reverberation",
+      "transaxial lobes",
+      "acoustic speckle"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Grating lobes are a result of substantial acoustic energy directed outward from a linear array transducer, but not along the main axis of the sound beam.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which technique of linear array transducer design has virtually eliminated the appearance of grating lobe artifact on modern ultrasound systems?",
+    "choices": [
+      "demodulation",
+      "subdicing",
+      "deconvolution",
+      "none of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Grating lobes are attributed only to array transducers.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which artifact results in improper side-by-side positioning of reflectors?",
+    "choices": [
+      "multipath",
+      "comet tail",
+      "refraction",
+      "reverberation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What assumption is violated when a refracted sound wave is processed?",
+    "choices": [
+      "waves travel directly to and from a reflector",
+      "sound travels at an average speed of 1.54 mm/µs",
+      "sound travels in a straight line",
+      "the acoustic imaging plane is very thin"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "With standard diagnostic imaging instrumentation, which has the higher numerical value?",
+    "choices": [
+      "axial resolution",
+      "lateral resolution",
+      "elevational resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What artifact results from an ultrasound beam having a finite and measurable three-dimensional profile?",
+    "choices": [
+      "acoustic speckle",
+      "multipath artifact",
+      "slice thickness artifact",
+      "grating lobe artifact"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "How does slice thickness artifact commonly express itself?",
+    "choices": [
+      "fill in of cystic structures",
+      "improper brightness of reflectors",
+      "absence of reflectors",
+      "strong linear echoes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "With depth resolution, ______.",
+    "choices": [
+      "too many reflectors appear on the image",
+      "reflectors are placed too deep on the image",
+      "too few reflectors are on the image",
+      "reflectors appear too shallow on the image"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Axial resolution artifacts are due to which of the following?",
+    "choices": [
+      "multiple reflections",
+      "beam width",
+      "attenuation",
+      "pulse length"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of these pulses is least likely to produce an axial resolution artifact?",
+    "choices": [
+      "10 MHz, 8 mm beam diameter, 6 cycles per pulse",
+      "4 MHz, 4 mm beam diameter, 2 cycles per pulse",
+      "9 MHz, 8 mm beam diameter, 2 cycles per pulse",
+      "6 MHz, 2 mm beam diameter, 2 cycles per pulse"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "With which of the following pulses would lateral resolution be worst?",
+    "choices": [
+      "10 MHz, 4 mm beam diameter, 4 cycles per pulse",
+      "4 MHz, 4 mm beam diameter, 2 cycles per pulse",
+      "7.5 MHz, 8 mm beam diameter, 2 cycles per pulse",
+      "6 MHz, 2 mm beam diameter, 2 cycles per pulse"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The lateral resolution of four ultrasound systems appear below. Which will produce the finest quality picture?",
+    "choices": [
+      "2 cm",
+      "4 mm",
+      "6 mm",
+      "8 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two small cysts, positioned perpendicular to the main axis of a sound beam, are 2.4 mm apart. What determines whether they appear as two distinct images on the system’s display?",
+    "choices": [
+      "the beam width",
+      "the pulse length",
+      "the PRF",
+      "the TGC"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which artifact is not related to the unexpected reflection of an acoustic wave?",
+    "choices": [
+      "multipath",
+      "comet tail",
+      "reverberation",
+      "lateral resolution"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? Side lobe, grating lobe, and refraction artifacts all reduce lateral resolution.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Artifacts are likely to appear when the dimensions of the sound beam area are larger than the dimensions of the reflectors in the body.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? All artifacts are errors in imaging that do not represent the true anatomy of the imaged organ. Therefore, they are all undesirable and should be eliminated if possible.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "With standard diagnostic imaging instrumentation, which has the higher numerical value?",
+    "choices": [
+      "axial resolution",
+      "lateral resolution",
+      "neither; they have identical values"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is a comet tail artifact’s fundamental mechanism of formation?",
+    "choices": [
+      "reflection",
+      "rarefaction",
+      "refraction",
+      "attenuation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "In diagnostic imaging, how does multipath artifact affect the image?",
+    "choices": [
+      "poor angular resolution",
+      "creation of hyperechoic regions",
+      "mild image degradation",
+      "gross horizontal misregistration"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following determines the spatial resolution of an image on a monitor?",
+    "choices": [
+      "strength of the electron beam",
+      "form of phosphor coating of the screen",
+      "number of lines of the monitor's display",
+      "the pulse duration"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the cause of acoustic speckle?",
+    "choices": [
+      "refraction",
+      "attenuation",
+      "interference of tiny acoustic wavelets",
+      "resonance of particles in the near field"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is true of acoustic speckle?",
+    "choices": [
+      "its effects are mild and it tends to slightly degrade images",
+      "it is a rare artifact that does not occur in real-time imaging",
+      "its effects are dramatic",
+      "it is eliminated with apolarization"
+    ],
+    "answer": 0
+  }
+]
