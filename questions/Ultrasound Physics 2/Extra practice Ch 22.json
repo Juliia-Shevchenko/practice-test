@@ -1,0 +1,206 @@
+[
+  {
+    "prompt": "Comprehensive preventive maintenance must be performed at least:",
+    "choices": [
+      "Daily",
+      "Semiannually",
+      "Annually",
+      "When a problem occurs"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which test object uses a moving belt, vibrating string, or fluid pump?",
+    "choices": [
+      "AIUM phantom",
+      "Tissue equivalent phantom",
+      "Slice thickness pump",
+      "Doppler phantom"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The AIUM test object can evaluate all of the following except:",
+    "choices": [
+      "Vertical distance",
+      "Horizontal distance",
+      "Contrast resolution",
+      "Axial resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "The test used to evaluate the depth of reflectors from a transducer is called:",
+    "choices": [
+      "Horizontal depth calibration",
+      "Vertical depth calibration",
+      "Dead zone",
+      "Lateral resolution"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "All of the following are goals for a quality assurance program except:",
+    "choices": [
+      "Document proper equipment performance",
+      "Optimize image quality consistently",
+      "Keep detailed results from quality assurance testing",
+      "Report equipment malfunction annually"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is used for Doppler sensitivity measurements?",
+    "choices": [
+      "Cyst phantom",
+      "Profile test object",
+      "String test object",
+      "Contrast phantom",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is the system's ability to detect weak echoes?",
+    "choices": [
+      "Uniformity",
+      "Registration",
+      "Sensitivity",
+      "Dead zone"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What type of errors will cause artificial echoes to appear within a cystic structure?",
+    "choices": [
+      "Dead zone",
+      "Registration",
+      "Slice thickness",
+      "Contrast resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following indicates the maximum depth of visualization?",
+    "choices": [
+      "Vertical distance",
+      "Horizontal distance",
+      "Lateral resolution",
+      "Sensitivity"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is a methodical way of evaluating equipment performance on a routine basis to ensure proper and accurate equipment function?",
+    "choices": [
+      "Accreditation",
+      "Quality assurance",
+      "Preventive maintenance",
+      "Credentialing"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the ability to accurately identify reflectors that are arranged front to back and parallel to the ultrasound beam?",
+    "choices": [
+      "Registration",
+      "Vertical distance",
+      "Axial resolution",
+      "Lateral resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following test phantoms should be stored in an airtight container and at a controlled temperature?",
+    "choices": [
+      "AIUM test object",
+      "Doppler testing phantom",
+      "Tissue equivalent phantom",
+      "String phantom"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is the test object that evaluates the elevational resolution of the sound beam perpendicular to the imaginary plane?",
+    "choices": [
+      "AIUM test object",
+      "Doppler testing phantom",
+      "Tissue equivalent phantom",
+      "Slice thickness phantom"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is an outdated test object that used an acrylic tank filled with fluid that attempted to simulate the speed of sound in soft tissue?",
+    "choices": [
+      "AIUM test object",
+      "Doppler testing phantom",
+      "Tissue equivalent phantom",
+      "Slice thickness phantom"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The test object that mimics the acoustic properties of human tissue and is used to ensure proper equipment performance is:",
+    "choices": [
+      "AIUM test object",
+      "Doppler testing phantom",
+      "Tissue equivalent phantom",
+      "Slice thickness phantom"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following does the Doppler phantom not typically evaluate?",
+    "choices": [
+      "Flow direction",
+      "Subtle tissue variation",
+      "Depth capability of the beam",
+      "Accuracy of sample volume location"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What does letter A represent in the image?",
+    "choices": [
+      "Axial resolution",
+      "Dead zone",
+      "Vertical registration",
+      "Horizontal registration"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What does letter D represent in the image?",
+    "choices": [
+      "Axial resolution",
+      "Dead zone",
+      "Vertical registration",
+      "Horizontal registration",
+      "Lateral resolution"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What does letter B represent in the image?",
+    "choices": [
+      "Axial resolution",
+      "Dead zone",
+      "Vertical registration",
+      "Horizontal registration",
+      "Lateral resolution"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What does letter E represent in the image?",
+    "choices": [
+      "Axial resolution",
+      "Dead zone",
+      "Vertical registration",
+      "Horizontal registration",
+      "Lateral resolution"
+    ],
+    "answer": 2
+  }
+]
