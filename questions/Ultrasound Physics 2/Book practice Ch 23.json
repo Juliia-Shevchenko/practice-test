@@ -171,5 +171,100 @@
       "none of the above"
     ],
     "answer": 4
+  },
+  {
+    "prompt": "In medicine, what do the initials PHI indicate?",
+    "choices": [
+      "Private health indicator",
+      "Personal Heart Index",
+      "Personal health information",
+      "Protected Health Information"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "What should you do to avoid nosocomial and cross infection with a sonographer probe?",
+    "choices": [
+      "Probe cleaning should always precede high-level disinfection.",
+      "Covering a probe with a condom is a sufficient barrier for an intracavitary probe.",
+      "Disinfection with a germicide compatible with the transducer is indicated when the probe is in contact with a mucous membrane.",
+      "Alcohol soak of the probe between each patient.",
+      "A & C"
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "When practicing universal precautions, you should do all of the following EXCEPT:",
+    "choices": [
+      "Wear gloves when there is a potential for contact with patient bodily fluids.",
+      "Change gloves when moving from one patient to another.",
+      "Wash hands immediately after gloves are removed.",
+      "Wear face masks or eye protection whenever there is a possibility of blood splashing into your face.",
+      "Wash gloves between exams for reuse from one patient to another."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "A nosocomial infection is defined as one that:",
+    "choices": [
+      "Is resistant to antibiotics",
+      "Is restricted to the respiratory system",
+      "Is hospital-acquired",
+      "Is not contagious",
+      "Requires patient isolation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following actions is NOT compliant with HIPAA?",
+    "choices": [
+      "Cropping all patient identifiers from images used for teaching purposes.",
+      "Refraining from disclosing patient health information without proper authorization.",
+      "Reviewing your neighbor's medical studies on your hospital PACS system so you can give her your opinion of her condition.",
+      "Covering your daily requisition list so that the names are not visible to patients and visitors.",
+      "All of these actions are compliant with HIPAA."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "To practice the ALARA principle, which of the following techniques should you employ?",
+    "choices": [
+      "Always use the least amount of receiver gain that allows adequate tissue visualization.",
+      "Adjust the controls so that the MI and TI readouts exceed 1.",
+      "Use the lowest transmit power that allows adequate tissue visualization.",
+      "Use the highest frame averaging (persistence) setting.",
+      "Maximize exposure time."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "OSHA stands for:",
+    "choices": [
+      "Occupational Safety and Health Administration",
+      "Occupational Standards and Health Association",
+      "Organization for Safety, Health, and Accreditation",
+      "Occupational Safety and Health Agency"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "HIPAA stands for:",
+    "choices": [
+      "Health Insurance Portability and Accountability Act",
+      "Health Information Privacy and Access Act",
+      "Health Insurance Protection and Accountability Association",
+      "Health Information Portability and Access Act"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "ALARA stands for:",
+    "choices": [
+      "As Low As Reasonably Achievable",
+      "As Long As Radiation Allows",
+      "As Low As Radiation Allows",
+      "Always Limit Acoustic Radiation Appropriately"
+    ],
+    "answer": 0
   }
 ]
