@@ -1,0 +1,132 @@
+[
+  {
+    "prompt": "Which of the following is not used for quality assurance of Doppler?",
+    "choices": [
+      "Moving belt phantom",
+      "Tissue equivalent phantom",
+      "Vibrating string phantom",
+      "Flow phantom"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What does TIB stand for?",
+    "choices": [
+      "Thermal Index Bone",
+      "Tissue Index Bone",
+      "Thermal Index Bladder",
+      "Thermal Issue Bladder"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "What does ALARA stand for?",
+    "choices": [
+      "As least as reasonably acceptable",
+      "As low as reasonably achievable",
+      "As low as responsibly acceptable",
+      "As low as responsibly achievable"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which cavitation causes microstreaming and shear stress?",
+    "choices": [
+      "Inertial cavitation",
+      "Normal cavitation",
+      "Stable cavitation",
+      "Transient cavitation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "If the mechanical index is more than 1.0, which of the following cavitation is not present?",
+    "choices": [
+      "Inertial cavitation",
+      "Normal cavitation",
+      "Stable cavitation",
+      "Transient cavitation"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Under which condition is it permissible to perform a diagnostic ultrasound exam?",
+    "choices": [
+      "When the doctor will benefit",
+      "When the patient requests one",
+      "When the exam is not authorized by a physician",
+      "When the benefits to the patient outweigh the risks"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following is considered the most important for the sonographer with regard to bioeffects?",
+    "choices": [
+      "PRP",
+      "Frequency",
+      "Duration of the study",
+      "Imaging mode"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is defined as the action of an acoustic field within a fluid to generate bubbles?",
+    "choices": [
+      "Thermal index",
+      "Cavitation",
+      "Radiation force",
+      "Hydrostatic pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The effect of a sound wave upon the biologic tissue through which it passes is:",
+    "choices": [
+      "Acoustic variables",
+      "Acoustic parameters",
+      "Rarefaction",
+      "Bioeffects"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The __________ measures beam intensity at a specific location, whereas a __________ measures the entire energy in a sound beam.",
+    "choices": [
+      "Calorimeter, thermocouple",
+      "Schlieren, thermocouple",
+      "Thermocouple, calorimeter",
+      "Thermometer, hydrometer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is related to cavitation bioeffects?",
+    "choices": [
+      "TIS",
+      "MI",
+      "Cavitation index",
+      "Pulsatility index"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which selection has the highest mechanical index?",
+    "choices": [
+      "High frequency, high power",
+      "High PRF, high intensity",
+      "Low frequency, high pressure",
+      "High SPL, high PRF"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "From the standpoint of minimizing exposure to patients, it's best to use:",
+    "choices": [
+      "Low power, high gain",
+      "High power, low gain",
+      "Intermediate power, intermediate gain",
+      "High power, high gain"
+    ],
+    "answer": 0
+  }
+]
