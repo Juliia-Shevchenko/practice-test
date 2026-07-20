@@ -1,0 +1,324 @@
+[
+  {
+    "prompt": "Which two of the following devices convert ultrasound energy into heat?",
+    "choices": [
+      "a calorimeter",
+      "a thermocouple",
+      "a hydrophone",
+      "a Schlieren"
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "prompt": "The _____ measures beam intensity at specific locations, whereas a _____ measures the entire energy in a sound beam.",
+    "choices": [
+      "calorimeter, thermocouple",
+      "Schlieren, thermocouple",
+      "thermocouple, calorimeter",
+      "thermometer, hydrometer"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "True or False? The biological effects of ultrasound are thought to be negligible and thus, few investigations have been performed on the subject.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? It is generally believed that the effects of ultrasound on biologic media are minimal.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Under which condition is it permissible to perform a diagnostic ultrasound exam?",
+    "choices": [
+      "when the patient will benefit",
+      "when the patient has insurance",
+      "when the exam is perfectly safe",
+      "when the benefits outweigh the risks"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Some ultrasonic bioeffects studies are performed in vivo. What is the meaning of the term in vivo?",
+    "choices": [
+      "observable in a living body",
+      "observations based on an experiment",
+      "discernible in a test tube",
+      "estimated in a computer simulation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Certain studies of bioeffects are performed in vitro. What is the meaning of in vitro?",
+    "choices": [
+      "visible in a living organism",
+      "observations based on experiments",
+      "discernible in a test tube",
+      "perceptible in a living human being"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which component of an ultrasound system exposes a patient to greatest risk?",
+    "choices": [
+      "the CRT",
+      "the electric cord",
+      "the pulser",
+      "the transducer"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? The AIUM suggests that in vitro research confirming bioeffects is valuable and valid. Their results are significant and should be directly applied to the clinical arena.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? The mechanistic approach to the study of bioeffects and safety includes the identification of a theoretical construct that could produce an effect.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The empirical approach to the study of bioeffects and ultrasonic safety surveys data involves finding a relationship between exposure and toxic effects.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? A bioeffect identified through the mechanistic approach rather than the empirical approach is more likely to have clinical significance.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? The AIUM considers an ultrasound-induced biologic tissue temperature rise of less than 2° Centigrade above normal body temperature as safe for clinical studies.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following terms best describes the mechanistic investigation of bioeffects?",
+    "choices": [
+      "cause-effect",
+      "exposure-response",
+      "cause-response",
+      "exposure-cure"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of these terms best describes the empirical investigation of bioeffects?",
+    "choices": [
+      "cause-effect",
+      "exposure-response",
+      "cause-response",
+      "exposure-cure"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "When studying bioeffects, which research approach is more important?",
+    "choices": [
+      "empirical",
+      "mechanistic",
+      "neither is important",
+      "both are equally important"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Of the following choices, which is considered the most important for the sonographer with regard to bioeffects?",
+    "choices": [
+      "pulse repetition frequency",
+      "frequency",
+      "duration of the study",
+      "imaging mode"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is not a potential mechanism for production of bioeffects from ultrasound exposure to the body?",
+    "choices": [
+      "temperature elevation",
+      "fractionation",
+      "cavitation",
+      "vibration"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following ultrasound beams has a characteristic that is most likely to cause temperature elevation in soft tissue?",
+    "choices": [
+      "strongly focused",
+      "medium focused",
+      "unfocused"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "According to the AIUM, at what in situ tissue temperature is there danger to a fetus?",
+    "choices": [
+      "100° C",
+      "98.6° F",
+      "1° F over normal temperature",
+      "41° C"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Research has indicated that cavitation ____.",
+    "choices": [
+      "never occurs",
+      "cannot occur with long pulses",
+      "can be lethal to living things",
+      "effects are purely theoretical"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following statements regarding cavitation is true?",
+    "choices": [
+      "it has never been observed in any biologic media",
+      "stable cavitation relates to oscillating bubbles while transient relates to bursting bubbles",
+      "it is a nonlethal bioeffect produced in animal experiments",
+      "waves with peak pressures less than 100 MPa can never induce cavitation"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is related to cavitation bioeffects?",
+    "choices": [
+      "TIS",
+      "MI",
+      "cavitation index",
+      "pulsatility index"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which selection has the highest mechanical index?",
+    "choices": [
+      "high frequency, high power",
+      "high PRF, high intensity",
+      "low frequency, high pressure",
+      "high spatial pulse length, high PRF"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which sound wave is least likely to create cavitation?",
+    "choices": [
+      "5 MHz, 2 MPa",
+      "2 MHz, 4 MPa",
+      "6 MHz, 2 MPa",
+      "2 MHz, 2 MPa"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is epidemiology the study of?",
+    "choices": [
+      "large groups",
+      "the prevalence of disease",
+      "acoustic bioeffects on the fetus",
+      "in vitro effects"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Epidemiologic studies of in utero exposure to ultrasound have included all of the following findings except ____.",
+    "choices": [
+      "birth weight",
+      "cancer",
+      "structural abnormalities",
+      "none of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of the following epidemiologic studies is considered most likely to produce meaningful results?",
+    "choices": [
+      "retrospective and prospective",
+      "prospective and randomized",
+      "retrospective and empirical",
+      "prospective and mechanistic"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the highest SPTA intensity of an unfocused ultrasound wave where there have been no observed bioeffects?",
+    "choices": [
+      "1 mW/cm²",
+      "100 mW/cm²",
+      "1000 mW/cm²",
+      "1 W/cm²"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "The upper limit for the SPTA intensity of a focused ultrasound wave where there have been no observed bioeffects is ____.",
+    "choices": [
+      "1 mW/cm²",
+      "10 mW/cm²",
+      "100 mW/cm²",
+      "1 W/cm²"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False? One reason focused ultrasound beams with low intensities are less likely to cause bioeffects is that a focused beam is less efficient in heating a large mass of tissue to a critical temperature.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Focused sound beams are considered less likely to create bioeffects because the beams will strike fewer gas bubbles that could potentially cavitate.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? It is generally believed that ultrasound bioeffects are minimal at intensity levels typical of those produced by diagnostic imaging equipment.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A comprehensive and scholarly review of bioeffects is performed by the American Institute of Ultrasound in Medicine for all of the following reasons except.",
+    "choices": [
+      "ultrasound is a versatile technique",
+      "ultrasound has proven widespread clinical utility",
+      "ultrasound is considered highly toxic",
+      "applications of ultrasound are growing considerably"
+    ],
+    "answer": 2
+  }
+]
