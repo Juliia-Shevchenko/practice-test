@@ -1,0 +1,271 @@
+[
+  {
+    "prompt": "A bioeffects report claims that obstetrical scanning may be harmful to a particular group of patients. What should be the response of the medical community?",
+    "choices": [
+      "Perform the exams on all patients when the benefits are outweighed by the risks.",
+      "Stop all diagnostic exams.",
+      "Ignore the report.",
+      "Halt all exams on this patient group.",
+      "Perform exams on all patients when the benefits outweigh the risks."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "The study of the characteristics, attributes, and quantities of a substance that induces bioeffects is called ____.",
+    "choices": [
+      "Dosimetry",
+      "Epidemiology",
+      "Mechanics",
+      "Attenuation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? There are no bioeffects associated with ultrasound.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? There are no bioeffects associated with ultrasound having characteristics typical of those in diagnostic medicine.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? There are no harmful bioeffects associated with ultrasound having characteristics typical of those in diagnostic medicine.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Cavitation describes the interaction between sound waves and small gas bubbles that exist in tissues.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? There are two forms of cavitation: inertial and normal.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Normal, transient, or inertial cavitation describes the bursting of microbubbles.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is not associated with the mechanistic approach?",
+    "choices": [
+      "Identifying cause-effect relationship",
+      "Proposing a specific means that could produce a bioeffect",
+      "Studying charts of patients who have been exposed to ultrasound",
+      "Analyzing the mechanism using theoretical methods",
+      "Reaching valid scientific conclusions"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Veterans of a military operation suspect that they have been exposed to chemical warfare agents. The Veterans Administration Hospital surveyed these soldiers to identify the presence of symptoms and their prevalence. What form of medical investigation is this?",
+    "choices": [
+      "Mechanistic approach",
+      "Empirical approach",
+      "Theoretical approach",
+      "Experimental approach"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Name the two important mechanisms likely to induce bioeffects.",
+    "choices": [
+      "Thermal and nonthermal (mechanical)",
+      "Reflection and refraction",
+      "Absorption and attenuation",
+      "Stable and transient cavitation"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which statement allows us to conclude that diagnostic ultrasound does not injure tissues from temperature elevation?",
+    "choices": [
+      "Death resulting from an ultrasound exam has never been reported.",
+      "Mechanistic data indicate that diagnostic ultrasound is safe.",
+      "Conclusions from empirical data and mechanistic data are consistent; that is, diagnostic ultrasound is unlikely to cause thermally induced bioeffects.",
+      "Patients do not complain of burning during ultrasound exams."
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which modality is associated with the lowest tissue temperature elevation?",
+    "choices": [
+      "Pulsed Doppler",
+      "Color flow Doppler",
+      "Gray scale imaging"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which ultrasound modality is associated with the highest tissue temperature elevation?",
+    "choices": [
+      "pulsed Doppler",
+      "color flow Doppler",
+      "gray scale imaging"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Stable cavitation describes the rhythmic swelling and shrinking of gaseous nuclei.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "The primary investigative technique of epidemiology is:",
+    "choices": [
+      "computer modeling",
+      "library research",
+      "reviewing data from patients",
+      "performing animal experiments"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following is not a limitation of epidemiological studies?",
+    "choices": [
+      "Medical charts are sometimes incomplete or inaccurate.",
+      "Other factors, unrelated to the study's ultimate goal, must be accounted for.",
+      "When the bioeffect rate is small, numerous patients must be studied.",
+      "Even when a bioeffect is identified, the investigator is still unsure of the specific reason for its occurrence.",
+      "It does not provide greater understanding of the biologic significance of bioeffects."
+    ],
+    "answer": 4
+  },
+  {
+    "prompt": "True or False? The intensity limit established for diagnostic ultrasound is higher for focused sound beams than for broad, unfocused beams.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? In vitro studies are performed exclusively on living animals.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False? Bioeffects identified through in vitro research are not considered real.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which measure of intensity is related most closely to tissue heating?",
+    "choices": [
+      "Im",
+      "SATA",
+      "SPPA",
+      "SPTA",
+      "SPTP"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "The next step following the identification of an in vitro bioeffect is:",
+    "choices": [
+      "Propose in vivo research to evaluate the clinical significance of the bioeffect.",
+      "Cease performing clinical studies that may induce bioeffects in vivo.",
+      "Ignore the results; it's only an in vitro observation.",
+      "Continue with in vitro research.",
+      "Obtain an informed consent regarding this report from all patients."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? Exposing an individual to ultrasound from a diagnostic imaging system is never appropriate when there is absolutely no clinical benefit to that individual.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which component of an ultrasound system is most likely to expose a patient to danger?",
+    "choices": [
+      "monitor",
+      "transducer",
+      "scan converter",
+      "pulser"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which is generally true of diagnostic ultrasound?",
+    "choices": [
+      "Harmful bioeffects do not occur, and it is unnecessary to discuss them.",
+      "Harmful bioeffects do not occur, but it is irresponsible to ignore the possibility that they may.",
+      "Harmful bioeffects are often seen, but the benefit to patients still outweighs the risk.",
+      "Only new technologies such as 3-D or intravascular ultrasound need to be evaluated for bioeffects."
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is an appropriate use of ultrasound in obstetrics?",
+    "choices": [
+      "determine fetal gender",
+      "viewing a fetus",
+      "obtaining a picture of a fetus",
+      "to provide medical benefit to the patient"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which of these factors are relevant with regard to the thermal mechanism of bioeffects?",
+    "choices": [
+      "rarefactional pressure and frequency",
+      "compression pressure and frequency",
+      "temperature and exposure time",
+      "SPTA intensity and spatial pulse length"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What information should be provided to a patient when undergoing a study for the purpose of research or training?",
+    "choices": [
+      "the anticipated exposure conditions and how these compare to normal diagnostic procedures",
+      "the duration of the exam",
+      "the research study's goal",
+      "bioeffects associated with the technique"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False? The transducer exposes a patient to the greatest risk.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  }
+]
