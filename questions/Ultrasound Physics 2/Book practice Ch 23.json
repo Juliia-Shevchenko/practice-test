@@ -1,0 +1,175 @@
+[
+  {
+    "prompt": "Which of the following provides the basis for informed consent?",
+    "choices": [
+      "notice",
+      "a contract",
+      "autonomy",
+      "beneficence"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following terms is defined by avoidance of unnecessary risk, harm, or needless injury?",
+    "choices": [
+      "nonmaleficence",
+      "beneficence",
+      "justice",
+      "autonomy"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following terms describes the value that the actions of health care providers should benefit the patient?",
+    "choices": [
+      "nonmaleficence",
+      "beneficence",
+      "justice",
+      "autonomy"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which one of these terms is not associated with informed consent?",
+    "choices": [
+      "describing reasonable alternatives",
+      "the patient's acceptance",
+      "evaluation of the patient's understanding",
+      "justice"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "When can a patient revoke consent?",
+    "choices": [
+      "prior to the start of the procedure",
+      "four hours prior to the procedure",
+      "at any time, even during the procedure",
+      "never"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Following the revocation of consent, when should a sonographer terminate the exam?",
+    "choices": [
+      "immediately",
+      "after all of the diagnostic information is obtained",
+      "after the physician is notified",
+      "at the first opportunity when it is safe"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False. A patient only communicates in a foreign language. It is acceptable to speak to a bilingual family member and obtain consent from the relative.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "True or False. A patient only communicates in a foreign language. It is acceptable to have a bilingual family member serve as an interpreter, speak to the patient, and obtain consent from the patient.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following is least likely to make a patient experience a loss of dignity?",
+    "choices": [
+      "advanced age",
+      "sickness",
+      "lack of privacy",
+      "sedation"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False. A sonographer with advanced practitioner status can provide her impression of a study to the patient.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following is the best and most appropriate action of a sonographer?",
+    "choices": [
+      "hand washing before an exam",
+      "hand washing after an exam",
+      "hand washing before and after an exam",
+      "using sterile technique during an exam"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "What is the first action of sonographers upon entering a patient's room?",
+    "choices": [
+      "introduce themselves to the patient",
+      "plug in the ultrasound system",
+      "check the patient's wristband",
+      "wash their hands"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "A patient arrives at the ultrasound department. The patient does not have a wristband and is sedated. What should the sonographer do?",
+    "choices": [
+      "call the nurse",
+      "perform the study",
+      "cancel the study",
+      "reschedule the study"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "True or False. Informed consent must always be obtained from the patient.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What is the study of the relationship between a worker and her environment called?",
+    "choices": [
+      "pathology",
+      "psychology",
+      "ergonomics",
+      "best practices"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Guidelines to minimize the risk of health care workers contracting bloodborne infection have been developed. What are these guidelines called?",
+    "choices": [
+      "OSHA guidelines",
+      "standard precautions",
+      "beneficence",
+      "best practices"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "What percentage of sonographers are thought to experience musculoskeletal pain related to work?",
+    "choices": [
+      "20%",
+      "40%",
+      "60%",
+      "80%"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following can reduce workplace injuries except ________.",
+    "choices": [
+      "patient scheduling",
+      "proper use of equipment",
+      "educational programming",
+      "patient positioning",
+      "none of the above"
+    ],
+    "answer": 4
+  }
+]
