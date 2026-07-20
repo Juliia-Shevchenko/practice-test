@@ -1,0 +1,139 @@
+[
+  {
+    "prompt": "When creating an ultrasound image, all of the following assumptions are made except.",
+    "choices": [
+      "Sound travels in a straight line.",
+      "Sound travels at 1.54 km/s.",
+      "The sound beam is extremely thin.",
+      "All structures create reflections of equal magnitude."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which statement regarding axial resolution is incorrect?",
+    "choices": [
+      "Axial resolution artifact is related to beam diameter.",
+      "Higher quality images are associated with smaller numbers.",
+      "Axial resolution may be reported in units of meters.",
+      "Numerically, axial resolution equals one-half the pulse length.",
+      "Too few reflectors appear on the image."
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "An ultrasound pulse has a width of 4 mm, a length of 2 mm, and is produced by a transducer 3,000 times per second. What is the best estimate of the system’s axial resolution?",
+    "choices": [
+      "4 mm",
+      "2 mm",
+      "1 mm",
+      "1,500 Hz"
+    ],
+    "answer": 2
+  },
+  {
+    "prompt": "Which of the following statements is true about lateral resolution?",
+    "choices": [
+      "It is also called angular, transverse, and depth resolution.",
+      "It is reported in units of time.",
+      "It is the same at all depths.",
+      "It can be improved by focusing."
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "All of the following artifacts result in the placement of too many echoes on the image except:",
+    "choices": [
+      "shadowing",
+      "reverberation",
+      "mirror image",
+      "grating lobes"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which of the following determines the spatial resolution of a display?",
+    "choices": [
+      "number of pixels",
+      "number of lines on the display",
+      "number of bits per pixel",
+      "spatial pulse length"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Which of the following determines the spatial resolution of a digital display?",
+    "choices": [
+      "pixel density",
+      "number of lines on the display",
+      "number of bits per pixel",
+      "spatial pulse length"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which artifact produces an image with an incorrect number of reflectors?",
+    "choices": [
+      "propagation speed error",
+      "multipath",
+      "enhancement",
+      "side lobes"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False. Mirror image artifacts always appear deeper than the true anatomy.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Which artifact is unrelated to the dimensions of an ultrasound pulse?",
+    "choices": [
+      "lateral resolution",
+      "depth resolution",
+      "slice thickness",
+      "refraction"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "True or False. It is common to visualize artifacts when the dimension of the sound beam is larger than the reflector’s dimension.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "prompt": "Two reflections, one true and one artifact, are displayed on an ultrasound image. In the body, only one anatomic structure is present. The correct reflection and the artifact are found side by side. What is the most likely cause of this artifact?",
+    "choices": [
+      "mirror image",
+      "grating lobe",
+      "enhancement",
+      "multipath"
+    ],
+    "answer": 1
+  },
+  {
+    "prompt": "Two distinct reflections are observed on an image, but they actually arise from a single anatomic structure. The artifact is positioned deeper than the correct reflection. What is the most likely cause of this artifact?",
+    "choices": [
+      "grating lobe",
+      "side lobe",
+      "refraction",
+      "mirror image"
+    ],
+    "answer": 3
+  },
+  {
+    "prompt": "Which one of these artifacts does not result from multiple reflections?",
+    "choices": [
+      "comet tail",
+      "reverberations",
+      "ring down",
+      "enhancement"
+    ],
+    "answer": 3
+  }
+]
