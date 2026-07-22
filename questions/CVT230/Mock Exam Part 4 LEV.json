@@ -202,7 +202,7 @@
       "Inferior vena cava",
       "Popliteal vein"
     ],
-    "answer": 6
+    "answer": 7
   },
   {
     "prompt": "Figure 5–56: Identify structure 22.",
@@ -217,7 +217,7 @@
       "Inferior vena cava",
       "Popliteal vein"
     ],
-    "answer": 1
+    "answer": 6
   },
   {
     "prompt": "Figure 5–56: Identify structure 23.",
@@ -232,7 +232,7 @@
       "Inferior vena cava",
       "Popliteal vein"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "prompt": "Figure 5–56: Identify structure 24.",
@@ -247,7 +247,7 @@
       "Inferior vena cava",
       "Popliteal vein"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "prompt": "Figure 5–56: Identify structure 25.",
@@ -262,7 +262,7 @@
       "Inferior vena cava",
       "Popliteal vein"
     ],
-    "answer": 4
+    "answer": 2
   },
   {
     "prompt": "Figure 5–56: Identify structure 26.",
@@ -277,7 +277,7 @@
       "Inferior vena cava",
       "Popliteal vein"
     ],
-    "answer": 5
+    "answer": 3
   },
   {
     "prompt": "Figure 5–56: Identify structure 27.",
@@ -292,7 +292,7 @@
       "Inferior vena cava",
       "Popliteal vein"
     ],
-    "answer": 0
+    "answer": 4
   },
   {
     "prompt": "Figure 5–56: Identify structure 28.",
@@ -318,16 +318,6 @@
       "Dilated vein"
     ],
     "answer": 3
-  },
-  {
-    "prompt": "While scanning a patient's upper extremity veins you obtain a phasic spectral Doppler waveform within the right subclavian vein and a pulsatile spectral Doppler waveform within the left subclavian vein. What does this suggest?",
-    "choices": [
-      "An obstruction proximal to the left subclavian vein",
-      "An obstruction proximal to the right subclavian vein",
-      "An obstruction distal to the left subclavian vein",
-      "An obstruction distal to the right subclavian vein"
-    ],
-    "answer": 0
   },
   {
     "prompt": "Tailed thrombus with motion seen on duplex is a finding consistent with:",
@@ -551,17 +541,6 @@
     "answer": 2
   },
   {
-    "prompt": "The waveform in Figure 5–60 is a normal waveform for which vessel?",
-    "image": "images/Vascular/Part 4 FIGURE 5–60.jpg",
-    "choices": [
-      "Common femoral vein",
-      "Brachial vein",
-      "Popliteal vein",
-      "Brachiocephalic vein"
-    ],
-    "answer": 3
-  },
-  {
     "prompt": "The image in Figure 5–61 of the midthigh represents which of the following?",
     "image": "images/Vascular/Part 4 FIGURE 5–61.jpg",
     "choices": [
@@ -664,28 +643,6 @@
     "answer": 2
   },
   {
-    "prompt": "Figure 5–63 of the subclavian vein most likely represents:",
-    "image": "images/Vascular/Part 4 FIGURE 5–63.jpg",
-    "choices": [
-      "Attenuation artifact",
-      "Inactive valve",
-      "Venous dissection",
-      "Nonocclusive thrombosis"
-    ],
-    "answer": 3
-  },
-  {
-    "prompt": "The image in Figure 5–64 of the mid neck represents which of the following?",
-    "image": "images/Vascular/Part 4 FIGURE 5–64.jpg",
-    "choices": [
-      "Acute deep vein thrombosis internal jugular vein",
-      "Chronic postthrombotic scarring internal jugular vein",
-      "Mirror artifact",
-      "Normal response to compression"
-    ],
-    "answer": 1
-  },
-  {
     "prompt": "The spectral Doppler venous waveform of the lower extremity in Figure 5–65 shows:",
     "image": "images/Vascular/Part 4 FIGURE 5–65.jpg",
     "choices": [
@@ -756,26 +713,6 @@
       "Abnormal flow from the deep to the superficial system"
     ],
     "answer": 3
-  },
-  {
-    "prompt": "Figure 5–67: Identify the brachial vein.",
-    "image": "images/Vascular/Part 4 FIGURE 5–67.jpg",
-    "choices": [
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Figure 5–67: Identify the basilic vein.",
-    "image": "images/Vascular/Part 4 FIGURE 5–67.jpg",
-    "choices": [
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": 0
   },
   {
     "prompt": "Figure 5–67: Identify the brachial nerve.",
@@ -941,16 +878,5 @@
       "Partial obstruction"
     ],
     "answer": 1
-  },
-  {
-    "prompt": "The vein in Figure 5–73 most likely represents:",
-    "image": "images/Vascular/Part 4 FIGURE 5–73.jpg",
-    "choices": [
-      "Popliteal vein",
-      "Brachial vein",
-      "Cephalic vein",
-      "Deep femoral vein"
-    ],
-    "answer": 2
   }
 ]
