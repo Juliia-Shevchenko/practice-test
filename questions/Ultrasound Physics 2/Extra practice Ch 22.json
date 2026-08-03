@@ -162,6 +162,7 @@
   },
   {
     "prompt": "What does letter A represent in the image?",
+    "image": "images/Physics/Ch22-Q17-22.jpg",
     "choices": [
       "Axial resolution",
       "Dead zone",
@@ -172,6 +173,7 @@
   },
   {
     "prompt": "What does letter D represent in the image?",
+    "image": "images/Physics/Ch22-Q17-22.jpg",
     "choices": [
       "Axial resolution",
       "Dead zone",
@@ -183,6 +185,7 @@
   },
   {
     "prompt": "What does letter B represent in the image?",
+    "image": "images/Physics/Ch22-Q17-22.jpg",
     "choices": [
       "Axial resolution",
       "Dead zone",
@@ -194,6 +197,7 @@
   },
   {
     "prompt": "What does letter E represent in the image?",
+    "image": "images/Physics/Ch22-Q17-22.jpg",
     "choices": [
       "Axial resolution",
       "Dead zone",
